@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-16T07:34:48+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Storm, Earth &amp;amp; Lava</title><subtitle>Guides for Elemental Shamans of World of Warcraft</subtitle><entry><title type="html">Commenting Legendaries</title><link href="http://localhost:4000/blog/2020/07/18/commenting-legendaries.html" rel="alternate" type="text/html" title="Commenting Legendaries" /><published>2020-07-18T09:00:00+11:00</published><updated>2020-07-18T09:00:00+11:00</updated><id>http://localhost:4000/blog/2020/07/18/commenting-legendaries</id><content type="html" xml:base="http://localhost:4000/blog/2020/07/18/commenting-legendaries.html">&lt;p&gt;Greetings,
+this post will talk about legendary effects. As always my perspective is purely about PvE.&lt;/p&gt;
+
+&lt;h3 id=&quot;ancestral-reminder&quot;&gt;Ancestral Reminder&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Bloodlust or any similar effects last an additional 20.0 sec on you, and you gain an extra 10% Haste from any Bloodlust type effect.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Further empowering Bloodlust, especially extending its already long duration without us having any other tool to capitalize on this gain feels wrong. I’m sure this legendary will perform well. In any situation, unless you use Bloodlust 40 seconds before the kill. Which is going to happen on quite a few fights to get through the final phase. And your raid won’t plan around a shaman with this effect, probably wasting its effectiveness. A 60 second burst “window” is no longer a window, but a whole phase. I’m not thrilled to use it by any means, even though it’ll probably be solid.&lt;/p&gt;
+
+&lt;h3 id=&quot;chains-of-devastation&quot;&gt;Chains of Devastation&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Casting Chain Heal makes your next Chain Lightning instant cast. Casting Chain Lightning makes your next Chain Heal instant cast.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This legendary, while working for all three specs, seems to be the ultimate hybrid. And I mean ultimate in its most positive and negative connotation. It’s the most positive incarnation because it makes me use and combine a healing spell to directly affect and empower a damaging one and vice versa. It’s the most negative incornation because it doesn’t provide enough benefit for the buck. Especially by being locked into AoE. It’s a throughput loss for healing. It’s a throughput loss for damage. It’s not an option for single target. Thus, it’s not an option.&lt;/p&gt;
+
+&lt;h3 id=&quot;deeply-rooted-elements&quot;&gt;Deeply Rooted Elements&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Casting Lava Burst has a 5% chance to activate Ascendance for 6.0 sec.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Using this legendary makes me want to have Echo of the Elements baseline. This way I can capitalize on the Ascendance proc and thus the free Lava Bursts even more. Creating a small but feeling great feedback loop. What’s not so nice is, that Lava Burst has no interaction with Fulmination and Seismic Thunder. So the better you use this legendary the less you interact with the other part of your spells. But the split between these spell groups is not the fault of this legendary.&lt;/p&gt;
+
+&lt;p&gt;While probably obvious I still feel the need to state this: any effect that empowers Lightning Bolt and Fulmination essentially weakens this legendary. I don’t like this thought.&lt;/p&gt;
+
+&lt;p&gt;This effect has quite a few bugs.&lt;/p&gt;
+
+&lt;h3 id=&quot;deeptremor-stone&quot;&gt;Deeptremor Stone&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Earth Elemental has a permanent Earthquake attached to it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’m not able to express how vexing this effect is to me. Adding damage to our auto-AoE-taunting elemental will compel players (especially if this effect sims well) to use the elemental on CD. Regardless of the state of the pull, plan, pug. This WILL throw shade on the whole class. Unless Earth Elemental will no longer grab agro, but this would remove a tool for…style?&lt;/p&gt;
+
+&lt;h3 id=&quot;echoes-of-great-sundering&quot;&gt;Echoes of Great Sundering&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;When you consume 6 or more stacks of Fulmination with Earth Shock, your next Earthquake will be instant cast and deal 6% additional damage.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A 6 Fulmination effect. We have 3 of those now. The actual effect of letting me cast the otherwise AoE spender is welcomed return. Sadly this legendary is a pure single target effect. I’d love to see it work in reverse as well. Or… well… if Earthquake would just consume Fulmination and Seismic Thunder is removed. But I’m diverting from my goal of trying to not suggest anything and only providing feedback.&lt;/p&gt;
+
+&lt;h3 id=&quot;elemental-equilibrium&quot;&gt;Elemental Equilibrium&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Dealing direct Fire damage increases the damage of your next Frost spell by 30%. Dealing Frost damage increases the damage of your next Nature spell by 25%. Dealing Nature damage increases the damage of your next Fire spell by 20%.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A weird one. Why weird? Because Frost is not part of our usual spells unless you chose Icefury. On the other hand, I’ve heard Enhancers use all spell schools equally…? So this legendary either ignored this or it tries to push Frost Shock into the priority list. What would the later mean? At least it would reduce the number of Fulmination generation per minute if you want to spend your Fire spell triggered buffs. It would reduce the generation of Fulmination even further if you want/need to empower all Lightning Bolts. Therefore to me this effect seems weird to me. Of course there is always the “ignore it” option. But…that would be quite the pity.&lt;/p&gt;
+
+&lt;p&gt;Earthquake is not affected by it at all.&lt;/p&gt;
+
+&lt;p&gt;This effect has quite a few bugs.&lt;/p&gt;
+
+&lt;h3 id=&quot;skybreakers-fiery-demise&quot;&gt;Skybreaker’s Fiery Demise&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Flame Shock damage over time critical strikes reduce the cooldown of Storm Elemental / Fire Elemental by 1.0 sec, and Flame Shock has a 30% increased critical strike chance.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This one will be a very solid buff to Flame Shock. I don’t expect the elemental cooldown reduction to be noticeable. Except for maybe m+. But you either pull around cooldowns anyway or you aren’t and then this reduction will be somewhat whatever. The immediat impact will be Flame Shock. Therefore it’ll affect single target and cleave.&lt;/p&gt;
+
+&lt;h3 id=&quot;windspeakers-lava-resurgence&quot;&gt;Windspeaker’s Lava Resurgence&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;When you consume 6 or more stacks of Fulmination with Earth Shock, gain Lava Surge and increase the damage of your next Lava Burst by 6%.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A 6 Fulmination effect. We have 3 of those now. I welcome an effect that allows a direct pointer from the secondary spells to our primary one. I’m just not sure if this will be impactful enough. Considering that Fulmination is only generated on pure single target this legendary is pretty limited, too.&lt;/p&gt;
+
+&lt;p&gt;Looks like we don’t have an AoE option. And no…the Earth Elemental is not one, because it would pull threat for sure.&lt;/p&gt;
+
+&lt;p&gt;Next stop: conduits. Hint: Empowering Lightning Bolt and Fulmination spenders is a reduction to the impact of Lava Burst.&lt;/p&gt;
+
+&lt;p&gt;Yours sincerely,
+Bloodmallet(EU)&lt;/p&gt;</content><author><name>Bloodmallet(EU)</name></author><category term="blog" /><summary type="html">Greetings, this post will talk about legendary effects. As always my perspective is purely about PvE.</summary></entry><entry><title type="html">Datamined Legendary Effects</title><link href="http://localhost:4000/blog/2020/07/02/datamined-legendaries.html" rel="alternate" type="text/html" title="Datamined Legendary Effects" /><published>2020-07-02T06:00:00+11:00</published><updated>2020-07-02T06:00:00+11:00</updated><id>http://localhost:4000/blog/2020/07/02/datamined-legendaries</id><content type="html" xml:base="http://localhost:4000/blog/2020/07/02/datamined-legendaries.html">&lt;p&gt;Greetings,&lt;/p&gt;
+
+&lt;p&gt;our first few legendary effects were datamined. As always, nothing is
+set in stone, but seeing them bundled up at one place might be nice.&lt;/p&gt;
+
+&lt;h3 id=&quot;ancestral-reminder&quot;&gt;Ancestral Reminder&lt;/h3&gt;
+&lt;p&gt;Bloodlust or any similar effects last an additional 20.0 sec on you, and you gain an extra 10% Haste from any Bloodlust type effect.&lt;/p&gt;
+
+&lt;h3 id=&quot;chains-of-devastation&quot;&gt;Chains of Devastation&lt;/h3&gt;
+&lt;p&gt;Casting Chain Heal makes your next Chain Lightning instant cast. Casting Chain Lightning makes your next Chain Heal instant cast.&lt;/p&gt;
+
+&lt;h3 id=&quot;deeply-rooted-elements&quot;&gt;Deeply Rooted Elements&lt;/h3&gt;
+&lt;p&gt;Casting Lava Burst has a 5% chance to activate Ascendance for 6.0 sec.&lt;/p&gt;
+
+&lt;h3 id=&quot;deeptremor-stone&quot;&gt;Deeptremor Stone&lt;/h3&gt;
+&lt;p&gt;Earth Elemental has a permanent Earthquake attached to it.&lt;/p&gt;
+
+&lt;h3 id=&quot;echoes-of-great-sundering&quot;&gt;Echoes of Great Sundering&lt;/h3&gt;
+&lt;p&gt;When you consume 6 or more stacks of Fulmination with Earth Shock, your next Earthquake will be instant cast and deal 6% additional damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;elemental-equilibrium&quot;&gt;Elemental Equilibrium&lt;/h3&gt;
+&lt;p&gt;Dealing direct Fire damage increases the damage of your next Frost spell by 30%. Dealing Frost damage increases the damage of your next Nature spell by 25%. Dealing Nature damage increases the damage of your next Fire spell by 20%.&lt;/p&gt;
+
+&lt;h3 id=&quot;skybreakers-fiery-demise&quot;&gt;Skybreaker’s Fiery Demise&lt;/h3&gt;
+&lt;p&gt;Flame Shock damage over time critical strikes reduce the cooldown of Storm Elemental / Fire Elemental by 1.0 sec, and Flame Shock has a 30% increased critical strike chance.&lt;/p&gt;
+
+&lt;h3 id=&quot;windspeakers-lava-resurgence&quot;&gt;Windspeaker’s Lava Resurgence&lt;/h3&gt;
+&lt;p&gt;When you consume 6 or more stacks of Fulmination with Earth Shock, gain Lava Surge and increase the damage of your next Lava Burst by 6%.&lt;/p&gt;
+
+&lt;p&gt;Found more? Let me know&lt;/p&gt;
+
+&lt;p&gt;Yours sincerely,&lt;br /&gt;
+Bloodmallet(EU)&lt;/p&gt;</content><author><name>Bloodmallet(EU)</name></author><category term="blog" /><summary type="html">List of datamined legendary effects</summary></entry><entry><title type="html">Times change, or do they?</title><link href="http://localhost:4000/blog/2020/06/13/times-change-or-do-they.html" rel="alternate" type="text/html" title="Times change, or do they?" /><published>2020-06-13T17:00:00+11:00</published><updated>2020-06-13T17:00:00+11:00</updated><id>http://localhost:4000/blog/2020/06/13/times-change-or-do-they</id><content type="html" xml:base="http://localhost:4000/blog/2020/06/13/times-change-or-do-they.html">&lt;p&gt;Greetings,&lt;/p&gt;
+
+&lt;p&gt;after the post and release of
+&lt;a href=&quot;https://us.forums.blizzard.com/en/wow/t/feedback-shaman-class-changes/490695/101&quot;&gt;these&lt;/a&gt;
+changes, I think it’s time to describe my experience with it. I spent several hours yesterday
+reaffirming bugs and combining talents to hopefully find an enjoyable gameplay loop that. For
+several reasons, I didn’t.&lt;/p&gt;
+
+&lt;h2 id=&quot;core&quot;&gt;Core&lt;/h2&gt;
+
+&lt;p&gt;Our basic damaging spells form three distinct non-interacting spell groups. As described
+non-interacting means that neither of the groups cares about how well you perform at the others
+nor do they support other spell groups to create something bigger.&lt;/p&gt;
+
+&lt;p&gt;The distinct spell groups are&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Flame Shock, Lava Burst, Fire Elemental (Lava Surge)&lt;/li&gt;
+  &lt;li&gt;Lightning Bolt, Earth Shock (Fulmination)&lt;/li&gt;
+  &lt;li&gt;Chain Lightning, Earthquake (Seismic Thunder).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In parenthesis you find the proc of that spell group.&lt;/p&gt;
+
+&lt;p&gt;As described
+&lt;a href=&quot;https://worldofwarcraft.com/en-us/news/23310980/shadowlands-class-updates#item10&quot;&gt;here&lt;/a&gt; our
+intended focus should be Flame Shock with Lava Burst.&lt;/p&gt;
+
+&lt;quote&gt;
+But we want the focus of the rotation to be about managing your Flame Shock debuff on multiple targets to maximize the potential of Lava Burst through Lava Surge procs. Lightning Bolt, and consequently Earth Shock, are meant to be a flavorful but secondary part of the single-target rotation. As such, we are returning to a design that relies on building stacks of Fulmination to determine when to insert Earth Shock into the rotation. Similarly, Chain Lightning and stacks of Seismic Thunder will serve to enable Earthquake.
+&lt;/quote&gt;
+
+&lt;p&gt;The decoupling of the spell groups created a feeling for me, that regardless of which spell
+group I was focusing, I felt like neglecting the others and thus making a mistake. Let me try to describe this better:&lt;/p&gt;
+
+&lt;p&gt;Single target:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;I can’t really focus on Lava Burst and Flame Shock, because with only one target present keeping
+up Flame Shock and using Lava Burst when available is a no-brainer.&lt;/li&gt;
+  &lt;li&gt;On the other hand I could focus on Lightning Bolt instead, not cast Flame Shock and Lava Burst to
+get more Fulminations and thus planable (worthwhile) movement GCDs earlier.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sprinkled in additional targets:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The more Flame Shocks I have active, the more Lava Bursts I can cast. Of course this means, that
+at the same time I won’t be able to cast Earthquake, because there is no time to cast Chain
+Lightning. Granted, at some point I’ll get some Earthquake out, but it’s a noticeable downgrade in
+Earthquake pace.&lt;/li&gt;
+  &lt;li&gt;On the other hand if the focus should be Chain Lightning and Earthquake, we drop Flame Shock and Lava Burst completely.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Heavy AoE:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chain Lightning and Earthquake. This is not even a question, right?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The removal of Chain Lightning generating Fulmination is a noticeable punch to our ability to
+funnel (deal increased single target damage due to the presence of additional targets). We weren’t
+excelling at this niche, but it was a great feature.&lt;/p&gt;
+
+&lt;p&gt;In the “Sprinkled in additional targets” both spell groups feel like they are at odds with each
+other. While the class update post wants us to focus on Flame Shock and Lava Burst, the question which
+is used will be a math question, and even with the most obvious tuning, this is not an intuitive
+choice (which it could be if mechanics would exist that point into a specific direction).&lt;/p&gt;
+
+&lt;p&gt;On a brighter node: I like that Flame Elemental once again has a Flame Shock interaction.&lt;/p&gt;
+
+&lt;p&gt;What do I hope for? I’d like some supportive interaction from our secondary spell groups to
+Flame Shock and Lava Burst. So that if I’m able to do well with those, my primary spells become
+even better. Something that would make me want to keep track of multiple Flame Shocks and would
+make me want to cast as many Lava Bursts as possible.&lt;/p&gt;
+
+&lt;h2 id=&quot;talents&quot;&gt;Talents&lt;/h2&gt;
+
+&lt;p&gt;Oh boy.&lt;/p&gt;
+
+&lt;p&gt;The following table shows boiled down which talents support which spell group.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;F: Flame Shock and Lava Burst&lt;/li&gt;
+  &lt;li&gt;L: Lightning Bolt and Earth Shock&lt;/li&gt;
+  &lt;li&gt;C: Chain Lightning and Earthquake&lt;/li&gt;
+  &lt;li&gt;+: supports&lt;/li&gt;
+  &lt;li&gt;-: restrains&lt;/li&gt;
+  &lt;li&gt;(…): minorly affected&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Level&lt;/th&gt;
+      &lt;th&gt;Left&lt;/th&gt;
+      &lt;th&gt;Middle&lt;/th&gt;
+      &lt;th&gt;Right&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;Earthen Rage&lt;br /&gt;None&lt;/td&gt;
+      &lt;td&gt;Echo of the Elements&lt;br /&gt;+F, -L, -C&lt;/td&gt;
+      &lt;td&gt;Elemental Blast&lt;br /&gt;(-L)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;25&lt;/td&gt;
+      &lt;td&gt;Aftershock&lt;br /&gt;+L, +C&lt;/td&gt;
+      &lt;td&gt;Echoing Shock&lt;br /&gt;bugged, see below&lt;/td&gt;
+      &lt;td&gt;Totem Mastery&lt;br /&gt;None&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;Spirit Wolf&lt;br /&gt;None&lt;/td&gt;
+      &lt;td&gt;Earth Shield&lt;br /&gt;None&lt;/td&gt;
+      &lt;td&gt;Static Charge&lt;br /&gt;None&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;35&lt;/td&gt;
+      &lt;td&gt;Master of the Elements&lt;br /&gt;+C&lt;/td&gt;
+      &lt;td&gt;Storm Elemental&lt;br /&gt;+L, +C&lt;/td&gt;
+      &lt;td&gt;Liquid Magma Totem&lt;br /&gt;None&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;40&lt;/td&gt;
+      &lt;td&gt;Nature’s Guardian&lt;br /&gt;None&lt;/td&gt;
+      &lt;td&gt;Ancestral Guidance&lt;br /&gt;None&lt;/td&gt;
+      &lt;td&gt;Wind Rush Totem&lt;br /&gt;None&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;45&lt;/td&gt;
+      &lt;td&gt;Surge of Power&lt;br /&gt;+L, -C&lt;/td&gt;
+      &lt;td&gt;Primal Elementalist&lt;br /&gt;None&lt;/td&gt;
+      &lt;td&gt;Icefury&lt;br /&gt;-L, Introduces another spell group&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;50&lt;/td&gt;
+      &lt;td&gt;Unlimited Power&lt;br /&gt;None&lt;/td&gt;
+      &lt;td&gt;Stormkeeper&lt;br /&gt;+L, +C&lt;/td&gt;
+      &lt;td&gt;Ascendance&lt;br /&gt;+F, -L, (+C)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Looks like our talent tree leans into empowering our secondary spell groups or not interacting
+with any group.&lt;/p&gt;
+
+&lt;p&gt;Special remarks:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Echoing Shock does not echo Fulmination.&lt;/li&gt;
+  &lt;li&gt;Echoing Shock does not echo Seismic Thunder empowered Earthquake but only echoes an unempowered
+one at the same location.&lt;/li&gt;
+  &lt;li&gt;Echoing Shock does not echo Lava Burst at all.&lt;/li&gt;
+  &lt;li&gt;Echoing Shock with Elemental Blast can grant all three different buffs, if you’re lucky.
+(Elemental Blast Overloads always roll a different effect than their primary cast, but the echoed
+Elemental Blast does not care about what you already have, which can overwrite what you already
+have)&lt;/li&gt;
+  &lt;li&gt;Echoing Shock does echo Stormkeeper empowered Lightning Bolts (if you echo the first Lightning
+Bolt), which increases the power of Stormkeeper at single targets by 50%.&lt;/li&gt;
+  &lt;li&gt;Echoing Shock does echo Icefury and grants fresh stacks, which allows to cast 5 empowered Frost
+Shocks.&lt;/li&gt;
+  &lt;li&gt;Master of the Elements supports only Earthquake noticeably, because it’s single target counter
+part has a Fulmination as a separate damage event, which is not empowered by this talent. But at
+the same time casting Lava Burst does not generate Seismic Thunder, making you trade more
+Earthquakes for stronger ones.&lt;/li&gt;
+  &lt;li&gt;Surge of Power is a very special child. Its Lightning Bolt effect feels almost like a
+positive feedback loop. And any time Lava Burst becomes ready you have to decide what’s of
+higher value to you: this feedback loop or keeping Lava Burst on cooldown? Or with different
+wording: Lava Burst regularly prevents the positive feedback loop within Surge of Power.&lt;/li&gt;
+  &lt;li&gt;Surge of Power Lava Burst effect is as always pretty difficult to get a feeling for.&lt;/li&gt;
+  &lt;li&gt;Surge of Power Flame Shock effect feels like mockery. If I have multiple targets available Surge
+of Power forces me to essentially not do any AoE at all and instead keep casting Lightning Bolts
+to generate Fulminations to spread Flame Shocks, so that I can cast as many Lava Bursts as
+possible, which in itself prevents me from casting Lightning Bolt, thus generating Fulmination for
+the next Surge of Power, what is detrimental to my active Flame Shock count. In this situation
+this whole talent feels a giant cement block at my feet. And I need to swim. Just to be clear
+here: Surge of Power has two issues with the Flame Shock effect:
+    &lt;ol&gt;
+      &lt;li&gt;Successfully spreading Flame Shock reduces the frequency of castable Lightning Bolts thus
+  reduces the power of this talent.&lt;/li&gt;
+      &lt;li&gt;Wanting to use Surge of Power removes Chain Lightning and Earthquake completely.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Surge of Power in combination with Elemental Blast is quite the wasteful experience. You either
+waste Fulmination by overcapping or you waste Fulmination because you have to spend non-6+ stacks
+to keep Elemental Blast on cooldown.&lt;/li&gt;
+  &lt;li&gt;Icefury adds yet another decoupled spell group. Neither Icefury nor Frost Shock care about any
+other casts.&lt;/li&gt;
+  &lt;li&gt;Ascendance does not support or empower Lava Burst in general. It creates a timeframe during that
+you only cast that one spell and casting anything else is a mistake.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I created some slides some time ago about our spell interactions. They are updated for these changes.
+&lt;a href=&quot;https://docs.google.com/presentation/d/1Bwx87rj44dEZmSeHEOqQhP6TkjQLCBTCgmFkpjr4e2s/edit?usp=sharing&quot;&gt;Google Slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Looking at the core mechanics and talents our communicated secondary spell groups feel like the
+actual focus and Flame Shock and Lava Burst exist to be kept on cooldown.&lt;/p&gt;
+
+&lt;p&gt;Only when taking Echo of the Elements the spec starts to feel like one could or want to actively
+play around Lava Burst.&lt;/p&gt;
+
+&lt;p&gt;This feedback post is all over the place. If you let me know about specific topics, I could
+provide more targeted feedback next time. I have some suggestions too, if they would be
+appreciated.&lt;/p&gt;
+
+&lt;p&gt;Yours sincerely,&lt;br /&gt;
+Bloodmallet(EU)&lt;/p&gt;</content><author><name>Bloodmallet(EU)</name></author><category term="blog" /><summary type="html">A feedback post</summary></entry><entry><title type="html">Shadowlands access</title><link href="http://localhost:4000/blog/2020/04/25/access-granted.html" rel="alternate" type="text/html" title="Shadowlands access" /><published>2020-04-25T23:00:00+11:00</published><updated>2020-04-25T23:00:00+11:00</updated><id>http://localhost:4000/blog/2020/04/25/access-granted</id><content type="html" xml:base="http://localhost:4000/blog/2020/04/25/access-granted.html">&lt;p&gt;Greetings,&lt;/p&gt;
+
+&lt;p&gt;another invite wave went out. Now Gistwiki and Bloodmallet(EU) from SE&amp;amp;L got access. This means, that SE&amp;amp;L is now able to provide first person impressions and better information than before. You can expect some more updates to existing pages for Shadowlands in the upcoming days. Let us know about your questions in discord. I’m looking forwards to hearing your feedback.&lt;/p&gt;
+
+&lt;p&gt;I’m working on getting near some target dummies to start testing stuff.&lt;/p&gt;
+
+&lt;p&gt;Yours sincerely,&lt;br /&gt;
+Bloodmallet(EU)&lt;/p&gt;</content><author><name>Bloodmallet(EU)</name></author><category term="blog" /><summary type="html">SE&amp;L got acces, thus updates will come</summary></entry><entry><title type="html">Datamining Torghast, Tower of the Damned</title><link href="http://localhost:4000/blog/2020/04/09/datamining-torghast.html" rel="alternate" type="text/html" title="Datamining Torghast, Tower of the Damned" /><published>2020-04-09T23:30:00+11:00</published><updated>2020-04-09T23:30:00+11:00</updated><id>http://localhost:4000/blog/2020/04/09/datamining-torghast</id><content type="html" xml:base="http://localhost:4000/blog/2020/04/09/datamining-torghast.html">&lt;p&gt;Greetings,&lt;/p&gt;
+
+&lt;p&gt;I know many are looking forward to the ongoing datamining, and so are we. Therefore we had a look araound and found some cool things for &lt;strong&gt;Torghast, Tower of the Damned&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you want to search yourself, you can do so &lt;a href=&quot;https://wow.tools/dbc/?dbc=spell&quot;&gt;here&lt;/a&gt;. wow.tools was used for spelldata in this post.&lt;/p&gt;
+
+&lt;p&gt;Disclaimer:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;everything shown here might not make it into the game&lt;/li&gt;
+  &lt;li&gt;everything shown here might not be from the maw but something else (PvP?)&lt;/li&gt;
+  &lt;li&gt;everything shown here might not even be for Elemental Shamans but a different spec, or even NPC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But now it’s time to dive in.&lt;/p&gt;
+
+&lt;h2 id=&quot;general-buffs-and-elementals&quot;&gt;General buffs and Elementals&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Spell ID&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298803&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Fire Elemental lasts indefinitely, but you cannot cast Frost spells. This will prevent you from casting Frost Shock, Elemental Blast, Icefury, and Water Walking.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298952&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Summoning your $?s192249[Storm Elemental][Fire Elemental] causes you to gain Ascendance for ${$s1/1000} sec.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;299391&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Increases the damage of your Flame Shock, Lava Burst, Lava Beam, and Fire Elemental by $s1%.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;299392&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Increases the damage of your Lightning Bolt, Chain Lightning, and Storm Elemental by $s1%.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;299393&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Increases the damage of your Earth Shock, Earthquake, and Earth Elemental by $s1%.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;lightning-bolt--chain-lightning&quot;&gt;Lightning Bolt + Chain Lightning&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Spell ID&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;299388&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Lightning Bolt, Chain Lightning, and their overloads cause your next Thunderstorm to deal $299389s1% increased damage, stacking up to $299389u times.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;chain-lightning&quot;&gt;Chain Lightning&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Spell ID&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298572&lt;/td&gt;
+      &lt;td&gt;Tectonic Storm&lt;/td&gt;
+      &lt;td&gt;Chain Lightning always causes an Elemental Overload against enemies standing in your Earthquake.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;earthquake&quot;&gt;Earthquake&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Spell ID&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298581&lt;/td&gt;
+      &lt;td&gt;Shake the Foundations&lt;/td&gt;
+      &lt;td&gt;Casting Earthquake automatically casts Chain Lightning at $m1 random $Lenemy:enemies; in the Earthquake.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298561&lt;/td&gt;
+      &lt;td&gt;Lingering Reverberations&lt;/td&gt;
+      &lt;td&gt;Earthquake lasts ${$s1/1000} sec longer.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298562&lt;/td&gt;
+      &lt;td&gt;Cracking Fissure&lt;/td&gt;
+      &lt;td&gt;Earthquake is $s1% larger.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298563&lt;/td&gt;
+      &lt;td&gt;Violent Tremors&lt;/td&gt;
+      &lt;td&gt;Earthquake’s damage is increased by $s1%, or by $s2% if it damages only one enemy.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298564&lt;/td&gt;
+      &lt;td&gt;Might of the Worldsplitter&lt;/td&gt;
+      &lt;td&gt;Whenever Earthquake knocks an enemy down, you generate $298568s1 Maelstrom.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298576&lt;/td&gt;
+      &lt;td&gt;Earthen Resonance&lt;/td&gt;
+      &lt;td&gt;Your Intellect is increased by $298578s1% for each Earthquake you have active.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298650&lt;/td&gt;
+      &lt;td&gt;Unstable Terrain&lt;/td&gt;
+      &lt;td&gt;Earthquake reduces enemies’ movement speed by $s1%.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298767&lt;/td&gt;
+      &lt;td&gt;Mountains Will Fall&lt;/td&gt;
+      &lt;td&gt;Your Mastery now affects Earthquake, allowing it to cause an Elemental Overload.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;299454&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Coalescences within the Maw have improved your Earthquake spell.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;totems&quot;&gt;Totems&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Spell ID&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298590&lt;/td&gt;
+      &lt;td&gt;Totemic Slam&lt;/td&gt;
+      &lt;td&gt;Whenever you summon a Totem, it causes an Earthquake at its location.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;fire-damage-fs-lvb-fe-eb&quot;&gt;Fire Damage (FS, LvB, FE, EB)&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Spell ID&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298891&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Fire damage dealt by you and your summons increases the damage the target takes from your Lava Burst by $298905s1%, stacking up to $298905u times.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;flame-shock&quot;&gt;Flame Shock&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Spell ID&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298685&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Casting Flame Shock also casts Frost Shock.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298907&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Flame Shock lasts forever.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;299419&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Anima Lance applies Flame Shock to enemies it strikes.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;lava-burst&quot;&gt;Lava Burst&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Spell ID&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298969&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Lava Burst knocks the target away from you.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298991&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Successfully Purging an enemy casts Lava Burst at them.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;earth-shock&quot;&gt;Earth Shock&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Spell ID&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298911&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Earth Shock grants you Lava Surge.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;frost-shock&quot;&gt;Frost Shock&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Spell ID&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298692&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Frost Shock reduces movement speed by an additional $s2%, and lasts ${$s1/1000} sec longer.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;astral-shift&quot;&gt;Astral Shift&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Spell ID&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298789&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Looting Phantasma reduces the remaining cooldown of Astral Shift by ${$s1/1000} sec per Phantasma.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;talents&quot;&gt;Talents&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This category was found by VT#0309 in Discord&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Spell ID&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298883&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;$?a137040[Gain the Earthen Rage talent.] If you already have this talent, you may select another talent in the same row.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298884&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;$?a137040[Gain the Aftershock talent.] If you already have this talent, you may select another talent in the same row.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298885&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;$?a137040[Gain the Master of the Elements talent.] If you already have this talent, you may select another talent in the same row.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298886&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;$?a137040[Gain the Surge of Power talent.] If you already have this talent, you may select another talent in the same row.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298887&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;$?a137040[Gain the Unlimited Power talent.] If you already have this talent, you may select another talent in the same row.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Disclaimer:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;everything shown here might not make it into the game&lt;/li&gt;
+  &lt;li&gt;everything shown here might not be from the maw but something else (PvP?)&lt;/li&gt;
+  &lt;li&gt;everything shown here might not even be for Elemental Shamans but a different spec, or even NPC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I hope you enjoyed this list. Remember, we totally expect these effect to remain within Torghast, Tower of the Damned.&lt;/p&gt;
+
+&lt;p&gt;Yours sincerely,&lt;br /&gt;
+Bloodmallet(EU)&lt;/p&gt;</content><author><name>Bloodmallet(EU)</name></author><category term="blog" /><summary type="html">Passives you have to choose from.</summary></entry><entry><title type="html">Shadowlands Alpha</title><link href="http://localhost:4000/blog/2020/04/08/shadowlands-alpha.html" rel="alternate" type="text/html" title="Shadowlands Alpha" /><published>2020-04-08T20:00:00+11:00</published><updated>2020-04-08T20:00:00+11:00</updated><id>http://localhost:4000/blog/2020/04/08/shadowlands-alpha</id><content type="html" xml:base="http://localhost:4000/blog/2020/04/08/shadowlands-alpha.html">&lt;p&gt;Greetings,&lt;/p&gt;
+
+&lt;p&gt;Just now the Shadowlands Alpha Client was pushed in an non-encrypted version. We can therefore expect datamining and hopefully someone will gain access to it, too. In any case, we’re looking forward to more information and would like to remind everyone to stay calm, read, wonder, think, and provide constructive feedback. Talk about your feelings, expectations, what and why you enjoy and dislike something. And do it in a calm manner.&lt;/p&gt;
+
+&lt;p&gt;I intend to introduce a new link in the top menu, that should keep track of the current state of Elemental Shamans in Shadowlands. Creating those pages will take some time, though. So please check back and especially read carefully and regularly, cause a lot is bound to change. The new area will consist of two things, first it’ll show the plain numbers, mechanics, and explain interactions. And secondly we might provide comments about those.&lt;/p&gt;
+
+&lt;p&gt;Even though I write “we”, I didn’t discuss this with the others, so there might be some changes to my spontaneous plans. Especially because I’m working on creating some cool and personalized stuff over at bloodmallet.com, too. So get ready and get hyped.&lt;/p&gt;
+
+&lt;p&gt;It’s happening.&lt;/p&gt;
+
+&lt;p&gt;Yours sincerely,&lt;br /&gt;
+Bloodmallet(EU)&lt;/p&gt;</content><author><name>Bloodmallet(EU)</name></author><category term="blog" /><summary type="html">It's happening</summary></entry><entry><title type="html">Vision of Perfection and Storm Elemental</title><link href="http://localhost:4000/blog/2020/02/08/vop-se-build.html" rel="alternate" type="text/html" title="Vision of Perfection and Storm Elemental" /><published>2020-02-08T20:00:00+11:00</published><updated>2020-02-08T20:00:00+11:00</updated><id>http://localhost:4000/blog/2020/02/08/vop-se-build</id><content type="html" xml:base="http://localhost:4000/blog/2020/02/08/vop-se-build.html">&lt;h1 id=&quot;elemental-shaman--visions-of-perfection--storm-elemental-build-aka-meme-spec&quot;&gt;Elemental Shaman – Visions of Perfection / Storm Elemental Build aka Meme-Spec&lt;/h1&gt;
+
+&lt;p&gt;Who am I? I’m &lt;a href=&quot;https://raider.io/characters/eu/sylvanas/Drayygo&quot;&gt;Drayygo&lt;/a&gt;, a Shaman main since WotLK and Elemental main since mid-Legion.&lt;/p&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Since patch 8.3 launched, many of you might have noticed, that &lt;a href=&quot;https://bfa.wowhead.com/item=168844&quot; target=&quot;blank&quot;&gt;Vision of Perfection&lt;/a&gt; (which got a 12% buff for its procc-rate) in combination with &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; and &lt;a href=&quot;https://bfa.wowhead.com/spell=117013&quot; target=&quot;blank&quot;&gt;Primal Elementalist&lt;/a&gt; started to out sim &lt;a href=&quot;https://bfa.wowhead.com/spell=210714&quot; target=&quot;blank&quot;&gt;Icefury&lt;/a&gt; / &lt;a href=&quot;https://bfa.wowhead.com/spell=16166&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Master of the Elements&lt;/a&gt;. Depending on your stat distribution and the available Azerite-gear / Essences, the difference between our “default” build and the meme-specc could be pretty high. For myself it was around 3k difference, thanks to the fact i already had 3 Azerite pieces with . In this post I want to show you the basics and how that build worked out for me so far.
+Of course I can only provide heroic logs for now, but I will update as soon as I have killed a fair amount of mythic bosses, to give you an idea, how that spec can perform in one of the hardest contents in this game. We are clearing mythic decent-ish fast, so it shouldn’t take too long until you can see the mythic performance.&lt;/p&gt;
+
+&lt;h2 id=&quot;talents&quot;&gt;Talents&lt;/h2&gt;
+
+&lt;p&gt;For me, the following talents sim highest:&lt;/p&gt;
+
+&lt;p&gt;I don’t recommend to copy-paste those talents, but to always &lt;a href=&quot;https://simyoself.com&quot;&gt;sim yourself&lt;/a&gt;. I also change the last row quite often, because on some bosses I value the mobility from &lt;a href=&quot;https://bfa.wowhead.com/spell=191634&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Stormkeeper&lt;/a&gt; higher than the higher SimDPS from &lt;a href=&quot;https://bfa.wowhead.com/spell=260895&quot; target=&quot;blank&quot;&gt;Unlimited Power&lt;/a&gt;. On others, like Maut, where the burst from &lt;a href=&quot;https://bfa.wowhead.com/spell=191634&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Stormkeeper&lt;/a&gt; is more likely to kill you, I choose the less bursty option and go &lt;a href=&quot;https://bfa.wowhead.com/spell=260895&quot; target=&quot;blank&quot;&gt;Unlimited Power&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;As I don’t run any  in my current setup, the first row is self explanatory – &lt;a href=&quot;https://bfa.wowhead.com/spell=170374&quot; target=&quot;blank&quot;&gt;Earthen Rage&lt;/a&gt; or &lt;a href=&quot;https://bfa.wowhead.com/spell=117014&quot; target=&quot;blank&quot;&gt;Elemental Blast&lt;/a&gt;, depending on your simulations. &lt;a href=&quot;https://bfa.wowhead.com/spell=117014&quot; target=&quot;blank&quot;&gt;Elemental Blast&lt;/a&gt; just recently pulled ahead and they are still very close for me, so it comes down to personal preference. For bosses with frequent addspawns like Hivemind I would choose &lt;a href=&quot;https://bfa.wowhead.com/spell=170374&quot; target=&quot;blank&quot;&gt;Earthen Rage&lt;/a&gt; over &lt;a href=&quot;https://bfa.wowhead.com/spell=117014&quot; target=&quot;blank&quot;&gt;Elemental Blast&lt;/a&gt; regardless, as you dont use &lt;a href=&quot;https://bfa.wowhead.com/spell=117014&quot; target=&quot;blank&quot;&gt;Elemental Blast&lt;/a&gt; if more than three targets are present.&lt;/li&gt;
+  &lt;li&gt;Second row, we have &lt;a href=&quot;https://bfa.wowhead.com/spell=210643&quot; target=&quot;blank&quot;&gt;Totem Mastery&lt;/a&gt; ahead by a huge margin, which makes sense as it gives you passive Maelstrom and increases the  of your #1 damage ability: &lt;a href=&quot;https://bfa.wowhead.com/spell=188196&quot; target=&quot;blank&quot;&gt;Lightning Bolt&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Third row is a very situational utility-row. All talents have their ups, but I mostly run &lt;a href=&quot;https://bfa.wowhead.com/spell=260878&quot; target=&quot;blank&quot;&gt;Spirit Wolf&lt;/a&gt; for the passive damage reduction, which can come in handy.&lt;/li&gt;
+  &lt;li&gt;In the fourth row I pick &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; obviously, because without it, the &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; build wouldn’t work, right?&lt;/li&gt;
+  &lt;li&gt;Fifth row is a tough one, in my opinion. We either have to sacrifice raid utility or a “defensive” cooldown. If the bossfight doesn’t need burst movement speed I go with &lt;a href=&quot;https://bfa.wowhead.com/spell=30884&quot; target=&quot;blank&quot;&gt;Nature’s Guardian&lt;/a&gt;, in fights like Wrathion I talent into &lt;a href=&quot;https://bfa.wowhead.com/spell=192077&quot; target=&quot;blank&quot;&gt;Wind Rush Totem&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Next row is again pretty obvious, with &lt;a href=&quot;https://bfa.wowhead.com/spell=117013&quot; target=&quot;blank&quot;&gt;Primal Elementalist&lt;/a&gt; we get access to a stronger version of our &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; and its on use effect. &lt;a href=&quot;https://ptr.wowhead.com/spell=262303/surge-of-power&quot; target=&quot;blank&quot;&gt;Surge of Power&lt;/a&gt; looks decent on paper, but we would lose out on &lt;a href=&quot;http://bfa.wowhead.com/spell=157375/eye-of-the-storm&quot; target=&quot;blank&quot;&gt;Eye of the Storm&lt;/a&gt;, which is the greatest source of damage during our &lt;a href=&quot;https://bfa.wowhead.com/item=168844&quot; target=&quot;blank&quot;&gt;Vision of Perfection&lt;/a&gt; procs. Therefore the go-to choice will be &lt;a href=&quot;https://bfa.wowhead.com/spell=117013&quot; target=&quot;blank&quot;&gt;Primal Elementalist&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Last row on the other hand is at least for now up for personal preference. When you want to have a bit more movement, which this meme-build honestly lacks, I’d go &lt;a href=&quot;https://bfa.wowhead.com/spell=191634&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Stormkeeper&lt;/a&gt;, if you don’t want burst but more consistent damage on fights like Maut, where burst can kill you, I’d go with &lt;a href=&quot;https://bfa.wowhead.com/spell=260895&quot; target=&quot;blank&quot;&gt;Unlimited Power&lt;/a&gt;. Without any  Traits and a strong emphasis on casting &lt;a href=&quot;https://bfa.wowhead.com/spell=188196&quot; target=&quot;blank&quot;&gt;Lightning Bolt&lt;/a&gt; &lt;a href=&quot;https://bfa.wowhead.com/spell=114050&quot; target=&quot;blank&quot;&gt;Ascendance&lt;/a&gt; is definitive no viable option. But, again, as always: SIM YOURSELF!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;gear&quot;&gt;Gear&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://bfa.wowhead.com/item=168844&quot; target=&quot;blank&quot;&gt;Vision of Perfection&lt;/a&gt;/&lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; build favors crit and haste the most. Versatility isn’t far behind either. Because this build scales so well with secondary stats, &lt;a href=&quot;https://bfa.wowhead.com/spell=117014&quot; target=&quot;blank&quot;&gt;Elemental Blast&lt;/a&gt; is a viable option. The most important Azerite Trait you can get is &lt;a href=&quot;https://bfa.wowhead.com/spell=278697&quot; target=&quot;blank&quot;&gt;Natural Harmony&lt;/a&gt;. Luckily for us, this is on every piece of Azerite in the new raid, Ny’alotha. &lt;a href=&quot;https://bfa.wowhead.com/spell=317137/&quot; target=&quot;blank&quot;&gt;Heart of Darkness&lt;/a&gt;, the raid-specific Azerite Trait is also pretty good for the same reason as &lt;a href=&quot;https://bfa.wowhead.com/spell=278697&quot; target=&quot;blank&quot;&gt;Natural Harmony&lt;/a&gt;. With the choosen talents  loses a lot of value because you won’t use &lt;a href=&quot;https://bfa.wowhead.com/spell=51505&quot; target=&quot;blank&quot;&gt;Lava Burst&lt;/a&gt; as often as in the &lt;a href=&quot;https://bfa.wowhead.com/spell=210714&quot; target=&quot;blank&quot;&gt;Icefury&lt;/a&gt;/&lt;a href=&quot;https://bfa.wowhead.com/spell=16166&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Master of the Elements&lt;/a&gt; build.
+In terms of trinkets there is a lot that can work, I was lucky enough to get a 455 Azshara’s Font of Power, which’s on use effect lines up pretty well with &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt;-CD and lasts for the entire duration (if you don’t get &lt;a href=&quot;https://bfa.wowhead.com/item=168844&quot; target=&quot;blank&quot;&gt;Vision of Perfection&lt;/a&gt; procs). The second trinket I use is Psyche Shredder which is basically BIS for (almost) every caster. As always, sim every trinket to figure out which is the best for your exact stats and gear.&lt;/p&gt;
+
+&lt;h2 id=&quot;essences&quot;&gt;Essences&lt;/h2&gt;
+
+&lt;p&gt;The only essence slot that is mandatory is the major, as this specific build requires you to have the &lt;a href=&quot;https://bfa.wowhead.com/item=168844&quot; target=&quot;blank&quot;&gt;Vision of Perfection&lt;/a&gt; Major essence. For minors the most common are &lt;a href=&quot;https://bfa.wowhead.com/item=168617&quot; target=&quot;blank&quot;&gt;Worldvein Resonance&lt;/a&gt; (for fights were you can achieve a high uptime on 4 stacks), , &lt;a href=&quot;https://bfa.wowhead.com/item=173282&quot; target=&quot;blank&quot;&gt;Breath of the Dying&lt;/a&gt; (especially due to the 10 corruption resistance), &lt;a href=&quot;https://bfa.wowhead.com/item=169900&quot; target=&quot;blank&quot;&gt;Conflict and Strife&lt;/a&gt;, &lt;a href=&quot;https://bfa.wowhead.com/item=168444&quot; target=&quot;blank&quot;&gt;Blood of the Enemy&lt;/a&gt; and &lt;a href=&quot;https://bfa.wowhead.com/item=168622&quot; target=&quot;blank&quot;&gt;Essence of the Focusing Iris&lt;/a&gt; or even Symbiotic Presence. I use all of them, swapping them out depending on the fight. For more AoE heavy fights like Hivemind I use &lt;a href=&quot;https://bfa.wowhead.com/item=168444&quot; target=&quot;blank&quot;&gt;Blood of the Enemy&lt;/a&gt; or Symbiotic Presence, while on more stacked fights like Shadhar or Maut I go with &lt;a href=&quot;https://bfa.wowhead.com/item=168617&quot; target=&quot;blank&quot;&gt;Worldvein Resonance&lt;/a&gt;. But, again – sim all the essences that are available to you and swap them accordingly.&lt;/p&gt;
+
+&lt;p&gt;I went to most fights with the following Essences:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bfa.wowhead.com/item=168844&quot; target=&quot;blank&quot;&gt;Vision of Perfection&lt;/a&gt; Major / &lt;a href=&quot;https://bfa.wowhead.com/item=169900&quot; target=&quot;blank&quot;&gt;Conflict and Strife&lt;/a&gt;, CoF and BotD Minor.&lt;/p&gt;
+
+&lt;p&gt;For fights where you can stack I switch CoF to &lt;a href=&quot;https://bfa.wowhead.com/item=168617&quot; target=&quot;blank&quot;&gt;Worldvein Resonance&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;consumables&quot;&gt;Consumables&lt;/h2&gt;
+
+&lt;p&gt;There are no real differences to the default build, you still want to use &lt;a href=&quot;https://bfa.wowhead.com/item=169299&quot; target=&quot;blank&quot;&gt;Potion of Unbridled Fury&lt;/a&gt; as combat potion, &lt;a href=&quot;https://bfa.wowhead.com/item=168652&quot; target=&quot;blank&quot;&gt;Greater Flask of Endless Fathoms&lt;/a&gt; and &lt;a href=&quot;https://bfa.wowhead.com/item=168310&quot; target=&quot;blank&quot;&gt;Mech-Dowel’s “Big Mech”&lt;/a&gt; as bufffood. If you can afford it or have saved up some Augment Runes, I’ll use them on any progress fight.&lt;/p&gt;
+
+&lt;h2 id=&quot;add-onsmacros&quot;&gt;Add-Ons/Macros&lt;/h2&gt;
+
+&lt;p&gt;While there are plenty of Add-Ons that can help or make the default UI more appealing, I don’t consider any of those mandatory except Weakauras and either Big Wigs (which i use) or DBM. One of the, at least for me, most important WAs specific for that build is the one, that shows a glowing icon when &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; has &lt;a href=&quot;http://bfa.wowhead.com/spell=157348/call-lightning&quot; target=&quot;blank&quot;&gt;Call Lightning&lt;/a&gt; Buff and you can press &lt;a href=&quot;http://bfa.wowhead.com/spell=157375/eye-of-the-storm&quot; target=&quot;blank&quot;&gt;Eye of the Storm&lt;/a&gt; safely.&lt;/p&gt;
+
+&lt;p&gt;For that you can use the one that @BloodmalletEU made: &lt;a href=&quot;https://wago.io/lV-p19t9u&quot;&gt;click me!&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;boss-by-boss-advice&quot;&gt;Boss by Boss Advice&lt;/h2&gt;
+
+&lt;p&gt;This isn’t meant to be a boss by boss guide, just some advice you may find useful.&lt;/p&gt;
+
+&lt;h3 id=&quot;wrathion&quot;&gt;Wrathion&lt;/h3&gt;
+&lt;p&gt;Nothing special here, just delay your &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; for the time the P2 has ended (and all spires are destroyed). Potential &lt;a href=&quot;https://bfa.wowhead.com/item=168844&quot; target=&quot;blank&quot;&gt;Vision of Perfection&lt;/a&gt; procs can destroy stacked spires, but it’s not worth using your cooldown for that. On Mythic it’s the same, Assassins die from passive cleave and even though it might yield higher overall DPS, I’d use &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; exclusively on Wrathion himself.&lt;/p&gt;
+
+&lt;h3 id=&quot;maut&quot;&gt;Maut&lt;/h3&gt;
+&lt;p&gt;Depending on your healers’ capabilities and overall raid–dps as well as execution you should delay your second &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; for after the manashield if you do NOT lose a total usage. On Mythic, where the damage on the shield can be tight, you definitely want to use &lt;a href=&quot;https://bfa.wowhead.com/spell=108271&quot; target=&quot;blank&quot;&gt;Astral Shift&lt;/a&gt; on 15+ stacks and call for an external afterwards. If both is not available just stop dpsing for 2-4 seconds until you are at full HP again. I’d 100% play &lt;a href=&quot;https://bfa.wowhead.com/spell=260895&quot; target=&quot;blank&quot;&gt;Unlimited Power&lt;/a&gt; over &lt;a href=&quot;https://bfa.wowhead.com/spell=191634&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Stormkeeper&lt;/a&gt; on this boss, as &lt;a href=&quot;https://bfa.wowhead.com/spell=191634&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Stormkeeper&lt;/a&gt; is more likely to kill you when you get a &lt;a href=&quot;https://bfa.wowhead.com/spell=8042&quot; target=&quot;blank&quot;&gt;Earth Shock&lt;/a&gt; crit before/after. I’d also play &lt;a href=&quot;https://bfa.wowhead.com/item=168617&quot; target=&quot;blank&quot;&gt;Worldvein Resonance&lt;/a&gt; at this boss.&lt;/p&gt;
+
+&lt;h3 id=&quot;prophet-skitra&quot;&gt;Prophet Skitra&lt;/h3&gt;
+&lt;p&gt;There is nothing special except the fact, that you can build up stacks on the Illusions if you happen to have a &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; proc and you haven’t figured out which one is the real Skitra. &lt;a href=&quot;https://bfa.wowhead.com/spell=192077&quot; target=&quot;blank&quot;&gt;Wind Rush Totem&lt;/a&gt; is mandatory in this fight if you don’t have 10 feral/guardian druids. Even on mythic this boss is a joke. I would not use &lt;a href=&quot;https://bfa.wowhead.com/item=168617&quot; target=&quot;blank&quot;&gt;Worldvein Resonance&lt;/a&gt; on this boss.&lt;/p&gt;
+
+&lt;h3 id=&quot;dark-inquisitor-xanesh&quot;&gt;Dark Inquisitor Xanesh&lt;/h3&gt;
+&lt;p&gt;Even though this boss favors &lt;a href=&quot;https://bfa.wowhead.com/spell=210714&quot; target=&quot;blank&quot;&gt;Icefury&lt;/a&gt;/&lt;a href=&quot;https://bfa.wowhead.com/spell=16166&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Master of the Elements&lt;/a&gt; more than &lt;a href=&quot;https://bfa.wowhead.com/item=168844&quot; target=&quot;blank&quot;&gt;Vision of Perfection&lt;/a&gt;/&lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt;, you can still make it work. If you utilize stutter-stepping to slowly walk away from AoE you won’t lose much DPS. On Mythic adds don’t live long enough to use &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; on them, but i would blast &lt;a href=&quot;https://bfa.wowhead.com/spell=191634&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Stormkeeper&lt;/a&gt; in them. I would also use a /target XXX /cast &lt;a href=&quot;https://bfa.wowhead.com/spell=57994&quot; target=&quot;blank&quot;&gt;Wind Shear&lt;/a&gt; /targetlasttarget macro for kicking the add casts without losing your main target.&lt;/p&gt;
+
+&lt;h3 id=&quot;hivemind&quot;&gt;Hivemind&lt;/h3&gt;
+&lt;p&gt;This is &lt;strong&gt;THE&lt;/strong&gt; boss made for &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt;. And I don’t mean because of padding. Use &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; exclusively on one of the two bosses or ravager if you’re lacking DPS on it. If you can hold &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; without losing a usage, try to hold the last one until both bosses are stacked to get some extra boss DPS for “free”.&lt;/p&gt;
+
+&lt;h3 id=&quot;shadhar-the-insatiable&quot;&gt;Shadhar the Insatiable&lt;/h3&gt;
+&lt;p&gt;Basic Patchwerk fight with low – medium movement. Nothing you can really do to avoid movement. It’s a good fight to use &lt;a href=&quot;https://bfa.wowhead.com/item=168617&quot; target=&quot;blank&quot;&gt;Worldvein Resonance&lt;/a&gt;, though.&lt;/p&gt;
+
+&lt;h3 id=&quot;drestagath&quot;&gt;Drestagath&lt;/h3&gt;
+&lt;p&gt;Don’t try to pad damage on the boss without having the buff – damage that is healed is removed in &lt;a href=&quot;https://www.warcraftlogs.com/&quot;&gt;WarcraftLogs&lt;/a&gt;. Other than that, this is another fight, especially on mythic, where funneling is most likely stronger than &lt;a href=&quot;https://bfa.wowhead.com/item=168844&quot; target=&quot;blank&quot;&gt;Vision of Perfection&lt;/a&gt;/&lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt;. It can still work, especially if you used trinket/&lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; shortly before you collect the buff, so you already have all buffs and stacks rolling.&lt;/p&gt;
+
+&lt;h3 id=&quot;ilgynoth&quot;&gt;Ilgynoth&lt;/h3&gt;
+&lt;p&gt;DO NOT USE  &lt;a href=&quot;https://bfa.wowhead.com/spell=51490&quot; target=&quot;blank&quot;&gt;Thunderstorm&lt;/a&gt; WHILE MC IS ACTIVE! EVER!&lt;/p&gt;
+
+&lt;p&gt;Other than that, you can use &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; on pull and every P1 phase and still have it up for the last push phase. The free cleave from EotS is super nice to have, as well. &lt;a href=&quot;https://bfa.wowhead.com/spell=192077&quot; target=&quot;blank&quot;&gt;Wind Rush Totem&lt;/a&gt; is also pretty good at that fight.&lt;/p&gt;
+
+&lt;h3 id=&quot;vexiona&quot;&gt;Vexiona&lt;/h3&gt;
+&lt;p&gt;Use &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; on boss exclusively. Adds die from passive cleave and tank mechanic. &lt;a href=&quot;https://bfa.wowhead.com/spell=8143&quot; target=&quot;blank&quot;&gt;Tremor Totem&lt;/a&gt; is handy in last phase.&lt;/p&gt;
+
+&lt;h3 id=&quot;ra-den&quot;&gt;Ra-Den&lt;/h3&gt;
+&lt;p&gt;This fight is one, that suits &lt;a href=&quot;https://bfa.wowhead.com/item=168844&quot; target=&quot;blank&quot;&gt;Vision of Perfection&lt;/a&gt;/&lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; really well. If you aren’t really unlucky then not much movement is happening in first stage, and last stage either. Another great fight for &lt;a href=&quot;https://bfa.wowhead.com/item=168617&quot; target=&quot;blank&quot;&gt;Worldvein Resonance&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;carapace-of-nzoth&quot;&gt;Carapace of N’zoth&lt;/h3&gt;
+&lt;p&gt;Depending on your DPS you might want to hold on &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; for addspawns in P1, but normally just use &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; on CD. &lt;a href=&quot;https://bfa.wowhead.com/spell=192077&quot; target=&quot;blank&quot;&gt;Wind Rush Totem&lt;/a&gt; is again very handy in this fight, as well as &lt;a href=&quot;https://bfa.wowhead.com/spell=8143&quot; target=&quot;blank&quot;&gt;Tremor Totem&lt;/a&gt;. If your &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; comes up, safe it for last phase addspawn, that way you can utilize the free cleave on the adds the most, without losing boss-dps.&lt;/p&gt;
+
+&lt;h3 id=&quot;nzoth&quot;&gt;N’zoth&lt;/h3&gt;
+&lt;p&gt;You can blast N’zoth, as you have &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; up basically every burn phase, where N’zoth is vulnerable. Your overall DPS will be lower than most others, as you don’t have much to burst on Psychus, but that shouldn’t be your goal – except if you are struggling to kill him with 5-7 stacks. Last phase is also pretty low movement if you position yourself properly, further enhancing your capabilities.&lt;/p&gt;
+
+&lt;p&gt;P.S.: Don’t even try to start that fight without having &lt;a href=&quot;https://bfa.wowhead.com/spell=192077&quot; target=&quot;blank&quot;&gt;Wind Rush Totem&lt;/a&gt; talented.&lt;/p&gt;
+
+&lt;h2 id=&quot;faq&quot;&gt;FAQ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Q: What Azerite-Traits do i go for?&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A: 3x &lt;a href=&quot;https://bfa.wowhead.com/spell=278697&quot; target=&quot;blank&quot;&gt;Natural Harmony&lt;/a&gt; and either combination of &lt;a href=&quot;https://bfa.wowhead.com/spell=317137/&quot; target=&quot;blank&quot;&gt;Heart of Darkness&lt;/a&gt; and &lt;a href=&quot;https://bfa.wowhead.com/spell=275381&quot; target=&quot;blank&quot;&gt;Echo of the Elementals&lt;/a&gt;. &lt;a href=&quot;https://bfa.wowhead.com/spell=277942&quot; target=&quot;blank&quot;&gt;Ancestral Resonance&lt;/a&gt; or &lt;a href=&quot;https://bfa.wowhead.com/spell=277671&quot; target=&quot;blank&quot;&gt;Synapse Shock&lt;/a&gt; aren’t too bad either.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Q: What talents should I choose?&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A: Check talent breakdown above.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Q: What is my BiS stat distribution?&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A: Sim yourself, but a safe bet is to avoid &lt;a href=&quot;https://bfa.wowhead.com/spell=168534&quot; target=&quot;blank&quot;&gt;Mastery: Elemental Overload&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Q: Do I use &lt;a href=&quot;https://bfa.wowhead.com/spell=117014&quot; target=&quot;blank&quot;&gt;Elemental Blast&lt;/a&gt; while &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; is active?&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A: I personally stop using &lt;a href=&quot;https://bfa.wowhead.com/spell=117014&quot; target=&quot;blank&quot;&gt;Elemental Blast&lt;/a&gt; at 10-12 stacks with &lt;a href=&quot;https://bfa.wowhead.com/spell=2825&quot; target=&quot;blank&quot;&gt;Bloodlust/Heroism&lt;/a&gt; and 14-16 without &lt;a href=&quot;https://bfa.wowhead.com/spell=2825&quot; target=&quot;blank&quot;&gt;Bloodlust/Heroism&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Q: Do I really only use &lt;a href=&quot;https://bfa.wowhead.com/spell=188196&quot; target=&quot;blank&quot;&gt;Lightning Bolt&lt;/a&gt; during &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A: No, you still dump Maelstrom with &lt;a href=&quot;https://bfa.wowhead.com/spell=8042&quot; target=&quot;blank&quot;&gt;Earth Shock&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Q: Do I cast no &lt;a href=&quot;https://bfa.wowhead.com/spell=51505&quot; target=&quot;blank&quot;&gt;Lava Burst&lt;/a&gt; at all?&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A: No, outside of &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; you cast &lt;a href=&quot;https://bfa.wowhead.com/spell=51505&quot; target=&quot;blank&quot;&gt;Lava Burst&lt;/a&gt; on Cooldown.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Q: What would be an example opener?&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A: &lt;a href=&quot;https://bfa.wowhead.com/spell=191634&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Stormkeeper&lt;/a&gt; at 8, Font (if you have it) at 6, prepot at 2, &lt;a href=&quot;https://bfa.wowhead.com/spell=117014&quot; target=&quot;blank&quot;&gt;Elemental Blast&lt;/a&gt; (if talented, otherwise &lt;a href=&quot;https://bfa.wowhead.com/spell=51505&quot; target=&quot;blank&quot;&gt;Lava Burst&lt;/a&gt;)-&amp;gt; &lt;a href=&quot;https://bfa.wowhead.com/spell=188389&quot; target=&quot;blank&quot;&gt;Flame Shock&lt;/a&gt; at Pull, &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt;, &lt;a href=&quot;https://bfa.wowhead.com/spell=188196&quot; target=&quot;blank&quot;&gt;Lightning Bolt&lt;/a&gt;, &lt;a href=&quot;http://bfa.wowhead.com/spell=157375/eye-of-the-storm&quot; target=&quot;blank&quot;&gt;Eye of the Storm&lt;/a&gt;, &lt;a href=&quot;https://bfa.wowhead.com/spell=188196&quot; target=&quot;blank&quot;&gt;Lightning Bolt&lt;/a&gt; and followed by &lt;a href=&quot;https://bfa.wowhead.com/spell=188196&quot; target=&quot;blank&quot;&gt;Lightning Bolt&lt;/a&gt; until &lt;a href=&quot;https://bfa.wowhead.com/spell=8042&quot; target=&quot;blank&quot;&gt;Earth Shock&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Q: I have a very specific question that isn’t answered here.&lt;/li&gt;
+  &lt;li&gt;A: Ask in Earthshrine Elemental Discord or DM me (Drayygo#2910).&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Drayygo</name></author><category term="blog" /><summary type="html">The meme explained</summary></entry><entry><title type="html">Elemental Shaman Reference Guide - Ny’alotha</title><link href="http://localhost:4000/blog/2020/01/21/nyalotha-reference-guide.html" rel="alternate" type="text/html" title="Elemental Shaman Reference Guide - Ny’alotha" /><published>2020-01-21T14:00:00+11:00</published><updated>2020-01-21T14:00:00+11:00</updated><id>http://localhost:4000/blog/2020/01/21/nyalotha-reference-guide</id><content type="html" xml:base="http://localhost:4000/blog/2020/01/21/nyalotha-reference-guide.html">&lt;p&gt;Hello Elemental Shaman friends,&lt;/p&gt;
+
+&lt;p&gt;I have put together an &lt;a href=&quot;http://bit.ly/EleShamanNyalotha&quot;&gt;Elemental Shaman reference guide&lt;/a&gt; which details talents and spec-specific strategies for Heroic Ny’alotha as well as a comprehensive list of loot from the raid. Please read the disclaimers at the top of both tabs.&lt;/p&gt;
+
+&lt;p&gt;If there is something you disagree with or think otherwise, that’s okay! Remember to do what’s best for you and your raid team. If you have any questions or feedback for improvement, please feel free to DM me (Discord: JudgeJames#0001).&lt;/p&gt;
+
+&lt;p&gt;Good luck in Ny’alotha!&lt;/p&gt;
+
+&lt;p&gt;Best regards,
+&lt;br /&gt;
+Altenna&lt;/p&gt;</content><author><name>Altenna</name></author><category term="blog" /><summary type="html">Elemental Shaman reference guide for Ny'alotha</summary></entry><entry><title type="html">Updates for 8.3</title><link href="http://localhost:4000/blog/2020/01/19/updates-for-8-3.html" rel="alternate" type="text/html" title="Updates for 8.3" /><published>2020-01-19T04:00:00+11:00</published><updated>2020-01-19T04:00:00+11:00</updated><id>http://localhost:4000/blog/2020/01/19/updates-for-8-3</id><content type="html" xml:base="http://localhost:4000/blog/2020/01/19/updates-for-8-3.html">&lt;p&gt;Now that patch 8.3 is live, we’ve got a bunch of updates to many different sections on Storm, Earth, &amp;amp; Lava.&lt;/p&gt;
+
+&lt;p&gt;First thing’s first: Blizzard’s &lt;a href=&quot;https://worldofwarcraft.com/en-us/news/23227147/visions-of-n-zoth-content-update-notes&quot;&gt;official patch notes&lt;/a&gt; are a great source of information about the patch. While we’ll cover some of the key points for Elemental Shaman in this post and throughout the site, Blizzard’s own posts are worth reading to catch some of the finer details we won’t cover.&lt;/p&gt;
+
+&lt;h3 id=&quot;quick-overview&quot;&gt;Quick Overview&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Not much has changed for Elemental Shaman in this patch.&lt;/li&gt;
+  &lt;li&gt;The raid azerite from Nya’lotha is pretty good this time around.&lt;/li&gt;
+  &lt;li&gt;A couple of the new essences might see play as minor essences for us.&lt;/li&gt;
+  &lt;li&gt;The tuning changes to existing essences really didn’t change much for us.&lt;/li&gt;
+  &lt;li&gt;Corrupted gear balance seems a bit rough right now, but hopefully you luck your way into some Infinite Stars traits.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;site-updates&quot;&gt;Site Updates&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The &lt;a href=&quot;/guide/general/mythic_plus.html&quot;&gt;Mythic Plus&lt;/a&gt; guide has been updated to reflect the current meta, as well as to add tips for the two new dungeons in this patch for Operation: Mechagon’s Junkyard and Workshop.&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;/guide/general/priority_list.html&quot;&gt;Priority List&lt;/a&gt; guide has been updated to reflect some APL optimizations (these are in simc as well).&lt;/li&gt;
+  &lt;li&gt;The various itemization sections have been updated with fresh data from &lt;a href=&quot;https://bloodmallet.com/&quot;&gt;Bloodmallet&lt;/a&gt;. It’s worth noting that Infinite Stars has inflated the value of many stat buff traits and essences, so some of this data may be a bit misleading in practice if you don’t have gear with the rank 3 Infinite Stars corruption.&lt;/li&gt;
+  &lt;li&gt;An updated raid guide for Nya’lotha is coming Soon(TM).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;class-changes&quot;&gt;Class Changes&lt;/h3&gt;
+
+&lt;p&gt;The most notable change is a bug fix to &lt;a href=&quot;https://bfa.wowhead.com/spell=204437&quot; target=&quot;blank&quot;&gt;Lightning Lasso&lt;/a&gt; so that it correctly interacts with &lt;a href=&quot;https://bfa.wowhead.com/spell=16166&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Master of the Elements&lt;/a&gt;. To compensate its damage has been reduced by 10%.&lt;/p&gt;
+
+&lt;p&gt;Our thoughts on this change:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;This is a minor nerf for PvP builds not using &lt;a href=&quot;https://bfa.wowhead.com/spell=16166&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Master of the Elements&lt;/a&gt;, but a buff to those using it. Since neither &lt;a href=&quot;https://bfa.wowhead.com/spell=192249&quot; rel=&quot;domain=bfa&quot; target=&quot;blank&quot;&gt;Storm Elemental&lt;/a&gt; or &lt;a href=&quot;https://bfa.wowhead.com/spell=192222&quot; target=&quot;blank&quot;&gt;Liquid Magma Totem&lt;/a&gt; really see play in a PvP setting, this is a positive change.&lt;/li&gt;
+  &lt;li&gt;While we don’t use &lt;a href=&quot;https://bfa.wowhead.com/item=169900&quot; target=&quot;blank&quot;&gt;Conflict and Strife&lt;/a&gt; as a major essence in PvE, for those of you questing in War Mode, this makes &lt;a href=&quot;https://bfa.wowhead.com/spell=204437&quot; target=&quot;blank&quot;&gt;Lightning Lasso&lt;/a&gt; even better.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There was additionally an attempt to make a quality of change to our &lt;a href=&quot;https://bfa.wowhead.com/spell=117013&quot; target=&quot;blank&quot;&gt;Primal Elementalist&lt;/a&gt; elementals to make them have independent auto-cast settings. Unfortunately, Blizzard had to &lt;a href=&quot;https://us.forums.blizzard.com/en/wow/t/shaman-change-removed-from-visions-of-nzoth/410015/1&quot;&gt;temporarily revert this change&lt;/a&gt; but it should hopefully be coming back in a later hotfix/patch.&lt;/p&gt;
+
+&lt;h3 id=&quot;azerite-armor&quot;&gt;Azerite Armor&lt;/h3&gt;
+
+&lt;p&gt;Blizzard has introduced one new Azerite trait for all classes that is featured on armor that comes from assaults, BFA Season 4 PvP, and Nya’lotha: &lt;a href=&quot;https://bfa.wowhead.com/spell=317137/&quot; target=&quot;blank&quot;&gt;Heart of Darkness&lt;/a&gt;. It’s a little undertuned at the moment, but is a decent alternative to some of Elemental’s weaker trait options.&lt;/p&gt;
+
+&lt;p&gt;The Azerite pieces found in the Nya’lotha raid all feature &lt;a href=&quot;https://bfa.wowhead.com/spell=279829&quot; target=&quot;blank&quot;&gt;Igneous Potential&lt;/a&gt;, with several also allowing it to be paired with &lt;a href=&quot;https://bfa.wowhead.com/spell=278697&quot; target=&quot;blank&quot;&gt;Natural Harmony&lt;/a&gt; and/or &lt;a href=&quot;https://bfa.wowhead.com/spell=273448&quot; target=&quot;blank&quot;&gt;Lava Shock&lt;/a&gt;. This is great news for us, as we should be able to easily construct a good set of Azerite armor from the raid itself. It’s worth noting that two of our armor pieces come off of the final two bosses of the instance, and thus are 10 item levels higher.&lt;/p&gt;
+
+&lt;h3 id=&quot;essences&quot;&gt;Essences&lt;/h3&gt;
+
+&lt;p&gt;Along with a new minor essence slot unlocked at &lt;a href=&quot;https://bfa.wowhead.com/item=158075&quot; target=&quot;blank&quot;&gt;Heart of Azeroth&lt;/a&gt; level 75, Blizzard has introduced several new essences for this patch:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bfa.wowhead.com/item=173282&quot; target=&quot;blank&quot;&gt;Breath of the Dying&lt;/a&gt; - This essence has a very strong minor essence effect in primarily single target encounters, largely based on its increased proc rates when the target is below 20% HP. This will likely be a popular choice for a minor essence slot for raid progression. You’ll get rank 1 of this essence fairly early on in the 8.3 quest chain, with rank 2 coming from weekly lockout content over 3 weeks, and rank 3 coming from reputation.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bfa.wowhead.com/item=173885&quot; target=&quot;blank&quot;&gt;The Formless Void&lt;/a&gt; - This essence is fairly weak for DPS specializations. As a major essence, there’s little incentive to copy a healer or tank essence, and you have direct access to any of the existing DPS essences already. As a minor, the haste buff isn’t very significant when you consider how often major essences actually get used to proc the effect. This essence comes from the raid.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bfa.wowhead.com/item=173290&quot; target=&quot;blank&quot;&gt;Spark of Inspiration&lt;/a&gt; - This essence has some potential to be interesting, both as a major and a minor. It’s possible that on some encounters, having someone sacrifice a bit of their own damage in order to buff the raid damage of burst essences like &lt;a href=&quot;https://bfa.wowhead.com/item=168622&quot; target=&quot;blank&quot;&gt;Essence of the Focusing Iris&lt;/a&gt; could be worthwhile. As a minor essence, the cooldown reduction could be significant enough in some content to merit use in raids or dungeons with major essences, like &lt;a href=&quot;https://bfa.wowhead.com/item=168444&quot; target=&quot;blank&quot;&gt;Blood of the Enemy&lt;/a&gt; and &lt;a href=&quot;https://bfa.wowhead.com/item=168622&quot; target=&quot;blank&quot;&gt;Essence of the Focusing Iris&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition to the new 8.3 essences, Blizzard has made a couple changes to existing essences:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bfa.wowhead.com/item=168856&quot; target=&quot;blank&quot;&gt;Condensed Life-Force&lt;/a&gt; - The damage increase on the Azerite Spikes effect has been reduced from 5% to 3%. This ends up being a small nerf, but this essence is still competitive for the major essence slot.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bfa.wowhead.com/item=168617&quot; target=&quot;blank&quot;&gt;Worldvein Resonance&lt;/a&gt; - The major essence ability received a significant buff, making this major on-par with an intellect potion available once per minute, finally making it competitive with other options in the major slot.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bfa.wowhead.com/item=168844&quot; target=&quot;blank&quot;&gt;Vision of Perfection&lt;/a&gt; - The proc rate of the major essence effect has been increased by 12%. This is a small buff despite this, as the proc rate was somewhat low. The best math around this shows that for every 10 procs of the major in patch 8.2, you would have had 11 procs in patch 8.3.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;corrupted-gear&quot;&gt;Corrupted Gear&lt;/h3&gt;
+
+&lt;p&gt;Season 4 gear can corrupt to add additional effects. Check out &lt;a href=&quot;https://bloodmallet.com&quot;&gt;bloodmallet.com&lt;/a&gt; so you can see just how far ahead of everything else Infinite Stars is. Some of the other ones are okay too.&lt;/p&gt;
+
+&lt;h3 id=&quot;horrific-visions&quot;&gt;Horrific Visions&lt;/h3&gt;
+
+&lt;p&gt;Horrific Visions are a new bit of content in patch 8.3 that are the only means of upgrading our new legendary cloak &lt;a href=&quot;https://bfa.wowhead.com/item=169223&quot; target=&quot;blank&quot;&gt;Ashjra’kamas, Shroud of Resolve&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Method has created a great guide that covers this new system (based largely on PTR, but &lt;em&gt;mostly&lt;/em&gt; accurate for Live):&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pt3i7kdaB0Q&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;assaults-rajani-uldum-accord-etc&quot;&gt;Assaults, Rajani, Uldum Accord, etc.&lt;/h3&gt;
+
+&lt;p&gt;Patch 8.3 introduces new assaults in two older zones: Uldum and Vale of Eternal Blossoms. The introductory quest line for 8.3 will take you through both zones and introduce you to the new factions for this patch: the Rajani and the Uldum Accord. These factions offer strong rewards at Exalted.&lt;/p&gt;
+
+&lt;p&gt;The best way to reach Exalted is the same way you’ll earn Coalescing Visions for your Horrific Visions: complete the daily quests and any other quest chains in Uldum and Vale of Eternal Blossoms each day. Note that on the mid-point of the week (Friday at 7pm PST for NA realms), the new minor assault will spawn and comes with its own set of dailies, so you can “double dip” on that day in the minor assault zone.&lt;/p&gt;</content><author><name>spooky</name></author><category term="blog" /><summary type="html">A quick look at what's new for Elemental in 8.3 and guide updates throughout the site.</summary></entry><entry><title type="html">8.3 We’re alive</title><link href="http://localhost:4000/blog/2020/01/11/8-3-we-re-alive.html" rel="alternate" type="text/html" title="8.3 We’re alive" /><published>2020-01-11T20:00:00+11:00</published><updated>2020-01-11T20:00:00+11:00</updated><id>http://localhost:4000/blog/2020/01/11/8-3-we-re-alive</id><content type="html" xml:base="http://localhost:4000/blog/2020/01/11/8-3-we-re-alive.html">&lt;p&gt;Hey ho,&lt;/p&gt;
+
+&lt;p&gt;even though we don’t post blog posts too often, the SE&amp;amp;L team is alive and kickin’. Of course this is an open source project, so if you see an error, you could essentially fix it yourself and provide your fix via &lt;a href=&quot;https://github.com/stormearthandlava/stormearthandlava.github.io&quot;&gt;github&lt;/a&gt;. A real blogpost with actual content to welcome you into 8.3 will come soon.&lt;/p&gt;
+
+&lt;p&gt;Stay healthy!&lt;/p&gt;
+
+&lt;p&gt;Yours sincerely,&lt;br /&gt;
+Bloodmallet(EU)&lt;/p&gt;</content><author><name>Bloodmallet(EU)</name></author><category term="blog" /><summary type="html">We're alive and well. Guides are updates. Blogpost will come soon.</summary></entry></feed>

@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>General | Storm, Earth &amp; Lava</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="General" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Guides for Elemental Shamans of World of Warcraft" />
+<meta property="og:description" content="Guides for Elemental Shamans of World of Warcraft" />
+<link rel="canonical" href="http://localhost:4000/guide/shadowlands/current_state.html" />
+<meta property="og:url" content="http://localhost:4000/guide/shadowlands/current_state.html" />
+<meta property="og:site_name" content="Storm, Earth &amp; Lava" />
+<script type="application/ld+json">
+{"description":"Guides for Elemental Shamans of World of Warcraft","@type":"WebPage","url":"http://localhost:4000/guide/shadowlands/current_state.html","headline":"General","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- inlcude bootstrap style before all others to allow easy overrides -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+  <!-- Add wowhead tooltip to all pages -->
+  <script>
+    var whTooltips = {
+      colorLinks: false,
+      iconizeLinks: true,
+      renameLinks: false,
+      hide: {
+        sellprice: true,
+        ilvl: true,
+        dropchance: true
+      }
+    };
+  </script>
+  <script src="//wow.zamimg.com/widgets/power.js"></script>
+
+  <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Storm, Earth &amp; Lava" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><nav class="navbar navbar-expand-sm">
+      <a href="/">
+        <img src="/assets/img/logos/banner.png" style="float:left; max-height:50px;" /></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto"><li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" role="button" href="#" id="Истребление"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Истребление</a>
+              <div class="dropdown-menu" aria-labelledby="Истребление"><a class="dropdown-item" href="/guide/Havoc/current_state.html">Гайд</a><a class="dropdown-item" href="/guide/shadowlands/blue_posts.html">Мифик+</a></div>
+            </li><li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" role="button" href="#" id="Месть"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Месть</a>
+              <div class="dropdown-menu" aria-labelledby="Месть"><a class="dropdown-item" href="/guide/general/talents.html">Гайд</a><a class="dropdown-item" href="/guide/general/priority_list.html">Мифик+</a><a class="dropdown-item" href="/guide/general/stats.html">Stats</a><a class="dropdown-item" href="/guide/general/azerite_essences.html">Azerite Essences</a><a class="dropdown-item" href="/guide/general/azerite_traits.html">Azerite Traits</a><a class="dropdown-item" href="/guide/general/gear.html">Gear</a><a class="dropdown-item" href="/guide/general/trinkets.html">Trinkets</a><a class="dropdown-item" href="/guide/general/consumables.html">Consumables</a><a class="dropdown-item" href="/guide/general/weak_auras.html">WeakAuras</a><a class="dropdown-item" href="/guide/general/faq.html">F.A.Q.</a></div>
+            </li><li class="nav-item">
+                <a class="nav-link" href="/guide/general/mythic_plus.html">Руководства</a>
+              </li></ul>
+      </div>
+    </nav>
+
+  </div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="wrapper-content">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 name="post-title">General</h1><p class="post-meta"><time class="dt-updated" datetime="2020-05-02T03:00:00+11:00" itemprop="dateUpdated">last update on May 1, 2020
+          </time><span name="devider">•&nbsp;</span>for <span itemprop="game_version">9.0.0 Shadowlands</span></p></header>
+
+  <div class="post-content"><h3>Table of Contents</h3><ul class="toc">
+  <li><a href="#resources">Resources</a></li>
+  <li><a href="#spellbook">Spellbook</a>
+    <ul>
+      <li><a href="#class-spells">Class Spells</a></li>
+      <li><a href="#specialization-spells">Specialization Spells</a></li>
+    </ul>
+  </li>
+  <li><a href="#talent-tree">Talent Tree</a></li>
+  <li><a href="#sorted-spell-lists">Sorted Spell Lists</a>
+    <ul>
+      <li><a href="#offensive">Offensive</a></li>
+      <li><a href="#offensive-cooldowns">Offensive Cooldowns</a></li>
+      <li><a href="#defensive-coolowns">Defensive Coolowns</a></li>
+      <li><a href="#healing">Healing</a></li>
+      <li><a href="#crowd-control">Crowd Control</a></li>
+      <li><a href="#utility">Utility</a></li>
+      <li><a href="#useless">Useless</a></li>
+    </ul>
+  </li>
+  <li><a href="#special-remarks-and-tests">Special Remarks and Tests</a>
+    <ul>
+      <li><a href="#flame-shock">Flame Shock</a></li>
+      <li><a href="#fulmination">Fulmination</a></li>
+      <li><a href="#searing-totem">Searing Totem</a></li>
+      <li><a href="#elemental-blast">Elemental Blast</a></li>
+      <li><a href="#echoing-shock">Echoing Shock</a></li>
+      <li><a href="#totem-mastery">Totem Mastery</a></li>
+      <li><a href="#master-of-elements">Master of Elements</a></li>
+      <li><a href="#surge-of-power">Surge of Power</a></li>
+    </ul>
+  </li>
+</ul><hr>
+      <br><p>This page is intended to provide you a complete overview about every ability, spell, talent, and effect that affects Elemental Shamans throughout the development process of Shadowlands. Everything you can read here was confirmed ingame or we’re in the process of confirming it. For now we’re refraining from posting datamined information to be able to provide correct information to you. Datamining is great and very helpful, but can have some misleading sideeffects, when some things were experimented with, discarded and forgotten in the data, but suddenly datamining picks them up and gets everyone hyped for stuff, that isn’t even meant to go live.</p>
+
+<p>10.04.2020: Information for the first version of this site were gathered with the help of Rezyn#3520.</p>
+
+<h2 id="resources">Resources</h2>
+
+<ul>
+  <li>Primary: Mana</li>
+  <li>Secondary: Fulmination buff stacks</li>
+  <li>Secondary: Seismic Thunder buff stacks</li>
+</ul>
+
+<h2 id="spellbook">Spellbook</h2>
+<h3 id="class-spells">Class Spells</h3>
+
+<p>List of all spells found in the “Shaman” tab within the spellbook.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ancestral Spirit</td>
+      <td>40 yd range<br />10 sec cast<br />Returns the spirit to the body, restoring a dead target to life with 35% of maximum health and mana. Cannot be cast when in combat.</td>
+    </tr>
+    <tr>
+      <td>Astral Recall</td>
+      <td>10 sec cast, 10 min cooldown<br />Yanks you through the twisting nether back to X. Speak to an Innkeeper in a different place to change your home location.</td>
+    </tr>
+    <tr>
+      <td>Astral Shift</td>
+      <td>Instant, 1.5 min cooldown<br />Shift partially into the elemental planes, taking 40% less damage for 8 sec.</td>
+    </tr>
+    <tr>
+      <td>Bloodlust / Heroism</td>
+      <td>21.5% Mana, Instant, 5 min cooldown<br />Increases Haste by 30% for all party and raid members for 40 sec.<br /><br />Allies receiving this effect will become Sated / Exhausted an unable to benefit from Bloodlust / Heroism or Time Warp again for 10 min.</td>
+    </tr>
+    <tr>
+      <td>Capacitor Totem</td>
+      <td>10% Mana, 40yd range<br />Instant, 1 min cooldown<br />Summons a totem at the target location that gathers electrical energy from the surrounding air and explodes after 2 sec, stunning all enemies within 8 yards for 3 sec.</td>
+    </tr>
+    <tr>
+      <td>Chain Heal</td>
+      <td>30% mana, 40yd range<br />2.5 sec cast<br />Heals the friendly target for (255.5% of Spell power), then jumps to heal the 2 most injured nearby allies. Healing is reduced by 30% with each jump.</td>
+    </tr>
+    <tr>
+      <td>Chain Lightning</td>
+      <td>40yd range<br />2 sec cast<br />Hurls a lightning bolt at the enemy, dealing (34.5% of Spell power) Nature damage and then jumping to additional nearby enemies. Affects 5 total targets.</td>
+    </tr>
+    <tr>
+      <td>Earth Elemental</td>
+      <td>Instant, 5 min cooldown<br />Calls forth a Greater Earth Elemental to protect you and your allies for 1 min.</td>
+    </tr>
+    <tr>
+      <td>Earthbind Totem</td>
+      <td>2.5% Mana, 40yd range<br />Instant, 30 sec cooldown<br />Summons an Earth Totem with (2 * Total health / 100) health at the target location for 20 sec that slows the movement speed of enemies within 10 yards.</td>
+    </tr>
+    <tr>
+      <td>Far Sight</td>
+      <td>Unlimited range<br />2 sec cast<br />Changes your viewpoint to the targeted location for 1 min.</td>
+    </tr>
+    <tr>
+      <td>Flame Shock</td>
+      <td>40yd range<br />Instant, 6 sec cooldown<br />Sears the target with fire, causing (22.75% of Spell power) Fire damage and then an additional (105% of Spell power) Fire damage over 18 sec. [ticks every 3 seconds, instead of every 2 seconds in BfA - still hasted]</td>
+    </tr>
+    <tr>
+      <td>Flametongue Weapon</td>
+      <td>Instant<br />Imbue your weapon with the element of Fire for 30 min, causing each of your attacks to deal [max((0 * Attack power), 1)] additional Fire damage.</td>
+    </tr>
+    <tr>
+      <td>Frost Shock</td>
+      <td>40yd range<br />Instant<br />Chills the target with frost, causing (22.5% of Spell power) Frost damage and reducing the target’s movement speed by 50% for 6 sec.</td>
+    </tr>
+    <tr>
+      <td>Ghost Wolf</td>
+      <td>Instant<br />Turn into a Ghost Wolf, increasing movement speed by 30% and preventing movement speed from being reduced below 100%.</td>
+    </tr>
+    <tr>
+      <td>Healing Stream Totem</td>
+      <td>9% Mana<br />Instant, 30 sec cooldown<br />Summons a totem at your feet for 15 sec that heals an injured party or raid member within 40 yards for (47% of Spell power) every 2 sec.</td>
+    </tr>
+    <tr>
+      <td>Healing Surge</td>
+      <td>23% Mana, 40yd range<br />1.5 sec cast<br />A quick surge of healing energy that restores (248% of Spell power) of a friendly target’s health.</td>
+    </tr>
+    <tr>
+      <td>Hex</td>
+      <td>30yd range<br />1.7 sec cast, 30 sec cooldown<br />Transforms the enemy into a frog for 1 min. While hexed, the victim is incapacitated, and cannot attack or cast spells. Damage may cancel the effect. Limit 1. Only works on Humanoids and Beasts.</td>
+    </tr>
+    <tr>
+      <td>Lightning Bolt</td>
+      <td>40yd range<br />2 sec cast<br />Hurls a bolt of lightning at the target, dealing (70.4% of Spell power) Nature damage.</td>
+    </tr>
+    <tr>
+      <td>Lightning Shield</td>
+      <td>Instant<br />Surround yourself with a shield of lightning for 30 min.<br /><br />Melee attackers have a 100% chance to suffer (3.6% of Attack power) Nature damage.<br /><br />Only one Elemental Shield can be active on the Shaman at a time.</td>
+    </tr>
+    <tr>
+      <td>Primal Strike</td>
+      <td>9.4% Mana, Melee Range<br />Instant, 12 sec recharge<br />An instant weapon strike that causes 34% Physical damage.</td>
+    </tr>
+    <tr>
+      <td>Purge</td>
+      <td>10% Mana, 30 yd range<br />Instant<br />Purges the enemy target, removing 1 beneficial Magic effect.</td>
+    </tr>
+    <tr>
+      <td>Searing Totem</td>
+      <td>Instant, 30 sec cooldown<br />Summons a Fire Totem with 5 health at the feet of the caster for 15 sec that repeatedly attacks an enemy within 40 yds for (5% of Spell power) Fire damage.</td>
+    </tr>
+    <tr>
+      <td>Tremor Totem</td>
+      <td>2.3% Mana<br />Instant, 1 min cooldown<br />Summons an Earth Totem with 5 health at the feet of the caster that shakes the ground around it for 10 sec, removing Fear, Charm and Sleep effects from party and raid members within 30 yards.</td>
+    </tr>
+    <tr>
+      <td>Water Walking</td>
+      <td>30yd range<br />Instant<br />Allows the friendly target to walk across water for 10 min. Damage will cancel the effect.</td>
+    </tr>
+    <tr>
+      <td>Wind Shear</td>
+      <td>30yd range<br />Instant, 12 sec cooldown<br />Disrupts the target’s concentration with a burst of wind, interrupting spellcasting and preventing any spell in that school from being cast for 3 sec.</td>
+    </tr>
+    <tr>
+      <td>Reincarnation</td>
+      <td>Passive<br />Allows you to resurrect yourself upon death with 40% health and mana. This effect can occur only once every 30 minutes.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="specialization-spells">Specialization Spells</h3>
+
+<p>List of all spells found in the “Elemental” tab within the spellbook.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cleanse Spirit</td>
+      <td>6.5% Mana, 40yd range<br />Instant, 8 sec cooldown<br />Removes all Curse effects from a friendly target.</td>
+    </tr>
+    <tr>
+      <td>Spell Details</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Earth Shock</td>
+      <td>40yd range<br />Instant<br />Instantly shocks the target with concussive force, causing (42% of Spell power) Nature damage.<br /><br />Earth Shock will consume all stacks of Fulmination to deal extra Nature damage to your target. <a href="https://clips.twitch.tv/SincereWealthyOrangeCclamChamp">Animation</a></td>
+    </tr>
+    <tr>
+      <td>Earthquake</td>
+      <td>40yd range<br />3 sec cast<br />Causes the earth within 8 yards of the target location to tremble and break, dealing [Spell power * 0.2875 * 6 / 1 * (1 + Versatility) * 100 / 100] Physical damage over 6 sec and sometimes knocking down enemies.<br /><br />Each time Chain Lightning hits more than 1 target, the cast time of your next Earthquake is reduced by 20%, stacking up to 5 times.</td>
+    </tr>
+    <tr>
+      <td>Fire Elemental</td>
+      <td>Instant, 2.5 min cooldown<br />Calls forth a Greater Fire Elemental to rain destruction on your enemies for 30 sec.<br /><br />While the Greater Fire Elemental is active, Lightning Bolt and Chain Lightning have a 100% chance to generate a stack of Fulmiantion [sic].</td>
+    </tr>
+    <tr>
+      <td>Lava Burst</td>
+      <td>40yd range<br />2 sec cast, 8 sec cooldown<br />Hurls molten lava at the target, dealing (72% of Spell power) Fire damage. Lava Burst will always critically strike if the target is affected by Flame Shock.</td>
+    </tr>
+    <tr>
+      <td>Spiritwalker’s Grace</td>
+      <td>14.1% Mana<br />Instant, 2 min cooldown<br />Calls upon the guidance of the spirits for 15 sec, permitting movement while casting Shaman spells. Castable while casting.</td>
+    </tr>
+    <tr>
+      <td>Thunderstorm</td>
+      <td>Instant, 45 sec cooldown<br />Calls down a bolt of lightning, dealing (10.4485% of Spell power) Nature damage to all enemies within 10 yards, reducing their movement speed by 40% for 5 sec, and knocking them away from the Shaman. Usable while stunned.</td>
+    </tr>
+    <tr>
+      <td>Elemental Fury</td>
+      <td>Passive<br />Your damaging critical strikes deal 250% damage instead of the usual 200%.</td>
+    </tr>
+    <tr>
+      <td>Fulmination</td>
+      <td>Passive<br />Lightning Bolt and Chain Lightning, and their overloads, have a 50% chance to generate a stack of Fulmination, up to 8 stacks. Earth Shock and Elemental Blast will discharge all stacks of Fulmination on the target, causing an extra (10% of Spell power) Nature damage per stack of Fulmination.</td>
+    </tr>
+    <tr>
+      <td>Lava Surge</td>
+      <td>Passive<br />Your Flame Shock damage over time has a 15% chance to reset the remaining cooldown on Lava Burst and cause your next Lava Burst to be instant.</td>
+    </tr>
+    <tr>
+      <td>Mastery: Elemental Overload</td>
+      <td>Passive<br />Your Lightning Bolt, Elemental Blast, Icefury, Lava Burst, and Chain Lightning casts have a 15.0% chance to trigger a second cast on the same target, dealing 85% of normal damage.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Seismic Thunder is only mentioned in Earthquakes tooltip.</p>
+
+<h2 id="talent-tree">Talent Tree</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Level</th>
+      <th>Talent</th>
+      <th>Talent</th>
+      <th>Talent</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>15</td>
+      <td><strong>Earthen Rage</strong><br />Passive<br />Your damaging spells incite the earth around you to come to your aid for 6 sec, repeatedly dealing (13.75% of Spell power) Nature damage to your most recently attacked target.</td>
+      <td><strong>Echo of the Elements</strong><br />Passive<br />Lava Burst now has 2 charges. Effects that reset its remaining cooldown will instead grant 1 charge.</td>
+      <td><strong>Elemental Blast</strong><br />40yd range<br />2 sec cast, 12 sec cooldown<br />Harnesses the raw power of the elements, dealing (63% of Spell power) Elemental damage and increasing your Critical Strike, Haste, or Mastery by 131 for 10 sec.<br /><br />Elemental Blast will consume all stacks of Fulmination to deal extra Nature damage to your target.</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td><strong>Aftershock</strong><br />Passive<br />Earth Shock and Elemental Blast have a 25% chance to not consume any stacks of Fulmination.<br /><br />Earthquake has a 25% chance to not consume Seismic Thunder.</td>
+      <td><strong>Echoing Shock</strong><br />40yd range<br />Instant, 30 sec cooldown<br />Shock the target for (65% of Spell power) Elemental damage and create an ancestral echo, causing your next damage or healing spell to be cast a second time 1.0 sec later for free.</td>
+      <td><strong>Totem Mastery</strong><br />40yd range<br />Instant<br />Summons four totems that increase your combat capabilities for 2 min.<br /><br />Resonance Totem<br />Generates 1 stack of Fulmination every 5 sec.<br /><br />Storm Totem<br />Increases the chance for Lightning Bolt and Chain Lightning to trigger Elemental Overload by 5%.<br /><br />Ember Totem<br />Increases Flame Shock damage over time by 10%.<br /><br />Tailwind Totem<br />Increases your Haste by 2%.</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td><strong>Spirit Wolf</strong><br />Passive<br />While transformed into a Ghost Wolf, you gain 5% increased movement speed and 5% damage reduction every 1 sec, stacking up to 4 times.</td>
+      <td><strong>Earth Shield</strong><br />10% Mana, 40yd range<br />Instant<br />Protects the target with an earthen shield, increasing your healing on them by 10% and healing them for [(36.5% of Spell power) * (1.1)] when they take damage. 9 charges. This heal can only occur once every few seconds.<br /><br />Earth Shield can only be placed on one target at a time. Only one Elemental Shield can be active on the Shaman at a time.</td>
+      <td><strong>Static Charge</strong><br />Passive<br />Reduces the cooldown of Capacitor Totem by 5 sec for each enemy it stuns, up to a maximum reduction of 20 sec.</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td><strong>Master of the Elements</strong><br />Passive<br />Casting Lava Burst increases the damage of your next Nature, Physical, or Frost spell by 20%.</td>
+      <td><strong>Storm Elemental</strong><br />Replaces Fire Elemental<br />40yd range<br />Instant, 2.5 min recharge<br />Calls forth a Greater Storm Elemental to hurl gusts of wind that damage the Shaman’s enemies for 30 sec.<br /><br />While the Storm Elemental is active, each time you cast Lightning Bolt or Chain Lightning, the cast time of Lightning Bolt and Chain Lightning is reduced by 3%, stacking up to 20 times.</td>
+      <td><strong>Liquid Magma Totem</strong><br />40yd range<br />Instant, 1 min cooldown<br />Summons a totem at the target location for 15 sec that hurls liquid magma at a random nearby target every 1 sec, dealing [(15% of Spell power) * (1)] Fire damage to all enemies within 8 yards.</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td><strong>Nature’s Guardian</strong><br />Passive<br />When your health is brought below 35%, you instantly heal for 20% of your maximum health.  Cannot occur more than once every 45 sec.</td>
+      <td><strong>Ancestral Guidance</strong><br />Instant, 2 min cooldown<br />For the next 10 sec, 25% of your damage and healing is converted to healing on up to 3 nearby injured party or raid members.</td>
+      <td><strong>Wind Rush Totem</strong><br />40yd range<br />Instant, 2 min cooldown<br />Summons a totem at the target location for 15 sec, continually granting all allies who pass within 10 yards 60% increased movement speed for 5 sec.</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td><strong>Surge of Power</strong><br />Passive<br />Earth Shock also enhances your next spell cast within 15 sec:<br /><br />Flame Shock: The next cast also applies Flame Shock to 1 additional target within 8 yards of the target.<br />Lightning Bolt: Your next cast will cause an additional 1-3 Elemental Overloads.<br />Lava Burst: Reduces the cooldown of your Storm / Fire Elemental by 6.0 sec.<br />Frost Shock: Freezes the target in place for 6 sec.</td>
+      <td><strong>Primal Elementalist</strong><br />Passive<br />Your Earth, Fire, and Storm Elementals are drawn from primal elementals 80% more powerful than regular elementals, with additional abilities, and you gain direct control over them.</td>
+      <td><strong>Icefury</strong><br />40yd range<br />2 sec cast, 30 sec cooldown<br />Hurls frigid ice at the target, dealing (55% of Spell power) Frost damage and causing your next 4 Frost Shocks to deal 200% increased damage. [lasts 15 sec]</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td><strong>Unlimited Power</strong><br />Passive<br />When your spells cause an elemental overload, you gain 2% Haste for 10 sec. Gaining a stack does not refresh the duration.</td>
+      <td><strong>Stormkeeper</strong><br />1.5 sec cast, 1 min cooldown<br />Charge yourself with lightning, causing your next 2 Lightning Bolts to deal 150% more damage, and also causes your next 2 Lightning Bolts or Chain Lightnings to be instant cast and trigger an Elemental Overload on every target. [lasts 15 sec]</td>
+      <td><strong>Ascendance</strong><br />Instant, 3 min cooldown<br />Transform into a Flame Ascendant for 15 sec, replacing Chain Lightning with Lava Beam, removing the cooldown on Lava Burst, and increasing the damage of Lava Burst by an amount equal to your critical strike chance.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="sorted-spell-lists">Sorted Spell Lists</h2>
+
+<p>[T]…Talent</p>
+
+<h3 id="offensive">Offensive</h3>
+
+<p>Single target:</p>
+<ul>
+  <li>Earth Shock</li>
+  <li>Flame Shock</li>
+  <li>Frost Shock</li>
+  <li>Lava Burst</li>
+  <li>Lightning Bolt</li>
+  <li>[T] Elemental Blast</li>
+</ul>
+
+<p>AoE:</p>
+<ul>
+  <li>Chain Lightning</li>
+  <li>Earthquake</li>
+</ul>
+
+<h3 id="offensive-cooldowns">Offensive Cooldowns</h3>
+
+<ul>
+  <li>Bloodlust / Heroism</li>
+  <li>Fire Elemental</li>
+  <li>Searing Totem</li>
+  <li>[T] Ascendance</li>
+  <li>[T] Echoing Shock</li>
+  <li>[T] Icefury</li>
+  <li>[T] Liquid Magma Totem</li>
+  <li>[T] Stormkeeper</li>
+</ul>
+
+<h3 id="defensive-coolowns">Defensive Coolowns</h3>
+
+<ul>
+  <li>Astral Shift</li>
+  <li>[T] Nature’s Guardian</li>
+</ul>
+
+<h3 id="healing">Healing</h3>
+
+<ul>
+  <li>Chain Heal</li>
+  <li>Healing Stream Totem</li>
+  <li>Healing Surge</li>
+  <li>[T] Earth Shield</li>
+</ul>
+
+<h3 id="crowd-control">Crowd Control</h3>
+
+<ul>
+  <li>Capacitor Totem</li>
+  <li>Earthbind Totem</li>
+  <li>Earthquake [hardly]</li>
+  <li>Hex</li>
+</ul>
+
+<h3 id="utility">Utility</h3>
+
+<ul>
+  <li>Astral Recall</li>
+  <li>Cleanse Spirit</li>
+  <li>Earth Elemental</li>
+  <li>Far Sight</li>
+  <li>Ghost Wolf</li>
+  <li>Purge</li>
+  <li>Reincarnation</li>
+  <li>Spiritwalker’s Grace</li>
+  <li>Thunderstorm</li>
+  <li>Tremor Totem</li>
+  <li>Water Walking</li>
+  <li>Wind Shear</li>
+  <li>[T] Ancestral Guidance</li>
+  <li>[T] Wind Rush Totem</li>
+</ul>
+
+<h3 id="useless">Useless</h3>
+
+<ul>
+  <li>Flametongue Weapon</li>
+  <li>Lightning Shield [alright….it’s not useless, but almost]</li>
+  <li>Primal Strike</li>
+</ul>
+
+<p>pvp:</p>
+<ul>
+  <li><img src="https://cdn.discordapp.com/attachments/698073433287688224/698084694717366292/unknown.png" alt="elemental attunement" /></li>
+  <li><img src="https://cdn.discordapp.com/attachments/698073433287688224/698084734961713202/unknown.png" alt="traveling storms" /></li>
+  <li><img src="https://cdn.discordapp.com/attachments/698073433287688224/698084791177707550/unknown.png" alt="spectral revocery" /></li>
+  <li><img src="https://cdn.discordapp.com/attachments/698073433287688224/698084831405539429/unknown.png" alt="skyfury totem" /></li>
+  <li><img src="https://cdn.discordapp.com/attachments/698073433287688224/698084864552861706/unknown.png" alt="counterstrike totem" /></li>
+  <li><img src="https://cdn.discordapp.com/attachments/698073433287688224/698084901215535204/unknown.png" alt="purifying waters" /></li>
+  <li><img src="https://cdn.discordapp.com/attachments/698073433287688224/698084950552870982/unknown.png" alt="grounding totem" /></li>
+  <li><img src="https://cdn.discordapp.com/attachments/698073433287688224/698084997688590396/unknown.png" alt="swelling waves" /></li>
+  <li><img src="https://cdn.discordapp.com/attachments/698073433287688224/698085036603211826/unknown.png" alt="control of lava" /></li>
+  <li><img src="https://cdn.discordapp.com/attachments/698073433287688224/698085084221145188/unknown.png" alt="lightning lasso" /></li>
+  <li><img src="https://cdn.discordapp.com/attachments/698073433287688224/698085210536804374/unknown.png" alt="relentless" /></li>
+  <li><img src="https://cdn.discordapp.com/attachments/698073433287688224/698085267449446440/unknown.png" alt="adaptation" /></li>
+  <li><img src="https://cdn.discordapp.com/attachments/698073433287688224/698085313855225926/unknown.png" alt="gladiator's medallion" /></li>
+</ul>
+
+<h2 id="special-remarks-and-tests">Special Remarks and Tests</h2>
+
+<h3 id="flame-shock">Flame Shock</h3>
+<p>Compared to Battle for Azeroth Flame Shock ticks only every 3 seconds instead of 2 seconds baseline. If you add the removal of Igneous Potential the frequency at which you gain Lava Surge procs is further reduced. Assuming 40% Haste:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Expansion</th>
+      <th>Calculation</th>
+      <th>Procs per minute</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Battle for Azeroth</td>
+      <td><code class="language-plaintext highlighter-rouge">60s / (2s / 1.4) * 0.18</code></td>
+      <td>7.56</td>
+    </tr>
+    <tr>
+      <td>Shadowlands</td>
+      <td><code class="language-plaintext highlighter-rouge">60s / (3s / 1.4) * 0.15</code></td>
+      <td>4.2</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>This will result in a noticeable drop in procs, which feels like a slowdown while playing.</p>
+
+<h3 id="fulmination">Fulmination</h3>
+<ul>
+  <li>is not affected by Elemental Fury (+50% crit damage)</li>
+  <li>Strange damage curve</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>Stack count</th>
+      <th>damage</th>
+      <th>crit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>94</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>141</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>188</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>237</td>
+      <td>473</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>283</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>331</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>377</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>426</td>
+      <td>852</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="searing-totem">Searing Totem</h3>
+<ul>
+  <li>[Bug] is not attacking target dummies
+    <blockquote>
+      <p>My tests!?</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="elemental-blast">Elemental Blast</h3>
+<ul>
+  <li>Overloads still create their own buff</li>
+  <li>Additional buffs can only have different stats</li>
+  <li>[Bug] Mastery buff was not seen to trigger</li>
+  <li>[Bug?] Only <strong>two buffs</strong> can be active at the same time (probably just the result of the former line)</li>
+  <li>Aweful gameplay with Surge of Power: Do you delay EB? Do you disregard SoP? Totem Mastery becomes mandatory to increase Fulmination generation</li>
+</ul>
+
+<h3 id="echoing-shock">Echoing Shock</h3>
+<ul>
+  <li>Spell is not affected by Master of the Elements</li>
+  <li>Spell is not affected by Elemental Fury</li>
+  <li>Echoing Shock buff is consumed on <strong>cast hit</strong>
+    <ul>
+      <li>this results in quite strange consumptions for casts with travel time like Elemental Blast (EB -&gt; Echoing Shock = Echoing Shock is consumed by the EB hit and doubles it)</li>
+      <li>Casts without visual travel time like Lightning Bolt and Chain Lightning still consume Echoing Shock, if Echoing Shock was cast right after casting them (LB/CL -&gt; Echoing Shock = Echoing Shock is consumed)</li>
+      <li>to properly use Echoing Shock with casts with casttime you have to first cast the to-be-doubled cast and Echoing Shock afterwards</li>
+    </ul>
+  </li>
+  <li>Echoed cast is an independant event (can crit, can overload, can buff)</li>
+  <li>Echoes of a Master of the Elements empowered casts are no longer empowered by Master of the Elements</li>
+  <li>Echoed Lightning Bolt while Stormkeeper was still active was buffed without consuming a buff (SK -&gt; Echoing Shock -&gt; LB)</li>
+  <li>Echoed Frost Shock while Icefury was still active was buffed without consuming a buff (IF -&gt; Echoing Shock -&gt; FrS)</li>
+  <li>Echoed Flame Shock refreshes with pandemic</li>
+  <li>Echoed Earthquake is cast at the same location of the original</li>
+  <li>With SoP talented you can actually cast ES (6+ Fulmination) -&gt; LB, and get two empowered LBs, thus up a sum of up to 6 Overloads from this one LB and its Echo</li>
+  <li>ES (6+F) -&gt; SK -&gt; Echoing Shock -&gt; LB -&gt; LB = 3 empowered LB and up to 7 empowered Overloads</li>
+</ul>
+
+<p>Does <strong>not</strong> affect:</p>
+<ul>
+  <li>Ascendance</li>
+  <li>Earth Elemental</li>
+  <li>Fire Elemental</li>
+  <li>[Bug?] Fulmination</li>
+  <li>[Bug] Lava Burst</li>
+  <li>Liquid Magma Totem</li>
+  <li>Searing Totem</li>
+  <li>Spiritwalker’s Grace</li>
+</ul>
+
+<p>Affects:</p>
+<ul>
+  <li>Earth Shock</li>
+  <li>Earthquake</li>
+  <li>Elemental Blast</li>
+  <li>Flame Shock</li>
+  <li>Frost Shock</li>
+  <li>Icefury</li>
+  <li>Lightning Bolt</li>
+  <li>Thunderstorm</li>
+</ul>
+
+<h3 id="totem-mastery">Totem Mastery</h3>
+<ul>
+  <li>stacks Fulmination outfight [that’s as op as it sounds]</li>
+</ul>
+
+<h3 id="master-of-elements">Master of Elements</h3>
+<p>Affects:</p>
+<ul>
+  <li>Chain Lightning</li>
+  <li>Earth Shock</li>
+  <li>Earthquake</li>
+  <li>Frost Shock</li>
+  <li>Lightning Bolt</li>
+  <li>[T] Elemental Blast</li>
+  <li>[T] Icefury</li>
+</ul>
+
+<p>Does <strong>not</strong> affect:</p>
+<ul>
+  <li>Fulmination</li>
+  <li>Primal Strike</li>
+  <li>[T] Echoing Shock</li>
+</ul>
+
+<h3 id="surge-of-power">Surge of Power</h3>
+<ul>
+  <li>[Bug] always enabled even if you select a different talent
+    <ul>
+      <li>Lava Burst portion of the talent is only active if the actual talent is enabled</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Phew, that’s it for now…</p>
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://bloodmallet.com/js/bloodmallet_chart_import.min.js"></script>
+
+  </div>
+
+</article>
+
+      </div>
+        </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+
+    <div class="footer-col-wrapper row">
+      <!-- <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Storm, Earth &amp; Lava</li></ul>
+      </div> -->
+
+      <div class="footer-col footer-col-1">
+         <h2 class="footer-heading">Storm, Earth &amp; Lava</h2><ul class="social-media-list"><li><a href="https://discord.gg/VA7wXVx" target="blank"><div class="svg-icon"><img src="/assets/img/logos/Discord-Logo-White.svg" alt="Discord logo" width="16" style="vertical-align: text-top;"/></div> <span class="username">Storm, Earth &amp; Lava</span></a></li><li><a href="https://twitter.com/StormEarthLava" target="blank"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">StormEarthLava</span></a></li><li><a href="https://github.com/stormearthandlava/stormearthandlava.github.io/issues" target="blank"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">stormearthandlava</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-2">
+        <p style="text-align: right; margin-right: -12px;">Guides for Elemental Shamans of World of Warcraft</p><p style="text-align: right; margin-right: -12px;"><a href="https://www.patreon.com/stormearthlava" target="blank"><img src="/assets/img/logos/become_a_patron_button.png" alt="Patreon button logo" height="36" style="vertical-align: text-top;"/></a></p><p style="text-align:right; margin-right: -12px; margin-left: 50px; padding-left:30px;">Special thanks to <a href="/patreon/thanks.html">our Patrons</a>.</p>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+
+</footer>
+</body>
+
+</html>

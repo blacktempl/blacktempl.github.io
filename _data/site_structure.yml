@@ -2,17 +2,17 @@
 
 categories:
 
-- title: Shadowlands
+- title: Истребление
   subcategories:
-    - title: General
-      url: /guide/shadowlands/current_state.html
-    - title: Blue Posts
+    - title: Гайд
+      url: /guide/Havoc/current_state.html
+    - title: Мифик+
       url: /guide/shadowlands/blue_posts.html
-- title: Guide
+- title: Месть
   subcategories:
-    - title: Talents
-      url: /guide/general/talents.html
-    - title: Priority List
+    - title: Гайд
+      url: /guide/general/talents.html    
+    - title: Мифик+
       url: /guide/general/priority_list.html
     - title: Stats
       url: /guide/general/stats.html
@@ -30,7 +30,7 @@ categories:
       url: /guide/general/weak_auras.html
     - title: F.A.Q.
       url: /guide/general/faq.html
-- title: Mythic+
+- title: Руководства
   url: /guide/general/mythic_plus.html
 
 
