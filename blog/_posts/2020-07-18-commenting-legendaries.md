@@ -1,14 +1,10 @@
 ---
 layout: post
-title: Commenting Legendaries
+title: Мы открылись
 date: 2020-07-18 00:00:00 +0200
 author: Bloodmallet(EU)
 ---
-Greetings,
-this post will talk about legendary effects. As always my perspective is purely about PvE.
-Greetings,
-this post will talk about legendary effects. As always my perspective is purely about PvE.Greetings,
-this post will talk about legendary effects. As always my perspective is purely about PvE.
+Отличные новости мы открылись и это отличный попод для того чтоб написать Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест 
 ### Ancestral Reminder
 > Bloodlust or any similar effects last an additional 20.0 sec on you, and you gain an extra 10% Haste from any Bloodlust type effect.
 
