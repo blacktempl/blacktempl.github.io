@@ -12,23 +12,30 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-weapon_skills: <a href="https://ru.wowhead.com/spell=202783/" target="blank">Навыки владения оружием</a>
-
+weapon_skills: <a href="https://ru.wowhead.com/spell=202783" target="blank">Навыки владения оружием</a>
 masterydh: <a href="https://ru.wowhead.com/spell=185164" target="blank">Искусность демоническое присутствие</a>
-heroism: <a href="https://bfa.wowhead.com/spell=2825" target="blank">Bloodlust/Heroism</a>
 
-capacitor_totem: <a href="https://bfa.wowhead.com/spell=192058" target="blank">Capacitor Totem</a>
+Metamorphosis: <a href="https://ru.wowhead.com/spell=191427" target="blank">Метаморфоза</a>
+Demons_Bite: <a href="https://ru.wowhead.com/spell=162243" target="blank">Укус демона</a>
+Chaos_Strike: <a href="https://ru.wowhead.com/spell=162794" target="blank">Удар Хаоса</a>
+Eye_Beam: <a href="https://ru.wowhead.com/spell=198013" target="blank">Пронзающий взгляд</a>
+Blade_Dance: <a href="https://ru.wowhead.com/spell=188499" target="blank">Танец клинков</a>
+Death_Sweep: <a href="https://ru.wowhead.com/spell=210152" target="blank">Смертоносный взмах</a>
+Blur: <a href="https://ru.wowhead.com/spell=198589" target="blank">Затуманивание</a>
+Darkness: <a href="https://ru.wowhead.com/spell=196718" target="blank">Мрак</a>
+Immolation_Aura: <a href="https://ru.wowhead.com/spell=258920" target="blank">Обжигающий жар</a>
 
-chain_lightning: <a href="https://bfa.wowhead.com/spell=188443" target="blank">Chain Lightning</a>
-cl: <a href="https://bfa.wowhead.com/spell=188443" target="blank">Chain Lightning</a>
+#Пассивные
+Furious_Gaze: <a href="https://ru.wowhead.com/spell=273231" target="blank">Яростный взор</a>
 
-chain_lightning_rank_2: <a href="https://bfa.wowhead.com/spell=231722" target="blank">Chain Lightning Rank 2</a>
-cl_2: <a href="https://bfa.wowhead.com/spell=231722" target="blank">Chain Lightning Rank 2</a>
 
-cleanse_spirit: <a href="https://bfa.wowhead.com/spell=51886" target="blank">Cleanse Spirit</a>
 
-earth_elemental: <a href="https://bfa.wowhead.com/spell=198103" target="blank">Earth Elemental</a>
-ee: <a href="https://bfa.wowhead.com/spell=198103" target="blank">Earth Elemental</a>
+
+
+
+Fel_Rush: <a href="https://ru.wowhead.com/spell=195072" target="blank">Рывок Скверны</a>
+Vengeful_Retreat: <a href="https://ru.wowhead.com/spell=198793" target="blank">Коварное отступление</a>
+Glide: <a href="https://ru.wowhead.com/spell=131347" target="blank">Планирование</a>
 
 earth_shock: <a href="https://bfa.wowhead.com/spell=8042" target="blank">Earth Shock</a>
 es: <a href="https://bfa.wowhead.com/spell=8042" target="blank">Earth Shock</a>

@@ -8,9 +8,35 @@
 
 // add more custom styles here
 
+//bottom post
+
+#cta-but a {
+	text-decoration: none;
+}
+
+.cta-button {
+    border: 1px solid #333;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 1px;
+    padding: 10px;
+    position: relative;
+}
+
+.cta-button a {
+    color: #ffd100;
+    cursor: pointer;
+	text-decoration: none;
+}
+
+.cta-button:hover {
+    box-shadow: none;
+    background: #333;
+    color: #fff;
+	text-decoration: none;
+}
 
 //spec logo index
-
 
 #speclogo {
 	width: 80%;

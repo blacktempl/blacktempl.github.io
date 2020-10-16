@@ -14,6 +14,7 @@
 
 #Средства передвижения
 Slayers_Felbroken_Shrieker: <a href="https://ru.wowhead.com/spell=229417" target="blank">Покоренный Скверной крылан истребителя</a>
+Felsaber: <a href="https://ru.wowhead.com/spell=200175" target="blank">Саблезуб Скверны</a>
 
 #Звание
 slayer_title: <a href="https://ru.wowhead.com/title=463" target="blank">Истребитель</a>
@@ -23,11 +24,17 @@ Hateful_Eye: <a href="https://ru.wowhead.com/item=136900" target="blank">Оме�
 
 #Игрушки 
 A_Tiny_Set_of_Warglaives: <a href="https://ru.wowhead.com/item=147537" target="blank">Крошечные боевые клинки</a>
+Skull_of_Corruption: <a href="https://ru.wowhead.com/item=143544" target="blank">Череп порчи</a>
 
 #Классовые оплоты
-Twisting_Nether: <a href="https://ru.wowhead.com/order-advancement=419/" target="blank">Круговерть Пустоты</a>
+Twisting_Nether: <a href="https://ru.wowhead.com/order-advancement=419" target="blank">Круговерть Пустоты</a>
 
-int_flask: <a href="https://bfa.wowhead.com/item=152639" target="blank">Flask of the Endless Fathoms</a>
+#Символы 
+Glyph_of_Tattered_Wings: <a href="https://ru.wowhead.com/spell=220226" target="blank">Символ рваных крыльев</a>
+Glyph_of_Fel_Wings: <a href="https://ru.wowhead.com/spell=220228" target="blank">Символ крыльев Скверны</a>
+Glyph_of_Fallow_Wings: <a href="https://ru.wowhead.com/spell=220083" target="blank">Символ бурых крыльев</a>
+Glyph_of_Tattered_Wings: <a href="https://ru.wowhead.com/spell=220226" target="blank">Символ рваных крыльев</a>
+Glyph_of_Crackling_Flames: <a href="https://ru.wowhead.com/item=129029" target="blank">Символ потрескивающего пламени</a>
 
 mystical_cauldron: <a href="https://bfa.wowhead.com/item=162519" target="blank">Mystical Cauldron</a>
 

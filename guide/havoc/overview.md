@@ -47,4 +47,113 @@ toc: true
 Основная цель заключается в грамотном расходовании ресурсов и своевременной реакции на получаемые излишки гнева, в том числе и во время действия усилений. Помимо всего прочего, специализация дает доступ к способностям, повышающим мобильность, а также к защитным заклинаниям. Все это позволяет охотнику на демонов приспосабливаться к самым разным ситуациям.
 
 ## Чем выделяеться специализация
-Охотник на Демонов специализации Истребление - это специализация бойцов ближнего боя.
+Охотник на Демонов специализации Истребление - это специализация бойцов ближнего боя. 
+
+<li> <b>Отличительная черта:</b> Охотники на Демонов используют магию Легиона против своих врагов. 
+Охотников на Демонов специализации Истребление - агрессивный боец ближнего боя с высокой мобильностью. 
+Они переняли черты демонов и используют против них свою силу. 
+Главное, что делает Охотников на Демонов по-настоящему особенными, - это {{ site.data.spell.Metamorphosis }}.</li>
+<li> <b>Ресурс:</b> Охотники на демонов используют ярость как ресурс. Использование таких способностей, 
+как {{ site.data.spell.Demons_Bite }} для генерации ярости, а затем использование других способностей, например {{ site.data.spell.Chaos_Strike }}, для ее потреблени. </li>
+<li> <b>Мобильность:</b> Охотникам на демонов нужно быстро побеждать врагов, на которых они охотятся. 
+Использование уникальных способностей, таких как {{ site.data.spell.Fel_Rush }}, чтобы быстро сократить разрыв между противниками, 
+или используйте {{ site.data.spell.Vengeful_Retreat }} для побега. 
+Вы даже можете использовать {{ site.data.spell.Glide }}, чтобы парить с большой высоты.</li>
+<li> <b>АоЕ способность:</b> {{ site.data.spell.Eye_Beam }} одна из многих ваших АоЕ способностей, такая же как и {{ site.data.spell.Blade_Dance }}.</li>
+<li> <b>Защитные способности:</b> {{ site.data.spell.Blur }} - ваша основная защитная способность.{{ site.data.spell.Darkness }} 
+вторая защитная способность в нашем арсенале которая может помочь как и вам так и вашим союзникам.</li>
+<li> <b>Уникальное средство передвижения:</b> Охотники на демонов, независимо от специализации или расы, получат {{ site.data.item.Felsaber }}.</li>
+<li> <b>Броня:</b> Охотники на демонов носят Кожанную броню с Ловкостью.</li>
+<li> Особенность:
+            <ul>
+                <li> У Охотников на Демонов есть особый маунт {{ site.data.item.Felsaber }}</li>
+                <li class="asc-apl" style="display:none;"></li>
+                <li> У Охотников на Демонов есть два уникальных набора трансмогрификации для каждой фракции: <a href="https://www.wowhead.com/dressing-room#bmzb0zJ89c8X8rd8W8dS8Y8rt8Z8rQ8bn8MIi8bx8MIQ8bF8MAs8bl8MNU858fg8bU8MLa8qP8MfL818fz8bW8ML18bh8MuC8bb8Muf8eLQ808Dlv87cDlC87VDlD808DlB808DlH808DlE808DlF87a"> Иллидари Альнс</a>
+				,<a href="https://www.wowhead.com/dressing-room#bm0z0zJ89c8H8bA8F8q58J8bH8K8b18bK8MAt8bO8MAB8O8ds8S8dn8U8dE8bJ8MAy8bC8MA08bQ8MLs8qO8Mfb8bg8MNr8bv8MNl8HhM808Cuw87cCuh87VCud808CuG808Cuf808Cui808Cuu87a"> Прерыватель страданий Альянс</a>
+				,<a href="https://www.wowhead.com/dressing-room#bazb0zJ89c8Mm8xh8Mc8yX8MV8xH8Mo8tc8Ma8tZ8sX8z3e8Mq8gM8ac8z5W8Mk8ti8s18z4k8oe8tD8Ms8tP8fI8M3r8dN8MgE8aY8MR7ceLZ87ceLX87VeLU808eLY808eLW808eLS808eL187a"> Иллидари Орда</a>
+				,<a href="https://www.wowhead.com/dressing-room#bazb0zJ89c8Mm8xh8Mc8yX8MV8xH8Mo8tc8Ma8tZ8sX8z3e8Mq8gM8ac8z5W8Mk8ti8s18z4k8oe8tD8Ms8tP8fI8M3r8dN8MgE8aY8MR7ceLZ87ceLX87VeLU808eLY808eLW808eLS808eL187a"> Прерыватель страданий Орда</a>
+				</li>
+                <li class="se-apl" style="display: none;"></li>
+				<li> У Охотников на Демонов есть собственные эмоции, волосы, татуировки, цвет кожи и повязки на глаза.
+				Шлемы и Нагрудная броня Легиона выглядят по-разному, если их наденет Охотник на демонов.</li>
+                <li class="asc-apl" style="display:none;"></li>
+                <li> Охотники на Демонов могут добыть особую игрушку с Гул'дана. {{ site.data.item.Skull_of_Corruption }}</li>
+                <li class="se-apl" style="display: none;"></li>
+				<li> У охотников на демонов есть специальные косметические символы, которые изменяют внешний вид крыльев во время планирования 
+				{{ site.data.item.Glyph_of_Tattered_Wings }},
+				{{ site.data.item.Glyph_of_Fel_Wings }},
+				{{ site.data.item.Glyph_of_Fallow_Wings }} - а также Обжигающего жара {{ site.data.item.Glyph_of_Crackling_Flames }}.</li>
+            </ul>
+        </li>
+		
+## Крупнейшие изменения Охотниками на Демонов Истребление в Shadowlands
+
+<li> {{ site.data.spell.Immolation_Aura }} – стала базовой способностью.</li>
+<li> Защитный сособности специализации были сильно ослаблены. В результате чего пострадала живучесть.</li>
+<li> {{ site.data.talent.Unbound_Chaos }} - добален новый талант. Он был удален как азеритовый талант в начале BFA.</li>
+<li> {{ site.data.talent.Glaive_Tempest }} - это новый талант, вдохновленный {{ site.data.spell.Fury_of_the_Illidari }}, нашей старой способностью «Артефактного оружиея».</li>
+<li> {{ site.data.talent.Nemesis }} удален из игры.</li>
+
+## Изменения Охотниками на Демонов Истребление в Shadowlands
+
+<li> Ярость стала общим ресурсом для класса.</li>
+<li> {{ site.data.spell.Blade_Dance }} – больше не увеличивает ваш шанс увернуться на 100% на 1 сек.</li>
+<li> {{ site.data.spell.Death_Sweep }} – больше не увеличивает ваш шанс увернуться на 100% на 1 сек.</li>
+<li> {{ site.data.spell.Blur }} – уменьшили показатель уменьшения входящего урона с 35% до 20%</li>
+<li> {{ site.data.spell.Eye_Beam }} – Новая формула масштабирования урона => Урон по основной цели / Sqrt (количество пораженных целей).</li>
+<li> {{ site.data.talent.Insatiable_Hunger }} – {{ site.data.spell.Demons_Bite }} наносит на 20% больше урона и генерирует от 5 до 10 дополнительной ярости.</li>
+<li> {{ site.data.talent.Burning_Hatred }} – {{ site.data.spell.Immolation_Aura }} дополнительно генерирует 30 ед. ярости в течении 6 сек</li>
+<li> {{ site.data.talent.Soul_Rending }} – Теперь пассивно дает 5% вместо 10%, а под метаморфозой дополнительно 25% вместо 10%</li>
+<li> {{ site.data.talent.Desperate_Instincts }} – {{ site.data.spell.Blur }} дополнительно уменьшает урон еще на 10% (было на 15%). Кроме того, вы автоматически активируете {{ site.data.spell.Blur }}, когда ваше здоровье падает ниже 35%. Этот эффект может сработать когда {{ site.data.spell.Blur }} не находится на перезарядке.</li>
+<li> {{ site.data.talent.Netherwalk }} – Изменено время восстановления способности, было 2 минуты стало 3 минуты..</li>
+<li> {{ site.data.talent.Cycle_of_Hatred }} – Когда {{ site.data.spell.Chaos_Strike }} восстанавливает ярость, оно также уменьшает время восстановления {{ site.data.spell.Eye_Beam }} на 3 сек. (Раньше уменьшал время восстановления {{ site.data.spell.Metamorphosis }}).</li>
+<li> {{ site.data.talent.Essence_Break }} - Наносит урон Хаоса всем врагам, находящимся перед вами и увеличьте урон, наносимый им вашими {{ site.data.spell.Chaos_Strike }} и {{ site.data.spell.Blade_Dance }}, на 40% в течение 8 сек.</li>
+<li> {{ site.data.talent.Demonic }} - После использования {{ site.data.spell.Eye_Beam }} вы принимаете форму демона на 6 сек. (было 8 сек.)</li>
+<li> {{ site.data.talent.Fel_Barrage }} - стал талантом последнего тира, бьет одновременно 8 целей.</li>
+<li> Добавлена пассивная способность {{ site.data.spell.Furious_Gaze }} дающая 15% скорости на 12 сек. после применения {{ site.data.spell.Eye_Beam }}</li>
+
+## Новые возможности трансмогрификации артефакта для Охотниками на Демонов Истребление
+
+В Shadowlands появться новая возможность трансмогрификации <a href="https://www.wowhead.com/news=317669/artifact-transmog-in-shadowlands-new-creative-weapon-combinations"> артефакта</a>, позволяя игрокам преобразовывать свое оружие в любой вид артефакта.
+
+<div id="cta-but">
+<div style="text-align: -webkit-center;">
+<a href="https://shadowlands.wowhead.com/artifact-calc" class="cta-button" data-border="strong">Все модели артефактного оружия</a>
+<a href="https://www.wowhead.com/unlocking-artifact-appearances-guide" class="cta-button" data-border="strong">Получение обликов артефактов</a>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
