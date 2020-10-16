@@ -22,10 +22,12 @@ layout: default
       </p>
     {%- endif -%}
   </header>
+  
  {%- assign page_content=content -%}
+ {%- include side_menu.html -%}
+    
   <div class="post-content">
-     <!--{%- include side_menu.html -%} -->
-    {%- if page.toc == true -%}
+     {%- if page.toc == true -%}
       <h3>Table of Contents</h3>
       {%- include toc.html html=content class="toc" h_max=3 -%}
       <hr>
