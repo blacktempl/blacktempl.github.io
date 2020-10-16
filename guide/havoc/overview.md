@@ -118,8 +118,8 @@ toc: true
 
 <div id="cta-but">
 <div style="text-align: -webkit-center;">
-<a href="https://shadowlands.wowhead.com/artifact-calc" class="cta-button" data-border="strong">Все модели артефактного оружия</a>
-<a href="https://www.wowhead.com/unlocking-artifact-appearances-guide" class="cta-button" data-border="strong">Получение обликов артефактов</a>
+<a href="https://shadowlands.wowhead.com/artifact-calc" class="cta-button" data-border="strong" target="_blank">Все модели артефактного оружия</a>
+<a href="https://www.wowhead.com/unlocking-artifact-appearances-guide" class="cta-button" data-border="strong" target="_blank">Получение обликов артефактов</a>
 </div>
 </div>
 
