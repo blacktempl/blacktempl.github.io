@@ -8,14 +8,26 @@
 
 // add more custom styles here
 
-.smooth-nav-outer {
-	border-color: #3498db !important;
-    border: 2px solid #7922CC;
+#smooth-nav-outer {
+	display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit,minmax(230px,1fr));
+    padding-top: 10px;
 }
 
-.smooth-nav-outer a {
-	border-color: #3498db !important;
-    border: 2px solid #7922CC;
+#smooth-nav-outer a {
+	border: 1px solid #3b3b3b;
+    border-radius: 4px;
+    background-clip: padding-box;
+    /* height: 30px; */
+    flex-grow: 1;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 30px;
+    overflow: hidden;
+    padding: 5px 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .wrapper-content {
