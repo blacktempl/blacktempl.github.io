@@ -11,8 +11,23 @@
 #smooth-nav-outer {
 	display: grid;
     grid-gap: 10px;
-    grid-template-columns: repeat(auto-fit,minmax(230px,1fr));
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
     padding-top: 10px;
+}
+
+#smooth-nav-outer img {
+	content: "";
+    display: inline-block;
+    position: relative;
+    background-color: #080808;
+    background-size: contain;
+    border-radius: 100%;
+    float: left;
+    height: 24px;
+    left: -2px;
+    margin-right: 6px;
+    top: 3px;
+    width: 24px;
 }
 
 #smooth-nav-outer a {
@@ -29,12 +44,14 @@
     text-overflow: ellipsis;
     white-space: nowrap;
 	color: #a94ac8;
+	white-space: nowrap;
 }
 
 #smooth-nav-outer a:hover {
     box-shadow: none;
-    background-color: #3b3b3b;
     color: #fff!important;
+	background-color: #8226a0;
+    border-color: #8226a0;
 }
 
 .wrapper-content {
