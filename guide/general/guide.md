@@ -7,16 +7,16 @@ toc: true
 ---
 
 <div id="smooth-nav-outer">
-<a href="/blog/2020/07/18/commenting-legendaries.html">Commenting Legendaries</a>
-<a href="/blog/2020/07/18/commenting-legendaries.html">Commenting Legendaries</a>
-<a href="/blog/2020/07/18/commenting-legendaries.html">Commenting Legendaries</a>
-<a href="/blog/2020/07/18/commenting-legendaries.html">Commenting Legendaries</a>
-<a href="/blog/2020/07/18/commenting-legendaries.html">Commenting Legendaries</a>
-<a href="/blog/2020/07/18/commenting-legendaries.html">Commenting Legendaries</a>
-<a href="/blog/2020/07/18/commenting-legendaries.html">Commenting Legendaries</a>
-<a href="/blog/2020/07/18/commenting-legendaries.html">Commenting Legendaries</a>
-<a href="/blog/2020/07/18/commenting-legendaries.html">Commenting Legendaries</a>
-<a href="/blog/2020/07/18/commenting-legendaries.html">Commenting Legendaries</a>
-<a href="/blog/2020/07/18/commenting-legendaries.html">Commenting Legendaries</a>
-<a href="/blog/2020/07/18/commenting-legendaries.html">Commenting Legendaries</a>
+<a href="/blog/2020/07/18/commenting-legendaries.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg">  Legendaries</a>
+<a href="/blog/2020/07/18/commenting-legendaries.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
+<a href="/blog/2020/07/18/commenting-legendaries.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
+<a href="/blog/2020/07/18/commenting-legendaries.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
+<a href="/blog/2020/07/18/commenting-legendaries.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
+<a href="/blog/2020/07/18/commenting-legendaries.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
+<a href="/blog/2020/07/18/commenting-legendaries.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
+<a href="/blog/2020/07/18/commenting-legendaries.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
+<a href="/blog/2020/07/18/commenting-legendaries.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
+<a href="/blog/2020/07/18/commenting-legendaries.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
+<a href="/blog/2020/07/18/commenting-legendaries.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
+<a href="/blog/2020/07/18/commenting-legendaries.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
 </div>
