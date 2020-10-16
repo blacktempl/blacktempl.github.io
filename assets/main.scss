@@ -165,12 +165,22 @@
 }
 
 #card-body li {
-    border-color: #3498db !important;
     border: 2px solid #7922CC;
 	border-radius: 20px 0px 20px 10px;
     padding: 1.25rem;
 	margin: 10px;
 	
+}
+
+#card-body a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+#card-body a:visited {
+    color: #6c8d78;
 }
 
 .post-read {
