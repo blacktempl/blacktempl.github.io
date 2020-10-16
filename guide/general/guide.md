@@ -6,10 +6,10 @@ game_version: 8.3.0 Battle for Azeroth
 toc: true
 ---
 
-
+[первая]({{ site.baseurl }}{% link guide/general/trinkets.md %})
 
 <div id="smooth-nav-outer">
-<li>
+
 <li>[первая]({{ site.baseurl }}{% link guide/general/trinkets.md %})</li>
 <li>[вторая]({{ site.baseurl }}{% link guide/general/trinkets.md %})</li>
 <li>[третья]({{ site.baseurl }}{% link guide/general/trinkets.md %})</li>
