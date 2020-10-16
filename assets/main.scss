@@ -9,6 +9,16 @@
 // add more custom styles here
 
 
+//spec logo index
+
+
+#speclogo{
+	display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    padding-top: 10px;
+}
+
 // Side menu for all pages within a category. Lists all siblings
 .side-menu {
     //background-color: $grey-color-dark;
@@ -161,7 +171,7 @@
 	box-shadow: 0 1px 4px rgba(0, 0, 0, 1),
                 -23px 0 20px -23px rgba(0, 0, 0, .8),
                 23px 0 20px -23px rgba(0, 0, 0, .8),
-                0 0 40px rgba(0, 0, 0, .1) inset;
+                0 0 5px rgba(0, 0, 0, .1) inset;
 }
 
 #card-body li {
