@@ -24,7 +24,7 @@ discord_servername: Black Temple
 discord_invite: https://discord.gg/434y7Nh
 twitter_username: DhLonely
 github_username:  blacktempl
-timezone: Ukraine/Kyiv 
+timezone: Australia/Sydney
 
 # Hide posts that are scheduled for the future. Do not set to true unless you are VERY sure you know what you're doing:
 future: false
