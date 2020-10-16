@@ -7,8 +7,8 @@
         <h3>{{- main_category.title -}}</h3>
         <ul>
 
-           {% for item in site.data.samplelist.docs %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+          {%- for sibling in main_category.subcategories -%}
+            <li><a class="side-menu-link" href="{{- sibling.url -}}">{{- sibling.title -}}</a></li>
           {%- endfor -%}
 
         </ul>
