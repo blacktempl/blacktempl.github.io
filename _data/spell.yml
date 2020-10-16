@@ -12,11 +12,9 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-astral_recall: <a href="https://bfa.wowhead.com/spell=556" target="blank">Astral Recall</a>
+weapon_skills: <a href="https://ru.wowhead.com/spell=202783/" target="blank">Навыки владения оружием</a>
 
-astral_shift: <a href="https://bfa.wowhead.com/spell=108271" target="blank">Astral Shift</a>
-
-bloodlust: <a href="https://bfa.wowhead.com/spell=2825" target="blank">Bloodlust/Heroism</a>
+masterydh: <a href="https://ru.wowhead.com/spell=185164" target="blank">Искусность демоническое присутствие</a>
 heroism: <a href="https://bfa.wowhead.com/spell=2825" target="blank">Bloodlust/Heroism</a>
 
 capacitor_totem: <a href="https://bfa.wowhead.com/spell=192058" target="blank">Capacitor Totem</a>

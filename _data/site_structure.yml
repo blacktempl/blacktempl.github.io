@@ -5,33 +5,17 @@ categories:
 - title: Истребление
   subcategories:
     - title: Гайд
-      url: /guide/Havoc/current_state.html
+      url: /guide/havoc/overview.html
     - title: Мифик+
-      url: /guide/shadowlands/blue_posts.html
+      url: #
 - title: Месть
   subcategories:
     - title: Гайд
-      url: /guide/general/talents.html    
+      url: /guide/vengeance/overview.html    
     - title: Мифик+
-      url: /guide/general/priority_list.html
-    - title: Stats
-      url: /guide/general/stats.html
-    - title: Azerite Essences
-      url: /guide/general/azerite_essences.html
-    - title: Azerite Traits
-      url: /guide/general/azerite_traits.html
-    - title: Gear
-      url: /guide/general/gear.html
-    - title: Trinkets
-      url: /guide/general/trinkets.html
-    - title: Consumables
-      url: /guide/general/consumables.html
-    - title: WeakAuras
-      url: /guide/general/weak_auras.html
-    - title: F.A.Q.
-      url: /guide/general/faq.html
+      url: # 
 - title: Руководства
-  url: /guide/general/mythic_plus.html
+  url: #
 
 
 # - title: Raids
