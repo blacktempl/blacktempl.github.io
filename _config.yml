@@ -13,18 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Storm, Earth & Lava
+title: Black Temple
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Guides for Elemental Shamans of World of Warcraft
+  Гайды для Охотников на Демонов World of Warcraft
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 patreon_name: stormearthlava
-discord_servername: Storm, Earth & Lava
-discord_invite: https://discord.gg/VA7wXVx
-twitter_username: StormEarthLava
-github_username:  stormearthandlava
-timezone: Australia/Sydney
+discord_servername: Black Temple
+discord_invite: https://discord.gg/434y7Nh
+twitter_username: DhLonely
+github_username:  blacktempl
+timezone: Ukraine/Kyiv 
 
 # Hide posts that are scheduled for the future. Do not set to true unless you are VERY sure you know what you're doing:
 future: false
