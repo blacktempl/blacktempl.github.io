@@ -14,14 +14,14 @@
     //background-color: $grey-color-dark;
     margin-left: $spacing-unit !important;
     margin-bottom: $spacing-unit !important;
-    margin-top: 20px !important;
+    margin-top: -320px !important;
     padding-top: $spacing-unit / 2 !important;
     padding-bottom: $spacing-unit / 2 !important;
     padding-left: $spacing-unit / 2 !important;
     position: fixed !important;
     right: 1% !important;
     border-left: 3px solid $grey-color;
-    width: 360px !important;
+    width: 420px !important;
     h3 {
         @include relative-font-size(1.425);
 
