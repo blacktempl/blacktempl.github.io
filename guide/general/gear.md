@@ -9,7 +9,8 @@ toc: true
 ## Azerite Items
 
 
-<div class="smooth-nav-outer">
+<div id="smooth-nav-outer">
+<li>
 [первая]({{ site.baseurl }}{% link guide/general/trinkets.md %})
 [вторая]({{ site.baseurl }}{% link guide/general/trinkets.md %})
 [третья]({{ site.baseurl }}{% link guide/general/trinkets.md %})
@@ -19,6 +20,7 @@ toc: true
 [седьмая]({{ site.baseurl }}{% link guide/general/trinkets.md %})
 [восьмая]({{ site.baseurl }}{% link guide/general/trinkets.md %})
 [девятая]({{ site.baseurl }}{% link guide/general/trinkets.md %})
+</li>
 </div>
 
 
