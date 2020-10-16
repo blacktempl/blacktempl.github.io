@@ -6,15 +6,18 @@ game_version: 8.3.0 Battle for Azeroth
 toc: true
 ---
 
-## TL;DR Recommendations
-<div class="smooth-nav-outer">
-[первая]({{ site.baseurl }}{% link guide/general/trinkets.md %})
-[вторая]({{ site.baseurl }}{% link guide/general/trinkets.md %})
-[третья]({{ site.baseurl }}{% link guide/general/trinkets.md %})
-[четвертая]({{ site.baseurl }}{% link guide/general/trinkets.md %})
-[пятая]({{ site.baseurl }}{% link guide/general/trinkets.md %})
-[шестая]({{ site.baseurl }}{% link guide/general/trinkets.md %})
-[седьмая]({{ site.baseurl }}{% link guide/general/trinkets.md %})
-[восьмая]({{ site.baseurl }}{% link guide/general/trinkets.md %})
-[девятая]({{ site.baseurl }}{% link guide/general/trinkets.md %})
+
+
+<div id="smooth-nav-outer">
+<li>
+<li>[первая]({{ site.baseurl }}{% link guide/general/trinkets.md %})</li>
+<li>[вторая]({{ site.baseurl }}{% link guide/general/trinkets.md %})</li>
+<li>[третья]({{ site.baseurl }}{% link guide/general/trinkets.md %})</li>
+<li>[четвертая]({{ site.baseurl }}{% link guide/general/trinkets.md %})</li>
+<li>[пятая]({{ site.baseurl }}{% link guide/general/trinkets.md %})</li>
+<li>[шестая]({{ site.baseurl }}{% link guide/general/trinkets.md %})</li>
+<li>[седьмая]({{ site.baseurl }}{% link guide/general/trinkets.md %})</li>
+<li>[восьмая]({{ site.baseurl }}{% link guide/general/trinkets.md %})</li>
+<li>[девятая]({{ site.baseurl }}{% link guide/general/trinkets.md %})</li>
+</li>
 </div>
