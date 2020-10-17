@@ -30,6 +30,14 @@ toc: true
     <img src="{{ site.url }}/assets/img/guide/havoc/beginer_build901.jpg">
 </p>
 
+## Ротация
+
+Это простая ротация для Охотника на Демонов Истребления с использованием рекомендованных выше талантов. Более оптимизированные ротации с другими вариациями талантов можно найти в Руководстве <a href="{{ site.url }}/guide/havoc/rotation-priority.html"> Ротация</a>.
+	1. {{ site.data.spell.Death_Sweep }} / {{ site.data.azerite.Blade_Dance }}
+    1. {{ site.data.spell.Immolation_Aura }} 
+    1. {{ site.data.spell.Eye_Beam }}
+    1. {{ site.data.spell.Annihilation }} / {{ site.data.talent.Chaos_Strike }}
+    1. {{ site.data.spell.Demons_Bite }}
 
 
 
