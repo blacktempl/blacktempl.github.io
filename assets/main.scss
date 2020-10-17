@@ -71,11 +71,7 @@
     position: relative;
 }
 
-.cta-button a {
-    color: #78c50a!important;
-    cursor: pointer;
-	text-decoration: none;
-}
+
 
 .cta-button:hover {
     box-shadow: none;
@@ -454,7 +450,7 @@ div.apl > ol > li > ol > li {
   text-decoration: none;
 
   &:visited {
-    color: $brand-color;
+    color: #ffd100;
   }
 
   &:hover {
