@@ -22,9 +22,12 @@ toc: true
 <a href="#"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
 </div>
 <br>
-## Основная информация
+## Таланты
 	   
 Этот билд для Охотника на Демонов Истребления хорошо продумана и подходит для всех типов контента, чтоб не зацикливаясь на чем-то конкретном. Для более подробного изучения каждого таланта и более специализированных билдов для конкретных действий см. <a href="{{ site.url }}/guide/havoc/talent-builds.html"> Таланты и Билды</a>.
+
+<img src="https://wow.zamimg.com/assets/img/guide/havoc/beginer_build901.jpg">
+
 
 
 
