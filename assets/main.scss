@@ -58,7 +58,8 @@
 }
 
 #cta-but a {
-	text-decoration: none;
+	text-decoration: none;.
+	color: #78c50a!important;
 }
 
 .cta-button {
@@ -71,7 +72,7 @@
 }
 
 .cta-button a {
-    color: #ffd100;
+    color: #78c50a!important;
     cursor: pointer;
 	text-decoration: none;
 }
@@ -449,7 +450,7 @@ div.apl > ol > li > ol > li {
 
 // Fix wowhead tooltip visited colour via `a` elements.
 .post-content a {
-  color: $brand-color;
+  color: #ffd100;
   text-decoration: none;
 
   &:visited {
