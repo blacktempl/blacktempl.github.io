@@ -4,13 +4,9 @@
 
 @import "minima";
 
-
-
 // add more custom styles here
 
 //guide navi bottom
-
-
 
 .text .minibox {
     background: #181818;
@@ -41,8 +37,8 @@
 }
 
 .minibox a:focus{
-	color: #000;
-	text-decoration: none;
+	color:#ccc!important;
+	text-decoration: none!important;
 }
 
 .minibox.minibox-left{
@@ -251,10 +247,6 @@
 	color: #0CF;
 }
 
-#activePage a {
- color: #0CF !important
-}
-
 #smooth-nav-outer a:hover {
     box-shadow: none;
     color: #fff!important;
@@ -364,7 +356,6 @@ a.dropdown-item:visited {
   width: -webkit-calc(60% - ( #{$spacing-unit} / 2));
   width: calc(60% - ( #{$spacing-unit} / 2));
 }
-
 
 // Side menu for all pages within a category. Lists all siblings
 .side-menu {
