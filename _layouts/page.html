@@ -21,7 +21,11 @@ layout: default
           <span name="devider">•&nbsp;</span>
         {%- endif -%}
         {%- if page.game_version -%}
-          for <span itemprop="game_version">{{ page.game_version }}</span>
+          для <span itemprop="game_version">{{ page.game_version }}</span>
+        {%- endif -%}
+		{%- if page.author -%}
+          {%- if page.last_update or page.wow -%}<br/>{%- endif -%}
+         Автор: {{ page.author }} 
         {%- endif -%}
       </p>
     {%- endif -%}

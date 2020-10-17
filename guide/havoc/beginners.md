@@ -26,7 +26,9 @@ toc: true
 	   
 Этот билд для Охотника на Демонов Истребления хорошо продумана и подходит для всех типов контента, чтоб не зацикливаясь на чем-то конкретном. Для более подробного изучения каждого таланта и более специализированных билдов для конкретных действий см. <a href="{{ site.url }}/guide/havoc/talent-builds.html"> Таланты и Билды</a>.
 
-<img src="https://wow.zamimg.com/assets/img/guide/havoc/beginer_build901.jpg">
+<p align="center" width="100%">
+    <img src="{{ site.url }}/assets/img/guide/havoc/beginer_build901.jpg">
+</p>
 
 
 
