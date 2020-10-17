@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Гайды для Охотников на Демонов World of Warcraft
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-patreon_name: stormearthlava
+patreon_name: DemonHunterCommunity
 discord_servername: Black Temple
 discord_invite: https://discord.gg/434y7Nh
 twitter_username: DhLonely
