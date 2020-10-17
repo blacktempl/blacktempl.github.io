@@ -15,7 +15,9 @@ categories:
     - title: Мифик+
       url: ## 
 - title: Руководства
-  url: #
+  subcategories:
+    - title: Макросы
+      url: /guide/general/macros_guide.html      
 
 
 # - title: Raids

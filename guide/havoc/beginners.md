@@ -53,8 +53,8 @@ toc: true
 
 ## Зачаровывание и камни
 
-<div class="minibox minibox-left"><a href="#">Previous Page:<br>Overview</a></div>
-<div class="minibox"><a href="#">Next Page:<br>Azerite</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/overview.html">Назад:<br>Обзор</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Длаее:<br>Таланты и Билды</a></div>
 
 
 

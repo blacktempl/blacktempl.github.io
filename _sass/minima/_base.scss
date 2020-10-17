@@ -8,6 +8,53 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+/**
+ * Code formatting
+ */
+pre,
+code {
+  @include relative-font-size(0.9375);
+  border: 1px solid $grey-color-light;
+  border-radius: 3px;
+//  background-color: #eef;
+}
+
+code {
+  padding: 1px 5px;
+}
+
+code > button.copy-btn {
+    position: absolute;
+    top:0;
+    right:0;
+    //display: none;
+    display: block;
+    border: 0;
+    margin-top: 1px;
+    margin-right: 1px;
+  @include media-query($on-laptop) {
+    display: block;
+  }
+}
+
+pre:hover > code > button.copy-btn {
+    display: block;
+}
+
+
+pre {
+  padding: 8px 12px;
+  position: relative;
+
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+    white-space: pre-line;
+    word-break: break-word;
+  }
+}
+
 
 
 /**

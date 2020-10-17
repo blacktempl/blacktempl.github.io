@@ -29,7 +29,7 @@ toc: true
  <li> Охотники на демонов теперь могут трансмогрифицировать внешний вид артефакта Легиона для разных специализаций и для каждой руки индивидуально!</li>
  <li> Охотники на демонов начинают игру с 8 уровня.</li>
  <li> {{ site.data.spell.masterydh }} увеличивает урон хаосом и скорость передвижения.</li>
-<li> Награды классового оплота:
+ <li> Награды классового оплота:
             <ul>
                 <li>Средства передвижения: {{ site.data.item.Slayers_Felbroken_Shrieker }}</li>
                 <li class="asc-apl" style="display:none;"></li>
@@ -122,6 +122,6 @@ toc: true
 <a href="https://www.wowhead.com/unlocking-artifact-appearances-guide" class="cta-button" data-border="strong" target="_blank">Получение обликов артефактов</a>
 </div>
 
-
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/beginners.html">Далее:<br>Новичкам</a></div>
 
 
