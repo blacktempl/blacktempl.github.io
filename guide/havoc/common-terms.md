@@ -109,3 +109,40 @@ toc: true
     <td>{{ site.data.spell.Vengeful_Retreat }}</td>
   </tr>
 </table>
+
+### Основные таланты
+<table style="width:65%;">
+  <tr>
+    <td>Бараж</td>
+    <td>{{ site.data.talent.Fel_Barrage }}</td>
+  </tr>
+  <tr>
+    <td>ДА</td>
+    <td>{{ site.data.talent.Demonic_Appetite }}</td>
+  </tr>
+  <tr>
+    <td>ДБ</td>
+    <td>{{ site.data.talent.Demon_Blades }}</td>
+  </tr>
+  <tr>
+    <td>Разрыв</td>
+    <td>{{ site.data.talent.Essence_Break }}</td>
+  </tr>
+  <tr>
+    <td>ФБ, Клинок</td>
+    <td>{{ site.data.talent.Felblade }}</td>
+  </tr>
+  <tr>
+    <td>СТ Стан</td>
+    <td>{{ site.data.talent.Fel_Eruption }}</td>
+  </tr>
+  <tr>
+    <td>ШК, Шквал</td>
+    <td>{{ site.data.talent.Glaive_Tempest }}</td>
+  </tr>
+  <tr>
+    <td>Хаос</td>
+    <td>{{ site.data.talent.Unbound_Chaos }}</td>
+  </tr>
+</table>
+
