@@ -87,17 +87,17 @@ toc: true
 				{{ site.data.item.Glyph_of_Fallow_Wings }} - а также Обжигающего жара {{ site.data.item.Glyph_of_Crackling_Flames }}.</li>
             </ul>
         </li>
-		
+<br>		
 ## Значительные изменения Охотниками на Демонов Истребление в Shadowlands
-
+<br>
 <li> {{ site.data.spell.Immolation_Aura }} – стала базовой способностью.</li>
 <li> Защитный сособности специализации были сильно ослаблены. В результате чего пострадала живучесть.</li>
 <li> {{ site.data.talent.Unbound_Chaos }} - добален новый талант. Он был удален как азеритовый талант в начале BFA.</li>
 <li> {{ site.data.talent.Glaive_Tempest }} - это новый талант, вдохновленный {{ site.data.spell.Fury_of_the_Illidari }}, нашей старой способностью «Артефактного оружия».</li>
 <li> {{ site.data.talent.Nemesis }} удален из игры.</li>
-
+<br>
 ## Изменения Охотниками на Демонов Истребление в Shadowlands
-
+<br>
 <li> Ярость стала общим ресурсом для класса.</li>
 <li> {{ site.data.spell.Blade_Dance }} / {{ site.data.spell.Death_Sweep }} – больше не увеличивает ваш шанс увернуться на 100% на 1 сек.</li>
 <li> {{ site.data.spell.Blur }} – уменьшили показатель уменьшения входящего урона с 35% до 20%</li>
