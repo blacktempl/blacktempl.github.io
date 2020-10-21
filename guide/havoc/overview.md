@@ -87,7 +87,7 @@ toc: true
 				{{ site.data.item.Glyph_of_Fallow_Wings }} - а также Обжигающего жара {{ site.data.item.Glyph_of_Crackling_Flames }}.</li>
             </ul>
         </li>
-
+<li class="se-apl" style="display: none;"></li>
 ## Значительные изменения Охотниками на Демонов Истребление в Shadowlands
 
 <li> {{ site.data.spell.Immolation_Aura }} – стала базовой способностью.</li>
