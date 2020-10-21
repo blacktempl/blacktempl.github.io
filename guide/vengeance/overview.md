@@ -91,16 +91,19 @@ toc: true
 <li> Наше самоисцеление было значительно ослаблено по сравнению с BfA. В результате чего пострадала живучесть.</li>
 <li> Измененный порядок в дереве талантов, теперь в зависимости от контента будет несколько вариантов жизнеспособных талантов.</li>
 
-## Изменения Охотниками на Демонов Месть в Shadowlands
+## Изменения Охотниками на Демонов Истребление в Shadowlands
 
 <li> Ярость стала общим ресурсом для класса.</li>
 <li> Демонические обереги повышающие выносливость и броню, были перемещены в новый пассивный эффект: {{ site.data.spell.Thick_Skin }}, который увеличивает выносливость на 65% и броню на 100%.</li>
-<li> {{ site.data.spell.Thick_Skin }}дополнительно исцеляет вас за каждый поглощенный фрагмент души. {{ site.data.spell.Soul_Fragment }}</li>
+<li> {{ site.data.spell.Thick_Skin }} дополнительно исцеляет вас за каждый поглощенный фрагмент души. {{ site.data.spell.Soul_Fragment }}</li>
 <li> {{ site.data.spell.Soul_Cleave }} теперь наносит урон максимум 5 целям</li>
 <li> Новый талант {{ site.data.talent.Infernal_Armor }} (Заменяет {{ site.data.talent.Flame_Crash }}) - {{ site.data.spell.Immolation_Aura }} увеличивает вашу броню на 20% и наносит урон от огня.</li>
 <li> Новый талант {{ site.data.talent.Bulk_Extraction }} (Заменяет {{ site.data.talent.Soul_Barrier }}) - Разрушает души находящихся рядом противников, нанося урона от огня и накапливая до 5 малых фрагментов души, которые вы можете использовать мгновенно.</li>
 <li> Новый талант {{ site.data.talent.DemonicVDH }} - Когда {{ site.data.spell.Fel_Devastation }} перестает наносить урон, вы на 6 сек. превращаетесь в демона.</li>
 <li> {{ site.data.talent.Abyssal_Strike  }} - Приземляясь после {{ site.data.spell.Infernal_Strike }}, вы создаете {{ site.data.spell.Sigil_of_Flame }} и сокращаете время восстановления {{ site.data.spell.Infernal_Strike }} на 8 сек.</li>
+<li> {{ site.data.talent.Agonizing_Flames }} - {{ site.data.spell.Immolation_Aura }} повышает скорость передвижения на 20% и действует на 50% дольше. </li>
+ {{ site.data.talent.Feast_of_Souls }} исцеление увеличено на 25%. </li>
+<li> Переработан талант {{ site.data.talent.Charred_Flesh }} теперь урон от {{ site.data.spell.Immolation_Aura }} продлевает время действия вашего "Огненного клейма" на 0.50 сек.</li>
 
 
 
