@@ -88,9 +88,7 @@ toc: true
             </ul>
         </li>
 
-
 ## Значительные изменения Охотниками на Демонов Истребление в Shadowlands
-
 
 <li> {{ site.data.spell.Immolation_Aura }} – стала базовой способностью.</li>
 <li> Защитный сособности специализации были сильно ослаблены. В результате чего пострадала живучесть.</li>
@@ -98,9 +96,7 @@ toc: true
 <li> {{ site.data.talent.Glaive_Tempest }} - это новый талант, вдохновленный {{ site.data.spell.Fury_of_the_Illidari }}, нашей старой способностью «Артефактного оружия».</li>
 <li> {{ site.data.talent.Nemesis }} удален из игры.</li>
 
-
 ## Изменения Охотниками на Демонов Истребление в Shadowlands
-
 
 <li> Ярость стала общим ресурсом для класса.</li>
 <li> {{ site.data.spell.Blade_Dance }} / {{ site.data.spell.Death_Sweep }} – больше не увеличивает ваш шанс увернуться на 100% на 1 сек.</li>
@@ -117,9 +113,7 @@ toc: true
 <li> {{ site.data.talent.Fel_Barrage }} - стал талантом последнего тира, бьет одновременно 8 целей.</li>
 <li> Добавлена пассивная способность {{ site.data.spell.Furious_Gaze }} дающая 15% скорости на 12 сек. после применения {{ site.data.spell.Eye_Beam }}</li>
 
-
 ## Новые возможности трансмогрификации артефакта для Охотниками на Демонов Истребление
-
 
 В Shadowlands появться новая возможность трансмогрификации <a href="https://www.wowhead.com/news=317669/artifact-transmog-in-shadowlands-new-creative-weapon-combinations"> артефакта</a>, позволяя игрокам преобразовывать свое оружие в любой вид артефакта.
 
