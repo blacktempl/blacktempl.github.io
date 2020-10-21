@@ -102,7 +102,7 @@ toc: true
 <li> Новый талант {{ site.data.talent.DemonicVDH }} - Когда {{ site.data.spell.Fel_Devastation }} перестает наносить урон, вы на 6 сек. превращаетесь в демона.</li>
 <li> {{ site.data.talent.Abyssal_Strike  }} - Приземляясь после {{ site.data.spell.Infernal_Strike }}, вы создаете {{ site.data.spell.Sigil_of_Flame }} и сокращаете время восстановления {{ site.data.spell.Infernal_Strike }} на 8 сек.</li>
 <li> {{ site.data.talent.Agonizing_Flames }} - {{ site.data.spell.Immolation_Aura }} повышает скорость передвижения на 20% и действует на 50% дольше. </li>
- {{ site.data.talent.Feast_of_Souls }} исцеление увеличено на 25%. </li>
+<li>  {{ site.data.talent.Feast_of_Souls }} исцеление увеличено на 25%. </li>
 <li> Переработан талант {{ site.data.talent.Charred_Flesh }} теперь урон от {{ site.data.spell.Immolation_Aura }} продлевает время действия вашего "Огненного клейма" на 0.50 сек.</li>
 
 
