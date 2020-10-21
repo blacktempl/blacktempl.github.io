@@ -13,8 +13,8 @@
 # Replace PLAIN_NAME  with the appropriate base name
 
 weapon_skills: <a href="https://ru.wowhead.com/spell=202783" target="blank">Навыки владения оружием</a>
-masterydh: <a href="https://ru.wowhead.com/spell=185164" target="blank">Искусность демоническое присутствие</a>
 
+#Хавок
 Metamorphosis: <a href="https://ru.wowhead.com/spell=191427" target="blank">Метаморфоза</a>
 Demons_Bite: <a href="https://ru.wowhead.com/spell=162243" target="blank">Укус демона</a>
 Chaos_Strike: <a href="https://ru.wowhead.com/spell=162794" target="blank">Удар Хаоса</a>
@@ -30,8 +30,16 @@ Consume_Magic: <a href="https://ru.wowhead.com/spell=278326" target="blank">По
 Imprison: <a href="https://ru.wowhead.com/spell=217832" target="blank">Пленение</a>
 Throw_Glaive: <a href="https://ru.wowhead.com/spell=185123" target="blank">Бросок боевого клинка</a>
 
+#ВДХ
+Demon_Spikes: <a href="https://ru.wowhead.com/spell=203720" target="blank">Демонические шипы</a>
+Soul_Fragment: <a href="https://ru.wowhead.com/spell=219741" target="blank">Фрагмент души</a>
+Soul_Cleave: <a href="https://ru.wowhead.com/spell=228477" target="blank">Раскалывание душ</a>
+Infernal_Strike: <a href="https://ru.wowhead.com/spell=189110" target="blank">Инфернальный удар</a>
+
 #Пассивные
 Furious_Gaze: <a href="https://ru.wowhead.com/spell=273231" target="blank">Яростный взор</a>
+masterydh: <a href="https://ru.wowhead.com/spell=185164" target="blank">Искусность демоническое присутствие</a>
+masteryVdh: <a href="https://ru.wowhead.com/spell=203747" target="blank">Искусность: оскверненная кровь</a>
 
 
 
