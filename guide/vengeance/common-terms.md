@@ -62,36 +62,20 @@ toc: true
 
 <table style="width:65%;">
   <tr>
-    <td>Anni</td>
-    <td>{{ site.data.spell.Annihilation }}</td>
+    <td>Шипы, Спайки</td>
+    <td>{{ site.data.spell.Demon_Spikes }}</td>
   </tr>
   <tr>
-    <td>БД, Танец</td>
-    <td>{{ site.data.spell.Blade_Dance }}</td>
+    <td>Клеймо</td>
+    <td>{{ site.data.spell.Fiery_Brand }}</td>
   </tr>
   <tr>
-    <td>ПМ, Диспел</td>
-    <td>{{ site.data.spell.Consume_Magic }}</td>
+    <td>Прыжок, ИС</td>
+    <td>{{ site.data.spell.Infernal_Strike }}</td>
   </tr>
   <tr>
-    <td>УХ</td>
-    <td>{{ site.data.spell.Chaos_Strike }}</td>
-  </tr>
-  <tr>
-    <td>УД, Укус</td>
-    <td>{{ site.data.spell.Demons_Bite }}</td>
-  </tr>
-  <tr>
-    <td>СВ, Взмах</td>
-    <td>{{ site.data.spell.Death_Sweep }}</td>
-  </tr>
-  <tr>
-    <td>Бим, Взгляд,<br> Сварка</td>
-    <td>{{ site.data.spell.Eye_Beam }}</td>
-  </tr>
-  <tr>
-    <td>Рывок</td>
-    <td>{{ site.data.spell.Fel_Rush }}</td>
+    <td>Девастейшн, Сварка</td>
+    <td>{{ site.data.spell.Fel_Devastation }}</td>
   </tr>
   <tr>
     <td>Аура, Жар</td>
@@ -99,51 +83,91 @@ toc: true
   </tr>
   <tr>
     <td>Мета</td>
-    <td>{{ site.data.spell.Metamorphosis }}</td>
+    <td>{{ site.data.spell.MetamorphosisVDH }}</td>
+  </tr>
+  <tr>
+    <td>Цепи, Грип,</br> Стяжка</td>
+    <td>{{ site.data.spell.Sigil_of_Chains }}</td>
+  </tr>
+  <tr>
+    <td>Фир</td>
+    <td>{{ site.data.spell.Sigil_of_Misery }}</td>
+  </tr>
+  <tr>
+    <td>Сало, Сайленс</td>
+    <td>{{ site.data.spell.Sigil_of_Silence }}</td>
+  </tr>
+  <tr>
+    <td>Клив, СК</td>
+    <td>{{ site.data.spell.Soul_Cleave }}</td>
   </tr>
   <tr>
     <td>Глефа</td>
     <td>{{ site.data.spell.Throw_Glaive }}</td>
   </tr>
   <tr>
-    <td>Отрыв</td>
-    <td>{{ site.data.spell.Vengeful_Retreat }}</td>
+    <td>Шир</td>
+    <td>{{ site.data.spell.Shear }}</td>
   </tr>
 </table>
 
 ### Основные таланты
 <table style="width:65%;">
   <tr>
-    <td>Бараж</td>
-    <td>{{ site.data.talent.Fel_Barrage }}</td>
+    <td>АС</td>
+    <td>{{ site.data.talent.Abyssal_Strike }}</td>
   </tr>
   <tr>
-    <td>ДА</td>
-    <td>{{ site.data.talent.Demonic_Appetite }}</td>
+    <td>ПБ</td>
+    <td>{{ site.data.talent.Agonizing_Flames }}</td>
   </tr>
   <tr>
-    <td>ДБ</td>
-    <td>{{ site.data.talent.Demon_Blades }}</td>
+    <td>Пиршество</td>
+    <td>{{ site.data.talent.Feast_of_Souls }}</td>
   </tr>
   <tr>
-    <td>Разрыв</td>
-    <td>{{ site.data.talent.Essence_Break }}</td>
+    <td>БА</td>
+    <td>{{ site.data.talent.Burning_Alive }}</td>
   </tr>
   <tr>
-    <td>ФБ, Клинок</td>
-    <td>{{ site.data.talent.Felblade }}</td>
+    <td>ИА </td>
+    <td>{{ site.data.talent.Infernal_Armor }}</td>
   </tr>
   <tr>
-    <td>СТ Стан</td>
-    <td>{{ site.data.talent.Fel_Eruption }}</td>
+    <td>ЦФ</td>
+    <td>{{ site.data.talent.Charred_Flesh }}</td>
   </tr>
   <tr>
-    <td>ШК, Шквал</td>
-    <td>{{ site.data.talent.Glaive_Tempest }}</td>
+    <td>Бомба, СБ</td>
+    <td>{{ site.data.talent.Spirit_Bomb }}</td>
   </tr>
   <tr>
-    <td>Хаос</td>
-    <td>{{ site.data.talent.Unbound_Chaos }}</td>
+    <td>Сосредоточие, СП</td>
+    <td>{{ site.data.talent.Concentrated_Sigils }}</td>
+  </tr>
+    <tr>
+    <td>УП</td>
+    <td>{{ site.data.talent.Quickened_Sigils }}</td>
+  </tr>
+    <tr>
+    <td>Страж, ВР</td>
+    <td>{{ site.data.talent.Void_Reaver }}</td>
+  </tr>
+    <tr>
+    <td>Барьер</td>
+    <td>{{ site.data.talent.Soul_Barrier }}</td>
+  </tr>
+    <tr>
+    <td>ЧД, Читдес</td>
+    <td>{{ site.data.talent.Concentrated_Sigils }}</td>
+  </tr>
+    <tr>
+    <td>Бастион</td>
+    <td>{{ site.data.talent.Ruinous_Bulwark }}</td>
+  </tr>
+   <tr>
+    <td>БЕ</td>
+    <td>{{ site.data.talent.Bulk_Extraction }}</td>
   </tr>
 </table>
 
