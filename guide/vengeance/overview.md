@@ -101,8 +101,8 @@ toc: true
 <li> {{ site.data.spell.Soul_Cleave }} теперь наносит урон максимум 5 целям</li>
 <li> Новый талант {{ site.data.talent.Infernal_Armor }} (Заменяет {{ site.data.talent.Flame_Crash }}) - {{ site.data.spell.Immolation_Aura }} увеличивает вашу броню на 20% и наносит урон от огня.</li>
 <li> Новый талант {{ site.data.talent.Bulk_Extraction }} (Заменяет {{ site.data.talent.Soul_Barrier }}) - Разрушает души находящихся рядом противников, нанося урона от огня и накапливая до 5 малых фрагментов души, которые вы можете использовать мгновенно.</li>
-
-
+<li> Новый талант {{ site.data.talent.DemonicVDH }} - Когда {{ site.data.spell.Fel_Devastation }} перестает наносить урон, вы на 6 сек. превращаетесь в демона.</li>
+<li> {{ site.data.talent.Abyssal_Strike  }} - Приземляясь после {{ site.data.spell.Infernal_Strike }}, вы создаете {{ site.data.spell.Sigil_of_Flame }} и сокращаете время восстановления {{ site.data.spell.Infernal_Strike }} на 8 сек.</li>
 
 
 
