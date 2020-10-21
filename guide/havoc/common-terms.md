@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Обзор
+title: Сокращения
 last_update: 2020-01-11 09:00:00
 game_version: 9.0.0 Shadowlands
+author: Rodriguezz
 toc: true
 ---
 
@@ -32,7 +33,7 @@ toc: true
 |Cleave, Клив| обычно применяется в контексте боя против 2–3 рядом стоящих целей, а также заклинания с таким действием.|
 |Funneling| Клив разрозненных целей, бой с несколькими разрозненными целями.|
 |Spread, Спред| рассредоточенность по области.|
-|СС, Crowd Control, Контроль| заклинания и способности, которые прерывают действие цели, например {{ site.data.spell.Imprison }}.|
+|СС, Crowd Control, Контроль| заклинания и способности, которые лишают цели способности действовать, двигаться или как-либо участвовать в бою, например {{ site.data.spell.Imprison }}.|
 |Opener, Опенер| порядок использования способностей на первых секундах боя, открывающая ротация.|
 |Diminishing Returns, Диминишинг| прогрессивное снижение эффективности какого–либо параметра. Может применяться как к контролю, так и к характеристикам.|
 |Stats, Статы| Характеристики.|
@@ -69,7 +70,7 @@ toc: true
     <td>{{ site.data.spell.Blade_Dance }}</td>
   </tr>
   <tr>
-    <td>ПМ, Диспел</td>
+    <td>ПМ, Пурж</td>
     <td>{{ site.data.spell.Consume_Magic }}</td>
   </tr>
   <tr>
@@ -89,7 +90,7 @@ toc: true
     <td>{{ site.data.spell.Eye_Beam }}</td>
   </tr>
   <tr>
-    <td>Рывок</td>
+    <td>Рывок, Фелраш </td>
     <td>{{ site.data.spell.Fel_Rush }}</td>
   </tr>
   <tr>
@@ -129,7 +130,7 @@ toc: true
     <td>{{ site.data.talent.Essence_Break }}</td>
   </tr>
   <tr>
-    <td>ФБ, Клинок</td>
+    <td>ФБ, Клинок,<br>(Fell blade)</td>
     <td>{{ site.data.talent.Felblade }}</td>
   </tr>
   <tr>
@@ -137,7 +138,7 @@ toc: true
     <td>{{ site.data.talent.Fel_Eruption }}</td>
   </tr>
   <tr>
-    <td>ШК, Шквал</td>
+    <td>ШК, Шквал,<br>Темпест</td>
     <td>{{ site.data.talent.Glaive_Tempest }}</td>
   </tr>
   <tr>

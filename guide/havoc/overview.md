@@ -55,8 +55,8 @@ toc: true
 Охотников на Демонов специализации Истребление - агрессивный боец ближнего боя с высокой мобильностью. 
 Они переняли черты демонов и используют против них свою силу. 
 Главное, что делает Охотников на Демонов по-настоящему особенными, - это {{ site.data.spell.Metamorphosis }}.</li>
-<li> <b>Ресурс:</b> Охотники на демонов используют ярость как ресурс. Использование таких способностей, 
-как {{ site.data.spell.Demons_Bite }} для генерации ярости, а затем использование других способностей, например {{ site.data.spell.Chaos_Strike }}, для ее потреблени. </li>
+<li> <b>Ресурс:</b> Охотники на демонов используют гнев как ресурс. Использование таких способностей, 
+как {{ site.data.spell.Demons_Bite }} для генерации гнева, а затем использование других способностей, например {{ site.data.spell.Chaos_Strike }}, для ее потреблени. </li>
 <li> <b>Мобильность:</b> Охотникам на демонов нужно быстро побеждать врагов, на которых они охотятся. 
 Использование уникальных способностей, таких как {{ site.data.spell.Fel_Rush }}, чтобы быстро сократить разрыв между противниками, 
 или используйте {{ site.data.spell.Vengeful_Retreat }} для побега. 
@@ -70,10 +70,10 @@ toc: true
             <ul>
                 <li> У Охотников на Демонов есть особый маунт {{ site.data.item.Felsaber }}</li>
                 <li class="asc-apl" style="display:none;"></li>
-                <li> У Охотников на Демонов есть два уникальных набора трансмогрификации для каждой фракции: <a href="hhttps://www.wowhead.com/dressing-room#mmzb0zH89Vz9c8gi3808CiB87cCiH87VCiJ808CiF808CiO808CiC808CiK87V"> Иллидари Альнс</a>
-				,<a href="https://www.wowhead.com/dressing-room#mm0z0zH89s8D2p808BME87cBMB87VBMg808BMD808BMv808BMl808BMC87V"> Прерыватель страданий Альянс</a>
-				,<a href="https://www.wowhead.com/dressing-room#mazb0zH89Vz9c87MghM87cgh7ogi5808ghz808gi6808gi4808ghc87V"> Иллидари Орда</a>
-				,<a href="https://www.wowhead.com/dressing-room#ma0z0zH89s8FFX808Cix87cCit87VCig808Cie808Civ808CiE808Cil87V"> Прерыватель страданий Орда</a>
+                <li> У Охотников на Демонов есть два уникальных набора трансмогрификации для каждой фракции: <a href="hhttps://www.wowhead.com/dressing-room#mmzb0zH89Vz9c8gi3808CiB87cCiH87VCiJ808CiF808CiO808CiC808CiK87V" target="blank"> Иллидари Альнс</a>
+				,<a href="https://www.wowhead.com/dressing-room#mm0z0zH89s8D2p808BME87cBMB87VBMg808BMD808BMv808BMl808BMC87V" target="blank"> Прерыватель страданий Альянс</a>
+				,<a href="https://www.wowhead.com/dressing-room#mazb0zH89Vz9c87MghM87cgh7ogi5808ghz808gi6808gi4808ghc87V" target="blank"> Иллидари Орда</a>
+				,<a href="https://www.wowhead.com/dressing-room#ma0z0zH89s8FFX808Cix87cCit87VCig808Cie808Civ808CiE808Cil87V" target="blank"> Прерыватель страданий Орда</a>
 				</li>
                 <li class="se-apl" style="display: none;"></li>
 				<li> У Охотников на Демонов есть собственные эмоции, волосы, татуировки, цвет кожи и повязки на глаза.
@@ -87,32 +87,32 @@ toc: true
 				{{ site.data.item.Glyph_of_Fallow_Wings }} - а также Обжигающего жара {{ site.data.item.Glyph_of_Crackling_Flames }}.</li>
             </ul>
         </li>
-<li class="se-apl" style="display: none;"></li>
-## Значительные изменения Охотниками на Демонов Истребление в Shadowlands
 
+## Значительные изменения Охотниками на Демонов Истребление в Shadowlands
+<ul>
 <li> {{ site.data.spell.Immolation_Aura }} – стала базовой способностью.</li>
-<li> Защитный сособности специализации были сильно ослаблены. В результате чего пострадала живучесть.</li>
+<li> Защитные сособности специализации были сильно ослаблены. В результате чего пострадала живучесть.</li>
 <li> {{ site.data.talent.Unbound_Chaos }} - добален новый талант. Он был удален как азеритовый талант в начале BFA.</li>
 <li> {{ site.data.talent.Glaive_Tempest }} - это новый талант, вдохновленный {{ site.data.spell.Fury_of_the_Illidari }}, нашей старой способностью «Артефактного оружия».</li>
 <li> {{ site.data.talent.Nemesis }} удален из игры.</li>
-
+</ul>
 ## Изменения Охотниками на Демонов Истребление в Shadowlands
-
-<li> Ярость стала общим ресурсом для класса.</li>
+<ul>
+<li> Гнев стал общим ресурсом для класса.</li>
 <li> {{ site.data.spell.Blade_Dance }} / {{ site.data.spell.Death_Sweep }} – больше не увеличивает ваш шанс увернуться на 100% на 1 сек.</li>
 <li> {{ site.data.spell.Blur }} – уменьшили показатель уменьшения входящего урона с 35% до 20%</li>
 <li> {{ site.data.spell.Eye_Beam }} – Новая формула масштабирования урона => Урон по основной цели / Sqrt (количество пораженных целей).</li>
-<li> {{ site.data.talent.Insatiable_Hunger }} – {{ site.data.spell.Demons_Bite }} наносит на 20% больше урона и генерирует от 5 до 10 дополнительной ярости.</li>
-<li> {{ site.data.talent.Burning_Hatred }} – {{ site.data.spell.Immolation_Aura }} дополнительно генерирует 30 ед. ярости в течении 6 сек</li>
+<li> {{ site.data.talent.Insatiable_Hunger }} – {{ site.data.spell.Demons_Bite }} наносит на 20% больше урона и генерирует от 5 до 10 дополнительной гнева.</li>
+<li> {{ site.data.talent.Burning_Hatred }} – {{ site.data.spell.Immolation_Aura }} дополнительно генерирует 30 ед. гнева в течении 6 сек</li>
 <li> {{ site.data.talent.Soul_Rending }} – Теперь пассивно дает 5% вместо 10%, а под метаморфозой дополнительно 25% вместо 10%</li>
 <li> {{ site.data.talent.Desperate_Instincts }} – {{ site.data.spell.Blur }} дополнительно уменьшает урон еще на 10% (было на 15%). Кроме того, вы автоматически активируете {{ site.data.spell.Blur }}, когда ваше здоровье падает ниже 35%. Этот эффект может сработать когда {{ site.data.spell.Blur }} не находится на перезарядке.</li>
-<li> {{ site.data.talent.Netherwalk }} – Изменено время восстановления способности, было 2 минуты стало 3 минуты..</li>
-<li> {{ site.data.talent.Cycle_of_Hatred }} – Когда {{ site.data.spell.Chaos_Strike }} восстанавливает ярость, оно также уменьшает время восстановления {{ site.data.spell.Eye_Beam }} на 3 сек. (Раньше уменьшал время восстановления {{ site.data.spell.Metamorphosis }}).</li>
-<li> {{ site.data.talent.Essence_Break }} - Наносит урон Хаоса всем врагам, находящимся перед вами и увеличьте урон, наносимый им вашими {{ site.data.spell.Chaos_Strike }} и {{ site.data.spell.Blade_Dance }}, на 40% в течение 8 сек.</li>
+<li> {{ site.data.talent.Netherwalk }} – Изменено время восстановления способности, было 2 минуты стало 3 минуты.</li>
+<li> {{ site.data.talent.Cycle_of_Hatred }} – Когда {{ site.data.spell.Chaos_Strike }} восстанавливает гнев, оно также уменьшает время восстановления {{ site.data.spell.Eye_Beam }} на 3 сек. (Раньше уменьшал время восстановления {{ site.data.spell.Metamorphosis }}).</li>
+<li> {{ site.data.talent.Essence_Break }} - Наносит урон Хаоса всем врагам, находящимся перед вами и увеличивает урон, наносимый им вашими {{ site.data.spell.Chaos_Strike }} и {{ site.data.spell.Blade_Dance }}, на 40% в течение 8 сек.</li>
 <li> {{ site.data.talent.Demonic }} - После использования {{ site.data.spell.Eye_Beam }} вы принимаете форму демона на 6 сек. (было 8 сек.)</li>
 <li> {{ site.data.talent.Fel_Barrage }} - стал талантом последнего тира, бьет одновременно 8 целей.</li>
 <li> Добавлена пассивная способность {{ site.data.spell.Furious_Gaze }} дающая 15% скорости на 12 сек. после применения {{ site.data.spell.Eye_Beam }}</li>
-
+</ul>
 ## Новые возможности трансмогрификации артефакта для Охотниками на Демонов Истребление
 
 В Shadowlands появться новая возможность трансмогрификации <a href="https://www.wowhead.com/news=317669/artifact-transmog-in-shadowlands-new-creative-weapon-combinations"> артефакта</a>, позволяя игрокам преобразовывать свое оружие в любой вид артефакта.

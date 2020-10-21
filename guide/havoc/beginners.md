@@ -18,7 +18,7 @@ toc: true
 <a href="{{ site.url }}/guide/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
 <a href="{{ site.url }}/guide/havoc/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
 <a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
-<a href="">#<img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
+<a href="#"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
 <a href="#"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
 </div>
 <br>
@@ -43,7 +43,12 @@ toc: true
 	
 ## Приоритет характеристик
 
-Вторичные характеристики обычно являются приоритетом для Охотника на Демонов Истребления. В первую очередь скорость, поскольку она снижает время восстановления многих наших важных заклинаний, позволяя нам делать больше с меньшими затратами. Это означает, что, первым делом вы должны отдавать при орите предметам высокого уровня, а затем сколько они дают скорости. Узнайте больше о том, как работают ваши характеристики, веса характеристик и графики масштабирования, в Руководстве <a href="{{ site.url }}/guide/havoc/stats.html"> Характеристики</a>, или вы можете посмотреть обзор снаряжения, на которое стоит обратить внимание в подземельях и рейдах, в Руководстве <a href="{{ site.url }}/guide/havoc/consumables.html"> Бис лист</a>.  
+Вторичные характеристики обычно являются приоритетом для Охотника на Демонов Истребления. 
+В первую очередь скорость, поскольку она снижает время восстановления многих наших важных заклинаний. 
+Это означает, что, первым делом вы должны отдавать приорите предметам высокого уровня, а затем тому сколько они дают скорости. 
+Узнайте больше о том, как работают ваши характеристики, веса характеристик и графики масштабирования, в 
+Руководстве <a href="{{ site.url }}/guide/havoc/stats.html"> Характеристики</a>, или вы можете посмотреть обзор снаряжения, 
+на которое стоит обратить внимание в подземельях и рейдах, в Руководстве <a href="{{ site.url }}/guide/havoc/consumables.html"> Бис лист</a>.  
 
 - Приоритет характеристик:
 	1. **Скорость**

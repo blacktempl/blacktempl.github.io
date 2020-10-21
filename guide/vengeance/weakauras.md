@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Обзор
+title: WeakAuras
 last_update: 2020-01-11 09:00:00
 game_version: 9.0.0 Shadowlands
+author: Rodriguezz
 toc: true
 ---
 
@@ -17,34 +18,62 @@ toc: true
 <a href="{{ site.url }}/guide/vengeance/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
 <a href="{{ site.url }}/guide/vengeance/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"><span style="color: white;"> WeakAuras</span></a>
 <a href="{{ site.url }}/guide/vengeance/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
-<a href="">#<img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
+<a href="#"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
 <a href="#"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
 </div>
 <br>
-## Основная информация
-	   
- <li> Только Ночные Эльфы и Эльфы Крови могут быть Охотниками на Демонов.</li>
- <li> {{ site.data.spell.weapon_skills }} Охотников на Демонов позволяет им носить два Боевых клинка, Кистевых оружия, Одноручных топора и Одноручный меч.</li>
- <li> Охотники на демонов теперь могут трансмогрифицировать внешний вид артефакта Легиона для разных специализаций и для каждой руки индивидуально!</li>
- <li> Охотники на демонов начинают игру с 8 уровня.</li>
- <li> {{ site.data.spell.masterydh }} увеличивает урон хаосом и скорость передвижения.</li>
-<li> Награды классового оплота:
-            <ul>
-                <li>Средства передвижения: {{ site.data.item.Slayers_Felbroken_Shrieker }}</li>
-                <li class="asc-apl" style="display:none;"></li>
-                <li>Звание: {{ site.data.item.slayer_title }}</li>
-                <li class="se-apl" style="display: none;"></li>
-				<li>Питомец: {{ site.data.item.Hateful_Eye }} за {{ site.data.item.Twisting_Nether }}</li>
-                <li class="asc-apl" style="display:none;"></li>
-                <li>Игрушка: {{ site.data.item.A_Tiny_Set_of_Warglaives }}</li>
-                <li class="se-apl" style="display: none;"></li>
-            </ul>
-        </li>	
+## Что такое WeakAuras?
 
-## Сильные стороны 
+<a href="{{ site.url }}/guide/general/weak_auras.html"> WeakAuras2</a>  это дополнение к WoW, которое позволяет максимально 
+настраивать практически любую информацию, которую вы хотели бы получить в своем пользовательском интерфейсе. Что может сделать WeakAuras? WeakAuras может показать 
+вам любую информацию, доступную вам по вашему выбору. Это может быть что угодно, от того сколько стаков какого либо из бафов на вас, сколько времени 
+осталось до восстановления на вашего заклинания прерывания, до оповещения когда у вас мало маны. WeakAuras предназначен для изменения способа отображения информации,
+ чтобы ее было легче увидеть. Вы можете сделать в ней так много, что вам будет проще сказать, чего не может сделать WeakAuras. WeakAuras не может сделать что-то за вас.
+ Вы можете заставить ее сказать что-то шепотом или криком, но WeakAuras нельзя использовать для создания макросов или автоматизации любого игрового
+ процесса (что в любом случае противоречит правилам игры). 
  
-Охотник на Демонов специализации Истребление довольно простой класс для изучения. У Охотников на Демонов специализации Истребление имеется сильный АоЕ урон, хороший клив урон, а также достойный урон в одну цель.
-Основная цель заключается в грамотном расходовании ресурсов и своевременной реакции на получаемые излишки гнева, в том числе и во время действия усилений. Помимо всего прочего, специализация дает доступ к способностям, повышающим мобильность, а также к защитным заклинаниям. Все это позволяет охотнику на демонов приспосабливаться к самым разным ситуациям.
+## Полезные WeakAuras
+**Afenar WA's - Demon Hunter:** <a href="https://wago.io/4kTH1dUFb" target="blank">https://wago.io/4kTH1dUFb</a><br>
+>Это сборник отслеживает все кулдауны и баффы, и динамически обновляется с учетом ваших текущих талантов.
+<p align="left" width="100%">
+<img src="{{ site.url }}/assets/img/guide/vengeance/WA_afenar_Veng.gif">
+</p>
 
-## Чем выделяеться специализация
-Охотник на Демонов специализации Истребление - это специализация бойцов ближнего боя.
+**Effective Health - Magic and Physical:** <a href="https://wago.io/B1pg1fRub" target="blank">https://wago.io/B1pg1fRub</a><br>
+>WeakAuras показывающая ваше текущее эффективное здоровье против магического и физического урона. 
+Она обновляется динамически в зависимости от вашей текущей характеристик и баффов. 
+<p align="left" width="100%">
+<img src="{{ site.url }}/assets/img/guide/vengeance/WA_Effective_Heal_MP.webp">
+</p>
+
+**Trash Mob Spell Timers:** <a href="https://wago.io/T_8vzVdmg" target="blank">https://wago.io/T_8vzVdmg</a><br>
+>Эта WeakAuras отслеживает таймеры заклинаний для мобов в мифических ключах, которые обычно не отслеживаются такими аддонами как 
+LittleWigs b DBB.
+<p align="left" width="100%">
+<img src="{{ site.url }}/assets/img/guide/vengeance/WA_trash_timers.webp">
+</p>
+
+**ZenTracker:** <a href="https://wago.io/r14U746B7" target="blank">https://wago.io/r14U746B7</a><br>
+>Эта WeakAuras отслеживает важные кулдауны всей вашей группы. Для точного отображение желательно чтоб была установленна у всей группы.
+<p align="left" width="100%">
+<img src="{{ site.url }}/assets/img/guide/vengeance/WA_zentraker.webp">
+</p>
+
+## Создание собственных 
+
+Если вам нужна только одна WeakAura, а не сборник, или если вы просто не можете найти ту, которая соответствует вашим потребностям,
+ вы всегда можете создать свою собственную.
+ Для более сложных WeakAuras вы можете взглянуть на наше подробное руководство по <a href="{{ site.url }}/guide/general/weak_auras.html"> WeakAuras</a>  или посетить <a href="WeakAurashttps://discord.gg/wa2">Discord канал WeakAuras</a>, 
+ но вы можете получить базовые знания по WeakAuras прямо здесь.
+ <br>
+Для того чтоб быстро создать WeakAura посетите страницу на WowHead с нужной вам способностью, талантом или PvP-таланты и нажмите красную кнопку **Экспорт WeakAuras**, 
+ чтобы открыть экспорта. Далее просто нажмите «Копировать», чтобы использовать ауру по умолчанию, или **Настроить**, чтобы легко изменить ее настройки!
+ 
+ <p align="left" width="100%">
+<img src="{{ site.url }}/assets/img/guide/havoc/WA_crate_havoc.jpg">
+</p>
+
+добавить скрин настроек
+
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/macros-addons.html">Назад:<br>Макросы и Аддоны</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/vengeance/common-terms.html">Длаее:<br>Сокращени</a></div>
