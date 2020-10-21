@@ -106,7 +106,16 @@ toc: true
 <li>  {{ site.data.talent.Feast_of_Souls }} исцеление увеличено на 25%. </li>
 <li> Переработан талант {{ site.data.talent.Charred_Flesh }} теперь урон от {{ site.data.spell.Immolation_Aura }} продлевает время действия вашего "Огненного клейма" на 0.50 сек.</li>
 
+## Новые возможности трансмогрификации артефакта для Охотниками на Демонов Месть
 
+В Shadowlands появться новая возможность трансмогрификации <a href="https://www.wowhead.com/news=317669/artifact-transmog-in-shadowlands-new-creative-weapon-combinations"> артефакта</a>, позволяя игрокам преобразовывать свое оружие в любой вид артефакта.
+
+<div id="cta-but">
+<a href="https://shadowlands.wowhead.com/artifact-calc" class="cta-button" data-border="strong" target="_blank">Все модели артефактного оружия</a>
+<a href="https://www.wowhead.com/unlocking-artifact-appearances-guide" class="cta-button" data-border="strong" target="_blank">Получение обликов артефактов</a>
+</div>
+
+<div class="minibox"><a href="{{ site.url }}/guide/vengeance/beginners.html">Далее:<br>Новичкам</a></div>
 
 
 
