@@ -113,8 +113,10 @@ toc: true
 <li> {{ site.data.talent.Fel_Barrage }} - стал талантом последнего тира, бьет одновременно 8 целей.</li>
 <li> Добавлена пассивная способность {{ site.data.spell.Furious_Gaze }} дающая 15% скорости на 12 сек. после применения {{ site.data.spell.Eye_Beam }}</li>
 <br>
+
 ## Новые возможности трансмогрификации артефакта для Охотниками на Демонов Истребление
-</br>
+
+<br>
 В Shadowlands появться новая возможность трансмогрификации <a href="https://www.wowhead.com/news=317669/artifact-transmog-in-shadowlands-new-creative-weapon-combinations"> артефакта</a>, позволяя игрокам преобразовывать свое оружие в любой вид артефакта.
 
 <div id="cta-but">
