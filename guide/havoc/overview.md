@@ -69,10 +69,10 @@ toc: true
             <ul>
                 <li> У Охотников на Демонов есть особый маунт {{ site.data.item.Felsaber }}</li>
                 <li class="asc-apl" style="display:none;"></li>
-                <li> У Охотников на Демонов есть два уникальных набора трансмогрификации для каждой фракции: <a href="https://www.wowhead.com/dressing-room#bmzb0zJ89c8X8rd8W8dS8Y8rt8Z8rQ8bn8MIi8bx8MIQ8bF8MAs8bl8MNU858fg8bU8MLa8qP8MfL818fz8bW8ML18bh8MuC8bb8Muf8eLQ808Dlv87cDlC87VDlD808DlB808DlH808DlE808DlF87a"> Иллидари Альнс</a>
-				,<a href="https://www.wowhead.com/dressing-room#bm0z0zJ89c8H8bA8F8q58J8bH8K8b18bK8MAt8bO8MAB8O8ds8S8dn8U8dE8bJ8MAy8bC8MA08bQ8MLs8qO8Mfb8bg8MNr8bv8MNl8HhM808Cuw87cCuh87VCud808CuG808Cuf808Cui808Cuu87a"> Прерыватель страданий Альянс</a>
-				,<a href="https://www.wowhead.com/dressing-room#bazb0zJ89c8Mm8xh8Mc8yX8MV8xH8Mo8tc8Ma8tZ8sX8z3e8Mq8gM8ac8z5W8Mk8ti8s18z4k8oe8tD8Ms8tP8fI8M3r8dN8MgE8aY8MR7ceLZ87ceLX87VeLU808eLY808eLW808eLS808eL187a"> Иллидари Орда</a>
-				,<a href="https://www.wowhead.com/dressing-room#bazb0zJ89c8Mm8xh8Mc8yX8MV8xH8Mo8tc8Ma8tZ8sX8z3e8Mq8gM8ac8z5W8Mk8ti8s18z4k8oe8tD8Ms8tP8fI8M3r8dN8MgE8aY8MR7ceLZ87ceLX87VeLU808eLY808eLW808eLS808eL187a"> Прерыватель страданий Орда</a>
+                <li> У Охотников на Демонов есть два уникальных набора трансмогрификации для каждой фракции: <a href="hhttps://www.wowhead.com/dressing-room#mmzb0zH89Vz9c8gi3808CiB87cCiH87VCiJ808CiF808CiO808CiC808CiK87V"> Иллидари Альнс</a>
+				,<a href="https://www.wowhead.com/dressing-room#mm0z0zH89s8D2p808BME87cBMB87VBMg808BMD808BMv808BMl808BMC87V"> Прерыватель страданий Альянс</a>
+				,<a href="https://www.wowhead.com/dressing-room#mazb0zH89Vz9c87MghM87cgh7ogi5808ghz808gi6808gi4808ghc87V"> Иллидари Орда</a>
+				,<a href="https://www.wowhead.com/dressing-room#ma0z0zH89s8FFX808Cix87cCit87VCig808Cie808Civ808CiE808Cil87V"> Прерыватель страданий Орда</a>
 				</li>
                 <li class="se-apl" style="display: none;"></li>
 				<li> У Охотников на Демонов есть собственные эмоции, волосы, татуировки, цвет кожи и повязки на глаза.
@@ -92,7 +92,7 @@ toc: true
 <li> {{ site.data.spell.Immolation_Aura }} – стала базовой способностью.</li>
 <li> Защитный сособности специализации были сильно ослаблены. В результате чего пострадала живучесть.</li>
 <li> {{ site.data.talent.Unbound_Chaos }} - добален новый талант. Он был удален как азеритовый талант в начале BFA.</li>
-<li> {{ site.data.talent.Glaive_Tempest }} - это новый талант, вдохновленный {{ site.data.spell.Fury_of_the_Illidari }}, нашей старой способностью «Артефактного оружиея».</li>
+<li> {{ site.data.talent.Glaive_Tempest }} - это новый талант, вдохновленный {{ site.data.spell.Fury_of_the_Illidari }}, нашей старой способностью «Артефактного оружия».</li>
 <li> {{ site.data.talent.Nemesis }} удален из игры.</li>
 
 ## Изменения Охотниками на Демонов Истребление в Shadowlands
