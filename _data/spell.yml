@@ -29,103 +29,26 @@ Disrupt: <a href="https://ru.wowhead.com/spell=183752" target="blank">Преры
 Consume_Magic: <a href="https://ru.wowhead.com/spell=278326" target="blank">Поглощение магии</a>
 Imprison: <a href="https://ru.wowhead.com/spell=217832" target="blank">Пленение</a>
 Throw_Glaive: <a href="https://ru.wowhead.com/spell=185123" target="blank">Бросок боевого клинка</a>
+Fel_Rush: <a href="https://ru.wowhead.com/spell=195072" target="blank">Рывок Скверны</a>
+Vengeful_Retreat: <a href="https://ru.wowhead.com/spell=198793" target="blank">Коварное отступление</a>
+Glide: <a href="https://ru.wowhead.com/spell=131347" target="blank">Планирование</a>
+
 
 #ВДХ
 Demon_Spikes: <a href="https://ru.wowhead.com/spell=203720" target="blank">Демонические шипы</a>
 Soul_Fragment: <a href="https://ru.wowhead.com/spell=219741" target="blank">Фрагмент души</a>
 Soul_Cleave: <a href="https://ru.wowhead.com/spell=228477" target="blank">Раскалывание душ</a>
 Infernal_Strike: <a href="https://ru.wowhead.com/spell=189110" target="blank">Инфернальный удар</a>
+Fiery_Brand: <a href="https://ru.wowhead.com/spell=204021" target="blank">Огненное клеймо</a>
+MetamorphosisVDH: <a href="https://ru.wowhead.com/spell=187827" target="blank">Метаморфоза</a>
+Fel_Devastation: <a href="https://ru.wowhead.com/spell=212084" target="blank">Опустошение Скверной</a>
+
 
 #Пассивные
 Furious_Gaze: <a href="https://ru.wowhead.com/spell=273231" target="blank">Яростный взор</a>
 masterydh: <a href="https://ru.wowhead.com/spell=185164" target="blank">Искусность демоническое присутствие</a>
 masteryVdh: <a href="https://ru.wowhead.com/spell=203747" target="blank">Искусность оскверненная кровь</a>
+Thick_Skin: <a href="https://ru.wowhead.com/spell=320380/" target="blank">Плотная кожа</a>
 
 
 
-
-
-
-Fel_Rush: <a href="https://ru.wowhead.com/spell=195072" target="blank">Рывок Скверны</a>
-Vengeful_Retreat: <a href="https://ru.wowhead.com/spell=198793" target="blank">Коварное отступление</a>
-Glide: <a href="https://ru.wowhead.com/spell=131347" target="blank">Планирование</a>
-
-earth_shock: <a href="https://bfa.wowhead.com/spell=8042" target="blank">Earth Shock</a>
-es: <a href="https://bfa.wowhead.com/spell=8042" target="blank">Earth Shock</a>
-
-earthbind_totem: <a href="https://bfa.wowhead.com/spell=2484" target="blank">Earthbind Totem</a>
-
-earthquake: <a href="https://bfa.wowhead.com/spell=61882" target="blank">Earthquake</a>
-eq: <a href="https://bfa.wowhead.com/spell=61882" target="blank">Earthquake</a>
-
-elemental_fury: <a href="https://bfa.wowhead.com/spell=60188" target="blank">Elemental Fury</a>
-ef: <a href="https://bfa.wowhead.com/spell=60188" target="blank">Elemental Fury</a>
-
-elemental_overload: '<a href="https://bfa.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
-mastery_elemental_overload: '<a href="https://bfa.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
-overload: '<a href="https://bfa.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
-mastery: '<a href="https://bfa.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
-
-far_sight: <a href="https://bfa.wowhead.com/spell=6196" target="blank">Far Sight</a>
-
-fire_elemental: <a href="https://bfa.wowhead.com/spell=198067" target="blank">Fire Elemental</a>
-fe: <a href="https://bfa.wowhead.com/spell=198067" target="blank">Fire Elemental</a>
-
-flame_shock: <a href="https://bfa.wowhead.com/spell=188389" target="blank">Flame Shock</a>
-fs: <a href="https://bfa.wowhead.com/spell=188389" target="blank">Flame Shock</a>
-
-frost_shock: <a href="https://bfa.wowhead.com/spell=196840" target="blank">Frost Shock</a>
-frs: <a href="https://bfa.wowhead.com/spell=196840" target="blank">Frost Shock</a>
-
-healing_surge: <a href="https://bfa.wowhead.com/spell=8004" target="blank">Healing Surge</a>
-
-hex: <a href="https://bfa.wowhead.com/spell=51514" target="blank">Hex</a>
-
-ghost_wolf: <a href="https://bfa.wowhead.com/spell=2645" target="blank">Ghost Wolf</a>
-
-lava_beam: <a href="https://bfa.wowhead.com/spell=114074" target="blank">Lava Beam</a>
-lvbm: <a href="https://bfa.wowhead.com/spell=114074" target="blank">Lava Beam</a>
-
-lava_burst: <a href="https://bfa.wowhead.com/spell=51505" target="blank">Lava Burst</a>
-lvb: <a href="https://bfa.wowhead.com/spell=51505" target="blank">Lava Burst</a>
-
-lava_surge: <a href="https://bfa.wowhead.com/spell=77756" target="blank">Lava Surge</a>
-ls: <a href="https://bfa.wowhead.com/spell=77756" target="blank">Lava Surge</a>
-
-lightning_bolt: <a href="https://bfa.wowhead.com/spell=188196" target="blank">Lightning Bolt</a>
-lb: <a href="https://bfa.wowhead.com/spell=188196" target="blank">Lightning Bolt</a>
-
-purge: <a href="https://bfa.wowhead.com/spell=370" target="blank">Purge</a>
-
-reincarnation: <a href="https://bfa.wowhead.com/spell=20608" target="blank">Reincarnation</a>
-ankh: <a href="https://bfa.wowhead.com/spell=20608" target="blank">Reincarnation</a>
-
-thunderstorm: <a href="https://bfa.wowhead.com/spell=51490" target="blank">Thunderstorm</a>
-
-tremor_totem: <a href="https://bfa.wowhead.com/spell=8143" target="blank">Tremor Totem</a>
-
-water_walking: <a href="https://bfa.wowhead.com/spell=546" target="blank">Water Walking</a>
-
-wind_shear: <a href="https://bfa.wowhead.com/spell=57994" target="blank">Wind Shear</a>
-
-fire_blast: <a href="http://bfa.wowhead.com/spell=57984/fire-blast" target="blank">Fire Blast</a>
-
-immolate: <a href="http://bfa.wowhead.com/spell=118297/immolate" target="blank">Immolate</a>
-
-meteor:  <a href="http://bfa.wowhead.com/spell=117588/meteor" target="blank">Meteor</a>
-
-pulverise: <a href="http://bfa.wowhead.com/spell=11845/pulverize" target="blank">Pulverize</a>
-pulverize: <a href="http://bfa.wowhead.com/spell=11845/pulverize" target="blank">Pulverize</a>
-
-angered_earth: <a href="http://bfa.wowhead.com/spell=36213/angered-earth" target="blank">Angered Earth</a>
-
-harden_skin: <a href="http://bfa.wowhead.com/spell=118337/harden-skin" target="blank">Harden Skin</a>
-
-call_lightning: <a href="http://bfa.wowhead.com/spell=157348/call-lightning" target="blank">Call Lightning</a>
-
-wind_gust: <a href="http://bfa.wowhead.com/spell=263806/wind-gust" target="blank">Wind Gust</a>
-
-eye_of_the_storm: <a href="http://bfa.wowhead.com/spell=157375/eye-of-the-storm" target="blank">Eye of the Storm</a>
-eye_of_the_storm_damage: <a href="http://bfa.wowhead.com/spell=157375/eye-of-the-storm" target="blank">Eye of the Storm</a>
-
-eye_of_the_storm_movement: <a href="http://bfa.wowhead.com/spell=157382/eye-of-the-storm" target="blank">Eye of the Storm</a>
