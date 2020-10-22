@@ -22,7 +22,7 @@ toc: true
 <td><b><span class="c8">Кири</span></b></td>
 <td>{{ site.data.covenant.Elysian_Decree }}
 </td>
-<td>{{ site.data.covenant.Elysian_Decree }}
+<td>{{ site.data.covenant.Summon_Steward }}
 </td>
 </tr>
 <tr>
