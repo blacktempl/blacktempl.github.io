@@ -1,0 +1,23 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://bfa.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+#Havoc
+Elysian_Decree: <a href="https://ru.wowhead.com/spell=306830" target="blank">Элизийский декрет</a>
+Summon_Steward: <a href="https://ru.wowhead.com/spell=324739" target="blank">Призыв распорядителя</a>
+Sinful_Brand: <a href="https://ru.wowhead.com/spell=317009" target="blank">Клеймо греха</a>
+Door_of_Shadows: <a href="https://ru.wowhead.com/spell=300728" target="blank">Врата теней</a>
+Fodder_to_the_Flame: <a href="https://ru.wowhead.com/spell=329554" target="blank">Подпитка для пламени</a>
+Fleshcraft: <a href="https://ru.wowhead.com/spell=331180" target="blank">Скульптор плоти</a>
+The_Hunt: <a href="https://ru.wowhead.com/spell=323639" target="blank">Охота</a>
+Soulshape: <a href="https://ru.wowhead.com/spell=310143" target="blank">Облик души</a>

@@ -16,6 +16,8 @@ categories:
       url: ## 
 - title: Руководства
   subcategories:
+    - title: RaidBots
+      url: /guide/general/raidbots.html
     - title: Макросы
       url: /guide/general/macros_guide.html      
 

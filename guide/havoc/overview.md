@@ -3,7 +3,7 @@ layout: page
 title: Обзор
 last_update: 2020-10-17 09:00:00
 game_version: 9.0.0 Shadowlands
-author: Rodriguezz
+author: "Rodriguezz. Оригинал: Wowhead."
 toc: true
 ---
 
