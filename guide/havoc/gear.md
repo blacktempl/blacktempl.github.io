@@ -6,6 +6,8 @@ game_version: 9.0.0 Shadowlands
 toc: true
 ---
 
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/global.css?7b74e7e">
+
 <div id="smooth-nav-outer">
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>

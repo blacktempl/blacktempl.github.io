@@ -308,14 +308,16 @@ position:relative}
  .talentcalc-row .inner>div{
 float:left}
 
- .talentcalc-row .screen{
-bottom:0;
-display:block;
-left:0;
-position:absolute;
-right:0;
-top:0;
-z-index:1}
+.talentcalc-row .screen{
+	bottom:0;
+	display:block;
+	left:0;
+	position:absolute;
+	right:0;
+	top:0;
+	opacity: 0%;
+	z-index:1
+}
 
  .talentcalc-row .iconmedium{
 left:30px;
