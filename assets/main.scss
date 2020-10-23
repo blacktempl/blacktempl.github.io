@@ -6,9 +6,69 @@
 
 // add more custom styles here
 
-//copy bottom
+//table button
+    .tabs {
+      max-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+    }
 
+    .tabs {
+//      border: 1px solid lightgray;
+    }
 
+    .tabs__nav {
+      display: flex;
+      flex-wrap: wrap;
+      list-style-type: none;
+//      background: #f8f8f8;
+      margin: 0;
+//      border-bottom: 1px solid lightgray;
+//	  max-width: 50%
+    }
+
+    .tabs__link {
+      padding: 0.5rem 0.75rem;
+      text-decoration: none;
+      color: #aaa!important;
+      text-align: center;
+      flex-shrink: 0;
+	  background-color: #1c1c1c;
+//     flex-grow: 1;
+    }
+
+    .tabs__link_active {
+	  background-color: #333;
+	  color: #fff!important;
+//      background: lightgray;
+      cursor: default;
+    }
+
+    .tabs__link:not(.tabs__link_active):hover,
+    .tabs__link:not(.tabs__link_active):focus {
+      background-color: #efefef;
+    }
+
+    .tabs__content {
+      padding: 4rem;
+	  border: 2px solid #333;
+	  background: #202020;
+	  border-radius: 0 3px 3px 3px;
+	  background: url(https://wow.zamimg.com/images/TalentCalc/class-bgs/demonhunter.jpg);
+    background-color: #141414!important;
+    background-position: right top!important;
+    background-repeat: no-repeat!important;
+    }
+
+    .tabs__pane {
+      display: none;
+    }
+
+    .tabs__pane_show {
+      display: block;
+    }
+	
+	
 
 //guide navi bottom
 

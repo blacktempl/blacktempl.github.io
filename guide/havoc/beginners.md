@@ -58,6 +58,20 @@ toc: true
 
 ## Зачаровывание и камни
 
+<ul>
+<li>Оружие: 2х{{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li>
+<li>Кольца: 2х{{ site.data.prof.Enchant_Ring_Tenet_of_Versatility }}</li>
+<li>Сапоги: {{ site.data.prof.Enchant_Boots_Eternal_Agility }}</li>
+<li>Нагрудник: {{ site.data.prof.Enchant_Chest_Eternal_Stats }}</li>
+<li>Плащ: {{ site.data.prof.Enchant_Cloak_Fortified_Leech }}</li>
+<li>Камни: {{ site.data.prof.Versatile_Jewel_Cluster }}</li>
+<li>Еда: {{ site.data.prof.Steak_a_la_Mode }}</li>
+<li>Настой: {{ site.data.prof.Eternal_Flask }}</li>
+<li>Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }}</li>
+</ul>
+
+<div style="text-align: -webkit-center;"><a class="fa fa-arrow-up" href="#Таланты">Back to Top</a></div>
+
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/overview.html">Назад:<br>Обзор</a></div>
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Длаее:<br>Таланты и Билды</a></div>
 

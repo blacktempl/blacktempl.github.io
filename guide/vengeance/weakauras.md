@@ -73,7 +73,9 @@ LittleWigs b DBB.
 <img src="{{ site.url }}/assets/img/guide/havoc/WA_crate_havoc.jpg">
 </p>
 
-добавить скрин настроек
+ <p align="left" width="100%">
+<img src="{{ site.url }}/assets/img/guide/havoc/WeakAuras_preferens.png">
+</p>
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/macros-addons.html">Назад:<br>Макросы и Аддоны</a></div>
 <div class="minibox"><a href="{{ site.url }}/guide/vengeance/common-terms.html">Длаее:<br>Сокращени</a></div>

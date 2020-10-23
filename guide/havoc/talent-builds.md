@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Обзор
+title: Таланты и Билды
 last_update: 2020-01-11 09:00:00
 game_version: 9.0.0 Shadowlands
 toc: true
@@ -21,30 +21,109 @@ toc: true
 <a href="#"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
 </div>
 <br>
-## Основная информация
-	   
- <li> Только Ночные Эльфы и Эльфы Крови могут быть Охотниками на Демонов.</li>
- <li> {{ site.data.spell.weapon_skills }} Охотников на Демонов позволяет им носить два Боевых клинка, Кистевых оружия, Одноручных топора и Одноручный меч.</li>
- <li> Охотники на демонов теперь могут трансмогрифицировать внешний вид артефакта Легиона для разных специализаций и для каждой руки индивидуально!</li>
- <li> Охотники на демонов начинают игру с 8 уровня.</li>
- <li> {{ site.data.spell.masterydh }} увеличивает урон хаосом и скорость передвижения.</li>
-<li> Награды классового оплота:
-            <ul>
-                <li>Средства передвижения: {{ site.data.item.Slayers_Felbroken_Shrieker }}</li>
-                <li class="asc-apl" style="display:none;"></li>
-                <li>Звание: {{ site.data.item.slayer_title }}</li>
-                <li class="se-apl" style="display: none;"></li>
-				<li>Питомец: {{ site.data.item.Hateful_Eye }} за {{ site.data.item.Twisting_Nether }}</li>
-                <li class="asc-apl" style="display:none;"></li>
-                <li>Игрушка: {{ site.data.item.A_Tiny_Set_of_Warglaives }}</li>
-                <li class="se-apl" style="display: none;"></li>
-            </ul>
-        </li>	
+## Лучший набор талантов для Охотника на Демонов Истребление
+<ul>
+<li>Уровень 15: {{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li> 
+<li>Уровень 30: {{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li> 
+<li>Уровень 35: {{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li> 
+<li>Уровень 40: {{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li> 
+<li>Уровень 45: {{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li> 
+<li>Уровень 50: {{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li> 
+</ul>
 
-## Сильные стороны 
- 
-Охотник на Демонов специализации Истребление довольно простой класс для изучения. У Охотников на Демонов специализации Истребление имеется сильный АоЕ урон, хороший клив урон, а также достойный урон в одну цель.
-Основная цель заключается в грамотном расходовании ресурсов и своевременной реакции на получаемые излишки гнева, в том числе и во время действия усилений. Помимо всего прочего, специализация дает доступ к способностям, повышающим мобильность, а также к защитным заклинаниям. Все это позволяет охотнику на демонов приспосабливаться к самым разным ситуациям.
+Ищете быструю сборку Havoc Demon Hunter? Это то, что вам нужно! Однако, если вы ищете что-то более конкретное, например серьезные рейды или эпохальные + подземелья, проверьте другие сборки ниже.
 
-## Чем выделяеться специализация
-Охотник на Демонов специализации Истребление - это специализация бойцов ближнего боя.
+  <div class="tabs">
+    <div class="tabs__nav">
+      <a class="tabs__link tabs__link_active" href="#content-1">Вкладка 1</a>
+      <a class="tabs__link" href="#content-2">Вкладка 2</a>
+      <a class="tabs__link" href="#content-3">Вкладка 3</a>
+    </div>
+    <div class="tabs__content">
+      <div class="tabs__pane tabs__pane_show" id="content-1">
+        <p align="center" width="100%">
+    <img src="{{ site.url }}/assets/img/guide/havoc/beginer_build901.jpg">
+</p>
+      </div>
+      <div class="tabs__pane" id="content-2">
+        Содержимое 2...
+      </div>
+      <div class="tabs__pane" id="content-3">
+        <p align="center" width="100%">
+    <img src="{{ site.url }}/assets/img/guide/havoc/beginer_build901.jpg">
+</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    var $tabs = function (target) {
+      var
+        _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
+        _eventTabsShow,
+        _showTab = function (tabsLinkTarget) {
+          var tabsPaneTarget, tabsLinkActive, tabsPaneShow;
+          tabsPaneTarget = document.querySelector(tabsLinkTarget.getAttribute('href'));
+          tabsLinkActive = tabsLinkTarget.parentElement.querySelector('.tabs__link_active');
+          tabsPaneShow = tabsPaneTarget.parentElement.querySelector('.tabs__pane_show');
+          // если следующая вкладка равна активной, то завершаем работу
+          if (tabsLinkTarget === tabsLinkActive) {
+            return;
+          }
+          // удаляем классы у текущих активных элементов
+          if (tabsLinkActive !== null) {
+            tabsLinkActive.classList.remove('tabs__link_active');
+          }
+          if (tabsPaneShow !== null) {
+            tabsPaneShow.classList.remove('tabs__pane_show');
+          }
+          // добавляем классы к элементам (в завимости от выбранной вкладки)
+          tabsLinkTarget.classList.add('tabs__link_active');
+          tabsPaneTarget.classList.add('tabs__pane_show');
+          document.dispatchEvent(_eventTabsShow);
+        },
+        _switchTabTo = function (tabsLinkIndex) {
+          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
+          if (tabsLinks.length > 0) {
+            if (tabsLinkIndex > tabsLinks.length) {
+              tabsLinkIndex = tabsLinks.length;
+            } else if (tabsLinkIndex < 1) {
+              tabsLinkIndex = 1;
+            }
+            _showTab(tabsLinks[tabsLinkIndex - 1]);
+          }
+        };
+
+      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
+
+      _elemTabs.addEventListener('click', function (e) {
+        var tabsLinkTarget = e.target;
+        // завершаем выполнение функции, если кликнули не по ссылке
+        if (!tabsLinkTarget.classList.contains('tabs__link')) {
+          return;
+        }
+        // отменяем стандартное действие
+        e.preventDefault();
+        _showTab(tabsLinkTarget);
+      });
+
+      return {
+        showTab: function (target) {
+          _showTab(target);
+        },
+        switchTabTo: function (index) {
+          _switchTabTo(index);
+        }
+      }
+
+    };
+
+    var mytabs = $tabs('.tabs');
+    if (localStorage.getItem('mytabs')) {
+      mytabs.showTab(document.querySelector('[href="' + localStorage.getItem('mytabs') + '"]'));
+    }
+
+    document.addEventListener('tab.show', function (e) {
+      localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
+    })
+  </script>
