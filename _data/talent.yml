@@ -14,22 +14,28 @@
 
 #Havoc
 BlindFury: <a href="https://ru.wowhead.com/spell=203550" target="blank">Слепая ярость</a>
-Unbound_Chaos: <a href="https://ru.wowhead.com/spell=275144" target="blank">Необузданный хаос</a>
-Glaive_Tempest: <a href="https://ru.wowhead.com/spell=342817" target="blank">Шквал клинков</a>
-Fury_of_the_Illidari: <a href="https://ru.wowhead.com/spell=201467" target="blank">Ярость иллидари</a>
+Demonic_Appetite: <a href="https://ru.wowhead.com/spell=206478" target="blank">Демонический аппетит</a>
+Felblade: <a href="https://ru.wowhead.com/spell=232893" target="blank">Клинок Скверны</a>
 Insatiable_Hunger: <a href="https://ru.wowhead.com/spell=258876" target="blank">Неутолимый голод</a>
 Burning_Hatred: <a href="https://ru.wowhead.com/spell=320374" target="blank">Пылающая ненависть</a>
+Demon_Blades: <a href="https://ru.wowhead.com/spell=203555" target="blank">Демонические клинки</a>
+Trail_of_Ruin: <a href="https://ru.wowhead.com/spell=258881" target="blank">Остатки разрушений</a>
+Unbound_Chaos: <a href="https://ru.wowhead.com/spell=275144" target="blank">Необузданный хаос</a>
+Glaive_Tempest: <a href="https://ru.wowhead.com/spell=342817" target="blank">Шквал клинков</a>
 Soul_Rending: <a href="https://ru.wowhead.com/spell=204909" target="blank">Раздирание души</a>
 Desperate_Instincts: <a href="https://ru.wowhead.com/spell=205411" target="blank">Инстинкт самосохранения</a>
 Netherwalk: <a href="https://ru.wowhead.com/spell=196555" target="blank">Путь Пустоты</a>
 Cycle_of_Hatred: <a href="https://ru.wowhead.com/spell=258887" target="blank">Цикл ненависти</a>
+First_Blood: <a href="https://ru.wowhead.com/spell=206416" target="blank">Первая кровь</a>
 Essence_Break: <a href="https://ru.wowhead.com/spell=320338" target="blank">Разрыв сущности</a>
-Demonic: <a href="https://ru.wowhead.com/spell=213410" target="blank">Демонизм</a>
-Fel_Barrage: <a href="https://ru.wowhead.com/spell=258925" target="blank">Обстрел Скверны</a>
-Felblade: <a href="https://ru.wowhead.com/spell=232893" target="blank">Клинок Скверны</a>
-Demon_Blades: <a href="https://ru.wowhead.com/spell=203555" target="blank">Демонические клинки</a>
+Unleashed_Power: <a href="https://ru.wowhead.com/spell=206477" target="blank">Освобожденная сила</a>
+Master_of_the_Glaive: <a href="https://ru.wowhead.com/spell=203556" target="blank">Мастер боевого клинка</a>
 Fel_Eruption: <a href="https://ru.wowhead.com/spell=211881" target="blank">Извержение Скверны</a>
-Demonic_Appetite: <a href="https://ru.wowhead.com/spell=206478" target="blank">Демонический аппетит</a>
+Demonic: <a href="https://ru.wowhead.com/spell=213410" target="blank">Демонизм</a>
+Momentum: <a href="https://ru.wowhead.com/spell=206476" target="blank">Импульс</a>
+Fel_Barrage: <a href="https://ru.wowhead.com/spell=258925" target="blank">Обстрел Скверны</a>
+
+Fury_of_the_Illidari: <a href="https://ru.wowhead.com/spell=201467" target="blank">Ярость иллидари</a>
 
 #VDH
 Infernal_Armor: <a href="https://ru.wowhead.com/spell=320331" target="blank">Инфернальная броня</a>
@@ -50,6 +56,10 @@ Last_Resort: <a href="https://ru.wowhead.com/spell=209258" target="blank">Пос
 Ruinous_Bulwark: <a href="https://ru.wowhead.com/spell=326853" target="blank">Разрушительный бастион</a>
 Fracture: <a href="https://ru.wowhead.com/spell=263642" target="blank">Разлом</a>
 
+#PVP Havoc
+Demonic_Origins: <a href="https://ru.wowhead.com/spell=235893" target="blank">Демонические истоки</a> 
+Solitude: <a href="https://ru.wowhead.com/spell=211509" target="blank">Одиночество</a> 
+Rain_from_Above: <a href="https://ru.wowhead.com/spell=206803" target="blank">Удар с небес</a> 
 
 #Удаленный талант
 Nemesis: <a href="https://ru.wowhead.com/spell=206491" target="blank">Заклятый враг</a>
