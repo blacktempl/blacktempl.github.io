@@ -69,7 +69,7 @@
     }
 	
 
-//ТУТ ТУТ ТУТ ТУТ ТУТ ТУТ ТУТ ТУТ
+//Таланты таблица
 
 .iconmedium{
     font-family: open sans,Arial,helvetica neue,Helvetica,sans-serif;
@@ -107,8 +107,6 @@
     top: 0;
     z-index: 10;
 }
-
-
 
 .talentcalc-main{
 	background-color:#141414!important;
@@ -167,17 +165,16 @@ height:50px;
 line-height:50px;
 text-align:center}
 
-.talentcalc-row, table {
-  tr {
-    &:nth-child(even) {
-    background:url(https://wow.zamimg.com/images/TalentCalc/sprite.png);
+.talentcalc-row tr:nth-child(2n) {
+    background:url(https://wow.zamimg.com/images/TalentCalc/sprite.png)!important;
 	height:50px;
 	line-height:50px;
 	text-align:center
     }
-  }
-  }
   
+  
+
+ 
  .talentcalc-row .outer{
 background:url(https://wow.zamimg.com/images/TalentCalc/sprite.png) 0 -50px;
 cursor:pointer;
@@ -700,7 +697,7 @@ font-size:14px}
 
  }
 
-//ТУТ ТУТ ТУТ ТУТ ТУТ ТУТ ТУТ ТУТ
+//Таланты таблица
 
 //guide navi bottom
 
