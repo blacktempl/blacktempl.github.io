@@ -6,8 +6,6 @@ game_version: 9.0.0 Shadowlands
 toc: true
 ---
 
-<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/global.css?7b74e7e">
-
 <div id="smooth-nav-outer">
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
@@ -27,24 +25,27 @@ toc: true
 
 
 
-
-<div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
-<div class="talentcalc-wrapper" style="" data-selected="no">
-<div class="talentcalc-main" data-selected="no" data-class="demonhunter">
-<div class="talentcalc-header-class">
-<a class="c12" href="/class=12#spells:type=-2" target="_blank">Таланты Охотника на Демонов</a></div>
+  <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
+    <div class="talentcalc-wrapper" style="" data-selected="no">
+	  <div class="talentcalc-main" data-selected="no" data-class="demonhunter">
+	<div class="talentcalc-header-class">
+		<a class="c12" href="/class=12#spells:type=-2" target="_blank">Таланты Охотника на Демонов</a></div>
 <div class="talentcalc-spec-switcher">Специализация: <span class="q1"><span class="tooltip-inside-icon" style="background-image: url(https://wow.zamimg.com/images/wow/icons/small/ability_demonhunter_specdps.jpg)"></span> Истребление <span class="talentcalc-spec-role" style="background-position: 0px 0"></span></span>
 </div>                             
-<div class="talentcalc-spec-desc" data-spec="3">Мрачный мастер боевых клинков и разрушительной магии Скверны. Оружие: боевые клинки, мечи, топоры, кистевое.</div>    
+<div class="talentcalc-spec-desc" data-spec="3">Мрачный мастер боевых клинков и разрушительной магии Скверны. Оружие: боевые клинки, мечи, топоры, кистевое.</div>  
+  
 <table class="talentcalc-core" data-selected="no">
-<tbody data-selected="no">
+	<tbody data-selected="no">
 <tr data-row="0" class="talentcalc-row" data-selected="yes" data-available="yes">
 <td class="outer" data-selected="no">
-<div class="inner">15</div></td>
+
+<div class="inner">15</div>
+</td>
+
 <td class="outer" data-row="0" data-col="0" cursor="pointer" data-selected="no">
 <div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=203550"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bosskilrogg_deadeye.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=203550" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bosskilrogg_deadeye.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -55,8 +56,10 @@ toc: true
 </table >
 </div>
 </td>
+
 <td class="outer" data-row="0" data-col="1" cursor="pointer" data-selected="yes">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=206478"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=206478" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_creature_poison_01_purple.jpg)"></ins><del></del>
 <div class="state active">✓</div></div>
 <table>
@@ -68,9 +71,11 @@ toc: true
 </table>
 </div>
 </td>
+
 <td class="outer last-child" data-row="0" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=232893"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_felblade.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=232893" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_felblade.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -82,10 +87,16 @@ toc: true
 </div>
 </td>
 </tr>
-<tr data-row="1" class="talentcalc-row" data-selected="yes" data-available="yes"><td class="outer" data-selected="no"><div class="inner">25</div>
+
+<tr data-row="1" class="talentcalc-row" data-selected="yes" data-available="yes">
+<td class="outer" data-selected="no">
+<div class="inner">25</div>
 </td>
-<td class="outer" data-row="1" data-col="0" cursor="pointer" data-selected="no"><div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=258876"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_hungerforblood.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+
+<td class="outer" data-row="1" data-col="0" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=258876" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_hungerforblood.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -96,9 +107,11 @@ toc: true
 </table>
 </div>
 </td>
+
 <td class="outer" data-row="1" data-col="1" cursor="pointer" data-selected="yes">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=320374"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_immolation.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=320374" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_immolation.jpg)"></ins><del></del>
 <div class="state active">✓</div></div>
 <table>
 <tbody>
@@ -109,9 +122,11 @@ toc: true
 </table>
 </div>
 </td>
+
 <td class="outer last-child" data-row="1" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=203555"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_92.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=203555" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_92.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -122,12 +137,17 @@ toc: true
 </table>
 </div>
 </td>
-</tr><tr data-row="2" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no"><div class="inner">30</div>
+</tr>
+
+<tr data-row="2" class="talentcalc-row" data-selected="yes" data-available="yes">
+<td class="outer" data-selected="no">
+<div class="inner">30</div>
 </td>
+
 <td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="no">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=258881"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_bladedance.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=258881" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_bladedance.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -138,9 +158,11 @@ toc: true
 </table>
 </div>
 </td>
+
 <td class="outer" data-row="2" data-col="1" cursor="pointer" data-selected="yes">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=275144"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_felrush.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=275144" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_felrush.jpg)"></ins><del></del>
 <div class="state active">✓</div></div>
 <table>
 <tbody>
@@ -151,9 +173,11 @@ toc: true
 </table>
 </div>
 </td>
+
 <td class="outer last-child" data-row="2" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=342817"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactazgalor_d_06dual.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=342817" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactazgalor_d_06dual.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -165,11 +189,16 @@ toc: true
 </div>
 </td>
 </tr>
+
 <tr data-row="3" class="talentcalc-row" data-selected="no" data-available="yes">
-<td class="outer" data-selected="no"><div class="inner">35</div></td>
+<td class="outer" data-selected="no">
+<div class="inner">35</div>
+</td>
+
 <td class="outer" data-row="3" data-col="0" cursor="pointer" data-selected="no">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=204909"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_soulcleave2.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=204909" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_soulcleave2.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -180,9 +209,11 @@ toc: true
 </table>
 </div>
 </td>
+
 <td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=205411"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_manafeed.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=205411" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_manafeed.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -193,10 +224,11 @@ toc: true
 </table>
 </div>
 </td>
+
 <td class="outer last-child" data-row="3" data-col="2" cursor="pointer" data-selected="no">
 <div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=196555"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=196555" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg)"></ins><del></del>
 <div class="state">✗</div></div><table><tbody><tr><td>Netherwalk</td>
 </tr>
 </tbody>
@@ -204,12 +236,16 @@ toc: true
 </div>
 </td>
 </tr>
+
 <tr data-row="4" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no"><div class="inner">40</div>
+<td class="outer" data-selected="no">
+<div class="inner">40</div>
 </td>
+
 <td class="outer" data-row="4" data-col="0" cursor="pointer" data-selected="no">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=258887"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_whirlofblood.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=258887" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_whirlofblood.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -220,9 +256,11 @@ toc: true
 </table>
 </div>
 </td>
+
 <td class="outer" data-row="4" data-col="1" cursor="pointer" data-selected="yes">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=206416"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_bloodcorruption_death.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=206416" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_bloodcorruption_death.jpg)"></ins><del></del>
 <div class="state active">✓</div></div>
 <table>
 <tbody>
@@ -233,9 +271,11 @@ toc: true
 </table>
 </div>
 </td>
+
 <td class="outer last-child" data-row="4" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=258860"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_ritualofsacrifice.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=258860" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_ritualofsacrifice.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -247,12 +287,15 @@ toc: true
 </div>
 </td>
 </tr>
-<tr data-row="5" class="talentcalc-row" data-selected="no" data-available="yes"><td class="outer" data-selected="no"><div class="inner">45</div>
+
+<tr data-row="5" class="talentcalc-row" data-selected="no" data-available="yes"><td class="outer" data-selected="no">
+<div class="inner">45</div>
 </td>
+
 <td class="outer" data-row="5" data-col="0" cursor="pointer" data-selected="no">
 <div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=206477"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_chaosnova.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=206477" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_chaosnova.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -263,9 +306,11 @@ toc: true
 </table>
 </div>
 </td>
+
 <td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=203556"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_demonhunter_a_01.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=203556" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_demonhunter_a_01.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -276,9 +321,11 @@ toc: true
 </table>
 </div>
 </td>
+
 <td class="outer last-child" data-row="5" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=211881"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bossfellord_felspike.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=211881" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bossfellord_felspike.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -290,13 +337,16 @@ toc: true
 </div>
 </td>
 </tr>
+
 <tr data-row="6" class="talentcalc-row" data-selected="yes" data-available="yes">
 <td class="outer" data-selected="no">
 <div class="inner">50</div>
 </td>
+
 <td class="outer" data-row="6" data-col="0" cursor="pointer" data-selected="yes">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=213410"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonform.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=213410" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonform.jpg)"></ins><del></del>
 <div class="state active">✓</div></div>
 <table>
 <tbody>
@@ -307,9 +357,11 @@ toc: true
 </table>
 </div>
 </td>
+
 <td class="outer" data-row="6" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=206476"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_foundryraid_demolition.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=206476" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_foundryraid_demolition.jpg)"></ins><del></del>
 </a><div class="state">✗</div></div>
 <table>
 <tbody>
@@ -320,10 +372,12 @@ toc: true
 </table>
 </div>
 </td>
+
 <td class="outer last-child" data-row="6" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner"><a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=258925"></a>
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://shadowlands.wowhead.com/spell=258925" onclick="return false;"></a>
 <div class="iconmedium">
-<ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_felbarrage.jpg)"></ins><del></del><a class="" target="_blank" href="javascript:"></a>
+<ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_felbarrage.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
