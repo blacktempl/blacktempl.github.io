@@ -31,7 +31,7 @@ toc: true
 <li>Уровень 50: {{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li> 
 </ul>
 
-Ищете быструю сборку Havoc Demon Hunter? Это то, что вам нужно! Однако, если вы ищете что-то более конкретное, например серьезные рейды или эпохальные + подземелья, проверьте другие сборки ниже.
+Ищете краткую информацию о билде дпс дх? Тогда эта статья специально для вас! Тем не менее, если вас интересует что-то более специфичное, например, серьёзный рейдинг или мифик+, вас заинтересуют билды ниже
 
   <div class="tabs">
     <div class="tabs__nav">
@@ -571,7 +571,6 @@ toc: true
 <li>В последнем тире талантов можно взять любой на ваше усмотрение, но я советую брать {{ site.data.talent.Rain_from_Above }}, хороший талант который поможет выйти победителем из нежелательных PvP боев</li>
 </ul>
 
-<div style="text-align: -webkit-center;"><a class="fa fa-arrow-up" href="#Лучший-набор-талантов-для-Охотника-на-Демонов-Истребление">Вернутся в начало</a></div>
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/overview.html">Назад:<br>Новичкам</a></div>
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Длаее:<br>Ротация</a></div>

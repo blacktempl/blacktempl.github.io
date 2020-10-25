@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: highcharts_page
 title: Обзор
 last_update: 2020-01-11 09:00:00
 game_version: 9.0.0 Shadowlands
@@ -23,7 +23,7 @@ toc: true
 <br>
 ## Основная информация
 
-
+<div id="bloodmallet_patchwerk" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222">Loading...</div>
 
   <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
     <div class="talentcalc-wrapper" style="" data-selected="no">

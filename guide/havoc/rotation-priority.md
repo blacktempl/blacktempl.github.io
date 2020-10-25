@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Обзор
+title: Ротация
 last_update: 2020-01-11 09:00:00
 game_version: 9.0.0 Shadowlands
 toc: true
@@ -45,7 +45,7 @@ toc: true
 <ul>
 <li>{{ site.data.spell.Imprison }}: Одноминутный контроль который действует на демона, животное или гуманоида.</li>
 <li>{{ site.data.spell.Disrupt }}: Это ваша прерываниея заклинаний врагов. Вы должны использовать его по возможности, так как он генерирует 30 гнева при каждом успешном прерывании.</li>
-<li>{{ site.data.spell.Chaos_Nova: }}: Оглушает ближайшие цели.</li>
+<li>{{ site.data.spell.Chaos_Nova }}: Оглушает ближайшие цели.</li>
 <li>{{ site.data.spell.Vengeful_Retreat }}: Освобождаетесь от эффектов замедления и отпрыгивайте назад. Находящиеся рядом противники получают небольшой урон.</li>
 <li>{{ site.data.spell.Consume_Magic }}: Поглощает 1 магический эффект у вашей цели и дает вам 20 ярости.</li>
 </ul>
@@ -57,3 +57,145 @@ toc: true
 <li>{{ site.data.spell.Chaos_Brand }}: Увеличивает весь получаемый магический целью урон на 5%.</li>
 <li>{{ site.data.spell.Double_Jump }}: Вы можете совершать двойной прыжок</li>
 </ul>
+
+## Ротация / Список приоритетов
+
+Стиль игры за Охотника на демонов Истребление полностью основана на списке приоритетов, то есть вы должны стремиться использовать способность с наивысшим приоритетом, а не фиксированную ротацию. 
+
+Таблица ротации будет тут
+
+## Полный лист приоритетов
+
+<div class="tabs">
+    <div class="tabs__nav">
+      <a class="tabs__link tabs__link_active" href="#content-1">Демоник</a>
+      <a class="tabs__link" href="#content-2">Моментум</a>
+      <a class="tabs__link" href="#content-3">?</a>
+    </div>
+    <div class="tabs__content">
+      <div class="tabs__pane tabs__pane_show" id="content-1">
+        Приоритеты для демоника
+      </div>
+      <div class="tabs__pane" id="content-2">
+   Приоритеты для моментума
+      </div>
+      <div class="tabs__pane" id="content-3">
+        <Приоритеты для 
+      </div>
+    </div>
+  </div>
+
+  <script>
+    var $tabs = function (target) {
+      var
+        _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
+        _eventTabsShow,
+        _showTab = function (tabsLinkTarget) {
+          var tabsPaneTarget, tabsLinkActive, tabsPaneShow;
+          tabsPaneTarget = document.querySelector(tabsLinkTarget.getAttribute('href'));
+          tabsLinkActive = tabsLinkTarget.parentElement.querySelector('.tabs__link_active');
+          tabsPaneShow = tabsPaneTarget.parentElement.querySelector('.tabs__pane_show');
+          // если следующая вкладка равна активной, то завершаем работу
+          if (tabsLinkTarget === tabsLinkActive) {
+            return;
+          }
+          // удаляем классы у текущих активных элементов
+          if (tabsLinkActive !== null) {
+            tabsLinkActive.classList.remove('tabs__link_active');
+          }
+          if (tabsPaneShow !== null) {
+            tabsPaneShow.classList.remove('tabs__pane_show');
+          }
+          // добавляем классы к элементам (в завимости от выбранной вкладки)
+          tabsLinkTarget.classList.add('tabs__link_active');
+          tabsPaneTarget.classList.add('tabs__pane_show');
+          document.dispatchEvent(_eventTabsShow);
+        },
+        _switchTabTo = function (tabsLinkIndex) {
+          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
+          if (tabsLinks.length > 0) {
+            if (tabsLinkIndex > tabsLinks.length) {
+              tabsLinkIndex = tabsLinks.length;
+            } else if (tabsLinkIndex < 1) {
+              tabsLinkIndex = 1;
+            }
+            _showTab(tabsLinks[tabsLinkIndex - 1]);
+          }
+        };
+
+      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
+
+      _elemTabs.addEventListener('click', function (e) {
+        var tabsLinkTarget = e.target;
+        // завершаем выполнение функции, если кликнули не по ссылке
+        if (!tabsLinkTarget.classList.contains('tabs__link')) {
+          return;
+        }
+        // отменяем стандартное действие
+        e.preventDefault();
+        _showTab(tabsLinkTarget);
+      });
+
+      return {
+        showTab: function (target) {
+          _showTab(target);
+        },
+        switchTabTo: function (index) {
+          _switchTabTo(index);
+        }
+      }
+
+    };
+
+    var mytabs = $tabs('.tabs');
+    if (localStorage.getItem('mytabs')) {
+      mytabs.showTab(document.querySelector('[href="' + localStorage.getItem('mytabs') + '"]'));
+    }
+
+    document.addEventListener('tab.show', function (e) {
+      localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
+    })
+  </script>
+  <br>
+## Оптимизация игры через Импульс
+  
+Если у вас взят талант {{ site.data.talent.Momentum }}, вы будете использовать {{ site.data.spell.Vengeful_Retreat }}. Следовательно, правильная игра за Охотника на Демонов Истребление требует от вас как планирования своего позиционирования, так и четкого контроля в отношении своего окружения.
+
+### Правильное позиционирование
+
+Поскольку выход из ближнего боя это неэффективно для нанесения урона, вы должны позиционировать себя так, чтобы минимизировать это как можно сильней. Используя правильное позиционирование, вы можете избежать потери ГКД даже для целей с небольшим хитбоксом. Стойте с одного края хитбокса цели и двигайтесь прямо через него на другую сторону. При правильном позиционирование вы должны без особых усилий оставаться в пределах досягаемости цели на протяжении всего боя.
+
+В бою с небольшими врагами, врагами с маленьким хитбоксом, не всегда выходит оставаться в пределах его досягаемости. Вам понадобится практика, чтоб привыкнуть к хитбоксам цели, и не терять ее с поля видимости на долго.
+
+<ul>
+<li>Для {{ site.data.spell.Fel_Rush }} используйте способность на максимальной дальности ближнего. После использования способности сразу возвращайтесь к цели, чтобы по окончании ГКД вы могли уже наносить цели урон. Вам нужно свести к минимуму время, проведенное за пределами зоны ближнего боя (и следовательно, потерянные автоатаки), поэтому не убегайте слишком далеко, если вам это не нужно.</li>
+<li>Для {{ site.data.spell.Vengeful_Retreat }} с этой способностью все немного проще, так как вы будете использовать ее в паре с {{ site.data.spell.Fel_Rush }}. После использования {{ site.data.spell.Vengeful_Retreat }}  спамите {{ site.data.spell.Fel_Rush }}, чтобы вернутся обратно к цели.</li>
+</ul>
+
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/optimal_momentym_pathing.png"> </p>
+
+### Помните об опасности
+
+Есть ли у цели конусные атаки? На земля рядом с вами огненная лужа? Вы на мосту или рядом с обрывом? Это все, о чем вы должны знать всегда, иначе вы обнаружите, что умираете чаще, чем это, вероятно, должно быть. Это может вам показаться очевидным, но вы должны быть особенно осторожны , потому что они более опасны для вас, чем для любого другого наносящего урон персонажа.
+
+<ul>
+<li> Подумайте, в каких направлениях вы можете безопасно двигаться. Иногда такой способ не позволит вам нанести максимальный урон. Если слева от вас есть например стена из огня, возможно, вы решите использовать {{ site.data.spell.Fel_Rush }} от лица боса за его спину, а не из стороны в сторону. </li>
+<li> Планируйте и минимизируйте неудачные использования {{ site.data.spell.Fel_Rush }}. Использование {{ site.data.spell.Fel_Rush }} из стороны в сторону часто будет лучшим вариантом, но имейте в виду, что вместо этого легко случайно можете улететь вперед. Всегда стойте так, чтобы нападающий не убил вас, если это возможно. Используйте {{ site.data.spell.Fel_Rush }} лишь убедившись, что ваш персонаж смотрит в том направлении, в котором вы собрались использовать {{ site.data.spell.Fel_Rush }}, это значительно снизит вероятность того, что вы попадете в неожиданное место.</li>
+</ul>
+
+## Использование Импульса
+
+{{ site.data.talent.Momentum }} - это талант, который требует особого внимания, чтобы правильно его реализовать.Основной игровой процесс включает в себя использование в паре {{ site.data.spell.Fel_Rush }} и {{ site.data.spell.Vengeful_Retreat }}, чтобы связать окна баффа урона вместе, чтоб получить максимальную выгоду от бафа урона, все остальное время используется стандартная ротация.Есть несколько ключевых моментов для правильного использования этого таланта:
+<ul>
+<li> Прочтите "Правильное позиционирование" о котором написано выше.</li>
+<li> {{ site.data.spell.Vengeful_Retreat }} нужно всегда использовать по кулдауну. Можно сделать WeakAuras чтоб она вас предупреждала когда способность готова к использованию.</li>
+<li> Заряды {{ site.data.spell.Fel_Rush }} никогда не следует тратить просто так; вы всегда должны держать {{ site.data.spell.Fel_Rush }} на перезарядке.</li>
+</ul>
+
+Как указано выше, остальная часть ротации Охотника на Демонов не изменится слишком сильно. Основные изменения заключаются в следующем:
+<ul>
+<li> Все ваши способности с временем восстановления должны использоваться когда действует баф от {{ site.data.talent.Momentum }}. </li>
+<li> Вы должны копить гнев когда нет бафа от {{ site.data.talent.Momentum }}, а когда баф от {{ site.data.talent.Momentum }} есть вы должны тратить ваш запас гнева. </li>
+</ul>
+
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Назад:<br>Таланты и Билды</a></div> <div class="minibox"><a href="{{ site.url }}/guide/havoc/stats.html">Длаее:<br>Характеристики</a></div>
