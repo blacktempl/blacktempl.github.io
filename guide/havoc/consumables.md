@@ -21,30 +21,31 @@ toc: true
 <a href="#"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
 </div>
 <br>
-## Основная информация
-	   
- <li> Только Ночные Эльфы и Эльфы Крови могут быть Охотниками на Демонов.</li>
- <li> {{ site.data.spell.weapon_skills }} Охотников на Демонов позволяет им носить два Боевых клинка, Кистевых оружия, Одноручных топора и Одноручный меч.</li>
- <li> Охотники на демонов теперь могут трансмогрифицировать внешний вид артефакта Легиона для разных специализаций и для каждой руки индивидуально!</li>
- <li> Охотники на демонов начинают игру с 8 уровня.</li>
- <li> {{ site.data.spell.masterydh }} увеличивает урон хаосом и скорость передвижения.</li>
-<li> Награды классового оплота:
-            <ul>
-                <li>Средства передвижения: {{ site.data.item.Slayers_Felbroken_Shrieker }}</li>
-                <li class="asc-apl" style="display:none;"></li>
-                <li>Звание: {{ site.data.item.slayer_title }}</li>
-                <li class="se-apl" style="display: none;"></li>
-				<li>Питомец: {{ site.data.item.Hateful_Eye }} за {{ site.data.item.Twisting_Nether }}</li>
-                <li class="asc-apl" style="display:none;"></li>
-                <li>Игрушка: {{ site.data.item.A_Tiny_Set_of_Warglaives }}</li>
-                <li class="se-apl" style="display: none;"></li>
-            </ul>
-        </li>	
+## Лучшие зачарованние для Охотника на Демонов Истребление
 
-## Сильные стороны 
- 
-Охотник на Демонов специализации Истребление довольно простой класс для изучения. У Охотников на Демонов специализации Истребление имеется сильный АоЕ урон, хороший клив урон, а также достойный урон в одну цель.
-Основная цель заключается в грамотном расходовании ресурсов и своевременной реакции на получаемые излишки гнева, в том числе и во время действия усилений. Помимо всего прочего, специализация дает доступ к способностям, повышающим мобильность, а также к защитным заклинаниям. Все это позволяет охотнику на демонов приспосабливаться к самым разным ситуациям.
+<ul>
+<li>Оружие: 2х{{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li>
+<li>Кольца: 2х{{ site.data.prof.Enchant_Ring_Tenet_of_Versatility }}</li>
+<li>Сапоги: {{ site.data.prof.Enchant_Boots_Eternal_Agility }}</li>
+<li>Нагрудник: {{ site.data.prof.Enchant_Chest_Eternal_Stats }}</li>
+<li>Плащ: {{ site.data.prof.Enchant_Cloak_Fortified_Leech }}</li>
+</ul>
 
-## Чем выделяеться специализация
-Охотник на Демонов специализации Истребление - это специализация бойцов ближнего боя.
+## Настой и  Зелья
+<ul>
+<li>Настой: {{ site.data.prof.Eternal_Flask }}</li>
+<li>Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }} СТ</li>
+<li>Зелья: {{ site.data.prof.Potion_of_Empowered_Exorcisms }} АОЕ</li>
+<li>Исцеление: {{ site.data.prof.Spiritual_Healing_Potion }} </li>
+</ul>
+
+## Лучшая Камни
+<ul>
+<li>Камни: {{ site.data.prof.Versatile_Jewel_Cluster }}</li>
+</ul>
+
+## Лучшая Еда
+<ul>
+<li>Еда: {{ site.data.prof.Steak_a_la_Mode }}</li>
+</ul>
+

@@ -1,6 +1,6 @@
 ---
 layout: highcharts_page
-title: Обзор
+title: Бис Лист
 last_update: 2020-01-11 09:00:00
 game_version: 9.0.0 Shadowlands
 toc: true
@@ -21,380 +21,271 @@ toc: true
 <a href="#"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
 </div>
 <br>
-## Основная информация
-
-<div id="bloodmallet_patchwerk" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222">Loading...</div>
-
-  <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
-    <div class="talentcalc-wrapper" style="" data-selected="no">
-	  <div class="talentcalc-main" data-selected="no" data-class="demonhunter">
-	<div class="talentcalc-header-class">
-		<a class="c12">Таланты Охотника на Демонов</a></div>
-<div class="talentcalc-spec-switcher">Специализация: <span class="q1"><span class="tooltip-inside-icon" style="background-image: url(https://wow.zamimg.com/images/wow/icons/small/ability_demonhunter_specdps.jpg)"></span> Истребление <span class="talentcalc-spec-role" style="background-position: 0px 0"></span></span>
-</div>                             
-<div class="talentcalc-spec-desc" data-spec="3">Мрачный мастер боевых клинков и разрушительной магии Скверны. Оружие: боевые клинки, мечи, топоры, кистевое.</div>  
-  
-<table class="talentcalc-core" data-selected="no">
-	<tbody data-selected="no">
-<tr data-row="0" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-
-<div class="inner">15</div>
-</td>
-
-<td class="outer" data-row="0" data-col="1" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203550" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bosskilrogg_deadeye.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
+## Рекомендуемое снаряжение
+<div class="tabs">
+    <div class="tabs__nav">
+      <a class="tabs__link tabs__link_active" href="#content-1">Пре-Рейд</a>
+      <a class="tabs__link" href="#content-2">Замок Нафрия</a>
+    </div>
+    <div class="tabs__content">
+      <div class="tabs__pane tabs__pane_show" id="content-1">
 <table>
+    <tr>
+        <td>Тип</td>
+        <td>Название</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Шлем</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Шея</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Наплечники</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Плащ</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Грудь</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Наручи</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Кисти рук</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Пояс</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Ноги</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Сапоги</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Кольцо</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Кольцо</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Правая рука</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Левая рука</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Аксессуар</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Аксессуар</td>
+        <td>{{ site.data.item.Hateful_Eye }}</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+</table>	  
+      </div>
+      <div class="tabs__pane" id="content-2">
+      </div>
+  </div>
+ </div>
+ 
+  <script>
+    var $tabs = function (target) {
+      var
+        _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
+        _eventTabsShow,
+        _showTab = function (tabsLinkTarget) {
+          var tabsPaneTarget, tabsLinkActive, tabsPaneShow;
+          tabsPaneTarget = document.querySelector(tabsLinkTarget.getAttribute('href'));
+          tabsLinkActive = tabsLinkTarget.parentElement.querySelector('.tabs__link_active');
+          tabsPaneShow = tabsPaneTarget.parentElement.querySelector('.tabs__pane_show');
+          // если следующая вкладка равна активной, то завершаем работу
+          if (tabsLinkTarget === tabsLinkActive) {
+            return;
+          }
+          // удаляем классы у текущих активных элементов
+          if (tabsLinkActive !== null) {
+            tabsLinkActive.classList.remove('tabs__link_active');
+          }
+          if (tabsPaneShow !== null) {
+            tabsPaneShow.classList.remove('tabs__pane_show');
+          }
+          // добавляем классы к элементам (в завимости от выбранной вкладки)
+          tabsLinkTarget.classList.add('tabs__link_active');
+          tabsPaneTarget.classList.add('tabs__pane_show');
+          document.dispatchEvent(_eventTabsShow);
+        },
+        _switchTabTo = function (tabsLinkIndex) {
+          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
+          if (tabsLinks.length > 0) {
+            if (tabsLinkIndex > tabsLinks.length) {
+              tabsLinkIndex = tabsLinks.length;
+            } else if (tabsLinkIndex < 1) {
+              tabsLinkIndex = 1;
+            }
+            _showTab(tabsLinks[tabsLinkIndex - 1]);
+          }
+        };
+
+      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
+
+      _elemTabs.addEventListener('click', function (e) {
+        var tabsLinkTarget = e.target;
+        // завершаем выполнение функции, если кликнули не по ссылке
+        if (!tabsLinkTarget.classList.contains('tabs__link')) {
+          return;
+        }
+        // отменяем стандартное действие
+        e.preventDefault();
+        _showTab(tabsLinkTarget);
+      });
+
+      return {
+        showTab: function (target) {
+          _showTab(target);
+        },
+        switchTabTo: function (index) {
+          _switchTabTo(index);
+        }
+      }
+
+    };
+
+    var mytabs = $tabs('.tabs');
+    if (localStorage.getItem('mytabs')) {
+      mytabs.showTab(document.querySelector('[href="' + localStorage.getItem('mytabs') + '"]'));
+    }
+
+    document.addEventListener('tab.show', function (e) {
+      localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
+    })
+  </script>
+<br>
+## Аксессуар
+<div class="bloodmallet_chart" id="wowhead-guid-1603794320409-1603794317000-750641514-1" data-wow-class="demon_hunter" data-wow-spec="havoc" data-axis-color="#9d9d9d" data-background-color="#242424" data-entries="10" data-font-color="#ccc" data-type="trinkets" data-highcharts-chart="0" style="overflow: hidden; height: 500px;"></div>
+
+<br>
+<table class="grid" style="max-width:750px">
 <tbody>
 <tr>
-<td>Слепая ярость</td>
+<td style="text-align: center;"><b>Keystone Level</b></td>
+<td style="text-align: center;"><b>End of Dungeon</b></td>
+<td style="text-align: center;"><b>Weekly Cache</b></td>
 </tr>
-</tbody>
-</table >
-</div>
-</td>
-
-<td class="outer" data-row="0" data-col="0" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206478" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_creature_poison_01_purple.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
+<tr><td>Mythic 2</td>
+<td style="text-align: center;">90</td>
+<td style="text-align: center;">95</td>
+</tr>
+<tr><td>Mythic 3</td>
+<td style="text-align: center;">90</td>
+<td style="text-align: center;">100</td>
+</tr>
 <tr>
-<td>Демонический аппетит</td>
+<td>Mythic 4</td>
+<td style="text-align: center;">95</td>
+<td style="text-align: center;">105</td>
+</tr>
+<tr><td>Mythic 5</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">105</td>
+</tr>
+<tr>
+<td>Mythic 6</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">110</td>
+</tr>
+<tr>
+<td>Mythic 7</td>
+<td style="text-align: center;">105</td>
+<td style="text-align: center;">115</td>
+</tr>
+<tr>
+<td>Mythic 8</td>
+<td style="text-align: center;">110</td>
+<td style="text-align: center;">115</td>
+</tr>
+<tr>
+<td>Mythic 9</td>
+<td style="text-align: center;">110</td>
+<td style="text-align: center;">115</td>
+</tr>
+<tr>
+<td>Mythic 10</td>
+<td style="text-align: center;">110</td>
+<td style="text-align: center;">120</td>
+</tr>
+<tr>
+<td>Mythic 11</td>
+<td style="text-align: center;">115</td>
+<td style="text-align: center;">120</td>
+</tr>
+<tr>
+<td>Mythic 12</td>
+<td style="text-align: center;">115</td>
+<td style="text-align: center;">125</td>
+</tr><tr><td>Mythic 13</td>
+<td style="text-align: center;">115</td>
+<td style="text-align: center;">125</td>
+</tr>
+<tr>
+<td>Mythic 14</td>
+<td style="text-align: center;">120</td>
+<td style="text-align: center;">125</td>
+</tr>
+<tr>
+<td>Mythic 15+</td>
+<td style="text-align: center;">120</td>
+<td style="text-align: center;">130</td>
 </tr>
 </tbody>
 </table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="0" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=232893" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_felblade.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Клинок Скверны</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="1" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">25</div>
-</td>
-
-<td class="outer" data-row="1" data-col="0" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258876" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_hungerforblood.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Неутолимый голод</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="1" data-col="1" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=320374" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_immolation.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
-<tr>
-<td>Пылающая ненависть</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="1" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203555" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_92.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Демонические клинки</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="2" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">30</div>
-</td>
-
-<td class="outer" data-row="2" data-col="1" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258881" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_bladedance.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Остатки разрушений</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=275144" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_felrush.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
-<tr>
-<td>Необузданный хаос</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="2" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=342817" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactazgalor_d_06dual.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Шквал клинков</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="3" class="talentcalc-row" data-selected="no" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">35</div>
-</td>
-
-<td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=204909" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_soulcleave2.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Раздирание души</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=205411" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_manafeed.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Инстинкт самосохранения</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="3" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=196555" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Путь Пустоты</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="4" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">40</div>
-</td>
-
-<td class="outer" data-row="4" data-col="0" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258887" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_whirlofblood.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Цикл ненависти</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="4" data-col="1" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206416" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_bloodcorruption_death.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
-<tr>
-<td>Первая кровь</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="4" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258860" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_ritualofsacrifice.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Разрыв сущности</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="5" class="talentcalc-row" data-selected="no" data-available="yes"><td class="outer" data-selected="no">
-<div class="inner">45</div>
-</td>
-
-<td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206477" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_chaosnova.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Освобожденная сила</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203556" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_demonhunter_a_01.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Мастер боевого клинка</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="5" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=211881" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bossfellord_felspike.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Извержение Скверны</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="6" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">50</div>
-</td>
-
-<td class="outer" data-row="6" data-col="0" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=213410" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonform.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
-<tr>
-<td>Демонизм</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="6" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206476" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_foundryraid_demolition.jpg)"></ins><del></del>
-</a><div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Импульс</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="6" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258925" onclick="return false;"></a>
-<div class="iconmedium">
-<ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_felbarrage.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Обстрел Скверны</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-</tbody>
-</table>    
-</div>
-</div>
-</div>                    
