@@ -30,7 +30,7 @@ toc: true
 	   
 Этот билд для Охотника на Демонов Истребления хорошо продумана и подходит для всех типов контента, чтоб не зацикливаясь на чем-то конкретном. Для более подробного изучения каждого таланта и более специализированных билдов для конкретных действий см. <a href="{{ site.url }}/guide/vengeance/talent-builds.html"> Таланты и Билды</a>.
 
-  <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
+   <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
     <div class="talentcalc-wrapper" style="" data-selected="no">
 	  <div class="talentcalc-main" data-selected="no" data-class="demonhunter">
 	<div class="talentcalc-header-class">
@@ -284,7 +284,7 @@ toc: true
 <td class="outer last-child" data-row="4" data-col="1" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=202138" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_ritualofsacrifice.jpg)"></ins><del></del>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_sigilofchains.jpg)"></ins><del></del>
 <div class="state">✓</div></div>
 <table>
 <tbody>
@@ -304,7 +304,7 @@ toc: true
 <td class="outer" data-row="5" data-col="0" cursor="pointer" data-selected="no">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=268175" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_chaosnova.jpg)"></ins><del></del>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonicempathy.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -319,7 +319,7 @@ toc: true
 <td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=321453" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bossfellord_felspike.jpg)"></ins><del></del>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonform.jpg)"></ins><del></del>
 <div class="state">✓</div></div>
 <table>
 <tbody>
@@ -402,7 +402,7 @@ toc: true
 </table>    
 </div>
 </div>
-</div>                      
+</div>                                
 
 ## Ротация
 
