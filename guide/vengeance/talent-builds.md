@@ -29,9 +29,9 @@ toc: true
 <li>Уровень 35: {{ site.data.talent.Fracture }} для урона или {{ site.data.talent.Feed_the_Demon }} для выживаймости.</li>
 <li>Уровень 40: {{ site.data.talent.Concentrated_Sigils }} для увеличения урона, {{ site.data.talent.Sigil_of_Chains }} для подземелий.</li> 
 <li>Уровень 45: {{ site.data.talent.DemonicVDH }}</li> 
-<li>Уровень 50: {{ site.data.talent.Last_Resort }}</li
+<li>Уровень 50: {{ site.data.talent.Last_Resort }}</li> 
 </ul>
-	
+	<br>  
 <div class="tabs">
     <div class="tabs__nav">
       <a class="tabs__link tabs__link_active" href="#content-1">Билд 1</a>
