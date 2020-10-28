@@ -1,4 +1,4 @@
-## Welcome to Storm, Earth & Lava
+## Welcome to Black Temple
 > A resource for Elemental Shamans in World of Warcraft
 
 [back to web-page](https://blacktempl.github.io/)
