@@ -253,43 +253,43 @@ toc: true
 
 <td class="outer" data-row="4" data-col="0" cursor="pointer" data-selected="no">
 <div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258887" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_whirlofblood.jpg)"></ins><del></del>
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=207666" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bossfelorcs_necromancer_red.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
 <tr>
-<td>Цикл ненависти</td>
+<td>Средоточие печатей</td>
 </tr>
 </tbody>
 </table>
 </div>
 </td>
 
-<td class="outer" data-row="4" data-col="1" cursor="pointer" data-selected="yes">
+<td class="outer" data-row="4" data-col="0" cursor="pointer" data-selected="no">
 <div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206416" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_bloodcorruption_death.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=209281" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_concentratedsigils.jpg)"></ins><del></del>
+<div class="state active">✗</div></div>
 <table>
 <tbody>
 <tr>
-<td>Первая кровь</td>
+<td>Ускоренные печати</td>
 </tr>
 </tbody>
 </table>
 </div>
 </td>
 
-<td class="outer last-child" data-row="4" data-col="2" cursor="pointer" data-selected="no">
+<td class="outer last-child" data-row="4" data-col="1" cursor="pointer" data-selected="yes">
 <div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258860" onclick="return false;"></a>
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=202138" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_ritualofsacrifice.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
+<div class="state">✓</div></div>
 <table>
 <tbody>
 <tr>
-<td>Разрыв сущности</td>
+<td>Печать цепей</td>
 </tr>
 </tbody>
 </table>
@@ -301,45 +301,45 @@ toc: true
 <div class="inner">45</div>
 </td>
 
-<td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="yes">
+<td class="outer" data-row="5" data-col="0" cursor="pointer" data-selected="no">
 <div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206477" onclick="return false;"></a>
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=268175" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_chaosnova.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
 <tr>
-<td>Освобожденная сила</td>
+<td>Страж Бездны</td>
 </tr>
 </tbody>
 </table>
 </div>
 </td>
 
-<td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="no">
+<td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="yes">
 <div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203556" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_demonhunter_a_01.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Мастер боевого клинка</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="5" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=211881" onclick="return false;"></a>
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=321453" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bossfellord_felspike.jpg)"></ins><del></del>
+<div class="state">✓</div></div>
+<table>
+<tbody>
+<tr>
+<td>Демонизм</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="5" data-col="0" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=263648" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_soulbarrier.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
 <tr>
-<td>Извержение Скверны</td>
+<td>Призрачный барьер</td>
 </tr>
 </tbody>
 </table>
@@ -354,13 +354,13 @@ toc: true
 
 <td class="outer" data-row="6" data-col="0" cursor="pointer" data-selected="yes">
 <div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=213410" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonform.jpg)"></ins><del></del>
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=209258" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactaldorchi_d_06.jpg)"></ins><del></del>
 <div class="state active">✓</div></div>
 <table>
 <tbody>
 <tr>
-<td>Демонизм</td>
+<td>Последнее прибежище</td>
 </tr>
 </tbody>
 </table>
@@ -369,13 +369,13 @@ toc: true
 
 <td class="outer" data-row="6" data-col="1" cursor="pointer" data-selected="no">
 <div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206476" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_foundryraid_demolition.jpg)"></ins><del></del>
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=326853" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_feldevastation.jpg)"></ins><del></del>
 </a><div class="state">✗</div></div>
 <table>
 <tbody>
 <tr>
-<td>Импульс</td>
+<td>Разрушительный бастион</td>
 </tr>
 </tbody>
 </table>
@@ -384,14 +384,14 @@ toc: true
 
 <td class="outer last-child" data-row="6" data-col="2" cursor="pointer" data-selected="no">
 <div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258925" onclick="return false;"></a>
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=320341" onclick="return false;"></a>
 <div class="iconmedium">
-<ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_felbarrage.jpg)"></ins><del></del>
+<ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_shadesofdarkness.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
 <tr>
-<td>Обстрел Скверны</td>
+<td>Массовое извлечение</td>
 </tr>
 </tbody>
 </table>
@@ -402,7 +402,7 @@ toc: true
 </table>    
 </div>
 </div>
-</div>            
+</div>                      
 
 ## Ротация
 
