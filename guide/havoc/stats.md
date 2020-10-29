@@ -35,7 +35,7 @@ toc: true
 <li> Универсальность: Универсальная характеристика, увеличивает наносимый урон и уменьшает получаемый. Довольно хорошая характеристика для нас.</li>
 </ul>
 
-## Приоритет характеристик для Охотника на Димонов Истребление
+## Приоритет характеристик для Охотника на Демонов Истребление
 
 <div class="tabs">
     <div class="tabs__nav">
@@ -130,3 +130,6 @@ toc: true
       localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
     })
   </script>
+
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/rotation-priority.html">Назад:<br>Ротация</a></div> <div class="minibox"><a href="{{ site.url }}/guide/havoc/gear.html">Длаее:<br>Таланты и Бис лист</a></div>
+

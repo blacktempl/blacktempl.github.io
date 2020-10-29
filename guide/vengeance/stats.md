@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Обзор
+title: Характеристики
 last_update: 2020-01-11 09:00:00
 game_version: 9.0.0 Shadowlands
 toc: true
@@ -21,30 +21,146 @@ toc: true
 <a href="#"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Commenting Legendaries</a>
 </div>
 <br>
-## Основная информация
-	   
- <li> Только Ночные Эльфы и Эльфы Крови могут быть Охотниками на Демонов.</li>
- <li> {{ site.data.spell.weapon_skills }} Охотников на Демонов позволяет им носить два Боевых клинка, Кистевых оружия, Одноручных топора и Одноручный меч.</li>
- <li> Охотники на демонов теперь могут трансмогрифицировать внешний вид артефакта Легиона для разных специализаций и для каждой руки индивидуально!</li>
- <li> Охотники на демонов начинают игру с 8 уровня.</li>
- <li> {{ site.data.spell.masterydh }} увеличивает урон хаосом и скорость передвижения.</li>
-<li> Награды классового оплота:
-            <ul>
-                <li>Средства передвижения: {{ site.data.item.Slayers_Felbroken_Shrieker }}</li>
-                <li class="asc-apl" style="display:none;"></li>
-                <li>Звание: {{ site.data.item.slayer_title }}</li>
-                <li class="se-apl" style="display: none;"></li>
-				<li>Питомец: {{ site.data.item.Hateful_Eye }} за {{ site.data.item.Twisting_Nether }}</li>
-                <li class="asc-apl" style="display:none;"></li>
-                <li>Игрушка: {{ site.data.item.A_Tiny_Set_of_Warglaives }}</li>
-                <li class="se-apl" style="display: none;"></li>
-            </ul>
-        </li>	
+## Характеристики
 
-## Сильные стороны 
- 
-Охотник на Демонов специализации Истребление довольно простой класс для изучения. У Охотников на Демонов специализации Истребление имеется сильный АоЕ урон, хороший клив урон, а также достойный урон в одну цель.
-Основная цель заключается в грамотном расходовании ресурсов и своевременной реакции на получаемые излишки гнева, в том числе и во время действия усилений. Помимо всего прочего, специализация дает доступ к способностям, повышающим мобильность, а также к защитным заклинаниям. Все это позволяет охотнику на демонов приспосабливаться к самым разным ситуациям.
+**Ловкость** - это ваша основная характеристика, она присутствует на всем снаряжении, кроме колец, и очень хорошо масштабируется с повышением уровня предмета. Ловкость увеличивает вашу силу атаки и урон наносимый способностями. Она также увеличивает вашу броню, пока активны {{ site.data.spell.Demon_Spikes }}.<br>
+**Выносливость**- эту характеристику можно найти на любом снаряжение, кроме аксессуаров, и она увеличивает ваше здоровье.
 
-## Чем выделяеться специализация
-Охотник на Демонов специализации Истребление - это специализация бойцов ближнего боя.
+Второстепенные характеристики:
+
+<ul>
+<li> <b>Критический удар:</b> увеличивает ваш шанс нанести критический удар, удваивая как урон, так и исцеление. Рейтинг критического удара также конвертируется в рейтинг парирования, увеличивая ваш шанс избежать ударов ближнего боя. Существует жесткое ограничение на уровне 100%, но в настоящее время оно недостижимо.</li>
+<li> <b>Скорость:</b> Уменьшает глобальное время восстановления, также уменьшает время восстановления некоторых способностей</li>
+<li> <b>Искусность:</b> Эта характеристика увеличивает вашу силу атаки, а также процент ловкости преобразованной в броню во время использования {{ site.data.spell.Demon_Spikes }}. Так как искусность работает только когда активны {{ site.data.spell.Demon_Spikes }}, в настоящее время это довольно посредственный показатель, чтобы перевесить ценность других характеристик.</li>
+<li> <b>Универсальность:</b> Эта характеристика обеспечивает общее увеличение урона и исцеления, а также снижает получаемый урон вдвое. Он работает против всех форм урона, поэтому это наиболее эффективная характеристика общего назначения для снижения урона.</li>
+</ul>
+
+Третичные характеристики:
+
+<ul>
+<li> <b>Самоисцеление :</b> урон что вы наносите приводит к самоисцелению.</li>
+<li> <b>Скорость передвижения:</b> эта характеристика немного повышает скорость передвижения персонажа.</li>
+<li> <b>Избежание :</b> уменьшает урон, получаемый от действующих по области способностей.</li>
+<li> <b>Неразрушимость :</b> броня с этой характеристикой не теряет прочность.</li>
+</ul>
+
+## Приоритет характеристик для Охотника на Демонов Месть
+
+<div class="tabs">
+    <div class="tabs__nav">
+      <a class="tabs__link tabs__link_active" href="#content-1">Рейд</a>
+      <a class="tabs__link" href="#content-2">М+</a>
+    </div>
+    <div class="tabs__content">
+      <div class="tabs__pane tabs__pane_show" id="content-1">
+	  <br>
+<ol>
+<li>Скорость</li>
+<li>Универсальность</li>
+<li>Искусность</li>
+<li>Критический удар</li>
+</ol>
+<li>Скорость >= Универсальность > Искусность > Критический удар</li>
+      </div>
+      <div class="tabs__pane" id="content-2">
+	  <br>
+<ol>
+<li>Скорость</li>
+<li>Универсальность</li>
+<li>Критический удар</li>
+<li>Искусность</li>
+</ol>
+<li>Скорость > Универсальность > Критический удар > Искусность</li>
+      </div>
+      
+    </div>
+  </div>
+
+  <script>
+    var $tabs = function (target) {
+      var
+        _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
+        _eventTabsShow,
+        _showTab = function (tabsLinkTarget) {
+          var tabsPaneTarget, tabsLinkActive, tabsPaneShow;
+          tabsPaneTarget = document.querySelector(tabsLinkTarget.getAttribute('href'));
+          tabsLinkActive = tabsLinkTarget.parentElement.querySelector('.tabs__link_active');
+          tabsPaneShow = tabsPaneTarget.parentElement.querySelector('.tabs__pane_show');
+          // если следующая вкладка равна активной, то завершаем работу
+          if (tabsLinkTarget === tabsLinkActive) {
+            return;
+          }
+          // удаляем классы у текущих активных элементов
+          if (tabsLinkActive !== null) {
+            tabsLinkActive.classList.remove('tabs__link_active');
+          }
+          if (tabsPaneShow !== null) {
+            tabsPaneShow.classList.remove('tabs__pane_show');
+          }
+          // добавляем классы к элементам (в завимости от выбранной вкладки)
+          tabsLinkTarget.classList.add('tabs__link_active');
+          tabsPaneTarget.classList.add('tabs__pane_show');
+          document.dispatchEvent(_eventTabsShow);
+        },
+        _switchTabTo = function (tabsLinkIndex) {
+          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
+          if (tabsLinks.length > 0) {
+            if (tabsLinkIndex > tabsLinks.length) {
+              tabsLinkIndex = tabsLinks.length;
+            } else if (tabsLinkIndex < 1) {
+              tabsLinkIndex = 1;
+            }
+            _showTab(tabsLinks[tabsLinkIndex - 1]);
+          }
+        };
+
+      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
+
+      _elemTabs.addEventListener('click', function (e) {
+        var tabsLinkTarget = e.target;
+        // завершаем выполнение функции, если кликнули не по ссылке
+        if (!tabsLinkTarget.classList.contains('tabs__link')) {
+          return;
+        }
+        // отменяем стандартное действие
+        e.preventDefault();
+        _showTab(tabsLinkTarget);
+      });
+
+      return {
+        showTab: function (target) {
+          _showTab(target);
+        },
+        switchTabTo: function (index) {
+          _switchTabTo(index);
+        }
+      }
+
+    };
+
+    var mytabs = $tabs('.tabs');
+    if (localStorage.getItem('mytabs')) {
+      mytabs.showTab(document.querySelector('[href="' + localStorage.getItem('mytabs') + '"]'));
+    }
+
+    document.addEventListener('tab.show', function (e) {
+      localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
+    })
+  </script>
+
+
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/rotation-priority.html">Назад:<br>Ротация</a></div> <div class="minibox"><a href="{{ site.url }}/guide/vengeance/gear.html">Длаее:<br>Таланты и Бис лист</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

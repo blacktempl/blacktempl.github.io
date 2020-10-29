@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Обзор
+title: Расходники
 last_update: 2020-01-11 09:00:00
 game_version: 9.0.0 Shadowlands
 toc: true

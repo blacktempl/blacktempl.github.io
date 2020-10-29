@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Обзор
+title: Ротация
 last_update: 2020-01-11 09:00:00
 game_version: 9.0.0 Shadowlands
 toc: true
@@ -36,32 +36,204 @@ toc: true
 ## Защитные способности
 
 <ul>
-<li>{{ site.data.spell.Demon_Spikes }}: Эта способность имеет 2 заряда и снижает получаемый физический урон в течении 6 секунд. Это ваша основная способность которая уменьшает входящий урон. Она увеличивает количество вашей брони на процент от вашей ловкости, а также увеличивает шанс парирования атак на 15%, пока способность активена. Не используйте способность когда у вас активна{{ site.data.spell.MetamorphosisVDH }}.
+<li>{{ site.data.spell.Demon_Spikes }}: Эта способность имеет 2 заряда и снижает получаемый физический урон в течении 6 секунд. Это ваша основная способность которая уменьшает входящий урон. Она увеличивает количество вашей брони на процент от вашей ловкости, а также увеличивает шанс парирования атак на 15%, пока способность активна. Не используйте способность когда у вас активна{{ site.data.spell.MetamorphosisVDH }}.
 </li>
-<li>{{ site.data.spell.Fiery_Brand }}: У игроков в радиусе 8 ярдов есть шанс избежать всего урона от атаки в течение 8 секунд. Очень хорошая защитная способность, наиболее эффективно используется при пульсирующем (АоЕ босса, АоЕ кливы босса) групповом уроне, чтобы получить от нее максимальный эффект</li>
-<li>{{ site.data.spell.Fiery_Brand }}: </li>
+<li>{{ site.data.spell.Fiery_Brand }}: Защитная способность которая применяется к 1 цели, цель к которой применено заклинание наносит вам на 40% меньше урона в течении 8 сек. Вы можете использовать эту способность по кулдауну, если в скором времени нет механик где вам она понадобится. В эпохальных подземельях используйте способность на самого опасного врага в группе.</li>
+<li>{{ site.data.spell.MetamorphosisVDH }}: Увеличивает ваше максимальное количество здоровья на 50% и броню на 200%, а ваши {{ site.data.talent.Shear }} и {{ site.data.talent.Fracture }} будут генерировать дополнительно 20 гнева и фрагмент души. Пока вы находитесь в {{ site.data.spell.MetamorphosisVDH }}, вас практически невозможно убить. У способности 3-х минутный кулдаун, способность используется чтоб пережить сложные механики.</li>
 </ul>
 
+## Вспомогательные способности
+
+<ul>
+<li>{{ site.data.spell.Soul_Fragment }}: Использование провокации заставляет цель атаковать вас и генерировать в четыре раза больше угрозы в течение 3 секунд. Не имеет ГКД, при использовании способности вы должны применять сильные способности, чтоб получить много провокации.</li>
+<li>{{ site.data.spell.Disrupt }}: Способность позволяет вам прерывать заклинания врагов и генерирует немного гнев, имеет перезарядку 15 секунд. Используйте его, чтобы как можно чаще прерывать опасные заклинания врагов.</li>
+<li>{{ site.data.spell.Consume_Magic }}: Поглощает 1 магический эффект у вашей цели и дает вам 20 гнева.</li>
+<li>{{ site.data.spell.Sigil_of_Silence }}: Все пораженные печатью противники немеют на 6 sec.</li>
+<li>{{ site.data.spell.Sigil_of_Misery }}: Поражая противников, печать заставляет их съежиться от страха, дезориентируя на 20 sec. Можно использовать для прерывания заклинаний.</li>
+<li>{{ site.data.spell.Imprison }}: Одно минутный контроль который действует на демона, животное или гуманоида.</li>
+<li>{{ site.data.spell.Spectral_Sight }}: Способность позволяет вам видеть скрытых и невидимых врагов.
+Вы можете использовать ее, чтобы увидеть невидимые патрули, а также разбойников, друидов, охотников и магов в скрытности или невидимости.</li>
+</ul>
+
+## Пассивные способности
+
+<ul>
+<li>{{ site.data.spell.masterydh }}: Наш основной ресурс. У нас может быть максимум 5 душ и каждая из них излечит 8% урона полученного в течение последних 5 секунд. При игре с {{ site.data.talent.Spirit_Bomb }} они являются основным источником урона. Все созданные  души после 5, автоматически поглощаются. Кроме того, вы можете поглотить их, двигаясь рядом с ними, поэтому старайтесь меньше двигаться. Если они находятся на расстоянии более ~ 40 ярдов, их больше нельзя поглощать способностями {{ site.data.talent.Soul_Cleave }} и {{ site.data.talent.Spirit_Bomb }}. Максимальное время существования 30 секунд, а максимальное расстояние ~ 80-100 ярдов, после чего они будут автоматически поглощены.</li>
+<li>{{ site.data.spell.Demonic_Wards }}: Уменьшает весь получаемый урон на 15% как магические, так и физические. Повышает выносливость на 65% и увеличивает броню на 100%. Это невероятно мощный пассивный эффект, который позволяет нам танковать.</li>
+<li>{{ site.data.spell.Riposte }}: Ваша вероятность парирования повышается на 100% от бонуса критического удара, который дает экипировка.</li>
+<li>{{ site.data.spell.masteryVdh }}: {{ site.data.spell.Demon_Spikes }} дополнительно уменьшают физический урон и увеличивает силу атаки в зависимости от рейтинга искусности.</li>
+</ul>
+
+## Активные способности талантов
+
+<ul>
+<li>{{ site.data.talent.Fracture }}: Заменяет {{ site.data.spell.Shear }}. Способность наносить больше урона, создает 2 {{ site.data.spell.Soul_Fragment }} и генерирует 25 гнева, усиливается {{ site.data.spell.MetamorphosisVDH }} и создает до 3 {{ site.data.spell.Soul_Fragment }} и 45 гнева, но имеет 2 заряда, время перезарядки уменьшается за счет скорости.</li>
+<li>{{ site.data.talent.Spirit_Bomb }}: Способность наносит урон AoE в качестве ресурса использует {{ site.data.spell.Soul_Fragment }}.</li>
+<li>{{ site.data.talent.Sigil_of_Chains }}: Притягивает врагов к центру печати через 2 секунды после ее размещения, прерывая большинство заклинаний и замедляя врагов. Очень сильная способность, особенно в эпохальных подземельях.</li>
+<li>{{ site.data.talent.Felblade }}: Генератор гнева и дает дополнительную мобильность.</li>
+<li>{{ site.data.talent.Soul_Barrier }}: Способность создает щит зависящий от количества поглощенных душ. В настоящее время в большинстве случаев это не самый лучший выбор, но его можно использовать в качестве дополнительной защиты.</li>
+</ul>
+
+## Активная защита
+
+{{ site.data.spell.Demon_Spikes }} - ваша способность активной защиты. Она снижает физический урон во время своего действия, а также увеличивает шанс парирования. В идеале вы должны стремиться к тому, чтобы эта способность была активна не менее 30% всей продолжительности боя.
+
+Примечание: вы всегда должны использовать хотя бы один заряд способности, чтобы один ее заряд был всегда на восстановлении при активном танковании.
+
+## Ротация
+
+### Опенер
 
 
+1. До пула {{ site.data.spell.Sigil_of_Flame }}
+2. Пул {{ site.data.spell.Torment }} и {{ site.data.spell.Throw_Glaive }} после {{ site.data.spell.Infernal_Strike }}
+3. {{ site.data.spell.Fel_Devastation }} если хватает гнева
+4. {{ site.data.spell.Soul_Cleave }} если хватает гнева
+5. {{ site.data.spell.Immolation_Aura }}
+6. {{ site.data.talent.Fracture }} / {{ site.data.spell.Shear }} 
+7. Продолжайте основную ротацию
 
 
+### Основная ротация
+
+### Взрывная душа и Разлом
+
+<div class="tabs">
+    <div class="tabs__nav">
+      <a class="tabs__link tabs__link_active" href="#content-1">СТ</a>
+      <a class="tabs__link" href="#content-2">АОЕ</a>
+    </div>
+    <div class="tabs__content">
+      <div class="tabs__pane tabs__pane_show" id="content-1">
+	  <br>
+&nbsp;&nbsp; 1. {{ site.data.spell.Infernal_Strike }} если у вас 2 заряда<br>
+&nbsp;&nbsp; 2. {{ site.data.spell.Fiery_Brand }} по кулдауну<br>
+&nbsp;&nbsp; 3. {{ site.data.talent.Spirit_Bomb }} если доступно 4+ душ<br>
+&nbsp;&nbsp; 4. {{ site.data.spell.Fel_Devastation }} если у вас 50+ гнева<br>
+&nbsp;&nbsp; 5. {{ site.data.talent.Fracture }} если у вас меньше 3 душ<br>
+&nbsp;&nbsp; 6. {{ site.data.spell.Immolation_Aura }} если нет капа душ<br>
+&nbsp;&nbsp; 7. {{ site.data.spell.Soul_Cleave }} чтоб потратить лишний гнев<br>
+&nbsp;&nbsp; 8. {{ site.data.spell.Sigil_of_Flame }} по кулдауну<br>
+&nbsp;&nbsp; 9. {{ site.data.spell.Throw_Glaive }} если вы кайтите или нужно заполнить простои в ротации<br>
+ 
+      </div>
+      
+	  <div class="tabs__pane" id="content-2">
+    <br>
+&nbsp;&nbsp; 1. {{ site.data.spell.Infernal_Strike }} если у вас 2 заряда<br>
+&nbsp;&nbsp; 2. {{ site.data.spell.Fiery_Brand }} в самого опросного противника в начале боя<br>
+&nbsp;&nbsp; 3. {{ site.data.talent.Spirit_Bomb }} если доступно 4+ душ<br>
+&nbsp;&nbsp; 4. {{ site.data.spell.Fel_Devastation }} если у вас 50+ гнева<br>
+&nbsp;&nbsp; 5. {{ site.data.talent.Fracture }} если у вас меньше 3 душ<br>
+&nbsp;&nbsp; 6. {{ site.data.spell.Immolation_Aura }} если нет капа душ<br>
+&nbsp;&nbsp; 7. {{ site.data.spell.Soul_Cleave }} чтоб потратить лишний гнев<br>
+&nbsp;&nbsp; 8. {{ site.data.spell.Sigil_of_Flame }} по кулдауну<br>
+&nbsp;&nbsp; 9. {{ site.data.spell.Throw_Glaive }} если вы кайтите или нужно заполнить простои в ротации<br>
+      </div>
+	  
+      
+    </div>
+  </div>
+
+  <script>
+    var $tabs = function (target) {
+      var
+        _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
+        _eventTabsShow,
+        _showTab = function (tabsLinkTarget) {
+          var tabsPaneTarget, tabsLinkActive, tabsPaneShow;
+          tabsPaneTarget = document.querySelector(tabsLinkTarget.getAttribute('href'));
+          tabsLinkActive = tabsLinkTarget.parentElement.querySelector('.tabs__link_active');
+          tabsPaneShow = tabsPaneTarget.parentElement.querySelector('.tabs__pane_show');
+          // если следующая вкладка равна активной, то завершаем работу
+          if (tabsLinkTarget === tabsLinkActive) {
+            return;
+          }
+          // удаляем классы у текущих активных элементов
+          if (tabsLinkActive !== null) {
+            tabsLinkActive.classList.remove('tabs__link_active');
+          }
+          if (tabsPaneShow !== null) {
+            tabsPaneShow.classList.remove('tabs__pane_show');
+          }
+          // добавляем классы к элементам (в завимости от выбранной вкладки)
+          tabsLinkTarget.classList.add('tabs__link_active');
+          tabsPaneTarget.classList.add('tabs__pane_show');
+          document.dispatchEvent(_eventTabsShow);
+        },
+        _switchTabTo = function (tabsLinkIndex) {
+          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
+          if (tabsLinks.length > 0) {
+            if (tabsLinkIndex > tabsLinks.length) {
+              tabsLinkIndex = tabsLinks.length;
+            } else if (tabsLinkIndex < 1) {
+              tabsLinkIndex = 1;
+            }
+            _showTab(tabsLinks[tabsLinkIndex - 1]);
+          }
+        };
+
+      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
+
+      _elemTabs.addEventListener('click', function (e) {
+        var tabsLinkTarget = e.target;
+        // завершаем выполнение функции, если кликнули не по ссылке
+        if (!tabsLinkTarget.classList.contains('tabs__link')) {
+          return;
+        }
+        // отменяем стандартное действие
+        e.preventDefault();
+        _showTab(tabsLinkTarget);
+      });
+
+      return {
+        showTab: function (target) {
+          _showTab(target);
+        },
+        switchTabTo: function (index) {
+          _switchTabTo(index);
+        }
+      }
+
+    };
+
+    var mytabs = $tabs('.tabs');
+    if (localStorage.getItem('mytabs')) {
+      mytabs.showTab(document.querySelector('[href="' + localStorage.getItem('mytabs') + '"]'));
+    }
+
+    document.addEventListener('tab.show', function (e) {
+      localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
+    })
+  </script>
+<br>
+## Оптимизация защитных способностей
+
+Этот раздел предназначен для ситуаций, когда вам нужно получить максимальное исцеление. По мере того, как вы переходите к более сложному контенту, в котором вы чувствуете себя недостаточно живучим, вы вносите некоторые изменения в свой билд и стиль игры.
+
+черепахо билд ?
 
 
+## Заметки по способностям
+
+<h4>{{ site.data.talent.Fracture }}</h4>
+{{ site.data.talent.Fracture }} имеет 2 заряда, кд уменьшается за счет скорости, и он генерирует 25 гнева и 2 души за каждое применение. При стандартном ротации вы сможете нажимать его каждое третье ГКД. Чтобы максимально раскрыть этот талант, вы не должны тратить впустую души или гнев. Используйте {{ site.data.spell.Soul_Cleave }} когда у вас 0 душ и много гнева, а если у вас есть 4 души то используйте {{ site.data.talent.Spirit_Bomb }}.
+
+<h4>{{ site.data.talent.Spirit_Bomb }}</h4>
+Используйте {{ site.data.talent.Spirit_Bomb }} когда у вас 4+ души, в идеале только на 5.
+Обратите внимание, что вы не можете использовать души, пока они не приземлятся, поэтому есть небольшая задержка в использовании, а также у счетчика баффа фрагментов душ (который отслеживает большинство WeakAuras) есть задержка.
+
+<h4>{{ site.data.spell.Soul_Fragments }}</h4>
+Есть два вида фрагментов души. Меленькие и большие. Большие фрагменты души появляются при убийстве врагов. Это должен быть последний удар, то есть вы нанесли последний удар врагу. Малые фрагменты души появляются после использования {{ site.data.spell.Shear }}, {{ site.data.spell.Fracture }} и {{ site.data.spell.Fallout }}. У нас есть ограничение на 5 фрагментов души. Если вы превысите это ограничение, души будут автоматически потребляться до тех пор, пока душ не станет меньше 5. Так что, если вы превысите ограничение на 2, вы то автоматически употребится 2 старые души. 
+
+<h4>{{ site.data.spell.Soul_Cleave }}</h4>
+Если вы выбрали талант {{ site.data.talent.Spirit_Bomb }}, то используйте {{ site.data.spell.Soul_Cleave }}, когда у вас будет 60+ гнева и нет душ, чтобы использовать лишний гнев и максимально использовать ваше ГКД.
+
+<h4>{{ site.data.spell.Fiery_Brand }}</h4>
+{{ site.data.spell.Fiery_Brand }} находится на ГКД и наносит большой урон вашей цели, а также снижает урон на 40%. Использование этой способности зависит от механики сражения. Если по механике боя у цели есть фазы высокого урона, ее следует использовать в это время. Если в сражении нет таких механик то способность следует использовать по кулдауну при активном танковании босса, не желательно совмещать {{ site.data.spell.Demon_Spikes }} или {{ site.data.spell.MetamorphosisVDH }}, чтобы максимально увеличить окно баффа. Если вы чувствуете себя комфортно в бою и вам не нужно дополнительное снижение урона, можете использовать способность по кулдауну независимо от того кто танкует босса.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance /talent-builds.html">Назад:<br>Таланты и Билды</a></div> <div class="minibox"><a href="{{ site.url }}/guide/vengeance/stats.html">Длаее:<br>Характеристики</a></div>
 
 
 
