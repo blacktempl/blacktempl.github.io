@@ -22,6 +22,13 @@ toc: true
 </div>
 <br>
 ## Рекомендуемое снаряжение
+
+### Что такое БиС лист
+
+БиС лист - это список из лучшего снаряжения доступного в игре из всех источников.
+
+Снаряжение не вошедшие в этот список, может быть столь же хорошими, поэтому вам следует ссылаться на приоритеты характеристик, указанные на странице <a href="{{ site.url }}/guide/havoc/stats.html"> Характеристики</a> и наше руководство по<a href="{{ site.url }}/guide/general/raidbots.html"> Raidbots</a>, которое поможет определить лучший набор снаряжения на основе того, что находиться у вас в инвентаре.	
+
 <div class="tabs">
     <div class="tabs__nav">
       <a class="tabs__link tabs__link_active" href="#content-1">Пре-Рейд</a>
@@ -289,3 +296,5 @@ toc: true
 </tr>
 </tbody>
 </table>
+
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/overview.html">Назад:<br>Характеристики</a></div> <div class="minibox"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Длаее:<br>Таланты и Расходники</a></div>

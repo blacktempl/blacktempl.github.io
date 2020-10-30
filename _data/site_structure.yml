@@ -7,19 +7,24 @@ categories:
     - title: Гайд
       url: /guide/havoc/overview.html
     - title: Мифик+
-      url: #
+      url: /guide/havoc/mythic_plus.html
 - title: Месть
   subcategories:
     - title: Гайд
       url: /guide/vengeance/overview.html    
     - title: Мифик+
-      url: ## 
+      url: /guide/vengeance/mythic_plus.html
 - title: Руководства
   subcategories:
     - title: RaidBots
       url: /guide/general/raidbots.html
+    - title: WeakAuras
+      url: /guide/general/WeakAuras.html  
+    - title: WarcraftLogs
+      url: /guide/general/WarcraftLogs.html 
     - title: Макросы
-      url: /guide/general/macros_guide.html      
+      url: /guide/general/macros_guide.html   
+      
 
 
 # - title: Raids
