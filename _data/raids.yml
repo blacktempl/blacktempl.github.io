@@ -1,0 +1,56 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://bfa.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+#Визгунья / Shriekwing
+Bloodcurdling_Shriek: <a href="https://ru.wowhead.com/spell=330711" target="blank">Леденящий кровь визг</a>
+Sanguine_Ichor: <a href="https://ru.wowhead.com/spell=340324" target="blank">Кровавый гной</a>
+Blind_Swipe: <a href="https://ru.wowhead.com/spell=343005" target="blank">Удар вслепую</a>
+Echolocation: <a href="https://ru.wowhead.com/spell=342074" target="blank">Эхолокация</a>
+Descent: <a href="https://ru.wowhead.com/spell=342923" target="blank">Пикирование</a>
+Deadly_Descent: <a href="https://ru.wowhead.com/spell=343021" target="blank">Смертоносное пикирование</a>
+Exsanguinating_Bite: <a href="https://ru.wowhead.com/spell=328857" target="blank">Обескровливающий укус</a>
+Exsanguinated: <a href="https://ru.wowhead.com/spell=328897" target="blank">Обескровливание</a>
+Reverberating_Scream: <a href="https://ru.wowhead.com/spell=344111" target="blank">Reverberating Scream</a>
+Bloodgorge: <a href="https://ru.wowhead.com/spell=328921" target="blank">Насыщение кровью</a>
+Sonar_Shriek: <a href="https://ru.wowhead.com/spell=340047" target="blank">Ультразвуковой визг</a>
+Echoing_Screech: <a href="https://ru.wowhead.com/spell=342863" target="blank">Отдающийся эхом визг</a>
+The_Blood_Lantern: <a href="https://ru.wowhead.com/spell=341684" target="blank">Кровавый светильник</a>
+Bloodlight: <a href="https://ru.wowhead.com/spell=341489" target="blank">Кровавый свет</a>
+Echoing_Sonar: <a href="https://ru.wowhead.com/spell=329362" target="blank">Отдающийся эхом сонар</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

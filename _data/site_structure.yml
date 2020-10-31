@@ -24,6 +24,10 @@ categories:
       url: /guide/general/warcraftlogs.html 
     - title: Макросы
       url: /guide/general/macros_guide.html   
+- title: Рейд
+  subcategories:
+    - title: Замок Нафрия
+      url: /guide/raids/castle_nathria/intro.html
       
 
 
