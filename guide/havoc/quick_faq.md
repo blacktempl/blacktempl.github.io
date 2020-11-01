@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WeakAuras
+title: Кратко и Быстро
 last_update: 2020-01-11 09:00:00
 game_version: 9.0.0 Shadowlands
 author: Rodriguezz
@@ -22,57 +22,180 @@ toc: true
 <a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
-## Что такое WeakAuras?
 
-<a href="{{ site.url }}/guide/general/weak_auras.html"> WeakAuras2</a>  это дополнение к WoW, которое позволяет максимально 
-настраивать практически любую информацию, которую вы хотели бы получить в своем пользовательском интерфейсе. Что может сделать WeakAuras? WeakAuras может показать 
-вам любую информацию, доступную вам по вашему выбору. Это может быть что угодно, от того сколько стаков какого либо из бафов на вас, сколько времени 
-осталось до восстановления на вашего заклинания прерывания, до оповещения когда у вас мало маны. WeakAuras предназначен для изменения способа отображения информации,
- чтобы ее было легче увидеть. Вы можете сделать в ней так много, что вам будет проще сказать, чего не может сделать WeakAuras. WeakAuras не может сделать что-то за вас.
- Вы можете заставить ее сказать что-то шепотом или криком, но WeakAuras нельзя использовать для создания макросов или автоматизации любого игрового
- процесса (что в любом случае противоречит правилам игры). 
- 
-## Пользовательский интерфейс WeakAuras
- 
-Существует очень много таких сборников на сайте wago.io, но я могу вам посоветовать только два, они по моему мнению самые лучшие и очень качественно сделаны.
- 
-**Ipse's WA's - Demon Hunter:** <a href="https://wago.io/4kTH1dUFb" target="blank">https://wago.io/4kTH1dUFb</a>
-<p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WA_ipses_havoc.gif">
+В этом разделе собраны все основные материалы из гайда, чтоб вы максимально быстро могли начать играть за Охотника на Демонов Истребление.
+
+## Таланты
+
+<div class="tabs">
+    <div class="tabs__nav">
+      <a class="tabs__link tabs__link_active" href="#content-1">СТ ?</a>
+      <a class="tabs__link" href="#content-2">АОЕ ?</a>
+      <a class="tabs__link" href="#content-3">Таланты 3</a>
+    </div>
+    <div class="tabs__content">
+      <div class="tabs__pane tabs__pane_show" id="content-1">
+        <p align="center" width="100%">
+    <img src="{{ site.url }}/assets/img/guide/havoc/beginer_build901.jpg">
 </p>
+      </div>
+      <div class="tabs__pane" id="content-2">
+   таланты 2
+      </div>
+      <div class="tabs__pane" id="content-3">
+        таланты 3
+      </div>
+    </div>
+  </div>
 
-**Afenar WA's - Demon Hunter:** <a href="https://wago.io/4kTH1dUFb" target="blank">https://wago.io/4kTH1dUFb</a>
-<p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WA_afenar_Havoc.webp">
-</p>
+  <script>
+    var $tabs = function (target) {
+      var
+        _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
+        _eventTabsShow,
+        _showTab = function (tabsLinkTarget) {
+          var tabsPaneTarget, tabsLinkActive, tabsPaneShow;
+          tabsPaneTarget = document.querySelector(tabsLinkTarget.getAttribute('href'));
+          tabsLinkActive = tabsLinkTarget.parentElement.querySelector('.tabs__link_active');
+          tabsPaneShow = tabsPaneTarget.parentElement.querySelector('.tabs__pane_show');
+          // если следующая вкладка равна активной, то завершаем работу
+          if (tabsLinkTarget === tabsLinkActive) {
+            return;
+          }
+          // удаляем классы у текущих активных элементов
+          if (tabsLinkActive !== null) {
+            tabsLinkActive.classList.remove('tabs__link_active');
+          }
+          if (tabsPaneShow !== null) {
+            tabsPaneShow.classList.remove('tabs__pane_show');
+          }
+          // добавляем классы к элементам (в завимости от выбранной вкладки)
+          tabsLinkTarget.classList.add('tabs__link_active');
+          tabsPaneTarget.classList.add('tabs__pane_show');
+          document.dispatchEvent(_eventTabsShow);
+        },
+        _switchTabTo = function (tabsLinkIndex) {
+          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
+          if (tabsLinks.length > 0) {
+            if (tabsLinkIndex > tabsLinks.length) {
+              tabsLinkIndex = tabsLinks.length;
+            } else if (tabsLinkIndex < 1) {
+              tabsLinkIndex = 1;
+            }
+            _showTab(tabsLinks[tabsLinkIndex - 1]);
+          }
+        };
 
-## Полезные ауры
+      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
 
-Эта полоса гнева отображает оставшийся прирост ярости от {{ site.data.spell.Immolation_Aura }} и ваш текущий уровень гнева. 
-Чрезвычайно полезно для измерения того, сколько гнева вы можете набрать, чтоб не уйти в оверкап.
+      _elemTabs.addEventListener('click', function (e) {
+        var tabsLinkTarget = e.target;
+        // завершаем выполнение функции, если кликнули не по ссылке
+        if (!tabsLinkTarget.classList.contains('tabs__link')) {
+          return;
+        }
+        // отменяем стандартное действие
+        e.preventDefault();
+        _showTab(tabsLinkTarget);
+      });
 
-**Полоса гнева с прогнозами:** <a href="https://wago.io/kib-dh-power-bar" target="blank">https://wago.io/kib-dh-power-bar</a>
-<p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WA_Kibo_Power_bar.gif">
-</p>
+      return {
+        showTab: function (target) {
+          _showTab(target);
+        },
+        switchTabTo: function (index) {
+          _switchTabTo(index);
+        }
+      }
 
-## Создание собственных 
+    };
 
-Если вам нужна только одна WeakAura, а не сборник, или если вы просто не можете найти ту, которая соответствует вашим потребностям,
- вы всегда можете создать свою собственную.
- Для более сложных WeakAuras вы можете взглянуть на наше подробное руководство по <a href="{{ site.url }}/guide/general/weak_auras.html"> WeakAuras</a>  или посетить <a href="WeakAurashttps://discord.gg/wa2">Discord канал WeakAuras</a>, 
- но вы можете получить базовые знания по WeakAuras прямо здесь.
- <br>
-Для того чтоб быстро создать WeakAura посетите страницу на WowHead с нужной вам способностью, талантом или PvP-таланты и нажмите красную кнопку **Экспорт WeakAuras**, 
- чтобы открыть экспорта. Далее просто нажмите «Копировать», чтобы использовать ауру по умолчанию, или **Настроить**, чтобы легко изменить ее настройки!
- 
- <p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WA_crate_havoc.jpg">
-</p>
+    var mytabs = $tabs('.tabs');
+    if (localStorage.getItem('mytabs')) {
+      mytabs.showTab(document.querySelector('[href="' + localStorage.getItem('mytabs') + '"]'));
+    }
 
- <p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WeakAuras_preferens.png">
-</p>
+    document.addEventListener('tab.show', function (e) {
+      localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
+    })
+  </script>
+
+## Ковенант и Медиум
+
+Какой ковенат и Медиум
+
+## Кондуиты
+
+Какие кондуиты билд
+
+## Инчант и химия
+
+### Зачарованние
+
+<ul>
+<li>Оружие: 2х{{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li>
+<li>Кольца: 2х{{ site.data.prof.Enchant_Ring_Tenet_of_Versatility }}</li>
+<li>Сапоги: {{ site.data.prof.Enchant_Boots_Eternal_Agility }}</li>
+<li>Нагрудник: {{ site.data.prof.Enchant_Chest_Eternal_Stats }}</li>
+<li>Плащ: {{ site.data.prof.Enchant_Cloak_Fortified_Leech }}</li>
+</ul>
+
+### Настой и  Зелья
+<ul>
+<li>Настой: {{ site.data.prof.Eternal_Flask }}</li>
+<li>Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }} СТ</li>
+<li>Зелья: {{ site.data.prof.Potion_of_Empowered_Exorcisms }} АОЕ</li>
+<li>Исцеление: {{ site.data.prof.Spiritual_Healing_Potion }} </li>
+</ul>
+
+### Камни
+<ul>
+<li>Камни: {{ site.data.prof.Versatile_Jewel_Cluster }}</li>
+</ul>
+
+### Еда
+<ul>
+<li>Еда: {{ site.data.prof.Steak_a_la_Mode }}</li>
+</ul>
+
+## Приоритет статов
+
+Рейды:  Хаста >  Верса >  Мастери > Крит
+М+ :    Верса >  Хаста >  Крит > Мастери
+
+## Бис лист
+
+Шмот, тырыни
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/macros-addons.html">Назад:<br>Макросы и Аддоны</a></div>
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/common-terms.html">Длаее:<br>Сокращени</a></div>

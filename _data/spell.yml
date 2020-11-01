@@ -34,7 +34,7 @@ Vengeful_Retreat: <a href="https://ru.wowhead.com/spell=198793" target="blank">�
 Glide: <a href="https://ru.wowhead.com/spell=131347" target="blank">Планирование</a>
 Chaos_Nova: <a href="https://ru.wowhead.com/spell=179057" target="blank">Кольцо Хаоса</a>
 Shattered_SoulsHDH: <a href="https://ru.wowhead.com/spell=178940" target="blank">Расколотые души</a>
-Shattered_SoulsHDH: <a href="https://ru.wowhead.com/spell=178940" target="blank">Демонические обереги</a>
+Demonic_WardsHDH: <a href="https://ru.wowhead.com/spell=203513" target="blank">Демонические обереги</a>
 
 
 #ВДХ
@@ -53,7 +53,7 @@ Shear: <a href="https://ru.wowhead.com/spell=203782" target="blank">Иссече
 Throw_GlaiveVDH: <a href="https://ru.wowhead.com/spell=204157" target="blank">Бросок боевого клинка</a>
 Torment: <a href="https://ru.wowhead.com/spell=185245" target="blank">Мучение</a>
 Spectral_Sight: <a href="https://ru.wowhead.com/spell=188501" target="blank">Призрачное зрение</a>
-Demonic_WardsHDH: <a href="https://ru.wowhead.com/spell=278386" target="blank">Расколотые души</a>
+Demonic_WardsVDH: <a href="https://ru.wowhead.com/spell=278386" target="blank">Расколотые души</a>
 
 
 #Пассивные
@@ -76,4 +76,21 @@ New_Moon: <a href="https://ru.wowhead.com/spell=202767" target="blank">Ново�
 Voidform: <a href="https://ru.wowhead.com/spell=228264" target="blank">Облик Бездны</a>
 Innervate: <a href="https://ru.wowhead.com/spell=29166" target="blank">Озарение</a>
 Crusade: <a href="https://ru.wowhead.com/spell=231895" target="blank">Священная война</a>
+Aspect_of_the_Turtle: <a href="https://ru.wowhead.com/spell=186265" target="blank">Дух черепахи</a>
+Blessing_of_Protection: <a href="https://ru.wowhead.com/spell=1022" target="blank">Благословение защиты</a>
+Dispersion: <a href="https://ru.wowhead.com/spell=47585" target="blank">Слияние с Тьмой</a>
+
+#Торгаст
+The_Jailers_Influence: <a href="https://ru.wowhead.com/spell=328048" target="blank">Влияние Тюремщика</a>
+The_Jailers_Chains: <a href="https://ru.wowhead.com/spell=338906" target="blank">Цепи Тюремщика</a>
+Refuge_of_the_Damned: <a href="https://ru.wowhead.com/spell=338907" target="blank">Убежище проклятых</a>
+
+
+
+
+
+
+
+
+
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Замок Натрия
-last_update: 2020-01-11 09:00:00
+title: Визгунья
+last_update: 2020-11-1 09:00:00
 game_version: 9.0.0 Shadowlands
 author: Rodriguezz
 toc: true

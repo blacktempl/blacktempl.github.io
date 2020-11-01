@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Замок Натрия
+title: Замок Нафрия
 last_update: 2020-01-11 09:00:00
 game_version: 9.0.0 Shadowlands
 author: Rodriguezz
@@ -21,7 +21,7 @@ toc: false
 
 <div id="cta-but">
 <a href="{{ site.url }}/guide/raids/castle_nathria/shriekwing.html" class="cta-button" data-border="strong"><img src="{{ site.url }}/assets/img/raids/castle_nathria/Shriekwing.png" alt="Визгунья"> <figcaption>Визгунья</figcaption></a>
-<a href="#" class="cta-button" data-border="strong" target="_blank">
+<a href="{{ site.url }}/guide/raids/castle_nathria/altimor_the_huntsman.html" class="cta-button" data-border="strong" target="_blank">
 <img src="{{ site.url }}/assets/img/raids/castle_nathria/Huntsman_Altimor.png"><figcaption>Ловчий Альтимор</figcaption></a>
 <a href="#" class="cta-button" data-border="strong" target="_blank"><img src="{{ site.url }}/assets/img/raids/castle_nathria/Hungering_Destroyer.png"><figcaption>Алчущий разрушитель</figcaption></a>
 <a href="#" class="cta-button" data-border="strong" target="_blank"><img src="{{ site.url }}/assets/img/raids/castle_nathria/Artificer_XyMox.png"><figcaption>Изобретатель Зи'мокс</figcaption></a>

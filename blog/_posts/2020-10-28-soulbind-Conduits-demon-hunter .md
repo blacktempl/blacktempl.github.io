@@ -44,7 +44,7 @@ toc: true
 * {{ site.data.conduits.Fel_Defender }} — время восстановления вашей способности {{ site.data.spell.Blur }} (Истребление) или {{ site.data.spell.Fiery_Brand }} (Месть) уменьшается на 5-20 сек.
 * {{ site.data.conduits.Roaring_Fire }} — способность {{ site.data.spell.Fel_Devastation }} исцеляет вас дополнительно на 30-45% в зависимости от оставшегося запаса здоровья.
 * {{ site.data.conduits.Shattered_Restoration }} — исцеляющий эффект способности {{ site.data.spell.Shattered_SoulsHDH }} (Истребление) или {{ site.data.spell.Shattered_SoulsVDH }} (Месть) увеличивается на 10-25%.
-* {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} (Истребление) или {{ site.data.spell.Demonic_Wards }} (Месть) сокращают получаемый вами урон дополнительно на 6-13%.
+* {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} (Истребление) или {{ site.data.spell.Demonic_WardsVDH }} (Месть) сокращают получаемый вами урон дополнительно на 6-13%.
 
 
 
