@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Создание Легендарной Экипировки в WoW Shadowlands
-last_update: 2020-11-1 09:00:00
+last_update: 2020-11-2 09:00:00
 game_version: 9.0.0 Shadowlands
 author: Rodriguezz
 author: " Rodriguezz. Оригинал: icy-veins."
