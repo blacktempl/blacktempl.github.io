@@ -169,33 +169,5 @@ toc: true
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/macros-addons.html">Назад:<br>Макросы и Аддоны</a></div>
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/common-terms.html">Длаее:<br>Сокращени</a></div>

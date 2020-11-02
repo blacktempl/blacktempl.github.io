@@ -1,13 +1,20 @@
 ---
 layout: page
-title: A thank you to our Patrons
+title: Авторы и благодарности
+author: Rodriguezz
 toc: false
 ---
 
-We want to express our sincere gratitude towards the incredible people who help us keep Storm, Earth & Lava maintained and up to date:
 
 
-DerGuteFree | Ronnie | Trofear | Masika
-Alec | Akav | August | Steven 
-Kaitlynne | Hekili | Marlen | Zub
-Wolfgang | Cinder
+**Поддержавшие проект:**
+
+**Над сайтом работают:**
+
+* Rodriguezz – автор материалов.
+* Rodriguezz – разработка.
+* Rodriguezz – дизайн.
+
+**Отдельное спасибо тем, кто помогал в вычитке текстов и тестировании работоспособности сайта:**
+
+* **Gaussiana:** помощь с гайдом по Истреблению, вычитка текстов.
