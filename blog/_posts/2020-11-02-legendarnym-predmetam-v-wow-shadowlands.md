@@ -94,7 +94,7 @@ toc: true
 ## Свойства легендарных предметов для охотников на демонов
 
 #### Следующие свойства легендарных предметов доступны всем специализациям в рамках одного класса:
-{{ site.data.legendary.Collective_Anguish }} — При использовании {{ site.data.spell.Eye_Beam }} Охотник на Демонов призывает союзника, который читает {{ site.data.spell.Fel_Devastation }} ("Истребление"). При использовании {{ site.data.spell.Fel_Devastation }} союзник читает {{ site.data.spell.Eye_Beam }}.
+{{ site.data.legendary.Collective_Anguish }} — При использовании {{ site.data.spell.Eye_Beam }} Охотник на Демонов призывает союзника, который использует {{ site.data.spell.Fel_Devastation }} ("Истребление"). При использовании {{ site.data.spell.Fel_Devastation }} союзник использует {{ site.data.spell.Eye_Beam }}.
 
 > Можно применить на плащ или наручи.
 

@@ -22,12 +22,12 @@ toc: true
 ### Проводники силы
 
 * {{ site.data.conduits.Brooding_Pool }} — увеличивает продолжительность действия способности {{ site.data.conduits.Fodder_to_the_Flame }} на 5-20 сек.
-* {{ site.data.conduits.Dancing_with_Fate }} — способность {{ site.data.spell.Blade_Dance }} с вероятностью 5-20% будет накладывать {{ site.data.talent.Essence_Break }}.
-* {{ site.data.conduits.Demons_Touch }} — {{ site.data.spell.Demons_Bite }} увеличивает урон других способностей на 3-10%.
-* {{ site.data.conduits.Growing_Inferno }} — урон способности {{ site.data.spell.Immolation_Aura }} дополнительно увеличивается на 10-25% каждый раз, когда она наносит урон.
+* {{ site.data.conduits.Dancing_with_Fate }} — Последний удар {{ site.data.spell.Blade_Dance }} наносит дополнительно 10%-24% урона.
+* {{ site.data.conduits.Demons_Touch }} — {{ site.data.spell.Chaos_Strike }} с вероятностью 5,0%-14,5% сработает еще раз.
+* {{ site.data.conduits.Growing_Inferno }} — урон способности {{ site.data.spell.Immolation_Aura }} дополнительно увеличивается на 10-24% каждый раз, когда она наносит урон.
 * {{ site.data.conduits.Increased_Scrutiny }} — уменьшает время восстановления способности {{ site.data.covenant.Sinful_Brand }} на 1-15 сек.
-* {{ site.data.conduits.Repeat_Decree }} — способность {{ site.data.covenant.Elysian_Decree }} устанавливает вторую руну через 1 секунду, которая наносит 45-60% урона.
-* {{ site.data.conduits.Serrated_Glaive }} — Цели, пораженные способностью {{ site.data.spell.Throw_Glaive }}, получают на 8-15% больше урона от {{ site.data.spell.Eye_Beam }}.
+* {{ site.data.conduits.Repeat_Decree }} — способность {{ site.data.covenant.Elysian_Decree }} устанавливает вторую руну через 1 секунду, которая наносит 25-50% урона.
+* {{ site.data.conduits.Serrated_Glaive }} — Цели, пораженные способностью {{ site.data.spell.Throw_Glaive }}, получают на 10-24% больше урона от {{ site.data.spell.Eye_Beam }}.
 * {{ site.data.conduits.Soul_Furnace }} — Каждые 10 поглощенных фрагментов души увеличивают урон от вашего следующего {{ site.data.spell.Soul_Cleave }} на 15-30%.
 * {{ site.data.conduits.Unnatural_Malice }} — увеличивает урон от способности {{ site.data.covenant.The_Hunt }} по основной цели на 20-48%.
 
