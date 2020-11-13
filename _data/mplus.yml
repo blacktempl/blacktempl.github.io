@@ -1,0 +1,88 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://bfa.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+#Данжи
+Plaguefall: <a href="https://ru.wowhead.com/plaguefall" target="blank">Чумные каскады</a>
+Halls_of_Atonement: <a href="https://ru.wowhead.com/halls-of-atonement" target="blank">Чертоги Покаяния</a>
+De_Other_Side: <a href="https://ru.wowhead.com/de-other-side" target="blank">Та Сторона</a>
+Sanguine_Depths: <a href="https://ru.wowhead.com/sanguine-depths" target="blank">Кровавые катакомбы</a>
+Spires_of_Ascension: <a href="https://ru.wowhead.com/spires-of-ascension" target="blank">Шпили Перерождения</a>
+Theater_of_Pain: <a href="https://ru.wowhead.com/theater-of-pain" target="blank">Театр Боли</a>
+Mists_of_Tirna_Scithe: <a href="https://ru.wowhead.com/mists-of-tirna-scithe" target="blank">Туманы Тирна Скитта</a>
+Castle_Nathria: <a href="https://ru.wowhead.com/castle-nathria" target="blank">Замок Нафрия</a>
+
+
+#Боссы
+Doctor_Ickus: <a href="https://ru.wowhead.com/npc=164967" target="blank">Доктор Икус</a>
+Margrave_Stradama: <a href="https://ru.wowhead.com/npc=164267" target="blank">Маркграфиня Страдама</a>
+Halkias : <a href="https://ru.wowhead.com/npc=165408" target="blank">Халкиас</a>
+Dealer_Xyexa : <a href="https://ru.wowhead.com/npc=164450" target="blank">Дилер Зи'екса</a>
+Executor_Tarvold : <a href="https://ru.wowhead.com/npc=162103" target="blank">Вершитель Тарвольд</a>
+Devos : <a href="https://ru.wowhead.com/npc=167410" target="blank">Девия</a>
+Dessia_the_Decapitator : <a href="https://ru.wowhead.com/npc=164451" target="blank">Оскорбление претендентов</a>
+Tredova : <a href="https://ru.wowhead.com/npc=164517" target="blank">Тред'ова</a>
+Kultharok : <a href="https://ru.wowhead.com/npc=162309" target="blank">Кул'тарок</a>
+Xav_the_Unfallen : <a href="https://ru.wowhead.com/npc=162329" target="blank">Ксав Несломленный</a>
+Domina_Venomblade : <a href="https://ru.wowhead.com/npc=164266" target="blank">Домина Отравленный Клинок</a>
+Kin_Tara : <a href="https://ru.wowhead.com/npc=162059" target="blank">Кин-Тара</a>
+Kryxis_the_Voracious : <a href="https://ru.wowhead.com/npc=162100" target="blank">Криксис Ненасытный</a>
+
+
+Castellan_Niklaus : <a href="https://ru.wowhead.com/npc=166971" target="blank">Кастелян Никлаус</a>
+General_Kaal : <a href="https://ru.wowhead.com/npc=165318" target="blank">Генерал Кааль</a>
+Sire_Denathrius : <a href="https://ru.wowhead.com/npc=168938" target="blank">Сир Денатрий</a>
+Lady_Inerva_Darkvein : <a href="https://ru.wowhead.com/npc=167517" target="blank">Леди Инерва Дарквейн</a>
+Artificer_Xymox : <a href="https://ru.wowhead.com/npc=166644" target="blank">Изобретатель Зи'мокс</a>
+Shriekwing : <a href="https://ru.wowhead.com/npc=172145" target="blank">Визгунья</a>
+Kaelthas_Sunstrider : <a href="https://ru.wowhead.com/npc=24664" target="blank">Кель'тас Солнечный Скиталец</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

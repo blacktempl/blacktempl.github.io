@@ -31,7 +31,7 @@ toc: true
 
 <div class="tabs">
     <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-1">Пре-Рейд</a>
+      <a class="tabs__link tabs__link_active" href="#content-1">Мифик+</a>
       <a class="tabs__link" href="#content-2">Замок Нафрия</a>
     </div>
     <div class="tabs__content">
@@ -45,103 +45,190 @@ toc: true
     </tr>
     <tr>
         <td>Шлем</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Hood_of_Refracted_Shadows }}</td>
+        <td>{{ site.data.mplus.Halkias }}</td>
+        <td>{{ site.data.mplus.Halls_of_Atonement }}</td>
     </tr>
     <tr>
         <td>Шея</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Sin_Stained_Pendant }}</td>
+        <td>{{ site.data.mplus.Halkias }}</td>
+        <td>{{ site.data.mplus.Halls_of_Atonement }}</td>
     </tr>
     <tr>
         <td>Наплечники</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Far_Travelers_Shoulderpads }}</td>
+        <td>{{ site.data.mplus.Dealer_Xyexa }}</td>
+        <td>{{ site.data.mplus.De_Other_Side }}</td>
     </tr>
     <tr>
         <td>Плащ</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Drape_of_Twisted_Loyalties }}</td>
+        <td>{{ site.data.mplus.Devos }}</td>
+        <td>{{ site.data.mplus.Spires_of_Ascension }}</td>
     </tr>
     <tr>
         <td>Грудь</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Vest_of_Concealed_Secrets }}</td>
+        <td>{{ site.data.mplus.Dessia_the_Decapitator }}</td>
+        <td>{{ site.data.mplus.Theater_of_Pain }}</td>
     </tr>
     <tr>
         <td>Наручи</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Bands_of_the_Undergrowth }}</td>
+        <td>{{ site.data.mplus.Tredova }}</td>
+        <td>{{ site.data.mplus.Mists_of_Tirna_Scithe }}</td>
     </tr>
     <tr>
         <td>Кисти рук</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Gloves_of_Obscure_Rituals }}</td>
+        <td>{{ site.data.mplus.Margrave_Stradama }}</td>
+        <td>{{ site.data.mplus.Plaguefall }}</td>
     </tr>
     <tr>
         <td>Пояс</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Girdle_of_Shattered_Dreams }}</td>
+        <td>{{ site.data.mplus.Kultharok }}</td>
+        <td>{{ site.data.mplus.Theater_of_Pain }}</td>
     </tr>
     <tr>
         <td>Ноги</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Fearless_Challengers_Leggings }}</td>
+        <td>{{ site.data.mplus.Xav_the_Unfallen }}</td>
+        <td>{{ site.data.mplus.Theater_of_Pain }}</td>
     </tr>
     <tr>
         <td>Сапоги</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td></td>
+        <td>{{ site.data.item.Sinsoaked_Waders }}</td>
+        <td>{{ site.data.mplus.Executor_Tarvold }}</td>
+        <td>{{ site.data.mplus.Sanguine_Depths }}</td>
     </tr>
     <tr>
         <td>Кольцо</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Arachnid_Cipher_Ring }}</td>
+        <td>{{ site.data.mplus.Domina_Venomblade }}</td>
+        <td>{{ site.data.mplus.Plaguefall }}</td>
     </tr>
     <tr>
         <td>Кольцо</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Bloodoath_Signet }}</td>
+        <td>{{ site.data.mplus.Dessia_the_Decapitator }}</td>
+        <td>{{ site.data.mplus.Theater_of_Pain }}</td>
     </tr>
     <tr>
         <td>Правая рука</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Poxstorm_Longsword_of_Pestilence }}</td>
+        <td>{{ site.data.mplus.Margrave_Stradama }}</td>
+        <td>{{ site.data.mplus.Plaguefall }}</td>
     </tr>
     <tr>
         <td>Левая рука</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Poxstorm_Longsword_of_Pestilence }}</td>
+        <td>{{ site.data.mplus.Margrave_Stradama }}</td>
+        <td>{{ site.data.mplus.Plaguefall }}</td>
     </tr>
     <tr>
         <td>Аксессуар</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Phial_of_Putrefaction }}</td>
+        <td>{{ site.data.mplus.Doctor_Ickus }}</td>
+        <td>{{ site.data.mplus.Plaguefall }}</td>
     </tr>
     <tr>
         <td>Аксессуар</td>
-        <td>{{ site.data.item.Hateful_Eye }}</td>
-        <td>Босс</td>
-        <td>Зона</td>
+        <td>{{ site.data.item.Inscrutable_Quantum_Device }}</td>
+        <td>{{ site.data.mplus.Dealer_Xyexa }}</td>
+        <td>{{ site.data.mplus.De_Other_Side }}</td>
     </tr>
 </table>	  
       </div>
       <div class="tabs__pane" id="content-2">
+	  <table>
+    <tr>
+        <td>Тип</td>
+        <td>Название</td>
+        <td>Босс</td>
+    </tr>
+    <tr>
+        <td>Шлем</td>
+        <td>{{ site.data.item.Sadists_Sinister_Mask }}</td>
+        <td>{{ site.data.mplus.Sire_Denathrius }}</td>
+    </tr>
+    <tr>
+        <td>Шея</td>
+        <td>{{ site.data.item.Nobles_Birthstone_Pendant }}</td>
+        <td>{{ site.data.mplus.Castellan_Niklaus }}</td>
+    </tr>
+    <tr>
+        <td>Наплечники</td>
+        <td>{{ site.data.item.Wicked_Flankers_Gorget }}</td>
+        <td>{{ site.data.mplus.General_Kaal }}</td>
+    </tr>
+    <tr>
+        <td>Плащ</td>
+        <td>{{ site.data.item.Mantle_of_Manifest_Sins }}</td>
+        <td>{{ site.data.mplus.Kaelthas_Sunstrider }}</td>
+    </tr>
+    <tr>
+        <td>Грудь</td>
+        <td>{{ site.data.item.Corset_of_the_Deft_Duelist }}</td>
+        <td>{{ site.data.mplus.Castellan_Niklaus }}</td>
+    </tr>
+    <tr>
+        <td>Наручи</td>
+        <td>{{ site.data.item.Precisely_Calibrated_Chronometer }}</td>
+        <td>{{ site.data.mplus.Artificer_Xymox }}</td>
+    </tr>
+    <tr>
+        <td>Кисти рук</td>
+        <td>{{ site.data.item.Gloves_of_Phantom_Shadows }}</td>
+        <td>{{ site.data.mplus.Lady_Inerva_Darkvein }}</td>
+    </tr>
+    <tr>
+        <td>Пояс</td>
+        <td>{{ site.data.item.Spell_Woven_Tourniquet }}</td>
+        <td>{{ site.data.mplus.Artificer_Xymox }}</td>
+    </tr>
+    <tr>
+        <td>Ноги</td>
+        <td>{{ site.data.item.Chiropteran_Leggings }}</td>
+        <td>{{ site.data.mplus.Shriekwing }}</td>
+    </tr>
+    <tr>
+        <td>Сапоги</td>
+        <td>{{ site.data.item.Enchanted_Toe_Tappers }}</td>
+        <td>{{ site.data.mplus.Castellan_Niklaus }}</td>
+    </tr>
+    <tr>
+        <td>Кольцо</td>
+        <td>{{ site.data.item.Ritualists_Treasured_Ring }}</td>
+        <td>{{ site.data.mplus.Lady_Inerva_Darkvein }}</td>
+    </tr>
+    <tr>
+        <td>Кольцо</td>
+        <td>{{ site.data.item.Most_Regal_Signet_of_Sire_Denathrius }}</td>
+        <td>{{ site.data.mplus.Sire_Denathrius }}</td>
+    </tr>
+    <tr>
+        <td>Правая рука</td>
+        <td>{{ site.data.item.Abominable_Anima_Spherule }}</td>
+        <td>{{ site.data.mplus.Sire_Denathrius }}</td>
+    </tr>
+    <tr>
+        <td>Левая рука</td>
+        <td>{{ site.data.item.Abominable_Anima_Spherule }}</td>
+        <td>{{ site.data.mplus.Sire_Denathrius }}</td>
+    </tr>
+    <tr>
+        <td>Аксессуар</td>
+        <td>{{ site.data.item.Skulkers_Wing }}</td>
+        <td>{{ site.data.mplus.Shriekwing }}</td>
+    </tr>
+    <tr>
+        <td>Аксессуар</td>
+        <td>{{ site.data.item.Stone_Legion_Heraldry }}</td>
+        <td>{{ site.data.mplus.General_Kaal }}</td>
+    </tr>
+</table>
       </div>
   </div>
  </div>
@@ -218,6 +305,115 @@ toc: true
     })
   </script>
 <br>
+
+#### Ниже представлен самый идеальный набор предметов из реда и подземелий.
+
+<table>
+    <tr>
+        <td>Тип</td>
+        <td>Название</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Шлем</td>
+        <td>{{ site.data.item.Sadists_Sinister_Mask }}</td>
+        <td>{{ site.data.mplus.Sire_Denathrius }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
+    </tr>
+    <tr>
+        <td>Шея</td>
+        <td>{{ site.data.item.Azure_Venom_Choker }}</td>
+        <td>{{ site.data.mplus.Kin_Tara }}</td>
+        <td>{{ site.data.mplus.Spires_of_Ascension }}</td>
+    </tr>
+    <tr>
+        <td>Наплечники</td>
+        <td>{{ site.data.item.Wicked_Flankers_Gorget }}</td>
+        <td>{{ site.data.mplus.General_Kaal }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
+    </tr>
+    <tr>
+        <td>Плащ</td>
+        <td>{{ site.data.item.Mantle_of_Manifest_Sins }}</td>
+        <td>{{ site.data.mplus.Kaelthas_Sunstrider }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
+    </tr>
+    <tr>
+        <td>Грудь</td>
+        <td>{{ site.data.item.Anima_Splattered_Hide }}</td>
+        <td>{{ site.data.mplus.Kryxis_the_Voracious }}</td>
+        <td>{{ site.data.mplus.Sanguine_Depths }}</td>
+    </tr>
+    <tr>
+        <td>Наручи продолжить</td>
+        <td>{{ site.data.item.Bands_of_the_Undergrowth }}</td>
+        <td>{{ site.data.mplus.Tredova }}</td>
+        <td>{{ site.data.mplus.Mists_of_Tirna_Scithe }}</td>
+    </tr>
+    <tr>
+        <td>Кисти рук</td>
+        <td>{{ site.data.item.Gloves_of_Obscure_Rituals }}</td>
+        <td>{{ site.data.mplus.Margrave_Stradama }}</td>
+        <td>{{ site.data.mplus.Plaguefall }}</td>
+    </tr>
+    <tr>
+        <td>Пояс</td>
+        <td>{{ site.data.item.Girdle_of_Shattered_Dreams }}</td>
+        <td>{{ site.data.mplus.Kultharok }}</td>
+        <td>{{ site.data.mplus.Theater_of_Pain }}</td>
+    </tr>
+    <tr>
+        <td>Ноги</td>
+        <td>{{ site.data.item.Fearless_Challengers_Leggings }}</td>
+        <td>{{ site.data.mplus.Xav_the_Unfallen }}</td>
+        <td>{{ site.data.mplus.Theater_of_Pain }}</td>
+    </tr>
+    <tr>
+        <td>Сапоги</td>
+        <td>{{ site.data.item.Sinsoaked_Waders }}</td>
+        <td>{{ site.data.mplus.Executor_Tarvold }}</td>
+        <td>{{ site.data.mplus.Sanguine_Depths }}</td>
+    </tr>
+    <tr>
+        <td>Кольцо</td>
+        <td>{{ site.data.item.Arachnid_Cipher_Ring }}</td>
+        <td>{{ site.data.mplus.Domina_Venomblade }}</td>
+        <td>{{ site.data.mplus.Plaguefall }}</td>
+    </tr>
+    <tr>
+        <td>Кольцо</td>
+        <td>{{ site.data.item.Bloodoath_Signet }}</td>
+        <td>{{ site.data.mplus.Dessia_the_Decapitator }}</td>
+        <td>{{ site.data.mplus.Theater_of_Pain }}</td>
+    </tr>
+    <tr>
+        <td>Правая рука</td>
+        <td>{{ site.data.item.Poxstorm_Longsword_of_Pestilence }}</td>
+        <td>{{ site.data.mplus.Margrave_Stradama }}</td>
+        <td>{{ site.data.mplus.Plaguefall }}</td>
+    </tr>
+    <tr>
+        <td>Левая рука</td>
+        <td>{{ site.data.item.Poxstorm_Longsword_of_Pestilence }}</td>
+        <td>{{ site.data.mplus.Margrave_Stradama }}</td>
+        <td>{{ site.data.mplus.Plaguefall }}</td>
+    </tr>
+    <tr>
+        <td>Аксессуар</td>
+        <td>{{ site.data.item.Phial_of_Putrefaction }}</td>
+        <td>{{ site.data.mplus.Doctor_Ickus }}</td>
+        <td>{{ site.data.mplus.Plaguefall }}</td>
+    </tr>
+    <tr>
+        <td>Аксессуар</td>
+        <td>{{ site.data.item.Inscrutable_Quantum_Device }}</td>
+        <td>{{ site.data.mplus.Dealer_Xyexa }}</td>
+        <td>{{ site.data.mplus.De_Other_Side }}</td>
+    </tr>
+</table>
+
+
 ## Аксессуар
 <div class="bloodmallet_chart" id="wowhead-guid-1603794320409-1603794317000-750641514-1" data-wow-class="demon_hunter" data-wow-spec="havoc" data-axis-color="#9d9d9d" data-background-color="#242424" data-entries="10" data-font-color="#ccc" data-type="trinkets" data-highcharts-chart="0" style="overflow: hidden; height: 500px;"></div>
 
