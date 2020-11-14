@@ -23,6 +23,8 @@ toc: true
 <br>
 ## Рекомендуемое снаряжение
 
+ПРЕДСТАВЛЕНА ТУТ ИНФОРМАЦИЯ ЯВЛЯЕТСЯ СПРАВОЧНОЙ, ВСЕГДА ИСПОЛЬЗУЙТЕ СИМКРАФТ.
+
 ### Что такое БиС лист
 
 БиС лист - это список из лучшего снаряжения доступного в игре из всех источников.
@@ -165,8 +167,8 @@ toc: true
     </tr>
     <tr>
         <td>Плащ</td>
-        <td>{{ site.data.item.Mantle_of_Manifest_Sins }}</td>
-        <td>{{ site.data.mplus.Kaelthas_Sunstrider }}</td>
+        <td>{{ site.data.item.Crest_of_the_Legionnaire_General }}</td>
+        <td>{{ site.data.mplus.General_Kaal }}</td>
     </tr>
     <tr>
         <td>Грудь</td>
@@ -306,8 +308,14 @@ toc: true
   </script>
 <br>
 
-#### Ниже представлен самый идеальный набор предметов из реда и подземелий.
+#### Ниже представлен БиС набор предметов из рейда и подземелий.
 
+<div class="tabs">
+    <div class="tabs__nav">
+      <a class="tabs__link tabs__link_active" href="#content-1">Мифик+ АоЕ</a>
+    </div>
+    <div class="tabs__content">
+      <div class="tabs__pane tabs__pane_show" id="content-1">
 <table>
     <tr>
         <td>Тип</td>
@@ -335,8 +343,8 @@ toc: true
     </tr>
     <tr>
         <td>Плащ</td>
-        <td>{{ site.data.item.Mantle_of_Manifest_Sins }}</td>
-        <td>{{ site.data.mplus.Kaelthas_Sunstrider }}</td>
+        <td>{{ site.data.item.Crest_of_the_Legionnaire_General }}</td>
+        <td>{{ site.data.mplus.General_Kaal }}</td>
         <td>{{ site.data.mplus.Castle_Nathria }}</td>
     </tr>
     <tr>
@@ -373,18 +381,18 @@ toc: true
         <td>Сапоги</td>
         <td>{{ site.data.item.Sinsoaked_Waders }}</td>
         <td>{{ site.data.mplus.Executor_Tarvold }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
+    </tr>
+    <tr>
+        <td>Кольцо</td>
+        <td>{{ site.data.item.Entwined_Gorger_Tendril }}</td>
+        <td>{{ site.data.mplus.Kryxis_the_Voracious }}</td>
         <td>{{ site.data.mplus.Sanguine_Depths }}</td>
     </tr>
     <tr>
         <td>Кольцо</td>
-        <td>{{ site.data.item.Arachnid_Cipher_Ring }}</td>
-        <td>{{ site.data.mplus.Domina_Venomblade }}</td>
-        <td>{{ site.data.mplus.Plaguefall }}</td>
-    </tr>
-    <tr>
-        <td>Кольцо</td>
-        <td>{{ site.data.item.Bloodoath_Signet }}</td>
-        <td>{{ site.data.mplus.Dessia_the_Decapitator }}</td>
+        <td>{{ site.data.item.Ritual_Commanders_Ring }}</td>
+        <td>{{ site.data.mplus.Nalthor_the_Rimebinder }}</td>
         <td>{{ site.data.mplus.Theater_of_Pain }}</td>
     </tr>
     <tr>
@@ -407,90 +415,236 @@ toc: true
     </tr>
     <tr>
         <td>Аксессуар</td>
-        <td>{{ site.data.item.Inscrutable_Quantum_Device }}</td>
-        <td>{{ site.data.mplus.Dealer_Xyexa }}</td>
-        <td>{{ site.data.mplus.De_Other_Side }}</td>
+        <td>{{ site.data.item.Skulkers_Wing }}</td>
+        <td>{{ site.data.mplus.Shriekwing }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
     </tr>
 </table>
+    </div>    </div>    </div>   
 
+<br>
+
+<div class="tabs">
+    <div class="tabs__nav">
+      <a class="tabs__link tabs__link_active" href="#content-1">Рейд СТ</a>
+    </div>
+    <div class="tabs__content">
+      <div class="tabs__pane tabs__pane_show" id="content-1">
+<table>
+    <tr>
+        <td>Тип</td>
+        <td>Название</td>
+        <td>Босс</td>
+        <td>Зона</td>
+    </tr>
+    <tr>
+        <td>Шлем</td>
+        <td>{{ site.data.item.Sadists_Sinister_Mask }}</td>
+        <td>{{ site.data.mplus.Sire_Denathrius }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
+    </tr>
+    <tr>
+        <td>Шея</td>
+        <td>{{ site.data.item.Nobles_Birthstone_Pendant }}</td>
+        <td>{{ site.data.mplus.Castellan_Niklaus }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
+    </tr>
+    <tr>
+        <td>Наплечники</td>
+        <td>{{ site.data.item.Wicked_Flankers_Gorget }}</td>
+        <td>{{ site.data.mplus.General_Kaal }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
+    </tr>
+    <tr>
+        <td>Плащ</td>
+        <td>{{ site.data.item.Crest_of_the_Legionnaire_General }}</td>
+        <td>{{ site.data.mplus.General_Kaal }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
+    </tr>
+    <tr>
+        <td>Грудь</td>
+        <td>{{ site.data.item.Corset_of_the_Deft_Duelist }}</td>
+        <td>{{ site.data.mplus.Castellan_Niklaus }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
+    </tr>
+    <tr>
+        <td>Наручи продолжить</td>
+        <td>{{ site.data.item.Bands_of_the_Undergrowth }}</td>
+        <td>{{ site.data.mplus.Tredova }}</td>
+        <td>{{ site.data.mplus.Mists_of_Tirna_Scithe }}</td>
+    </tr>
+    <tr>
+        <td>Кисти рук</td>
+        <td>{{ site.data.item.Gloves_of_Obscure_Rituals }}</td>
+        <td>{{ site.data.mplus.Millificent_Manastorm }}</td>
+        <td>{{ site.data.mplus.Margrave_Stradama }}</td>
+    </tr>
+    <tr>
+        <td>Пояс</td>
+        <td>{{ site.data.item.Girdle_of_Shattered_Dreams }}</td>
+        <td>{{ site.data.mplus.Kultharok }}</td>
+        <td>{{ site.data.mplus.Theater_of_Pain }}</td>
+    </tr>
+    <tr>
+        <td>Ноги</td>
+        <td>{{ site.data.item.Fearless_Challengers_Leggings }}</td>
+        <td>{{ site.data.mplus.Xav_the_Unfallen }}</td>
+        <td>{{ site.data.mplus.Theater_of_Pain }}</td>
+    </tr>
+    <tr>
+        <td>Сапоги</td>
+        <td>{{ site.data.item.Sinsoaked_Waders }}</td>
+        <td>{{ site.data.mplus.Executor_Tarvold }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
+    </tr>
+    <tr>
+        <td>Кольцо</td>
+        <td>{{ site.data.item.Most_Regal_Signet_of_Sire_Denathrius }}</td>
+        <td>{{ site.data.mplus.Sire_Denathrius }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
+    </tr>
+    <tr>
+        <td>Кольцо</td>
+        <td>{{ site.data.item.Ritualists_Treasured_Ring }}</td>
+        <td>{{ site.data.mplus.Lady_Inerva_Darkvein }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
+    </tr>
+    <tr>
+        <td>Правая рука</td>
+        <td>{{ site.data.item.Abominable_Anima_Spherule }}</td>
+        <td>{{ site.data.mplus.Sire_Denathrius }}</td>
+        <td>{{ site.data.mplus.Plaguefall }}</td>
+    </tr>
+    <tr>
+        <td>Левая рука</td>
+        <td>{{ site.data.item.Abominable_Anima_Spherule }}</td>
+        <td>{{ site.data.mplus.Sire_Denathrius }}</td>
+        <td>{{ site.data.mplus.Plaguefall }}</td>
+    </tr>
+    <tr>
+        <td>Аксессуар</td>
+        <td>{{ site.data.item.Phial_of_Putrefaction }}</td>
+        <td>{{ site.data.mplus.Doctor_Ickus }}</td>
+        <td>{{ site.data.mplus.Plaguefall }}</td>
+    </tr>
+    <tr>
+        <td>Аксессуар</td>
+        <td>{{ site.data.item.Skulkers_Wing }}</td>
+        <td>{{ site.data.mplus.Shriekwing }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
+    </tr>
+</table>
+    </div>    </div>    </div>   
+	
+ПРЕДСТАВЛЕНА ТУТ ИНФОРМАЦИЯ ЯВЛЯЕТСЯ СПРАВОЧНОЙ, ВСЕГДА ИСПОЛЬЗУЙТЕ СИМКРАФТ.
 
 ## Аксессуар
 <div class="bloodmallet_chart" id="wowhead-guid-1603794320409-1603794317000-750641514-1" data-wow-class="demon_hunter" data-wow-spec="havoc" data-axis-color="#9d9d9d" data-background-color="#242424" data-entries="10" data-font-color="#ccc" data-type="trinkets" data-highcharts-chart="0" style="overflow: hidden; height: 500px;"></div>
+
 
 <br>
 <table class="grid" style="max-width:750px">
 <tbody>
 <tr>
-<td style="text-align: center;"><b>Keystone Level</b></td>
-<td style="text-align: center;"><b>End of Dungeon</b></td>
-<td style="text-align: center;"><b>Weekly Cache</b></td>
+<td style="text-align: center;"><b>Уровень ключа</b></td>
+<td style="text-align: center;"><b>В конце подземелья</b></td>
+<td style="text-align: center;"><b>В недельном сундуке</b></td>
 </tr>
 <tr><td>Mythic 2</td>
-<td style="text-align: center;">90</td>
-<td style="text-align: center;">95</td>
+<td style="text-align: center;">187</td>
+<td style="text-align: center;">200</td>
 </tr>
 <tr><td>Mythic 3</td>
-<td style="text-align: center;">90</td>
-<td style="text-align: center;">100</td>
+<td style="text-align: center;">190</td>
+<td style="text-align: center;">203</td>
 </tr>
 <tr>
 <td>Mythic 4</td>
-<td style="text-align: center;">95</td>
-<td style="text-align: center;">105</td>
+<td style="text-align: center;">194</td>
+<td style="text-align: center;">207</td>
 </tr>
 <tr><td>Mythic 5</td>
-<td style="text-align: center;">100</td>
-<td style="text-align: center;">105</td>
+<td style="text-align: center;">194</td>
+<td style="text-align: center;">210</td>
 </tr>
 <tr>
 <td>Mythic 6</td>
-<td style="text-align: center;">100</td>
+<td style="text-align: center;">197</td>
 <td style="text-align: center;">110</td>
 </tr>
 <tr>
 <td>Mythic 7</td>
-<td style="text-align: center;">105</td>
-<td style="text-align: center;">115</td>
+<td style="text-align: center;">200</td>
+<td style="text-align: center;">213</td>
 </tr>
 <tr>
 <td>Mythic 8</td>
-<td style="text-align: center;">110</td>
-<td style="text-align: center;">115</td>
+<td style="text-align: center;">200</td>
+<td style="text-align: center;">216</td>
 </tr>
 <tr>
 <td>Mythic 9</td>
-<td style="text-align: center;">110</td>
-<td style="text-align: center;">115</td>
+<td style="text-align: center;">200</td>
+<td style="text-align: center;">216</td>
 </tr>
 <tr>
 <td>Mythic 10</td>
-<td style="text-align: center;">110</td>
-<td style="text-align: center;">120</td>
+<td style="text-align: center;">204</td>
+<td style="text-align: center;">220</td>
 </tr>
 <tr>
 <td>Mythic 11</td>
-<td style="text-align: center;">115</td>
-<td style="text-align: center;">120</td>
+<td style="text-align: center;">204</td>
+<td style="text-align: center;">220</td>
 </tr>
 <tr>
 <td>Mythic 12</td>
-<td style="text-align: center;">115</td>
-<td style="text-align: center;">125</td>
+<td style="text-align: center;">207</td>
+<td style="text-align: center;">223</td>
 </tr><tr><td>Mythic 13</td>
-<td style="text-align: center;">115</td>
-<td style="text-align: center;">125</td>
+<td style="text-align: center;">207</td>
+<td style="text-align: center;">223</td>
 </tr>
 <tr>
 <td>Mythic 14</td>
-<td style="text-align: center;">120</td>
-<td style="text-align: center;">125</td>
+<td style="text-align: center;">207</td>
+<td style="text-align: center;">226</td>
 </tr>
 <tr>
 <td>Mythic 15+</td>
-<td style="text-align: center;">120</td>
-<td style="text-align: center;">130</td>
+<td style="text-align: center;">210</td>
+<td style="text-align: center;">226</td>
 </tr>
 </tbody>
 </table>
+
+<br>
+<table class="grid" style="max-width:750px">
+<tbody>
+<tr>
+<td style="text-align: center;"><b>Сложность</b></td>
+<td style="text-align: center;"><b>Первые 8 босса</b></td>
+<td style="text-align: center;"><b>Последние 2 босса</b></td>
+</tr>
+<tr><td>ЛФР</td>
+<td style="text-align: center;">187</td>
+<td style="text-align: center;">194</td>
+</tr>
+<tr><td>Обычная</td>
+<td style="text-align: center;">200</td>
+<td style="text-align: center;">207</td>
+</tr>
+<tr>
+<td>Героическая</td>
+<td style="text-align: center;">213</td>
+<td style="text-align: center;">220</td>
+</tr>
+<tr><td>Mythic 5</td>
+<td style="text-align: center;">226</td>
+<td style="text-align: center;">233</td>
+</tr>
+</tbody>
+</table>
+
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/overview.html">Назад:<br>Характеристики</a></div> <div class="minibox"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Длаее:<br>Таланты и Расходники</a></div>
