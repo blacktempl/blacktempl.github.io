@@ -92,7 +92,7 @@ toc: true
 <ul>
 <li> {{ site.data.spell.Immolation_Aura }} – стала базовой способностью.</li>
 <li> Защитные сособности специализации были сильно ослаблены. В результате чего пострадала живучесть.</li>
-<li> {{ site.data.talent.Unbound_Chaos }} - добален новый талант. Он был удален как азеритовый талант в начале BFA.</li>
+<li> {{ site.data.talent.Unbound_Chaos }} - добален новый талант, увеличивает урон нашего {{ site.data.spell.Fel_Rush }} после применения {{ site.data.spell.Immolation_Aura }}</li>
 <li> {{ site.data.talent.Glaive_Tempest }} - это новый талант, вдохновленный {{ site.data.spell.Fury_of_the_Illidari }}, нашей старой способностью «Артефактного оружия».</li>
 <li> {{ site.data.talent.Nemesis }} удален из игры.</li>
 </ul>

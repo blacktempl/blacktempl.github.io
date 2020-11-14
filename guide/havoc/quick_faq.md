@@ -895,7 +895,7 @@ toc: true
 
 <u>Проводники выносливости</u>
 
-* {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} сокращают получаемый вами урон дополнительно на 6-13%. 
+* {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} снижftn получаемый вами урона от магии дополнительно на 6-13%. 
 * {{ site.data.conduits.Fel_Defender }} — время восстановления вашей способности {{ site.data.spell.Blur }} уменьшается на 5-20 сек.
 
 <u>Проводники точности</u>
@@ -919,6 +919,7 @@ toc: true
 * {{ site.data.conduits.Ravenous_Consumption }} — способность {{ site.data.spell.Consume_Magic }} получает 15-30% шанс рассеять дополнительный эффект.
 
 ## Легендарные предметы
+
 ### Рейд
  
 **СТ**

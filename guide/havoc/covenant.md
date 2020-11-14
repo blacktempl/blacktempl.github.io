@@ -1,7 +1,7 @@
 ---
 layout: page
-title: WeakAuras
-last_update: 2020-01-11 09:00:00
+title: Ковенанты
+last_update: 2020-11-14 09:00:00
 game_version: 9.0.0 Shadowlands
 author: Rodriguezz
 toc: true
@@ -22,57 +22,62 @@ toc: true
 <a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
-## Что такое WeakAuras?
+## Что такое Ковенанты?
 
-<a href="{{ site.url }}/guide/general/weak_auras.html"> WeakAuras2</a>  это дополнение к WoW, которое позволяет максимально 
-настраивать практически любую информацию, которую вы хотели бы получить в своем пользовательском интерфейсе. Что может сделать WeakAuras? WeakAuras может показать 
-вам любую информацию, доступную вам по вашему выбору. Это может быть что угодно, от того сколько стаков какого либо из бафов на вас, сколько времени 
-осталось до восстановления на вашего заклинания прерывания, до оповещения когда у вас мало маны. WeakAuras предназначен для изменения способа отображения информации,
- чтобы ее было легче увидеть. Вы можете сделать в ней так много, что вам будет проще сказать, чего не может сделать WeakAuras. WeakAuras не может сделать что-то за вас.
- Вы можете заставить ее сказать что-то шепотом или криком, но WeakAuras нельзя использовать для создания макросов или автоматизации любого игрового
- процесса (что в любом случае противоречит правилам игры). 
- 
-## Пользовательский интерфейс WeakAuras
- 
-Существует очень много таких сборников на сайте wago.io, но я могу вам посоветовать только два, они по моему мнению самые лучшие и очень качественно сделаны.
- 
-**Ipse's WA's - Demon Hunter:** <a href="https://wago.io/4kTH1dUFb" target="blank">https://wago.io/4kTH1dUFb</a>
-<p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WA_ipses_havoc.gif">
-</p>
+Одной из ключевых новинок World of Warcraft Shadowlands станут ковенанты. Это своеобразные фракции, которые вобрали в себя лучшие идеи системы классовых оплотов и перенесли их на новый уровень. Занимаясь улучшением отношений с ними, игроки будут получать дополнительные способности в свой арсенал, пассивные бонусы и косметические награды, открывать масштабные сюжетные кампании. Узнать больше о ковенантах можно в статье <a href="{{ site.url }}/blog/2020/10/22/covenant-abilities-shadowlands.html">Обзор Ковенантов</a>.
 
-**Afenar WA's - Demon Hunter:** <a href="https://wago.io/4kTH1dUFb" target="blank">https://wago.io/4kTH1dUFb</a>
-<p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WA_afenar_Havoc.webp">
-</p>
+## Какой Ковенант выбрать
 
-## Полезные ауры
+Для Охотника на Демонов хорошим выбором буде ковенант <span style="color:#68ccef;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> <b>Кирий</b></span>. Лучший медиум для нас это **Пелагий**. 
 
-Эта полоса гнева отображает оставшийся прирост ярости от {{ site.data.spell.Immolation_Aura }} и ваш текущий уровень гнева. 
-Чрезвычайно полезно для измерения того, сколько гнева вы можете набрать, чтоб не уйти в оверкап.
+После вступленя в ковенант нам отроются две способности:
 
-**Полоса гнева с прогнозами:** <a href="https://wago.io/kib-dh-power-bar" target="blank">https://wago.io/kib-dh-power-bar</a>
-<p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WA_Kibo_Power_bar.gif">
-</p>
+{{ site.data.covenant.Elysian_Decree }} - Размещает в указанном месте кирийскую печать, которая активируется через 2 sec. Печать наносит сильный АоЕ урон, которую можно усилить баффом от {{ site.data.talent.Momentum }}. После взрыва печати появляются 3 {{ site.data.spell.Shattered_SoulsHDH }}, это сильно повышает нашу выживаймость. Таже использование {{ site.data.covenant.Elysian_Decree }} активирует способность нашего медиума и дает нам бафф искусности на 10сек, который можно продлевать собирая сферы "Печальных воспоминаний", тем самым усилия наши способности которые используют Хаос, например такие как {{ site.data.spell.Chaos_Strike }} или {{ site.data.spell.Eye_Beam }}.
 
-## Создание собственных 
+{{ site.data.covenant.Summon_Steward }} - Вы зовете распорядителя, и он приносит вам {{ site.data.covenant.Phial_of_Serenity }}, восполняющий 20% здоровья и снимающий проклятия, болезни, яды и эффекты кровотечения. Очень полезная флакон, сильно упрощает жизнь в ключах, снимает даже стаки аффикса {{ site.data.mplus.Necrotic }}.
 
-Если вам нужна только одна WeakAura, а не сборник, или если вы просто не можете найти ту, которая соответствует вашим потребностям,
- вы всегда можете создать свою собственную.
- Для более сложных WeakAuras вы можете взглянуть на наше подробное руководство по <a href="{{ site.url }}/guide/general/weak_auras.html"> WeakAuras</a>  или посетить <a href="WeakAurashttps://discord.gg/wa2">Discord канал WeakAuras</a>, 
- но вы можете получить базовые знания по WeakAuras прямо здесь.
- <br>
-Для того чтоб быстро создать WeakAura посетите страницу на WowHead с нужной вам способностью, талантом или PvP-таланты и нажмите красную кнопку **Экспорт WeakAuras**, 
- чтобы открыть экспорта. Далее просто нажмите «Копировать», чтобы использовать ауру по умолчанию, или **Настроить**, чтобы легко изменить ее настройки!
- 
- <p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WA_crate_havoc.jpg">
-</p>
+## Какие связи душ выбрать
 
- <p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WeakAuras_preferens.png">
-</p>
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/pelagos.png"> </p>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/macros-addons.html">Назад:<br>Макросы и Аддоны</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/common-terms.html">Длаее:<br>Сокращени</a></div>
+## Проводники (Кондуиты)
+
+### Рейд
+
+<u>Проводники силы</u>
+
+* {{ site.data.conduits.Demons_Touch }} —  {{ site.data.spell.Chaos_Strike }} с вероятностью 5,0%-14,5% сработает еще раз. Очень сильный кондуит для СТ боев.
+* {{ site.data.conduits.Growing_Inferno }} — урон способности {{ site.data.spell.Immolation_Aura }} дополнительно увеличивается на 10-24% каждый раз, когда она наносит урон. Очень сильно увеличивает урон от { site.data.spell.Immolation_Aura }}, используем всегда.
+
+<u>Проводники выносливости</u>
+
+* {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} снижает получаемый вами урона от магии дополнительно на 6-13%. Очень сильный проводник, берем когда в бою присутствует магический урон.
+* {{ site.data.conduits.Fel_Defender }} — время восстановления вашей способности {{ site.data.spell.Blur }} уменьшается на 5-20 сек. Выбор по умолчанию в в боях без магии.
+
+<u>Проводники точности</u>
+
+* {{ site.data.conduits.Felfire_Haste }} — ваша скорость передвижения повышается на 5-20% после использования способности {{ site.data.spell.Fel_Rush }}. Дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку
+* {{ site.data.conduits.Ravenous_Consumption }} — способность {{ site.data.spell.Consume_Magic }} получает 15-30% шанс рассеять дополнительный эффект.
+
+### Мифик+
+
+<u>Проводники силы</u>
+
+* {{ site.data.conduits.Repeat_Decree }} — способность {{ site.data.covenant.Elysian_Decree }} устанавливает вторую руну через 1 секунду, которая наносит 25% урона. Усиляет и без того сильную способность ковенанта, но нужен высокий илвл кондуита.
+* {{ site.data.conduits.Demons_Touch }} —  {{ site.data.spell.Chaos_Strike }} с вероятностью 5,0%-14,5% сработает еще раз. Очень сильный кондуит для СТ боев.
+* {{ site.data.conduits.Growing_Inferno }} — урон способности {{ site.data.spell.Immolation_Aura }} дополнительно увеличивается на 10-24% каждый раз, когда она наносит урон. Очень сильно увеличивает урон от { site.data.spell.Immolation_Aura }}, используем всегда.
+
+<u>Проводники выносливости</u>
+
+* {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} снижает получаемый вами урона от магии дополнительно на 6-13%. Очень сильный проводник, берем когда в бою присутствует магический урон.
+* {{ site.data.conduits.Fel_Defender }} — время восстановления вашей способности {{ site.data.spell.Blur }} уменьшается на 5-20 сек. Выбор по умолчанию в в боях без магии.
+
+<u>Проводники точности</u>
+
+* {{ site.data.conduits.Felfire_Haste }} — ваша скорость передвижения повышается на 5-20% после использования способности {{ site.data.spell.Fel_Rush }}. Дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку
+* {{ site.data.conduits.Ravenous_Consumption }} — способность {{ site.data.spell.Consume_Magic }} получает 15-30% шанс рассеять дополнительный эффект.
+
+
+
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/gear.htmll">Назад:<br>Бис лист</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/consumables.html">Длаее:<br>Расходники</a></div>

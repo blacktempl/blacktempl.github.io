@@ -39,25 +39,29 @@ toc: true
 
 <div class="tabs">
     <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-1">СТ 1</a>
-      <a class="tabs__link" href="#content-2">АОЕ</a>
+      <a class="tabs__link tabs__link_active" href="#content-1">Рейд СТ</a>
+      <a class="tabs__link" href="#content-2">АоЕ М+</a>
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
-Критический удар<br>
-Скорость<br>
-Искусность<br>
-Универсальность
-      </div>
+	  
+	<div class="tabs_in">
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> Ловкость > <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30"> Критический удар > <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> Скорость > <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> Искусность > <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> Универсальность
+	</div>	
+	
+	 </div>
       <div class="tabs__pane" id="content-2">
-Универсальность <br> 
-Критический удар<br>
-Скорость<br>
-Искусность
+
+	<div class="tabs_in">
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> Ловкость > <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30">  Критический удар > <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> Универсальность > <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> Искусность > <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> Скорость
+	</div>	
+
       </div>
       
     </div>
   </div>
+
+#### Для каждого персонажа приоритет характеристик индивидуальный, всегда используйте <a href="https://www.raidbots.com/simbot">RaidBots</a> чтоб использовать актуальную для вас экиперовку.
 
   <script>
     var $tabs = function (target) {

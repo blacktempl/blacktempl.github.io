@@ -536,11 +536,33 @@ toc: true
 </table>
     </div>    </div>    </div>   
 	
-ПРЕДСТАВЛЕНА ТУТ ИНФОРМАЦИЯ ЯВЛЯЕТСЯ СПРАВОЧНОЙ, ВСЕГДА ИСПОЛЬЗУЙТЕ СИМКРАФТ.
+ПРЕДСТАВЛЕНАZ ТУТ ИНФОРМАЦИЯ ЯВЛЯЕТСЯ СПРАВОЧНОЙ, ВСЕГДА ИСПОЛЬЗУЙТЕ СИМКРАФТ.
+
+## Легендарные предметы
+
+### Рейд
+ 
+**СТ**
+
+* {{ site.data.legendary.Chaos_Theory }}  —  {{ site.data.spell.Blade_Dance }} с вероятностью 30% накладывает на персонажа эффект “Клинки Хаоса”, который повышает урон от {{ site.data.spell.Chaos_Strike }} на 50%, а вероятность восполнения гнева - дополнительно на 60%. Время действия эффекта - 8 сек. 
+> Можно применить на пояс или перчатки
+
+**Клив/АоЕ**
+
+* {{ site.data.legendary.Collective_Anguish }}  — При использовании {{ site.data.spell.Eye_Beam }} Охотник на Демонов призывает союзника, который использует {{ site.data.spell.Fel_Devastation }}.
+Можно применить на плащ или наручи.
+
+### Мифик+
+
+* {{ site.data.legendary.Collective_Anguish }} — При использовании {{ site.data.spell.Eye_Beam }} Охотник на Демонов призывает союзника, который использует {{ site.data.spell.Fel_Devastation }}.
+> Можно применить на плащ или наручи.
 
 ## Аксессуар
-<div class="bloodmallet_chart" id="wowhead-guid-1603794320409-1603794317000-750641514-1" data-wow-class="demon_hunter" data-wow-spec="havoc" data-axis-color="#9d9d9d" data-background-color="#242424" data-entries="10" data-font-color="#ccc" data-type="trinkets" data-highcharts-chart="0" style="overflow: hidden; height: 500px;"></div>
 
+{{ site.data.item.Skulkers_Wing }} - Прожимной ассесуар с огромным уроном который усиливается баффом {{ site.data.talent.Momentum }}.
+{{ site.data.item.Phial_of_Putrefaction }} - Наносит высокий урон и показывает высокий оверол.
+
+## Уровни предметов в 1 сезоне Shadowlands
 
 <br>
 <table class="grid" style="max-width:750px">
