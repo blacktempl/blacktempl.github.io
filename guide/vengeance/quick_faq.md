@@ -34,6 +34,7 @@ toc: true
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
 	   
+	   <div class="tabs_in">
 ДПС вариант через {{ site.data.talent.Spirit_Bomb }} и легендарный эффект {{ site.data.legendary.Razelikhs_Defilement }}. Берем только с ковенантом <span style="color:#68ccef;font-size:1.5em;"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="32" height="45"> Кирий</span>
 
         <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
@@ -409,9 +410,10 @@ toc: true
 </div>
 </div>
 </div> 
+</div>
       </div>
       <div class="tabs__pane" id="content-2">
-<br>
+<div class="tabs_in">
 Клеймобилд с высокой выживаемостью через легендарный эффект {{ site.data.legendary.Fiery_Soul }}
 <br><br>
 	  
@@ -788,6 +790,7 @@ toc: true
 </div>
 </div>
 </div> 
+</div>
       </div>
     </div>
   </div>
@@ -869,7 +872,7 @@ toc: true
 
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/pelagos.png"> </p>
 
-## Кондуиты
+## Проводники (Кондуиты)
 
 <u>Проводники силы</u>
 
@@ -931,7 +934,7 @@ toc: true
 <img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> **Скорость =** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> **Искусность >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30">  **Критический удар** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> **Искусность**
 
 ### Мифик+
-<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> **Скорость** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> **Искусность** 
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> **Скорость >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> **Искусность** 
 
 ## Ротация
 
@@ -966,6 +969,7 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
+	  <div class="tabs_in">
 <table>
     <tr>
         <td>Тип</td>
@@ -1070,8 +1074,9 @@ toc: true
         <td>{{ site.data.mplus.De_Other_Side }}</td>
     </tr>
 </table>
+</div>
     </div>    </div>    </div> 
-{{ site.data.item.Anima_Field_Emitter }}
+
 <br>
 ## Аксессуары
 

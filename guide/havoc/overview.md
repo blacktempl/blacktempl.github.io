@@ -122,6 +122,7 @@ toc: true
 <a href="https://www.wowhead.com/unlocking-artifact-appearances-guide" class="cta-button" data-border="strong" target="_blank">Получение обликов артефактов</a>
 </div>
 
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/quick_faq.html">Назад:<br>Кратко и Быстро</a></div> 
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/beginners.html">Далее:<br>Новичкам</a></div>
 
 

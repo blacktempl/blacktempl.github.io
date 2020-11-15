@@ -38,6 +38,7 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
+	   <div class="tabs_in">
 <table>
     <tr>
         <td>Тип</td>
@@ -142,8 +143,9 @@ toc: true
         <td>{{ site.data.mplus.Spires_of_Ascension }}</td>
     </tr>
 </table>	  
-      </div>
+      </div></div>
       <div class="tabs__pane" id="content-2">
+	   <div class="tabs_in">
 	  <table>
     <tr>
         <td>Тип</td>
@@ -230,7 +232,7 @@ toc: true
         <td>{{ site.data.item.Stone_Legion_Heraldry }}</td>
         <td>{{ site.data.mplus.General_Kaal }}</td>
     </tr>
-</table>
+</table></div>
       </div>
   </div>
  </div>
@@ -316,6 +318,7 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
+	   <div class="tabs_in">
 <table>
     <tr>
         <td>Тип</td>
@@ -420,7 +423,7 @@ toc: true
         <td>{{ site.data.mplus.De_Other_Side }}</td>
     </tr>
 </table>
-    </div>    </div>    </div>   
+    </div>    </div>    </div> </div>  
 
 <br>
 
@@ -430,6 +433,7 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
+	   <div class="tabs_in">
 <table>
     <tr>
         <td>Тип</td>
@@ -534,16 +538,32 @@ toc: true
         <td>{{ site.data.mplus.De_Other_Side }}</td>
     </tr>
 </table>
-    </div>    </div>    </div>   
+    </div>    </div>    </div>   </div>
 
 <br>
 
 ПРЕДСТАВЛЕНА ТУТ ИНФОРМАЦИЯ ЯВЛЯЕТСЯ СПРАВОЧНОЙ, ВСЕГДА ИСПОЛЬЗУЙТЕ СИМКРАФТ.
 
-## Аксессуар
-<div class="bloodmallet_chart" id="wowhead-guid-1603794320409-1603794317000-750641514-1" data-wow-class="demon_hunter" data-wow-spec="havoc" data-axis-color="#9d9d9d" data-background-color="#242424" data-entries="10" data-font-color="#ccc" data-type="trinkets" data-highcharts-chart="0" style="overflow: hidden; height: 500px;"></div>
+## Легендарные предметы
 
-<br>
+* {{ site.data.legendary.Razelikhs_Defilement }} — несмотря на нерф, все еще хорошая легендарка, хотя и потеряла основную свою привлекательность. Полезна в М+ контенте или исключительно для ДПС в рейде
+* {{ site.data.legendary.Fiery_Soul }} — основа нашего клеймобилда. Очень хорошая легендарка как для рейда, так и для М+. Не советуется использовать в паре со  {{ site.data.talent.Spirit_Bomb }}
+* {{ site.data.legendary.Darkglare_Boon }} — очень маленький шанс отката для способности с большим временем восстановления. Слабый вариант
+* {{ site.data.legendary.Collective_Anguish }} — как и предыдущий легендарный эффект, слабый в первую очередь из-за большого КД нашего {{ site.data.spell.Fel_Devastation }}
+* {{ site.data.legendary.Fel_Flame_Fortification }} — в теории неплохой легендарный эффект в боях против магии, на практике будет играться разве что возможным вторым слотом
+
+## Аксессуары
+
+* {{ site.data.item.Anima_Field_Emitter }} очень сильный дополнительный сейв. Дает много абсорба и хороший урон. Отличный вариант для М+ контента и прочих АОЕ сценариев
+* {{ site.data.item.Anima_Field_Emitter }} дает много скорости с высоким аптаймом, что могло быть хорошим бонусом, если бы не привязка к позиции. Лужа, дающая скорость, довольно небольшая, что делает использование трини на большинстве энкаунтеров проблемным
+* {{ site.data.item.Macabre_Sheet_Music }} при использовании дает примерно 13% скорости, время действия растягивается до 25 секунд, призраки появляются по очереди и при получении нового бафа, время действия обновляется. Неплохая триня
+* {{ site.data.item.Stone_Legion_Heraldry }} статстик, дающий 2% универсальности и примерно еще 0.1% за каждого члена группы с таким же тринкетом. Очень хороший вариант
+* {{ site.data.item.Splintered_Heart_of_Alar }} просто читдез. Огромное кд, шанс осечки крайне мал. Неплохо, если вам нужен еще один читдез, но в целом крайне слабый и ситуативный аксессуар
+
+Информация об аксессуарах в дальнейшем будет обновляться и дополняться
+
+## Уровни предметов в 1 сезоне эпохальных+ подземелий Shadowlands
+
 <table class="grid" style="max-width:750px">
 <tbody>
 <tr>
@@ -551,75 +571,76 @@ toc: true
 <td style="text-align: center;"><b>В конце подземелья</b></td>
 <td style="text-align: center;"><b>В недельном сундуке</b></td>
 </tr>
-<tr><td>Mythic 2</td>
+<tr><td>Эпохальный 2</td>
 <td style="text-align: center;">187</td>
 <td style="text-align: center;">200</td>
 </tr>
-<tr><td>Mythic 3</td>
+<tr><td>Эпохальный 3</td>
 <td style="text-align: center;">190</td>
 <td style="text-align: center;">203</td>
 </tr>
 <tr>
-<td>Mythic 4</td>
+<td>Эпохальный 4</td>
 <td style="text-align: center;">194</td>
 <td style="text-align: center;">207</td>
 </tr>
-<tr><td>Mythic 5</td>
+<tr><td>Эпохальный 5</td>
 <td style="text-align: center;">194</td>
 <td style="text-align: center;">210</td>
 </tr>
 <tr>
-<td>Mythic 6</td>
+<td>Эпохальный 6</td>
 <td style="text-align: center;">197</td>
 <td style="text-align: center;">110</td>
 </tr>
 <tr>
-<td>Mythic 7</td>
+<td>Эпохальный 7</td>
 <td style="text-align: center;">200</td>
 <td style="text-align: center;">213</td>
 </tr>
 <tr>
-<td>Mythic 8</td>
+<td>Эпохальный 8</td>
 <td style="text-align: center;">200</td>
 <td style="text-align: center;">216</td>
 </tr>
 <tr>
-<td>Mythic 9</td>
+<td>Эпохальный 9</td>
 <td style="text-align: center;">200</td>
 <td style="text-align: center;">216</td>
 </tr>
 <tr>
-<td>Mythic 10</td>
+<td>Эпохальный 10</td>
 <td style="text-align: center;">204</td>
 <td style="text-align: center;">220</td>
 </tr>
 <tr>
-<td>Mythic 11</td>
+<td>Эпохальный 11</td>
 <td style="text-align: center;">204</td>
 <td style="text-align: center;">220</td>
 </tr>
 <tr>
-<td>Mythic 12</td>
+<td>Эпохальный 12</td>
 <td style="text-align: center;">207</td>
 <td style="text-align: center;">223</td>
-</tr><tr><td>Mythic 13</td>
+</tr><tr><td>Эпохальный 13</td>
 <td style="text-align: center;">207</td>
 <td style="text-align: center;">223</td>
 </tr>
 <tr>
-<td>Mythic 14</td>
+<td>Эпохальный 14</td>
 <td style="text-align: center;">207</td>
 <td style="text-align: center;">226</td>
 </tr>
 <tr>
-<td>Mythic 15+</td>
+<td>Эпохальный 15+</td>
 <td style="text-align: center;">210</td>
 <td style="text-align: center;">226</td>
 </tr>
 </tbody>
 </table>
 
-<br>
+## Уровни предметов в рейде Замок Нафрия
+
 <table class="grid" style="max-width:750px">
 <tbody>
 <tr>
@@ -640,7 +661,7 @@ toc: true
 <td style="text-align: center;">213</td>
 <td style="text-align: center;">220</td>
 </tr>
-<tr><td>Mythic 5</td>
+<tr><td>Эпохальный</td>
 <td style="text-align: center;">226</td>
 <td style="text-align: center;">233</td>
 </tr>
@@ -649,7 +670,7 @@ toc: true
 
 
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/overview.html">Назад:<br>Характеристики</a></div> <div class="minibox"><a href="{{ site.url }}/guide/vengeance/talent-builds.html">Длаее:<br>Таланты и Расходники</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/stats.html">Назад:<br>Характеристики</a></div> <div class="minibox"><a href="{{ site.url }}/guide/vengeance/covenant.html">Длаее:<br>Ковенанты</a></div>
 
 
 

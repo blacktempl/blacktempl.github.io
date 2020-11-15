@@ -43,6 +43,7 @@ toc: true
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
        
+ <div class="tabs_in">
 	     <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
     <div class="talentcalc-wrapper" style="" data-selected="no">
 	  <div class="talentcalc-main" data-selected="no" data-class="demonhunter">
@@ -416,10 +417,12 @@ toc: true
 </div>
 </div>
 </div>   
+</div>
 	   
       </div>
       <div class="tabs__pane" id="content-2">
-   
+
+ <div class="tabs_in">
    <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
     <div class="talentcalc-wrapper" style="" data-selected="no">
 	  <div class="talentcalc-main" data-selected="no" data-class="demonhunter">
@@ -792,12 +795,13 @@ toc: true
 </table>    
 </div>
 </div>
+</div>
 </div> 
    
       </div>
       <div class="tabs__pane" id="content-3">
-        <p align="center" width="100%">
 
+ <div class="tabs_in">
 Билд который лучше всего симился во время тестирования, я бы отнес его больше к эксперементальным чем практичным, жизнеспособность билда будет видна после старта дополнения
 
    <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
@@ -1173,8 +1177,7 @@ toc: true
 </div>
 </div>
 </div> 
-
-</p>
+</div>
       </div>
     </div>
   </div>
@@ -1325,8 +1328,8 @@ toc: true
 </ul>
 
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/overview.html">Назад:<br>Новичкам</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Длаее:<br>Ротация</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/beginners.html">Назад:<br>Новичкам</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/rotation-priority.html">Длаее:<br>Ротация</a></div>
 
 
 

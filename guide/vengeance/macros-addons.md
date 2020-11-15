@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WeakAuras
+title: Макросы и Аддоны
 last_update: 2020-01-11 09:00:00
 game_version: 9.0.0 Shadowlands
 author: Rodriguezz
@@ -18,65 +18,136 @@ toc: true
 <a href="{{ site.url }}/guide/vengeance/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/vengeance/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ковенанты</a>
 <a href="{{ site.url }}/guide/vengeance/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
-<a href="{{ site.url }}/guide/vengeance/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
-<a href="{{ site.url }}/guide/vengeance/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"><span style="color: white;"> WeakAuras</span></a>
+<a href="{{ site.url }}/guide/vengeance/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"><span style="color: white;"> Макросы и Аддоны</span></a>
+<a href="{{ site.url }}/guide/vengeance/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
 <a href="{{ site.url }}/guide/vengeance/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
-## Что такое WeakAuras?
+## Макросы
 
-<a href="{{ site.url }}/guide/general/weak_auras.html"> WeakAuras2</a>  это дополнение к WoW, которое позволяет максимально 
-настраивать практически любую информацию, которую вы хотели бы получить в своем пользовательском интерфейсе. Что может сделать WeakAuras? WeakAuras может показать 
-вам любую информацию, доступную вам по вашему выбору. Это может быть что угодно, от того сколько стаков какого либо из бафов на вас, сколько времени 
-осталось до восстановления на вашего заклинания прерывания, до оповещения когда у вас мало маны. WeakAuras предназначен для изменения способа отображения информации,
- чтобы ее было легче увидеть. Вы можете сделать в ней так много, что вам будет проще сказать, чего не может сделать WeakAuras. WeakAuras не может сделать что-то за вас.
- Вы можете заставить ее сказать что-то шепотом или криком, но WeakAuras нельзя использовать для создания макросов или автоматизации любого игрового
- процесса (что в любом случае противоречит правилам игры). 
- 
-## Полезные WeakAuras
-**Afenar WA's - Demon Hunter:** <a href="https://wago.io/4kTH1dUFb" target="blank">https://wago.io/4kTH1dUFb</a><br>
->Это сборник отслеживает все кулдауны и баффы, и динамически обновляется с учетом ваших текущих талантов.
-<p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/vengeance/WA_afenar_Veng.gif">
-</p>
+Макрос — это маленькая программа, написанная на скриптовом языке, предназначенная для решения следующих (к примеру) задач:
+> Каждый класс в WoW имеет гораздо больше заклинаний, чем может помещаться на панелях команд. Макросы позволяют объединять несколько умений в одну «кнопку» на панели команд, а сами умению будут использоваться с дополнительными модификаторами (клавишами Shift, Alt, Ctrl). Используя макросы, вы можете повесить до 24 заклинаний всего на 6 кнопок.<br>
+> Макросы позволяют объединять несколько умений, активируя их нажатием одной кнопки, что может экономить время. Но данная возможность работает, только если не более чем одно из заклинаний имеет время каста или является мгновенным, но имеет гкд (GCD – общее время восстановления).<br>
+> Также макросы могут выполнять множество других задач, например, рассчитывать эвойденс, если вы танк, или сообщать вам, когда в зоне вашей видимости появился затерянный во времени протодракон, пока вы летите по Грозовой Гряде. (Это достаточно сложные макросы и выходят за рамки нашей темы, но для любопытных они включены для примера в конце)
 
-**Effective Health - Magic and Physical:** <a href="https://wago.io/B1pg1fRub" target="blank">https://wago.io/B1pg1fRub</a><br>
->WeakAuras показывающая ваше текущее эффективное здоровье против магического и физического урона. 
-Она обновляется динамически в зависимости от вашей текущей характеристик и баффов. 
-<p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/vengeance/WA_Effective_Heal_MP.webp">
-</p>
+ <li> Чтобы открыть интерфейс макроса в игре, введите «/ macro» или «/ m».</li>
+ <li> Выберите между вкладками «Общие» и «Макросы для конкретного персонажа». Затем нажмите кнопку «Создать» в окне макроса.</li>
+ <li> Выберите имя и значок, чтобы вы могли легко узнать свой макрос, затем нажмите «ОК».</li>
+ <li> Выберите новый макрос и используйте текстовый редактор ниже, чтобы написать команду для макроса. Также вы можете скопировать готовый макрос и просто его вставить..</li>
+ <li> Нажмите кнопку «Сохранить» и перетащите значок макроса на панели заклинайний чтоб использовать его, как любое другое заклинание из вашей книги заклинаний.</li>
+ <li> Чтобы закрыть окно, нажмите «Выход» или просто нажмите Escape.</li> 
+<br>
+ Для получения дополнительной информации о создании макросов, включая полные списки условных операторов, модификаторов и других настроек команд, которые вы можете использовать, ознакомьтесь с нашим полным руководством по <a href="{{ site.url }}/guide/general/macros_guide.html"> Макросам</a>.
 
-**Trash Mob Spell Timers:** <a href="https://wago.io/T_8vzVdmg" target="blank">https://wago.io/T_8vzVdmg</a><br>
->Эта WeakAuras отслеживает таймеры заклинаний для мобов в мифических ключах, которые обычно не отслеживаются такими аддонами как 
-LittleWigs b DBB.
-<p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/vengeance/WA_trash_timers.webp">
-</p>
+## Макрос на отмену заклинания
 
-**ZenTracker:** <a href="https://wago.io/r14U746B7" target="blank">https://wago.io/r14U746B7</a><br>
->Эта WeakAuras отслеживает важные кулдауны всей вашей группы. Для точного отображение желательно чтоб была установленна у всей группы.
-<p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/vengeance/WA_zentraker.webp">
-</p>
+<pre>
+<code class="language-less">
+#showtooltip
+/stopmacro [channeling:Опустошение Скверной]
+/cast [SPELLNAME]
+</code>
+</pre>
 
-## Создание собственных 
+## Макросы для использования заклинаний с областью действия
 
-Если вам нужна только одна WeakAura, а не сборник, или если вы просто не можете найти ту, которая соответствует вашим потребностям,
- вы всегда можете создать свою собственную.
- Для более сложных WeakAuras вы можете взглянуть на наше подробное руководство по <a href="{{ site.url }}/guide/general/weak_auras.html"> WeakAuras</a>  или посетить <a href="WeakAurashttps://discord.gg/wa2">Discord канал WeakAuras</a>, 
- но вы можете получить базовые знания по WeakAuras прямо здесь.
- <br>
-Для того чтоб быстро создать WeakAura посетите страницу на WowHead с нужной вам способностью, талантом или PvP-таланты и нажмите красную кнопку **Экспорт WeakAuras**, 
- чтобы открыть экспорта. Далее просто нажмите «Копировать», чтобы использовать ауру по умолчанию, или **Настроить**, чтобы легко изменить ее настройки!
- 
- <p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WA_crate_havoc.jpg">
-</p>
+Базовый макрос для применения заклинания в место, где находися курсор.
 
- <p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WeakAuras_preferens.png">
-</p>
+<pre>
+<code class="language-less">
+#showtooltip 
+/cast [@cursor] [SPELLNAME]
+</code>
+</pre>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/macros-addons.html">Назад:<br>Макросы и Аддоны</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/vengeance/common-terms.html">Длаее:<br>Сокращени</a></div>
+Базовый макрос для применения заклинания в место, где находится персонаж.
+
+<pre>
+<code class="language-less">
+#showtooltip 
+/cast [@Player] [SPELLNAME]
+</code>
+</pre>
+
+Универсальный макрос на примере {{ site.data.spell.Sigil_Of_Flame }}
+
+<pre>
+<code class="language-less">
+#showtooltip 
+/use [nomod,@cursor][mod:shift,@Player]Печать огня; Печать огня
+</code>
+</pre>
+
+Если просто использовать данный макрос, то Печать огня будет применена в место, где находится курсор. Если использовать данный макрос
+в комбинации с нажатой кнопкой Shift, то Печать огня будет применена под ногами персонажа.
+
+## Применение заклинаний по Mouseover 
+
+<pre>
+<code class="language-less">
+#showtooltip
+/cast [mod:alt,@mouseover,harm,nodead][] [SPELLNAME]
+</code>
+</pre>
+
+## Полезные макросы 
+
+Применяет способность по вашему **ФОКУС (FOCUS)**, если он у вас есть, иначе в вашу текущую цель:
+Полезно для таких способностей, как {{ site.data.spell.Disrupt }}, {{ site.data.spell.Consume_Magic }} и {{ site.data.spell.Imprison }}.
+
+<pre>
+<code class="language-less">
+#showtooltip
+/cast [@focus,harm,nodead][SPELLNAME]
+</code>
+</pre>
+
+## Аддоны
+
+Аддоны - это мощные инструменты, которые можно использовать как для настройки игрового процесса, начиная от графических изменений, изменяющих панелей действий и рамок юнитов / рейдов, так и до улучшений производительности, таких как напоминания о заклинаниях для помощи в выполнении ротации, отслеживание баффов / дебаффов, всплывающих подсказок о скором применении боссом способности. Вот некоторые из настоятельно рекомендуемых и часто используемых дополнений Охотник на Демонов Истребления, которые безусловно, не требуются для игры, но могут помочь увеличить объем информации, доступной вам в бою или просто для более приятного ее отображения.
+
+<a href="https://www.deadlybossmods.com/" target="_blank"> DeadlyBossMods</a> / <a href="https://www.curseforge.com/wow/addons/big-wigs" target="_blank"> BigWigs</a> - Эти дополнения покажут вам таймеры предстоящих способностей босса и предупредят вас, если вы стоите в огне. Я лично рекомендую использовать BigWigs, а также аддон для подземелий LittleWigs.
+
+<a href="https://www.curseforge.com/wow/addons/weakauras-2" target="_blank"> WeakAuras 2</a> - это универсальный аддон, который позволяет отслеживать баффы, дебаффы и многое другое. Вы  можете сделать например панель ярости. Я очень рекомендую это аддон. Вы также можете легко импортировать ауры от других игроков.
+>Вы всегда можете зайти на два крупнейших онлайн-репозитория - это <a href="https://wago.io/weakauras" target="_blank">wago.io</a> и <a href="https://www.weakauras.online/en" target="_blank">WeakAurasOnline</a>. На них люди выкладывают свои Ауры и вы всегда сможете отыскать то что вам по душе.
+**Счетчик урона:** <a href="https://www.wowace.com/projects/skada" target="_blank">Skada</a> или <a href="https://www.wowhead.com/details-damage-meter-addon-guide" target="_blank">Details</a> - идеальные дополнения, которые позволят вам проверить урон, который наносите вы и ваш участник группы или рейда. Эти дополнения также полезны для отслеживания прерываний, диспелов или смертей.
+
+Вы можете с помощью аддонов полностью сменить пользовательский интерфейс. Чаще всего используют <a href="https://www.tukui.org/download.php?ui=elvui" target="_blank">ElvUI</a>. ElvUI полностью заменяет стандартный пользовательский интерфейс Blizzard, который очень легко настроить и который используют многие высококлассные рейдеры. Вы также можете найти готовые профили для ElvUI других игроков на <a href="https://wago.io/elvui" target="_blank">wago.io</a>.
+
+>Вы можете скачать приложение Curse Client / Twitch, чтобы всегда поддерживать ваши дополнения в актуальном состоянии.
+
+### Рекомендуется
+
+<li> <a href="https://www.tukui.org/download.php?ui=elvui" target="_blank">ElvUI</a> - Очень популярный аддон для полной настройки пользовательского интерфейса.</li>
+<li> <a href="https://www.curseforge.com/WoW/addons/bartender4" target="_blank">Bartender4</a> - Настраиваемые панели действий, которые можно перемещать и организовывать, так как вам нравится.</li>
+<li> <a href="https://www.wowace.com/projects/chatter" target="_blank">Chatter</a> - Изменение стандартного окна чата с настраиваемыми темами, шрифтами и функциями.</li>
+<li> <a href="https://wow.curseforge.com/projects/dejacharacterstats" target="_blank">Deja Character Stats</a> -Добавляет дополнительную статистику на панель персонажа с настраиваемыми фильтрами.</li>
+<li> <a href="https://www.wowace.com/projects/elkbuffbars" target="_blank">Elkano's Buff Bars</a> - Заменяет стандартные значки баффов / дебаффов упорядоченными списками, включая имена и длительность в виде гистограммы.</li>
+<li> <a href="https://www.curseforge.com/wow/addons/mapster" target="_blank">Mapster</a> - Улучшение карты мира с добавлением координат, значков и т. Д.</li>
+<li> <a href="https://wow.curseforge.com/projects/move-anything" target="_blank">Move Anything</a> - Позволяет перемещать любую часть стандартного пользовательского интерфейса Blizzard.</li>
+<li> <a href="https://wow.curseforge.com/projects/opie" target="_blank">OPie</a> - Специальная панель действий в стиле радиального меню, очень полезная для использования не часто используемых заклинаний или расходуемых предметов которые не всегда есть место ваших основных панелях.
+</li>
+<li> <a href="https://www.curseforge.com/wow/addons/sexymap" target="_blank">Sexy Map</a> - Делает вашу миникарту сексуальной!
+</li>
+<li> <a href="https://www.wowace.com/projects/shadowed-unit-frames" target="_blank"> Shadowed Unit Frames</a> - Настраиваемые рамки игрока, цели и рейда.
+</li>
+<li> <a href="https://wow.curseforge.com/projects/tidy-plates-threat-plates" target="_blank">ThreatPlates</a> - Настраивайте стили именных табличек и добавляйте различную информацию, включая баффы, дебаффы и индикаторы кастинга.
+</li>
+<li> <a href="https://www.curseforge.com/wow/addons/world-quests-list" target="_blank">World Quest List </a> - Показывает  список активных локальных заданий, отфильтрованных по зонам, на вашей карте.</li>
+
+### Информация в бою
+
+<li> <a href="https://www.wowhead.com/bigwigs-boss-mods-addon-guide" target="_blank">BigWigs Bossmods</a> - Легкий аддон для рейдов с открытым исходным кодом.</li> 
+<li> <a href="https://www.wowhead.com/deadly-boss-mods-addon-guide" target="_blank">Deadly Boss Mods</a> - Более надежный аддон подземелий, рейдов, PvP и многого другого.</li> 
+<li> <a href="https://www.wowhead.com/guide=6112/details-damage-meter-addon-guide" target="_blank">Details</a> - Настраиваемый счетчик урона и исцеления</li> 
+<li> <a href="https://wow.curseforge.com/projects/exorsus-raid-tools" target="_blank">Exorsus Raid Tools</a> - Модульный аддон, содержащий инструменты координации рейдов для руководителей и офицеров рейдов.</li> 
+<li> <a href="https://www.curseforge.com/wow/addons/omen-threat-meter" target="_blank">Omen</a> - Счетчик угроз.</li> 
+<li> <a href="https://wow.curseforge.com/projects/pawn" target="_blank">Pawn</a> - показывает различия между вещами, которые надеты на вашего персонажа и теми, на которые вы навели мышкой.</li>
+<li> <a href="https://www.wowhead.com/how-to-use-simulationcraft-and-pawn" target="_blank">SimulationCraft</a> - Упрощает симуляцию вашего персонажа, создавая внутриигровой скрипт для вставки в SimCraft или Raidbots.</li>
+<li> <a href="https://www.wowhead.com/guide=5929/wa-guide-nnf" target="_blank">WeakAuras2 </a> - Очень мощный аддон, который может отображать огромное количество разнообразной информации, индикаторы использования заклинаний, предупреждения об опасных способностях рейдовых боссов и многое другое.</li>
+
+>Конечно, эти рекомендации - не единственные полезные аддоны, есть сотни разнообразных аддонов. Если вы ищете что-то другое, можете воспользоваться <a href="https://wow.curseforge.com/addons" target="_blank">Curseforge</a> или <a href="https://wow.curseforge.com/addons" target="_blank">WoWInterface</a>, чтобы найти подходящий для вас аддон.
+
+
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/macros-addons.html">Назад:<br>Макросы и Аддоны</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/vengeance/common-terms.html">Длаее:<br>Сокращения</a></div>

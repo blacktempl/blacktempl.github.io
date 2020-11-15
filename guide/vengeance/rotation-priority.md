@@ -82,19 +82,30 @@ toc: true
 
 ## Ротация
 
-### Опенер
+**Как правильно начать бой**
 
-
-1. До пула {{ site.data.spell.Sigil_of_Flame }}
-2. Пул {{ site.data.spell.Torment }} и {{ site.data.spell.Throw_Glaive }} после {{ site.data.spell.Infernal_Strike }}
-3. {{ site.data.spell.Fel_Devastation }} если хватает гнева
-4. {{ site.data.spell.Soul_Cleave }} если хватает гнева
-5. {{ site.data.spell.Immolation_Aura }}
-6. {{ site.data.talent.Fracture }} / {{ site.data.spell.Shear }} 
+1. Прекаст {{ site.data.covenant.Elysian_Decree }}
+1. {{ site.data.spell.Torment }} вместе с {{ site.data.spell.Throw_GlaiveVDH }}
+1. {{ site.data.spell.Infernal_Strike }} вместе с {{ site.data.spell.Sigil_of_Flame }}
+1. {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Fel_Devastation }} - если у вас есть Гнев
+1. {{ site.data.spell.Soul_Cleave }}
+1. {{ site.data.talent.Fracture }} - если взят талант или {{ site.data.spell.Shear }}
 7. Продолжайте основную ротацию
 
 
 ### Основная ротация
+
+1. {{ site.data.spell.Infernal_Strike }}  если у вас 2 заряда
+1. {{ site.data.spell.Fiery_Brand }} - по готовности
+1. {{ site.data.talent.Spirit_Bomb }} - если у вас сейчас доступно 4-5 душ
+1. {{ site.data.spell.Fel_Devastation }} - если у вас есть 50 Ярости
+1. {{ site.data.spell.Soul_Cleave }} - чтобы избежать оверкапа Гнева
+1. {{ site.data.covenant.Elysian_Decree }} - по готовности
+1. {{ site.data.spell.Immolation_Aura }} - если у вас нет капа душ и/или Гнева
+1. {{ site.data.talent.Fracture }} - если у вас нет капа душ и/или Гнева
+1. {{ site.data.spell.Sigil_of_Flame }} - по готовности
+1. {{ site.data.spell.Throw_GlaiveVDH }} - когда все способности восстанавливаются
 
 ### Взрывная душа и Разлом
 
@@ -105,33 +116,32 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
-	  <br>
-&nbsp;&nbsp; 1. {{ site.data.spell.Infernal_Strike }} если у вас 2 заряда<br>
-&nbsp;&nbsp; 2. {{ site.data.spell.Fiery_Brand }} по кулдауну<br>
-&nbsp;&nbsp; 3. {{ site.data.talent.Spirit_Bomb }} если доступно 4+ душ<br>
-&nbsp;&nbsp; 4. {{ site.data.spell.Fel_Devastation }} если у вас 50+ гнева<br>
-&nbsp;&nbsp; 5. {{ site.data.talent.Fracture }} если у вас меньше 3 душ<br>
-&nbsp;&nbsp; 6. {{ site.data.spell.Immolation_Aura }} если нет капа душ<br>
-&nbsp;&nbsp; 7. {{ site.data.spell.Soul_Cleave }} чтоб потратить лишний гнев<br>
-&nbsp;&nbsp; 8. {{ site.data.spell.Sigil_of_Flame }} по кулдауну<br>
-&nbsp;&nbsp; 9. {{ site.data.spell.Throw_Glaive }} если вы кайтите или нужно заполнить простои в ротации<br>
- 
+ <div class="tabs_in">
+ 1. {{ site.data.spell.Infernal_Strike }} если у вас 2 заряда<br>
+ 2. {{ site.data.spell.Fiery_Brand }} по кулдауну<br>
+ 3. {{ site.data.talent.Spirit_Bomb }} если доступно 4+ душ<br>
+ 4. {{ site.data.spell.Fel_Devastation }} если у вас 50+ гнева<br>
+ 5. {{ site.data.talent.Fracture }} если у вас меньше 3 душ<br>
+ 6. {{ site.data.spell.Immolation_Aura }} если нет капа душ<br>
+ 7. {{ site.data.spell.Soul_Cleave }} чтоб потратить лишний гнев<br>
+ 8. {{ site.data.spell.Sigil_of_Flame }} по кулдауну<br>
+ 9. {{ site.data.spell.Throw_Glaive }} если вы кайтите или нужно заполнить простои в ротации<br>
+ </div>
       </div>
       
 	  <div class="tabs__pane" id="content-2">
-    <br>
-&nbsp;&nbsp; 1. {{ site.data.spell.Infernal_Strike }} если у вас 2 заряда<br>
-&nbsp;&nbsp; 2. {{ site.data.spell.Fiery_Brand }} в самого опросного противника в начале боя<br>
-&nbsp;&nbsp; 3. {{ site.data.talent.Spirit_Bomb }} если доступно 4+ душ<br>
-&nbsp;&nbsp; 4. {{ site.data.spell.Fel_Devastation }} если у вас 50+ гнева<br>
-&nbsp;&nbsp; 5. {{ site.data.talent.Fracture }} если у вас меньше 3 душ<br>
-&nbsp;&nbsp; 6. {{ site.data.spell.Immolation_Aura }} если нет капа душ<br>
-&nbsp;&nbsp; 7. {{ site.data.spell.Soul_Cleave }} чтоб потратить лишний гнев<br>
-&nbsp;&nbsp; 8. {{ site.data.spell.Sigil_of_Flame }} по кулдауну<br>
-&nbsp;&nbsp; 9. {{ site.data.spell.Throw_Glaive }} если вы кайтите или нужно заполнить простои в ротации<br>
-      </div>
+ <div class="tabs_in">
+ 1. {{ site.data.spell.Infernal_Strike }} если у вас 2 заряда<br>
+ 2. {{ site.data.spell.Fiery_Brand }} в самого опросного противника в начале боя<br>
+ 3. {{ site.data.talent.Spirit_Bomb }} если доступно 4+ душ<br>
+ 4. {{ site.data.spell.Fel_Devastation }} если у вас 50+ гнева<br>
+ 5. {{ site.data.talent.Fracture }} если у вас меньше 3 душ<br>
+ 6. {{ site.data.spell.Immolation_Aura }} если нет капа душ<br>
+ 7. {{ site.data.spell.Soul_Cleave }} чтоб потратить лишний гнев<br>
+ 8. {{ site.data.spell.Sigil_of_Flame }} по кулдауну<br>
+ 9. {{ site.data.spell.Throw_Glaive }} если вы кайтите или нужно заполнить простои в ротации<br>
+      </div></div>
 	  
-      
     </div>
   </div>
 

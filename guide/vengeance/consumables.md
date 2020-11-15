@@ -48,3 +48,5 @@ toc: true
 <ul>
 <li>Еда: {{ site.data.prof.Steak_a_la_Mode }}</li>
 </ul>
+
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/covenant.html">Назад:<br>Ковенанты</a></div> <div class="minibox"><a href="{{ site.url }}/guide/vengeance/macros-addons.html">Длаее:<br>Макросы и Аддоны</a></div>

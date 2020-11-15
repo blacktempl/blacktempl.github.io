@@ -34,6 +34,7 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
+ <div class="tabs_in">
          <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
     <div class="talentcalc-wrapper" style="" data-selected="no">
 	  <div class="talentcalc-main" data-selected="no" data-class="demonhunter">
@@ -403,12 +404,14 @@ toc: true
 </td>
 </tr>
 </tbody>
-</table>    
+</table> 
+</div>   
 </div>
 </div>
 </div>      
       </div>
       <div class="tabs__pane" id="content-2">
+ <div class="tabs_in">
          <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
     <div class="talentcalc-wrapper" style="" data-selected="no">
 	  <div class="talentcalc-main" data-selected="no" data-class="demonhunter">
@@ -778,7 +781,8 @@ toc: true
 </td>
 </tr>
 </tbody>
-</table>    
+</table> 
+</div>   
 </div>
 </div>
 </div>   
@@ -1028,6 +1032,7 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
+<div class="tabs_in">
 <table>
     <tr>
         <td>Тип</td>
@@ -1132,7 +1137,7 @@ toc: true
         <td>{{ site.data.mplus.Castle_Nathria }}</td>
     </tr>
 </table>
-    </div>    </div>    </div>   
+    </div>    </div>    </div> </div>  
 
 <br>
 
@@ -1144,6 +1149,7 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
+ <div class="tabs_in">
 <table>
     <tr>
         <td>Тип</td>
@@ -1248,7 +1254,7 @@ toc: true
         <td>{{ site.data.mplus.Castle_Nathria }}</td>
     </tr>
 </table>
-    </div>    </div>    </div>  
+    </div>    </div>    </div>  </div>
  
   <script>
     var $tabs = function (target) {

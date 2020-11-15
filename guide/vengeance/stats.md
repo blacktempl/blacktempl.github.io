@@ -48,33 +48,37 @@ toc: true
 
 <div class="tabs">
     <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-1">Рейд</a>
-      <a class="tabs__link" href="#content-2">М+</a>
+      <a class="tabs__link tabs__link_active" href="#content-1">Рейд СТ</a>
+      <a class="tabs__link" href="#content-2">АоЕ М+</a>
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
-	  <br>
-<ol>
-<li>Скорость</li>
-<li>Универсальность</li>
-<li>Искусность</li>
-<li>Критический удар</li>
-</ol>
-<li>Скорость >= Универсальность > Искусность > Критический удар</li>
+
+ <div class="tabs_in">
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> Ловкость = 
+<img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> Скорость > 
+<img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> Универсальность > 
+<img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> Искусность > 
+<img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30"> Критический удар 
+
+    </div>
+
       </div>
       <div class="tabs__pane" id="content-2">
-	  <br>
-<ol>
-<li>Скорость</li>
-<li>Универсальность</li>
-<li>Критический удар</li>
-<li>Искусность</li>
-</ol>
-<li>Скорость > Универсальность > Критический удар > Искусность</li>
-      </div>
-      
+	  
+ <div class="tabs_in">
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> Ловкость > 
+<img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> Скорость > 
+<img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> Универсальность > 
+<img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30"> Критический удар > 
+<img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> Искусность
     </div>
+      
+	  </div>
   </div>
+  </div>
+  
+#### Для каждого персонажа приоритет характеристик индивидуальный, всегда используйте <a href="https://www.raidbots.com/simbot">RaidBots</a> чтоб использовать актуальную для вас экиперовку.
 
   <script>
     var $tabs = function (target) {
