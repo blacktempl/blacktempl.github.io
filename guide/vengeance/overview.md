@@ -92,11 +92,11 @@ toc: true
 <li> Наше самоисцеление было значительно ослаблено по сравнению с BfA. В результате чего пострадала живучесть.</li>
 <li> Измененный порядок в дереве талантов, теперь в зависимости от контента будет несколько вариантов жизнеспособных талантов.</li>
 
-## Изменения Охотниками на Демонов Истребление в Shadowlands
+## Изменения Охотниками на Демонов Месть в Shadowlands
 
 <li> Гнев стал общим ресурсом для класса.</li>
 <li> Демонические обереги повышающие выносливость и броню, были перемещены в новый пассивный эффект: {{ site.data.spell.Thick_Skin }}, который увеличивает выносливость на 65% и броню на 100%.</li>
-<li> {{ site.data.spell.Thick_Skin }} дополнительно исцеляет вас за каждый поглощенный фрагмент души. {{ site.data.spell.Soul_Fragment }}</li>
+<li> {{ site.data.spell.Thick_Skin }} дополнительно исцеляет вас за каждый поглощенный {{ site.data.spell.Soul_Fragment }}. </li>
 <li> {{ site.data.spell.Soul_Cleave }} теперь наносит урон максимум 5 целям</li>
 <li> Новый талант {{ site.data.talent.Infernal_Armor }} (Заменяет {{ site.data.talent.Flame_Crash }}) - {{ site.data.spell.Immolation_Aura }} увеличивает вашу броню на 20% и наносит урон от огня.</li>
 <li> Новый талант {{ site.data.talent.Bulk_Extraction }} (Заменяет {{ site.data.talent.Soul_Barrier }}) - Разрушает души находящихся рядом противников, нанося урона от огня и накапливая до 5 малых фрагментов души, которые вы можете использовать мгновенно.</li>
@@ -115,7 +115,6 @@ toc: true
 <a href="https://www.wowhead.com/unlocking-artifact-appearances-guide" class="cta-button" data-border="strong" target="_blank">Получение обликов артефактов</a>
 </div>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/quick_faq.html">Назад:<br>Кратко и Быстро</a></div>
 <div class="minibox"><a href="{{ site.url }}/guide/vengeance/beginners.html">Далее:<br>Новичкам</a></div>
 
 

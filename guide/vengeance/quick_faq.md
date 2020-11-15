@@ -931,7 +931,7 @@ toc: true
 
 ### Рейд
 
-<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> **Скорость =** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> **Искусность >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30">  **Критический удар** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> **Искусность**
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> **Скорость =** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> **Искусность >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> **Искусность**
 
 ### Мифик+
 <img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> **Скорость >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> **Искусность** 
