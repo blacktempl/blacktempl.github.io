@@ -72,6 +72,7 @@ toc: true
 <hr>
 			  <p markdown="1"><span class="blue">Бонусы ковенантов в Кровавых Катакомбах</span>
 				<br>
+				<img src="{{ site.url }}/assets/img/blog/mplusguide/c8cf77d2ae0ba5cf15ce.jpg" align="right">
 				Бонусы в этом подземелье для всей группы помогут получить сторонники **Вентиров**. Тут вы можете найти Клетки с анимой, всего их четыре на весь данж. Активировав её, на всех противников в радиусе 40 метров будет наложен эффект {{ site.data.mplus.Anima_Drain }}. Через 20 секунд клетка отключается и на всю группу накладывается эффект {{ site.data.mplus.Sinfall_Boon }}, сила которого зависит от того, сколько противников было убито во время действия клетки и под действием её дебафа. 
 				</p>
             </div>
@@ -93,14 +94,27 @@ toc: true
                 <p markdown="1"><span class="blue">
 				<img src="{{ site.url }}/assets/img/guide/dungeons/The_Necrotic_Wake/Blightbone.png" align="left">Чумокост</span> - Грузная туша Чумокоста была любовно сшита хирургом Трупошвом из кусков гнилого мяса специально для того, чтобы тот возглавил нападение на храм Отваги.
 				<br><br>
-				
+Он ходит по площадке недалеко от начала инста, сначала зачищаем небольшое пространство от треша, затем пулим босса.
+<br><br>
+Периодически Чумокост поворачивается к случайному игроку и произносит перед собой {{ site.data.mplus.Heaving_Retch }} конусное заклинание, наносящее урон и вещающее доту — отбегаем из конуса поражения. Также босс будет иногда сильно бить танка {{ site.data.mplus.Crunch }} — прожимаемся и отлечиваем. Кроме того, Чумокост будет читать заклинание {{ site.data.mplus.Fetid_Gas }} — в небольшом радиусе вокруг него будет появляется область, наносящая урон — отбегаем.
+<br><br>
+Вторая особенность — адды, Черви Трупоеды. После появления они будут преследовать случайных игроков и кусать их {{ site.data.mplus.Blood_Gorge }}. При этом, каждый укус будет увеличивать размер червя и наносимый им урон на 100%. После трёх укусов червь взрывется {{ site.data.mplus.Carrion_Eruption }}, вешая неприятную доту на всех ближайших игроков.
 				</p>
+<hr>
                 <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/The_Necrotic_Wake/Amarth.png">Амарт Жнец</span> - </p>
+				<img src="{{ site.url }}/assets/img/guide/dungeons/The_Necrotic_Wake/Amarth.png">Амарт Жнец</span> - Амарт — жестокий и могущественный предводитель некромантов Золрамуса. Поднимаясь в небо на чудовищном Костеклыке, он следит за тем, как его ученики и подмастерья собирают тела для экспериментов.
+				<br><br>
+Бой состоит из одного цикла: сначала босс призывает несколько аддов {{ site.data.mplus.Land_of_the_Dead }}, каждый из которых имеет свою уникальную способность. Через некоторое время Амарт читает заклинание {{ site.data.mplus.Final_Harvest }}: все адды, которые ещё живы, взорвутся и нанесут всем игрокам урон, а трупы мёртвых аддов взорвутся, нанеся урон только ближайшим игрокам. Таким образом, до Жатвы необходимо убить всех аддов и отойти от трупов.
+<br><br>
+Периодически босс будет впадать в ярость {{ site.data.mplus.Unholy_Frenzy }}, танку необходимо прожиматься, хилам быть готовыми. Также в танка будет прилетать {{ site.data.mplus.Necrotic_Bolt }} — отлечиваем. Кроме того, Амарт будет кидать по земле шипы — отбегаем.
+				</p>
+				<hr>
                 <p markdown="1"><span class="blue">
 				<img src="{{ site.url }}/assets/img/guide/dungeons/The_Necrotic_Wake/Stitchflesh.png">Хирург Трупошов</span> - </p>
+				<hr>
 				<p markdown="1"><span class="blue">
 				<img src="{{ site.url }}/assets/img/guide/dungeons/The_Necrotic_Wake/Nalthor.png">Налтор Криомант</span> - </p>
+				<hr>
                  <p markdown="1"><span class="blue">Треш</span> Заметки:</p>
                 <ul>
                     <li>Заметки по трешу</li>
@@ -109,7 +123,7 @@ toc: true
             </div>
         </div>
     </div>
-	
+
     <div class="card">
         <div class="card-header" id="The_Other_Side">
             <div data-toggle="collapse" data-target="#The_Other_Side-collapse" aria-expanded="true" aria-controls="The_Other_Side-collapse" class="dungeon-header The_Other_Side"><h2>Та Сторона</h2></div>
