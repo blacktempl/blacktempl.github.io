@@ -49,23 +49,40 @@ Hakkar : <a href="https://ru.wowhead.com/npc=166473" target="blank">Хаккар
 
  
 Castellan_Niklaus : <a href="https://ru.wowhead.com/npc=166971" target="blank">Кастелян Никлаус</a>
-General_Kaal : <a href="https://ru.wowhead.com/npc=165318" target="blank">Генерал Кааль</a>
-Sire_Denathrius : <a href="https://ru.wowhead.com/npc=168938" target="blank">Сир Денатрий</a>
-Lady_Inerva_Darkvein : <a href="https://ru.wowhead.com/npc=167517" target="blank">Леди Инерва Дарквейн</a>
-Artificer_Xymox : <a href="https://ru.wowhead.com/npc=166644" target="blank">Изобретатель Зи'мокс</a>
-Shriekwing : <a href="https://ru.wowhead.com/npc=172145" target="blank">Визгунья</a>
-Kaelthas_Sunstrider : <a href="https://ru.wowhead.com/npc=24664" target="blank">Кель'тас Солнечный Скиталец</a>
-Huntsman_Altimor : <a href="https://ru.wowhead.com/npc=165066" target="blank">Ловчий Альтимор</a>
-Hungering_Destroyer : <a href="https://ru.wowhead.com/npc=164261" target="blank">Алчущий разрушитель</a>
-Sludgefist : <a href="https://ru.wowhead.com/npc=174733" target="blank">Алчущий разрушитель</a>
+General_Kaal: <a href="https://ru.wowhead.com/npc=165318" target="blank">Генерал Кааль</a>
+Sire_Denathrius: <a href="https://ru.wowhead.com/npc=168938" target="blank">Сир Денатрий</a>
+Lady_Inerva_Darkvein: <a href="https://ru.wowhead.com/npc=167517" target="blank">Леди Инерва Дарквейн</a>
+Artificer_Xymox: <a href="https://ru.wowhead.com/npc=166644" target="blank">Изобретатель Зи'мокс</a>
+Shriekwing: <a href="https://ru.wowhead.com/npc=172145" target="blank">Визгунья</a>
+Kaelthas_Sunstrider: <a href="https://ru.wowhead.com/npc=24664" target="blank">Кель'тас Солнечный Скиталец</a>
+Huntsman_Altimor: <a href="https://ru.wowhead.com/npc=165066" target="blank">Ловчий Альтимор</a>
+Hungering_Destroyer: <a href="https://ru.wowhead.com/npc=164261" target="blank">Алчущий разрушитель</a>
+Sludgefist: <a href="https://ru.wowhead.com/npc=174733" target="blank">Алчущий разрушитель</a>
 
 
 
 # Аффиксы
-Necrotic : <a href="https://ru.wowhead.com/affix=4" target="blank">Некротический</a>
+Necrotic: <a href="https://ru.wowhead.com/affix=4" target="blank">Некротический</a>
 
-
-
+#Cкилы
+#Кровавые Катакомбы
+Vicious_Headbutt: <a href="https://ru.wowhead.com/spell=319650" target="blank">Жестокий удар головой</a>
+Hungering_Drain: <a href="https://ru.wowhead.com/spell=319654" target="blank">Алчное вытягивание</a>
+Juggernaut_Rush: <a href="https://ru.wowhead.com/spell=319713" target="blank">Неудержимый рывок</a>
+Living_Essence: <a href="https://ru.wowhead.com/spell=319684" target="blank">Жизненная эссенция</a>
+Castigate: <a href="https://ru.wowhead.com/spell=322554" target="blank">Бичевание</a>
+Residue: <a href="https://ru.wowhead.com/spell=323551" target="blank">Осадок</a>
+Growing_Pride: <a href="https://ru.wowhead.com/spell=323548" target="blank">Растущая гордыня</a>
+Wicked_Gash: <a href="https://ru.wowhead.com/spell=322796" target="blank">Зловещий разрез</a>
+Piercing_Blur: <a href="https://ru.wowhead.com/spell=323810" target="blank">Пронзающая дымка</a>
+Gloom_Squall: <a href="https://ru.wowhead.com/spell=322895" target="blank">Порыв мрака</a>
+Shining_Radiance: <a href="https://ru.wowhead.com/spell=324086" target="blank">Яркое сияние</a>
+Anima_Drain: <a href="https://ru.wowhead.com/spell=341331" target="blank">Похищение анимы</a>
+Sinfall_Boon: <a href="https://ru.wowhead.com/spell=340433" target="blank">Благословение Грехопада</a>
+Iron_Spikes: <a href="https://ru.wowhead.com/spell=325254" target="blank">Железные шипы</a>
+Rite_of_Supremacy: <a href="https://ru.wowhead.com/spell=325360" target="blank">Ритуал превосходства</a>
+Endless_Torment: <a href="https://ru.wowhead.com/spell=326039" target="blank">Бесконечная пытка</a>
+Anguished_Cries: <a href="https://ru.wowhead.com/spell=325885" target="blank">Крики страдания</a>
 
 
 
