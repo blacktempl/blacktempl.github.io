@@ -24,7 +24,7 @@ toc: true
 ## Характеристики
 
 **Ловкость** - это ваша основная характеристика, она присутствует на всем снаряжении, кроме колец, и очень хорошо масштабируется с повышением уровня предмета. Ловкость увеличивает вашу силу атаки и урон наносимый способностями. Она также увеличивает вашу броню, пока активны {{ site.data.spell.Demon_Spikes }}.<br>
-**Выносливость**- эту характеристику можно найти на любом снаряжение, кроме аксессуаров, и она увеличивает ваше здоровье.
+**Выносливость**- эту характеристику можно найти на любом снарежении, кроме аксессуаров, и она увеличивает ваше здоровье.
 
 Второстепенные характеристики:
 
@@ -153,7 +153,7 @@ toc: true
   </script>
 
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/rotation-priority.html">Назад:<br>Ротация</a></div> <div class="minibox"><a href="{{ site.url }}/guide/vengeance/gear.html">Длаее:<br>Таланты и Бис лист</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/rotation-priority.html">Назад:<br>Ротация</a></div> <div class="minibox"><a href="{{ site.url }}/guide/vengeance/gear.html">Длаее:<br>Бис лист</a></div>
 
 
 

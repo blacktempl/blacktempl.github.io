@@ -42,16 +42,21 @@ toc: true
 
 ## Сильные стороны 
 
-Сильные и часто используемые кулдауны, хорошо продуманные способности исцеления и уменьшения урона. Отличные сольные возможности. Очень высокая мобильность.
+* Сильные и часто используемые кулдауны. 
+* Хорошо продуманные способности исцеления и уменьшения урона. 
+* Отличные сольные возможности. 
+* Очень высокая мобильность.
 
 ## Слабые стороны 
 
-Короткое время действия активных защитных способностей, нету универсальных способностей снижения урона, исцеление не работает на аое урон.
+* Короткое время действия активных защитных способностей
+* Нету универсальных способностей снижения урона
+* Исцеление не работает на аое урон.
 
 ## Чем выделяется специализация
 
 <li> <b>Отличительная черта:</b> Охотники на Демонов используют магию Легиона против своих врагов.</li>
-Охотников на Демонов специализации Месть - агрессивный танк с высокой мобильностью, который вырывает души из врагов, чтобы использовать их себе во благо.</li>
+<li> Охотников на Демонов специализации Месть - агрессивный танк с высокой мобильностью, который вырывает души из врагов, чтобы использовать их себе во благо.</li>
 <li> <b>Ресурс:</b> Охотники на демонов используют гнев как ресурс. {{ site.data.spell.Soul_Fragment }} - это вторичный ресурс, который представляет собой исцеляющие сферы, которые появляются возле Охотника на Демонов и используются различными способностями.</li>
 <li> <b>Защитные способности:</b> {{ site.data.spell.Demon_Spikes }} - увеличивают вашу броню, а также шанс избежать физических атак за счет усиления парирования.</li>
 <li> <b>Исцеление:</b> {{ site.data.spell.Soul_Cleave }} завершающий удар (Финишер), который исцеляет вас, а также поглощает 2 {{ site.data.spell.Soul_Fragment }}.</li>	
@@ -68,10 +73,10 @@ toc: true
             <ul>
                 <li> У Охотников на Демонов есть особый маунт {{ site.data.item.Felsaber }}</li>
                 <li class="asc-apl" style="display:none;"></li>
-                <li> У Охотников на Демонов есть два уникальных набора трансмогрификации для каждой фракции: <a href="https://www.wowhead.com/dressing-room#bmzb0zJ89c8X8rd8W8dS8Y8rt8Z8rQ8bn8MIi8bx8MIQ8bF8MAs8bl8MNU858fg8bU8MLa8qP8MfL818fz8bW8ML18bh8MuC8bb8Muf8eLQ808Dlv87cDlC87VDlD808DlB808DlH808DlE808DlF87a"> Иллидари Альнс</a>
-				,<a href="https://www.wowhead.com/dressing-room#bm0z0zJ89c8H8bA8F8q58J8bH8K8b18bK8MAt8bO8MAB8O8ds8S8dn8U8dE8bJ8MAy8bC8MA08bQ8MLs8qO8Mfb8bg8MNr8bv8MNl8HhM808Cuw87cCuh87VCud808CuG808Cuf808Cui808Cuu87a"> Прерыватель страданий Альянс</a>
-				,<a href="https://www.wowhead.com/dressing-room#bazb0zJ89c8Mm8xh8Mc8yX8MV8xH8Mo8tc8Ma8tZ8sX8z3e8Mq8gM8ac8z5W8Mk8ti8s18z4k8oe8tD8Ms8tP8fI8M3r8dN8MgE8aY8MR7ceLZ87ceLX87VeLU808eLY808eLW808eLS808eL187a"> Иллидари Орда</a>
-				,<a href="https://www.wowhead.com/dressing-room#bazb0zJ89c8Mm8xh8Mc8yX8MV8xH8Mo8tc8Ma8tZ8sX8z3e8Mq8gM8ac8z5W8Mk8ti8s18z4k8oe8tD8Ms8tP8fI8M3r8dN8MgE8aY8MR7ceLZ87ceLX87VeLU808eLY808eLW808eLS808eL187a"> Прерыватель страданий Орда</a>
+                <li> У Охотников на Демонов есть два уникальных набора трансмогрификации для каждой фракции: <a href="https://www.wowhead.com/dressing-room#mmzb0zH89Vz9c8gi3808CiB87cCiH87VCiJ808CiF808CiO808CiC808CiK87V" target="blank"> Иллидари Альянс</a>
+				,<a href="https://www.wowhead.com/dressing-room#mm0z0zH89s8D2p808BME87cBMB87VBMg808BMD808BMv808BMl808BMC87V" target="blank"> Прерыватель страданий Альянс</a>
+				,<a href="https://www.wowhead.com/dressing-room#mazb0zH89Vz9c87MghM87cgh7ogi5808ghz808gi6808gi4808ghc87V" target="blank"> Иллидари Орда</a>
+				,<a href="https://www.wowhead.com/dressing-room#ma0z0zH89s8FFX808Cix87cCit87VCig808Cie808Civ808CiE808Cil87V" target="blank"> Прерыватель страданий Орда</a>
 				</li>
                 <li class="se-apl" style="display: none;"></li>
 				<li> У Охотников на Демонов есть собственные эмоции, волосы, татуировки, цвет кожи и повязки на глаза.
@@ -97,14 +102,14 @@ toc: true
 <li> Гнев стал общим ресурсом для класса.</li>
 <li> Демонические обереги повышающие выносливость и броню, были перемещены в новый пассивный эффект: {{ site.data.spell.Thick_Skin }}, который увеличивает выносливость на 65% и броню на 100%.</li>
 <li> {{ site.data.spell.Thick_Skin }} дополнительно исцеляет вас за каждый поглощенный {{ site.data.spell.Soul_Fragment }}. </li>
-<li> {{ site.data.spell.Soul_Cleave }} теперь наносит урон максимум 5 целям</li>
+<li> {{ site.data.spell.Soul_Cleave }} теперь наносит урон максимум 5 целям.</li>
 <li> Новый талант {{ site.data.talent.Infernal_Armor }} (Заменяет {{ site.data.talent.Flame_Crash }}) - {{ site.data.spell.Immolation_Aura }} увеличивает вашу броню на 20% и наносит урон от огня.</li>
-<li> Новый талант {{ site.data.talent.Bulk_Extraction }} (Заменяет {{ site.data.talent.Soul_Barrier }}) - Разрушает души находящихся рядом противников, нанося урона от огня и накапливая до 5 малых фрагментов души, которые вы можете использовать мгновенно.</li>
+<li> Новый талант {{ site.data.talent.Bulk_Extraction }} (Заменяет {{ site.data.talent.Soul_Barrier }}) - Разрушает души находящихся рядом противников, нанося урон от огня и накапливая до 5 малых фрагментов души, которые вы можете использовать мгновенно.</li>
 <li> Новый талант {{ site.data.talent.DemonicVDH }} - Когда {{ site.data.spell.Fel_Devastation }} перестает наносить урон, вы на 6 сек. превращаетесь в демона.</li>
 <li> {{ site.data.talent.Abyssal_Strike  }} - Приземляясь после {{ site.data.spell.Infernal_Strike }}, вы создаете {{ site.data.spell.Sigil_of_Flame }} и сокращаете время восстановления {{ site.data.spell.Infernal_Strike }} на 8 сек.</li>
 <li> {{ site.data.talent.Agonizing_Flames }} - {{ site.data.spell.Immolation_Aura }} повышает скорость передвижения на 20% и действует на 50% дольше. </li>
 <li>  {{ site.data.talent.Feast_of_Souls }} исцеление увеличено на 25%. </li>
-<li> Переработан талант {{ site.data.talent.Charred_Flesh }} теперь урон от {{ site.data.spell.Immolation_Aura }} продлевает время действия вашего "Огненного клейма" на 0.50 сек.</li>
+<li> Переработан талант {{ site.data.talent.Charred_Flesh }} теперь урон от {{ site.data.spell.Immolation_Aura }} продлевает время действия вашего {{ site.data.spell.Fiery_Brand }} на 0.50 сек.</li>
 
 ## Новые возможности трансмогрификации артефакта для Охотниками на Демонов Месть
 

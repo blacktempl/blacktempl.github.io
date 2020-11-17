@@ -40,13 +40,20 @@ toc: true
 </ul>
 
 ## Лучшая Камни
-<ul>
-<li>Камни: {{ site.data.prof.Versatile_Jewel_Cluster }}</li>
-</ul>
+
+Камни: 
+
+* {{ site.data.prof.Deadly_Jewel_Cluster }} — +16 к вероятности критического удара
+* {{ site.data.prof.Quick_Jewel_Cluster }} — +16 к скорости
+* {{ site.data.prof.Versatile_Jewel_Cluster }} — +16 к универсальности
 
 ## Лучшая Еда
-<ul>
-<li>Еда: {{ site.data.prof.Steak_a_la_Mode }}</li>
-</ul>
+
+Еда: 
+
+* {{ site.data.prof.Feast_of_Gluttonous_Hedonism }} —  обжорства повышает ловкость на 20.
+* {{ site.data.prof.Phantasmal_Souffle_and_Fries }} —  повышает вероятность критического  удара повышается на 30. 
+* {{ site.data.prof.Steak_a_la_Mode }} — повышает  универсальность повышается на 30. 
+* {{ site.data.prof.Tenebrous_Crown_Roast_Aspic }} — повышает скорость на 30.
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/covenant.html">Назад:<br>Ковенанты</a></div> <div class="minibox"><a href="{{ site.url }}/guide/vengeance/macros-addons.html">Длаее:<br>Макросы и Аддоны</a></div>
