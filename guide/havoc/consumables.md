@@ -57,4 +57,4 @@ toc: true
 * {{ site.data.prof.Tenebrous_Crown_Roast_Aspic }} — повышает скорость на 30.
 
 
-
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/covenant.html">Назад:<br>Ковенанты</a></div> <div class="minibox"><a href="{{ site.url }}/guide/havoc/macros-addons.html">Длаее:<br>Макросы и Аддоны</a></div>

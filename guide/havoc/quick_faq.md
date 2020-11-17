@@ -868,6 +868,12 @@ toc: true
 
 **Медиум Пелагос**
 
+После вступленя в ковенант нам отроются две способности:
+
+{{ site.data.covenant.Elysian_Decree }} - Размещает в указанном месте кирийскую печать, которая активируется через 2 sec. Печать наносит сильный АоЕ урон, которую можно усилить баффом от {{ site.data.talent.Momentum }}. После взрыва печати появляются 3 {{ site.data.spell.Shattered_SoulsHDH }}, это сильно повышает нашу выживаемость. Таже использование {{ site.data.covenant.Elysian_Decree }} активирует способность нашего медиума и дает нам бафф искусности на 10сек, который можно продлевать собирая сферы "Печальных воспоминаний", тем самым усилия наши способности которые используют Хаос, например такие как {{ site.data.spell.Chaos_Strike }} или {{ site.data.spell.Eye_Beam }}.
+
+{{ site.data.covenant.Summon_Steward }} - Вы зовете распорядителя, и он приносит вам {{ site.data.covenant.Phial_of_Serenity }}, восполняющий 20% здоровья и снимающий проклятия, болезни, яды и эффекты кровотечения. Очень полезный флакон, сильно упрощает жизнь в ключах, снимает даже стаки аффикса {{ site.data.mplus.Necrotic }}.
+
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/pelagos.png"> </p>
 
 ## Проводники (Кондуиты)
@@ -916,16 +922,21 @@ toc: true
 * {{ site.data.legendary.Chaos_Theory }}  —  {{ site.data.spell.Blade_Dance }} с вероятностью 30% накладывает на персонажа эффект “Клинки Хаоса”, который повышает урон от {{ site.data.spell.Chaos_Strike }} на 50%, а вероятность восполнения гнева - дополнительно на 60%. Время действия эффекта - 8 сек. 
 > Можно применить на пояс или перчатки
 
+Рецепт на этот легендарный предмет добывается с последнего босса {{ site.data.mplus.Sire_Denathrius }} рейда {{ site.data.mplus.Castle_Nathria }}.
+
 **Клив/АоЕ**
 
 * {{ site.data.legendary.Collective_Anguish }}  — При использовании {{ site.data.spell.Eye_Beam }} Охотник на Демонов призывает союзника, который использует {{ site.data.spell.Fel_Devastation }}.
-Можно применить на плащ или наручи.
+> Можно применить на плащ или наручи.
+
+Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Castle_Nathria }}.
 
 ### Мифик+
 
 * {{ site.data.legendary.Collective_Anguish }} — При использовании {{ site.data.spell.Eye_Beam }} Охотник на Демонов призывает союзника, который использует {{ site.data.spell.Fel_Devastation }}.
 > Можно применить на плащ или наручи.
 
+Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Castle_Nathria }}.
 
 ## Инчант и химия
 
@@ -976,44 +987,50 @@ toc: true
 
 **Опенер**
 
+1. Прекастом {{ site.data.covenant.Elysian_Decree }}
 1. {{ site.data.spell.Immolation_Aura }}
 1. {{ site.data.spell.Fel_Rush }} для активации баффа {{ site.data.talent.Momentum }}.
+1. {{ site.data.talent.Felblade }}
 1. {{ site.data.spell.Eye_Beam }}
 1. {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Blade_Dance }}
 1. {{ site.data.spell.Eye_Beam }}
 1. {{ site.data.spell.Death_Sweep }}
 
 **Список приоритетов**
 
-1. {{ site.data.spell.Metamorphosis }}
-1. {{ site.data.spell.Vengeful_Retreat }}
-1. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.
-1. {{ site.data.spell.Death_Sweep }}
-1. {{ site.data.spell.Blade_Dance }}
-1. {{ site.data.spell.Immolation_Aura }}
-1. {{ site.data.spell.Annihilation }}
-1. {{ site.data.talent.Felblade }} если у вас меньше 80 гнева.
-1. {{ site.data.spell.Chaos_Strike }}
-1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.spell.Metamorphosis }}<br>
+1. {{ site.data.spell.Vengeful_Retreat }}<br>
+1. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.<br>
+1. {{ site.data.spell.Death_Sweep }}<br>
+1. {{ site.data.spell.Blade_Dance }}<br>
+1. {{ site.data.covenant.Elysian_Decree }} по готовности
+1. {{ site.data.spell.Eye_Beam }}<br>
+1. {{ site.data.spell.Immolation_Aura }}<br>
+1. {{ site.data.spell.Annihilation }}<br>
+1. {{ site.data.talent.Felblade }} если у вас меньше 80 гнева.<br>
+1. {{ site.data.spell.Chaos_Strike }}<br>
 1. {{ site.data.spell.Throw_Glaive }} 
 
 ### Мифик+
 
 **Список приоритетов**
 
-1. {{ site.data.spell.Metamorphosis }}
-1. {{ site.data.talent.Glaive_Tempest }}
-1. {{ site.data.spell.Vengeful_Retreat }}
-1. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.
-1. {{ site.data.spell.Death_Sweep }}если 3+ целей.
-1. {{ site.data.spell.Blade_Dance }} если 5+ целей.
-1. {{ site.data.spell.Immolation_Aura }}
-1. {{ site.data.spell.Annihilation }}
-1. {{ site.data.spell.Chaos_Strike }}
-1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.spell.Metamorphosis }}<br>
+1. {{ site.data.spell.Vengeful_Retreat }}<br>
+1. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.<br>
+1. {{ site.data.talent.Glaive_Tempest }}<br>
+1. {{ site.data.spell.Eye_Beam }}<br>
+1. {{ site.data.covenant.Elysian_Decree }} по готовности
+1. {{ site.data.spell.Death_Sweep }}если 3+ целей.<br>
+1. {{ site.data.spell.Blade_Dance }} если 5+ целей.<br>
+1. {{ site.data.spell.Immolation_Aura }}<br>
+1. {{ site.data.spell.Annihilation }}<br>
+1. {{ site.data.spell.Chaos_Strike }}<br>
 1. {{ site.data.spell.Demons_Bite }}
 
 ## Бис лист
+
 ### Мифик+ АоЕ
 
 <div class="tabs">
@@ -1061,10 +1078,10 @@ toc: true
         <td>{{ site.data.mplus.Sanguine_Depths }}</td>
     </tr>
     <tr>
-        <td>Наручи продолжить</td>
-        <td>{{ site.data.item.Bands_of_the_Undergrowth }}</td>
-        <td>{{ site.data.mplus.Tredova }}</td>
-        <td>{{ site.data.mplus.Mists_of_Tirna_Scithe }}</td>
+        <td>Наручи</td>
+        <td>{{ site.data.legendary.Collective_Anguish }}</td>
+        <td>{{ site.data.mplus.General_Kaal }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
     </tr>
     <tr>
         <td>Кисти рук</td>
@@ -1178,16 +1195,16 @@ toc: true
         <td>{{ site.data.mplus.Castle_Nathria }}</td>
     </tr>
     <tr>
-        <td>Наручи продолжить</td>
+        <td>Наручи</td>
         <td>{{ site.data.item.Bands_of_the_Undergrowth }}</td>
         <td>{{ site.data.mplus.Tredova }}</td>
         <td>{{ site.data.mplus.Mists_of_Tirna_Scithe }}</td>
     </tr>
     <tr>
         <td>Кисти рук</td>
-        <td>{{ site.data.item.Gloves_of_Obscure_Rituals }}</td>
-        <td>{{ site.data.mplus.Millificent_Manastorm }}</td>
-        <td>{{ site.data.mplus.Margrave_Stradama }}</td>
+        <td>{{ site.data.legendary.Chaos_Theory }}</td>
+        <td>{{ site.data.mplus.Sire_Denathrius }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
     </tr>
     <tr>
         <td>Пояс</td>

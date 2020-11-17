@@ -360,10 +360,10 @@ toc: true
         <td>{{ site.data.mplus.Sanguine_Depths }}</td>
     </tr>
     <tr>
-        <td>Наручи продолжить</td>
-        <td>{{ site.data.item.Bands_of_the_Undergrowth }}</td>
-        <td>{{ site.data.mplus.Tredova }}</td>
-        <td>{{ site.data.mplus.Mists_of_Tirna_Scithe }}</td>
+        <td>Наручи</td>
+        <td>{{ site.data.legendary.Collective_Anguish }}</td>
+        <td>{{ site.data.mplus.General_Kaal }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
     </tr>
     <tr>
         <td>Кисти рук</td>
@@ -475,16 +475,16 @@ toc: true
         <td>{{ site.data.mplus.Castle_Nathria }}</td>
     </tr>
     <tr>
-        <td>Наручи продолжить</td>
+        <td>Наручи</td>
         <td>{{ site.data.item.Bands_of_the_Undergrowth }}</td>
         <td>{{ site.data.mplus.Tredova }}</td>
         <td>{{ site.data.mplus.Mists_of_Tirna_Scithe }}</td>
     </tr>
     <tr>
         <td>Кисти рук</td>
-        <td>{{ site.data.item.Gloves_of_Obscure_Rituals }}</td>
-        <td>{{ site.data.mplus.Millificent_Manastorm }}</td>
-        <td>{{ site.data.mplus.Margrave_Stradama }}</td>
+        <td>{{ site.data.legendary.Chaos_Theory }}</td>
+        <td>{{ site.data.mplus.Sire_Denathrius }}</td>
+        <td>{{ site.data.mplus.Castle_Nathria }}</td>
     </tr>
     <tr>
         <td>Пояс</td>
@@ -559,7 +559,7 @@ toc: true
 **Клив/АоЕ**
 
 * {{ site.data.legendary.Collective_Anguish }}  — При использовании {{ site.data.spell.Eye_Beam }} Охотник на Демонов призывает союзника, который использует {{ site.data.spell.Fel_Devastation }}.
-Можно применить на плащ или наручи.
+> Можно применить на плащ или наручи.
 
 Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Sire_Denathrius }}.
 

@@ -64,6 +64,7 @@ toc: true
 
 **Опенер**
 
+1. Прекастом {{ site.data.covenant.Elysian_Decree }}
 1. {{ site.data.spell.Immolation_Aura }}
 1. {{ site.data.spell.Fel_Rush }} для активации баффа {{ site.data.talent.Momentum }}.
 1. {{ site.data.talent.Felblade }}
@@ -83,16 +84,17 @@ toc: true
 
 	<div class="tabs_in">
 1. {{ site.data.spell.Metamorphosis }}<br>
-2. {{ site.data.talent.Glaive_Tempest }}<br>
-3. {{ site.data.spell.Vengeful_Retreat }}<br>
-4. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.<br>
+2. {{ site.data.spell.Vengeful_Retreat }}<br>
+3. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.<br>
+4. {{ site.data.talent.Glaive_Tempest }}<br>
 5. {{ site.data.spell.Eye_Beam }}<br>
-6. {{ site.data.spell.Death_Sweep }}если 3+ целей.<br>
-7. {{ site.data.spell.Blade_Dance }} если 5+ целей.<br>
-8. {{ site.data.spell.Immolation_Aura }}<br>
-9. {{ site.data.spell.Annihilation }}<br>
-10. {{ site.data.spell.Chaos_Strike }}<br>
-11. {{ site.data.spell.Demons_Bite }}
+6. {{ site.data.covenant.Elysian_Decree }} по готовности
+7. {{ site.data.spell.Death_Sweep }}если 3+ целей.<br>
+8. {{ site.data.spell.Blade_Dance }} если 5+ целей.<br>
+9. {{ site.data.spell.Immolation_Aura }}<br>
+10. {{ site.data.spell.Annihilation }}<br>
+11. {{ site.data.spell.Chaos_Strike }}<br>
+12. {{ site.data.spell.Demons_Bite }}
 	</div>
 		
       </div>
@@ -103,7 +105,8 @@ toc: true
 3. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.<br>
 4. {{ site.data.spell.Death_Sweep }}<br>
 5. {{ site.data.spell.Blade_Dance }}<br>
-6. {{ site.data.spell.Eye_Beam }}<br>
+6. {{ site.data.covenant.Elysian_Decree }} по готовности
+7. {{ site.data.spell.Eye_Beam }}<br>
 7. {{ site.data.spell.Immolation_Aura }}<br>
 8. {{ site.data.spell.Annihilation }}<br>
 9. {{ site.data.talent.Felblade }} если у вас меньше 80 гнева.<br>
