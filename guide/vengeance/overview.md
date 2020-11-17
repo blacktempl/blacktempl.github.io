@@ -93,19 +93,19 @@ toc: true
 
 ## Изменения Охотниками на Демонов Месть в Shadowlands
 
-<li> {{ site.data.spell.Fel_Devastation }} – стала базовой способностью. Это добавляет немного вариативности в нашу ротацию</li>
+<li> {{ site.data.spell.Fel_Devastation }} – стала базовой способностью. Это добавляет немного вариативности в нашу ротацию.</li>
 <li> Наше самоисцеление было значительно ослаблено по сравнению с BfA. В результате чего пострадала живучесть.</li>
 <li> Измененный порядок в дереве талантов, теперь в зависимости от контента будет несколько вариантов жизнеспособных талантов.</li>
 <li> Гнев стал общим ресурсом для класса.</li>
 <li> Демонические обереги повышающие выносливость и броню, были перемещены в новый пассивный эффект: {{ site.data.spell.Thick_Skin }}, который увеличивает выносливость на 65% и броню на 100%.</li>
-<li> {{ site.data.spell.Thick_Skin }} дополнительно исцеляет вас за каждый поглощенный {{ site.data.spell.Soul_Fragment }}. </li>
+<li> {{ site.data.spell.Thick_Skin }} дополнительно исцеляет вас за каждый поглощенный {{ site.data.spell.Soul_Fragment }}.</li>
 <li> {{ site.data.spell.Soul_Cleave }} теперь наносит урон максимум 5 целям.</li>
 <li> Новый талант {{ site.data.talent.Infernal_Armor }} (Заменяет {{ site.data.talent.Flame_Crash }}) - {{ site.data.spell.Immolation_Aura }} увеличивает вашу броню на 20% и наносит урон от огня.</li>
 <li> Новый талант {{ site.data.talent.Bulk_Extraction }} (Заменяет {{ site.data.talent.Soul_Barrier }}) - Разрушает души находящихся рядом противников, нанося урон от огня и накапливая до 5 малых фрагментов души, которые вы можете использовать мгновенно.</li>
 <li> Новый талант {{ site.data.talent.DemonicVDH }} - Когда {{ site.data.spell.Fel_Devastation }} перестает наносить урон, вы на 6 сек. превращаетесь в демона.</li>
 <li> {{ site.data.talent.Abyssal_Strike  }} - Приземляясь после {{ site.data.spell.Infernal_Strike }}, вы создаете {{ site.data.spell.Sigil_of_Flame }} и сокращаете время восстановления {{ site.data.spell.Infernal_Strike }} на 8 сек.</li>
 <li> {{ site.data.talent.Agonizing_Flames }} - {{ site.data.spell.Immolation_Aura }} повышает скорость передвижения на 20% и действует на 50% дольше. </li>
-<li>  {{ site.data.talent.Feast_of_Souls }} исцеление увеличено на 25%. </li>
+<li>  {{ site.data.talent.Feast_of_Souls }} исцеление увеличено на 25%.</li>
 <li> Переработан талант {{ site.data.talent.Charred_Flesh }} теперь урон от {{ site.data.spell.Immolation_Aura }} продлевает время действия вашего {{ site.data.spell.Fiery_Brand }} на 0.50 сек.</li>
 
 ## Новые возможности трансмогрификации артефакта для Охотниками на Демонов Месть
@@ -117,9 +117,6 @@ toc: true
 <a href="https://www.wowhead.com/unlocking-artifact-appearances-guide" class="cta-button" data-border="strong" target="_blank">Получение обликов артефактов</a>
 </div>
 
-<div class="minibox"><a href="{{ site.url }}/guide/vengeance/beginners.html">Далее:<br>Новичкам</a></div>
 
-
-
-
-
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/quick_faq.html">Назад:<br>Кратко и Быстро</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/vengeance/beginners.html">Длаее:<br>Новичкам</a></div>

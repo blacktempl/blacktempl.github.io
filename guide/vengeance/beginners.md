@@ -426,7 +426,7 @@ toc: true
 Это означает, что, первым делом вы должны отдавать приоритет предметам высокого уровня, а затем сколько они дают скорости. Узнайте больше о том, 
 как работают ваши характеристики и веса характеристик в Руководстве <a href="{{ site.url }}/guide/vengeance/stats.html"> Характеристики</a>, 
 или вы можете посмотреть обзор снаряжения, на которое стоит обратить внимание в подземельях и рейдах, в 
-Руководстве <a href="{{ site.url }}/guide/vengeance/consumables.html"> Бис лист</a>.  
+Руководстве <a href="{{ site.url }}/guide/vengeance/gear.html"> Бис лист</a>.  
 
 - Приоритет характеристик:
 	1. **Уровень предмета**
@@ -435,7 +435,11 @@ toc: true
     1. **Критический урон**
     1. **Искусность**
 
-## Зачаровывание и камни
+## Инчант и химия
+
+### Зачарованние
+
+Во всех типах контента оптимальным выбором ковенанта будут Кирии с медиумом Пелагий
 
 <ul>
 <li>Оружие: 2х{{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li>
@@ -443,11 +447,29 @@ toc: true
 <li>Сапоги: {{ site.data.prof.Enchant_Boots_Eternal_Agility }}</li>
 <li>Нагрудник: {{ site.data.prof.Enchant_Chest_Eternal_Stats }}</li>
 <li>Плащ: {{ site.data.prof.Enchant_Cloak_Fortified_Leech }}</li>
-<li>Камни: {{ site.data.prof.Versatile_Jewel_Cluster }}</li>
-<li>Еда: {{ site.data.prof.Steak_a_la_Mode }}</li>
-<li>Настой: {{ site.data.prof.Eternal_Flask }}</li>
-<li>Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }}</li>
 </ul>
+
+### Настой и  Зелья
+<ul>
+<li>Настой: {{ site.data.prof.Eternal_Flask }}</li>
+<li>Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }} СТ</li>
+<li>Зелья: {{ site.data.prof.Potion_of_Empowered_Exorcisms }} АОЕ</li>
+<li>Исцеление: {{ site.data.prof.Spiritual_Healing_Potion }} </li>
+</ul>
+
+### Камни
+ 
+
+* {{ site.data.prof.Deadly_Jewel_Cluster }} — +16 к вероятности критического удара
+* {{ site.data.prof.Quick_Jewel_Cluster }} — +16 к скорости
+* {{ site.data.prof.Versatile_Jewel_Cluster }} — +16 к универсальности
+
+### Еда
+
+* {{ site.data.prof.Feast_of_Gluttonous_Hedonism }} —  обжорства повышает ловкость на 20.
+* {{ site.data.prof.Phantasmal_Souffle_and_Fries }} —  повышает вероятность критического  удара повышается на 30. 
+* {{ site.data.prof.Steak_a_la_Mode }} — повышает  универсальность повышается на 30. 
+* {{ site.data.prof.Tenebrous_Crown_Roast_Aspic }} — повышает скорость на 30.
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/overview.html">Назад:<br>Обзор</a></div>
 <div class="minibox"><a href="{{ site.url }}/guide/vengeance/talent-builds.html">Длаее:<br>Таланты и Билды</a></div>

@@ -870,6 +870,12 @@ toc: true
 ## Какой ковенант и медиума выбрать
 Во всех типах контента оптимальным выбором ковенанта будут<span style="color:#68ccef;font-size:1.5em;"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="32" height="45"> Кирии</span> с медиумом **Пелагий**
 
+После вступленя в ковенант нам отроются две способности:
+
+{{ site.data.covenant.Elysian_Decree }} - Размещает в указанном месте кирийскую печать, которая активируется через 2 sec. Печать наносит сильный АоЕ урон, скорость восстановления печати можно ускорить талантом {{ site.data.talent.Quickened_Sigils }}. После взрыва печати появляются 3 {{ site.data.spell.Soul_Fragment }}, это сильно повышает нашу выживаемость. Таже использование {{ site.data.covenant.Elysian_Decree }} активирует способность нашего медиума и дает нам бафф искусности на 10сек, который можно продлевать собирая сферы "Печальных воспоминаний", тем самым усилия наш урон и защитные способности.
+
+{{ site.data.covenant.Summon_Steward }} - Вы зовете распорядителя, и он приносит вам {{ site.data.covenant.Phial_of_Serenity }}, восполняющий 20% здоровья и снимающий проклятия, болезни, яды и эффекты кровотечения. Очень полезная флакон, сильно упрощает жизнь в ключах, снимает даже стаки аффикса {{ site.data.mplus.Necrotic }}.
+
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/pelagos.png"> </p>
 
 ## Проводники (Кондуиты)
@@ -892,10 +898,29 @@ toc: true
 ## Легендарные предметы
 
 * {{ site.data.legendary.Razelikhs_Defilement }} — несмотря на нерф, все еще хорошая легендарка, хотя и потеряла основную свою привлекательность. Полезна в М+ контенте или исключительно для ДПС в рейде
+> Можно применить на штаны или наручи
+
+Рецепт на этот легендарный предмет добывается с босса {{ site.data.mplus.Xav_the_Unfallen }} подземелья {{ site.data.mplus.Theater_of_Pain }}.
+
 * {{ site.data.legendary.Fiery_Soul }} — основа нашего клеймобилда. Очень хорошая легендарка как для рейда, так и для М+. Не советуется использовать в паре со  {{ site.data.talent.Spirit_Bomb }}
+> Можно применить на наручи или перчатки
+	
+Рецепт на этот легендарный предмет добывается в Торгасте с 3го уровня и выше.
+
 * {{ site.data.legendary.Darkglare_Boon }} — очень маленький шанс отката для способности с большим временем восстановления. Слабый вариант
+> Можно применить на амулет или пояс
+ 
+ Рецепт на этот легендарный предмет добывается с босса {{ site.data.mplus.Margrave_Stradama }} подземелья {{ site.data.mplus.Plaguefall }}.
+ 
 * {{ site.data.legendary.Collective_Anguish }} — как и предыдущий легендарный эффект, слабый в первую очередь из-за большого КД нашего {{ site.data.spell.Fel_Devastation }}
+> Можно применить на плащ или наручи.
+
+Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Castle_Nathria }}.
+
 * {{ site.data.legendary.Fel_Flame_Fortification }} — в теории неплохой легендарный эффект в боях против магии, на практике будет играться разве что возможным вторым слотом
+> Можно применить на пояс или кольцо
+
+Рецепт на этот легендарный предмет добывается с босса {{ site.data.mplus.Lady_Inerva_Darkvein }} подземелья {{ site.data.mplus.Castle_Nathria}}.
 
 ## Инчант и химия
 
@@ -918,14 +943,17 @@ toc: true
 </ul>
 
 ### Камни
-<ul>
-<li>Камни: {{ site.data.prof.Versatile_Jewel_Cluster }}</li>
-</ul>
+
+* {{ site.data.prof.Deadly_Jewel_Cluster }} — +16 к вероятности критического удара
+* {{ site.data.prof.Quick_Jewel_Cluster }} — +16 к скорости
+* {{ site.data.prof.Versatile_Jewel_Cluster }} — +16 к универсальности
 
 ### Еда
-<ul>
-<li>Еда: {{ site.data.prof.Steak_a_la_Mode }}</li>
-</ul>
+
+* {{ site.data.prof.Feast_of_Gluttonous_Hedonism }} —  обжорства повышает ловкость на 20.
+* {{ site.data.prof.Phantasmal_Souffle_and_Fries }} —  повышает вероятность критического  удара повышается на 30. 
+* {{ site.data.prof.Steak_a_la_Mode }} — повышает  универсальность повышается на 30. 
+* {{ site.data.prof.Tenebrous_Crown_Roast_Aspic }} — повышает скорость на 30.
 
 ## Приоритет статов
 

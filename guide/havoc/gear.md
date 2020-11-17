@@ -572,8 +572,11 @@ toc: true
 
 ## Аксессуар
 
-{{ site.data.item.Skulkers_Wing }} - Прожимной ассесуар с огромным уроном который усиливается баффом {{ site.data.talent.Momentum }}.
-{{ site.data.item.Phial_of_Putrefaction }} - Наносит высокий урон и показывает высокий оверол.
+* {{ site.data.item.Skulkers_Wing }} - Прожимной ассесуар с огромным уроном который усиливается баффом {{ site.data.talent.Momentum }}.
+* {{ site.data.item.Phial_of_Putrefaction }} - Наносит высокий урон и показывает высокий оверол.
+
+Информация об аксессуарах в дальнейшем будет обновляться и дополняться
+
 
 ## Уровни предметов в 1 сезоне эпохальных+ подземелий Shadowlands
 

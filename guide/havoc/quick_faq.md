@@ -959,14 +959,12 @@ toc: true
 </ul>
 
 ### Камни
-Камни: 
 
 * {{ site.data.prof.Deadly_Jewel_Cluster }} — +16 к вероятности критического удара
 * {{ site.data.prof.Quick_Jewel_Cluster }} — +16 к скорости
 * {{ site.data.prof.Versatile_Jewel_Cluster }} — +16 к универсальности
 
 ### Еда
-Еда: 
 
 * {{ site.data.prof.Feast_of_Gluttonous_Hedonism }} —  обжорства повышает ловкость на 20.
 * {{ site.data.prof.Phantasmal_Souffle_and_Fries }} —  повышает вероятность критического  удара повышается на 30. 
@@ -1335,6 +1333,12 @@ toc: true
     })
   </script>
 
+## Аксессуар
+
+* {{ site.data.item.Skulkers_Wing }} - Прожимной ассесуар с огромным уроном который усиливается баффом {{ site.data.talent.Momentum }}.
+* {{ site.data.item.Phial_of_Putrefaction }} - Наносит высокий урон и показывает высокий оверол.
+
+Информация об аксессуарах в дальнейшем будет обновляться и дополняться
 
 
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/overview.html">Длаее:<br>Обзор</a></div>

@@ -41,15 +41,12 @@ toc: true
 
 ## Лучшая Камни
 
-Камни: 
-
 * {{ site.data.prof.Deadly_Jewel_Cluster }} — +16 к вероятности критического удара
 * {{ site.data.prof.Quick_Jewel_Cluster }} — +16 к скорости
 * {{ site.data.prof.Versatile_Jewel_Cluster }} — +16 к универсальности
 
 ## Лучшая Еда
 
-Еда: 
 
 * {{ site.data.prof.Feast_of_Gluttonous_Hedonism }} —  обжорства повышает ловкость на 20.
 * {{ site.data.prof.Phantasmal_Souffle_and_Fries }} —  повышает вероятность критического  удара повышается на 30. 
