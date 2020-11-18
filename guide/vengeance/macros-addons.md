@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Макросы и Аддоны
-last_update: 2020-01-11 09:00:00
+last_update: 2020-11-11 09:00:00
 game_version: 9.0.0 Shadowlands
 author: Rodriguezz
 toc: true
@@ -114,7 +114,7 @@ toc: true
 
 Вы можете с помощью аддонов полностью сменить пользовательский интерфейс. Чаще всего используют <a href="https://www.tukui.org/download.php?ui=elvui" target="_blank">ElvUI</a>. ElvUI полностью заменяет стандартный пользовательский интерфейс Blizzard, который очень легко настроить и который используют многие высококлассные рейдеры. Вы также можете найти готовые профили для ElvUI других игроков на <a href="https://wago.io/elvui" target="_blank">wago.io</a>.
 
->Вы можете скачать приложение Curse Client / Twitch, чтобы всегда поддерживать ваши дополнения в актуальном состоянии.
+>Вы можете скачать приложение <a href="https://wowup.io/" target="_blank">WoWup</a>, чтобы всегда поддерживать ваши дополнения в актуальном состоянии.
 
 ### Рекомендуется
 
@@ -150,4 +150,4 @@ toc: true
 
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/macros-addons.html">Назад:<br>Макросы и Аддоны</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/vengeance/common-terms.html">Длаее:<br>Сокращения</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/vengeance/common-terms.html">Далее:<br>Сокращения</a></div>

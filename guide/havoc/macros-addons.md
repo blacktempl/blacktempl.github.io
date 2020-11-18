@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Макросы и Аддоны
-last_update: 2020-01-11 09:00:00
+last_update: 2020-11-11 09:00:00
 game_version: 9.0.0 Shadowlands
 author: Rodriguezz
 toc: true
@@ -121,7 +121,7 @@ toc: true
 
 Вы можете с помощью аддонов полностью сменить пользовательский интерфейс. Чаще всего используют <a href="https://www.tukui.org/download.php?ui=elvui" target="_blank">ElvUI</a>. ElvUI полностью заменяет стандартный пользовательский интерфейс Blizzard, который очень легко настроить и который используют многие высококлассные рейдеры. Вы также можете найти готовые профили для ElvUI от других игроков на <a href="https://wago.io/elvui" target="_blank">wago.io</a>.
 
->Вы можете скачать приложение Curse Client / Twitch, чтобы всегда поддерживать ваши дополнения в актуальном состоянии.
+>Вы можете скачать приложение <a href="https://wowup.io/" target="_blank">WoWup</a>, чтобы всегда поддерживать ваши дополнения в актуальном состоянии.
 
 ### Рекомендуется
 
@@ -155,4 +155,5 @@ toc: true
 
 >Конечно, эти рекомендации - не единственные полезные аддоны, есть сотни разнообразных аддонов. Если вы ищете что-то другое, можете воспользоваться <a href="https://wow.curseforge.com/addons" target="_blank">Curseforge</a> или <a href="https://wow.curseforge.com/addons" target="_blank">WoWInterface</a>, чтобы найти подходящий для вас аддон.
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/consumables.html">Назад:<br>Расходники</a></div> <div class="minibox"><a href="{{ site.url }}/guide/havoc/weakauras.html">Длаее:<br>WeakAuras</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/consumables.html">Назад:<br>Расходники</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/weakauras.html">Далее:<br>WeakAuras</a></div>

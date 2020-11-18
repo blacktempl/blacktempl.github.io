@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ротация
-last_update: 2020-01-11 09:00:00
+last_update: 2020-11-11 09:00:00
 game_version: 9.0.0 Shadowlands
 toc: true
 ---
@@ -241,7 +241,8 @@ toc: true
 {{ site.data.spell.Fiery_Brand }} находится на ГКД и наносит большой урон вашей цели, а также снижает урон на 40%. Использование этой способности зависит от механики сражения. Если по механике боя у цели есть фазы высокого урона, ее следует использовать в это время. Если в сражении нет таких механик то способность следует использовать по кулдауну при активном танковании босса, не желательно совмещать {{ site.data.spell.Demon_Spikes }} или {{ site.data.spell.MetamorphosisVDH }}, чтобы максимально увеличить окно баффа. Если вы чувствуете себя комфортно в бою и вам не нужно дополнительное снижение урона, можете использовать способность по кулдауну независимо от того кто танкует босса.
 
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance /talent-builds.html">Назад:<br>Таланты и Билды</a></div> <div class="minibox"><a href="{{ site.url }}/guide/vengeance/stats.html">Длаее:<br>Характеристики</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance /talent-builds.html">Назад:<br>Таланты и Билды</a></div>
+ <div class="minibox"><a href="{{ site.url }}/guide/vengeance/stats.html">Далее:<br>Характеристики</a></div>
 
 
 

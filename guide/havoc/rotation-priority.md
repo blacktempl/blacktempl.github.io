@@ -234,4 +234,5 @@ toc: true
 <li> Планируйте и минимизируйте неудачные использования {{ site.data.spell.Fel_Rush }}. Использование {{ site.data.spell.Fel_Rush }} из стороны в сторону часто будет лучшим вариантом, но имейте в виду, что вместо этого легко случайно можете улететь вперед. Всегда стойте так, чтобы нападающий не убил вас, если это возможно. Используйте {{ site.data.spell.Fel_Rush }} лишь убедившись, что ваш персонаж смотрит в том направлении, в котором вы собрались использовать {{ site.data.spell.Fel_Rush }}, это значительно снизит вероятность того, что вы попадете в неожиданное место.</li>
 </ul>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Назад:<br>Таланты и Билды</a></div> <div class="minibox"><a href="{{ site.url }}/guide/havoc/stats.html">Длаее:<br>Характеристики</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Назад:<br>Таланты и Билды</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/stats.html">Далее:<br>Характеристики</a></div>

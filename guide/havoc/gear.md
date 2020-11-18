@@ -686,4 +686,4 @@ toc: true
 
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/stats.html">Назад:<br>Характеристики</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/covenant.html">Длаее:<br>Ковенанты</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/covenant.html">Далее:<br>Ковенанты</a></div>

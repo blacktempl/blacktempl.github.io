@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ковенанты
-last_update: 2020-01-11 09:00:00
+last_update: 2020-11-11 09:00:00
 game_version: 9.0.0 Shadowlands
 author: Rodriguezz
 toc: true
@@ -58,4 +58,4 @@ toc: true
 * {{ site.data.conduits.Felfire_Haste }} — дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/gear.html">Назад:<br>Бис лист</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/vengeance/consumables.html">Длаее:<br>Расходники</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/vengeance/consumables.html">Далее:<br>Расходники</a></div>

@@ -1330,7 +1330,7 @@ toc: true
 
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/beginners.html">Назад:<br>Новичкам</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/rotation-priority.html">Длаее:<br>Ротация</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/rotation-priority.html">Далее:<br>Ротация</a></div>
 
 
 

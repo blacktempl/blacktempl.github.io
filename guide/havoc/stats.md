@@ -135,5 +135,6 @@ toc: true
     })
   </script>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/rotation-priority.html">Назад:<br>Ротация</a></div> <div class="minibox"><a href="{{ site.url }}/guide/havoc/gear.html">Длаее:<br>Бис лист</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/rotation-priority.html">Назад:<br>Ротация</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/gear.html">Далее:<br>Бис лист</a></div>
 

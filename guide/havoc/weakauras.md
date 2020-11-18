@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WeakAuras
-last_update: 2020-01-11 09:00:00
+last_update: 2020-11-11 09:00:00
 game_version: 9.0.0 Shadowlands
 author: Rodriguezz
 toc: true
@@ -75,4 +75,4 @@ toc: true
 </p>
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/macros-addons.html">Назад:<br>Макросы и Аддоны</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/common-terms.html">Длаее:<br>Сокращени</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/common-terms.html">Далее:<br>Сокращени</a></div>

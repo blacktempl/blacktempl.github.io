@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Новичкам
-last_update: 2020-01-11 09:00:00
+last_update: 2020-11-11 09:00:00
 game_version: 9.0.0 Shadowlands
 author: Rodriguezz
 toc: true
@@ -435,11 +435,9 @@ toc: true
     1. **Критический урон**
     1. **Искусность**
 
-## Инчант и химия
+## Расходники
 
 ### Зачарованние
-
-Во всех типах контента оптимальным выбором ковенанта будут Кирии с медиумом Пелагий
 
 <ul>
 <li>Оружие: 2х{{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li>
@@ -458,7 +456,6 @@ toc: true
 </ul>
 
 ### Камни
- 
 
 * {{ site.data.prof.Deadly_Jewel_Cluster }} — +16 к вероятности критического удара
 * {{ site.data.prof.Quick_Jewel_Cluster }} — +16 к скорости
@@ -467,9 +464,18 @@ toc: true
 ### Еда
 
 * {{ site.data.prof.Feast_of_Gluttonous_Hedonism }} —  повышает ловкость на 20.
-* {{ site.data.prof.Phantasmal_Souffle_and_Fries }} —  повышает вероятность критического  удара повышается на 30. 
-* {{ site.data.prof.Steak_a_la_Mode }} — повышает  универсальность повышается на 30. 
+* {{ site.data.prof.Phantasmal_Souffle_and_Fries }} —  повышает вероятность критического удара на 30. 
+* {{ site.data.prof.Steak_a_la_Mode }} — повышает  универсальность на 30. 
 * {{ site.data.prof.Tenebrous_Crown_Roast_Aspic }} — повышает скорость на 30.
 
+### Масло и Заточки для оружия
+
+* Масло:{{ site.data.prof.Shadowcore_Oil }} — При применении к оружию атаки и заклинания течение 60 мин. с высокой вероятностью наносят противникам 220 ед. дополнительного урона от темной магии. 
+* Точильный камень: {{ site.data.prof.Shaded_Sharpening_Stone }} — Вы точите клинковое оружие, в результате чего сила атаки повышается на 20 на 1 час.
+
+### Накладки 
+
+* {{ site.data.prof.Heavy_Desolate_Armor_Kit }} — Укрепляет нагрудник, повышая прибавку к выносливости на 32 на 2 часа.
+
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/overview.html">Назад:<br>Обзор</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/vengeance/talent-builds.html">Длаее:<br>Таланты и Билды</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/vengeance/talent-builds.html">Далее:<br>Таланты и Билды</a></div>

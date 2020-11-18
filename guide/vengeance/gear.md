@@ -1,7 +1,7 @@
 ---
 layout: page
 title: БиС лист
-last_update: 2020-01-11 09:00:00
+last_update: 2020-11-11 09:00:00
 game_version: 9.0.0 Shadowlands
 toc: true
 ---
@@ -690,7 +690,8 @@ toc: true
 
 
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/stats.html">Назад:<br>Характеристики</a></div> <div class="minibox"><a href="{{ site.url }}/guide/vengeance/covenant.html">Длаее:<br>Ковенанты</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/stats.html">Назад:<br>Характеристики</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/vengeance/covenant.html">Далее:<br>Ковенанты</a></div>
 
 
 

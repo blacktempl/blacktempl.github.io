@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Характеристики
-last_update: 2020-01-11 09:00:00
+last_update: 2020-11-11 09:00:00
 game_version: 9.0.0 Shadowlands
 toc: true
 ---
@@ -153,7 +153,8 @@ toc: true
   </script>
 
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/rotation-priority.html">Назад:<br>Ротация</a></div> <div class="minibox"><a href="{{ site.url }}/guide/vengeance/gear.html">Длаее:<br>Бис лист</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/rotation-priority.html">Назад:<br>Ротация</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/vengeance/gear.html">Далее:<br>Бис лист</a></div>
 
 
 

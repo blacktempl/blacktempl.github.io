@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Расходники
-last_update: 2020-01-11 09:00:00
+last_update: 2020-11-11 09:00:00
 game_version: 9.0.0 Shadowlands
 toc: true
 ---
@@ -58,4 +58,5 @@ toc: true
 
 * {{ site.data.prof.Heavy_Desolate_Armor_Kit }} — Укрепляет нагрудник, повышая прибавку к выносливости на 32 на 2 часа.
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/covenant.html">Назад:<br>Ковенанты</a></div> <div class="minibox"><a href="{{ site.url }}/guide/vengeance/macros-addons.html">Длаее:<br>Макросы и Аддоны</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/covenant.html">Назад:<br>Ковенанты</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/vengeance/macros-addons.html">Далее:<br>Макросы и Аддоны</a></div>
