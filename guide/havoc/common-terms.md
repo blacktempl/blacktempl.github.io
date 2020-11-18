@@ -148,5 +148,5 @@ toc: true
 </table>
 
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/quick_faq.html">Назад:<br>Кратко и Быстро</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/weakauras.html">Длаее:<br>WeakAuras</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/weakauras.html">Назад:<br>WeakAuras</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/thanks.html">Далее:<br>Авторы и благодарности</a></div>

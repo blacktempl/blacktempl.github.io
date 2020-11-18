@@ -466,7 +466,7 @@ toc: true
 
 ### Еда
 
-* {{ site.data.prof.Feast_of_Gluttonous_Hedonism }} —  обжорства повышает ловкость на 20.
+* {{ site.data.prof.Feast_of_Gluttonous_Hedonism }} —  повышает ловкость на 20.
 * {{ site.data.prof.Phantasmal_Souffle_and_Fries }} —  повышает вероятность критического  удара повышается на 30. 
 * {{ site.data.prof.Steak_a_la_Mode }} — повышает  универсальность повышается на 30. 
 * {{ site.data.prof.Tenebrous_Crown_Roast_Aspic }} — повышает скорость на 30.
