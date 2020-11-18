@@ -1277,7 +1277,7 @@ toc: true
 
 <ul>
 <li>{{ site.data.talent.Trail_of_Ruin }} Очень простой талант, последний удар способности {{ site.data.spell.Blade_Dance }} вешает на врагов ДоТ который наносит урон от магии Хаоса в течение 4 сек.</li> 
-<li>{{ site.data.talent.Unbound_Chaos }} увеличивает урон нашего {{ site.data.spell.Fel_Rush }} после применения {{ site.data.spell.Immolation_Aura }}, очень слабый талант и не найдет приминения в игре.</li>
+<li>{{ site.data.talent.Unbound_Chaos }} увеличивает урон нашего {{ site.data.spell.Fel_Rush }} после применения {{ site.data.spell.Immolation_Aura }}, очень слабый талант и не найдет применения в игре.</li>
 <li>{{ site.data.talent.Glaive_Tempest }} Возвращается еще одна старая способность - способность артефакта Легиона. Скорость  восстановления зависит от рейтинга скорости персонажа. Больше скорости, значит быстрее восстанавливается способность.
 </li>
 </ul>
