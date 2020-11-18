@@ -112,7 +112,7 @@ toc: true
 <div class="tabs">
     <div class="tabs__nav">
       <a class="tabs__link tabs__link_active" href="#content-1">СТ</a>
-      <a class="tabs__link" href="#content-2">АОЕ</a>
+      <a class="tabs__link" href="#content-2">АоЕ</a>
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
