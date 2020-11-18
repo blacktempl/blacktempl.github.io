@@ -1077,6 +1077,7 @@ a.dropdown-item:visited {
 @media only screen and (min-width: 1500px) {
   .side-menu { // adjust position to be closer to content
     right: 15%;
+	width: 375px !important;
   }
 }
 @media only screen and (min-width: 1700px) {
