@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title: Таланты и Билды
 last_update: 2020-01-11 09:00:00
