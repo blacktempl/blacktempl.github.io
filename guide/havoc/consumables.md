@@ -21,7 +21,7 @@ toc: true
 <a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
-## Лучшие зачарованние для Охотника на Демонов Истребление
+## Лучшие зачарования на предметы для Охотника на Демонов Истребление
 
 * Оружие: 2х{{ site.data.prof.Enchant_Weapon_Lightless_Force }}
 * Кольца: 2х{{ site.data.prof.Enchant_Ring_Tenet_of_Versatility }}
@@ -29,7 +29,7 @@ toc: true
 * Нагрудник: {{ site.data.prof.Enchant_Chest_Eternal_Stats }}
 * Плащ: {{ site.data.prof.Enchant_Cloak_Fortified_Leech }}
 
-## Настой и  Зелья
+## Настой и Зелья
 
 * Настой: {{ site.data.prof.Eternal_Flask }}
 * Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }} СТ
@@ -37,7 +37,7 @@ toc: true
 * Исцеление: {{ site.data.prof.Spiritual_Healing_Potion }}
 
 
-## Лучшая Камни
+## Лучшие Камни
 
 * {{ site.data.prof.Deadly_Jewel_Cluster }} — +16 к вероятности критического удара
 * {{ site.data.prof.Quick_Jewel_Cluster }} — +16 к скорости
@@ -46,16 +46,17 @@ toc: true
 ## Лучшая Еда
 
 * {{ site.data.prof.Feast_of_Gluttonous_Hedonism }} —  повышает ловкость на 20.
-* {{ site.data.prof.Phantasmal_Souffle_and_Fries }} —  повышает вероятность критического  удара повышается на 30. 
-* {{ site.data.prof.Steak_a_la_Mode }} — повышает  универсальность повышается на 30. 
+* {{ site.data.prof.Phantasmal_Souffle_and_Fries }} —  повышает вероятность критического удара на 30. 
+* {{ site.data.prof.Steak_a_la_Mode }} — повышает универсальность на 30. 
 * {{ site.data.prof.Tenebrous_Crown_Roast_Aspic }} — повышает скорость на 30.
 
-## Масло и Заточки для оружие
+## Масло и Заточки для оружия
 
-* Масло:{{ site.data.prof.Shadowcore_Oil }} — При применении к оружию атаки и заклинания течение 60 мин. с высокой вероятностью наносят противникам 220 ед. дополнительного урона от темной магии. 
+* Масло:{{ site.data.prof.Shadowcore_Oil }} — При применении к оружию, атаки и заклинания течение 60 мин. с высокой вероятностью наносят противникам 220 ед. дополнительного урона от темной магии. 
 * Точильный камень: {{ site.data.prof.Shaded_Sharpening_Stone }} — Вы точите клинковое оружие, в результате чего сила атаки повышается на 20 на 1 час.
 
 ## Накладки 
+
 * {{ site.data.prof.Heavy_Desolate_Armor_Kit }} — Укрепляет нагрудник, повышая прибавку к выносливости на 32 на 2 часа.
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/covenant.html">Назад:<br>Ковенанты</a></div>
