@@ -446,7 +446,7 @@ toc: true
 
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/overview.html">Назад:<br>Обзор</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Длаее:<br>Таланты и Билды</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Далее:<br>Таланты и Билды</a></div>
 
 
 
