@@ -149,4 +149,4 @@ toc: true
 
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/weakauras.html">Назад:<br>WeakAuras</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/thanks.html">Далее:<br>Авторы и благодарности</a></div>
+<div class="minibox"><a href="{{ site.url }}/patreon/thanks.html">Далее:<br>Авторы и благодарности</a></div>
