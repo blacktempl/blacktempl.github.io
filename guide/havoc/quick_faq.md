@@ -883,7 +883,7 @@ toc: true
 <u>Проводники силы</u>
 
 * {{ site.data.conduits.Demons_Touch }} —  {{ site.data.spell.Chaos_Strike }} с вероятностью 5,0%-14,5% сработает еще раз. Очень сильный кондуит для СТ боев.
-* {{ site.data.conduits.Growing_Inferno }} — урон способности {{ site.data.spell.Immolation_Aura }} дополнительно увеличивается на 10-24% каждый раз, когда она наносит урон. Очень сильно увеличивает урон от { {site.data.spell.Immolation_Aura }}, используем всегда.
+* {{ site.data.conduits.Growing_Inferno }} — урон способности {{ site.data.spell.Immolation_Aura }} дополнительно увеличивается на 10-24% каждый раз, когда она наносит урон. Очень сильно увеличивает урон от {{site.data.spell.Immolation_Aura }}, используем всегда.
 
 <u>Проводники выносливости</u>
 
