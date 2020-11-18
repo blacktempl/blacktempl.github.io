@@ -987,12 +987,12 @@ toc: true
 
 1. Прекастом {{ site.data.covenant.Elysian_Decree }}
 1. {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Vengeful_Retreat }}
 1. {{ site.data.spell.Fel_Rush }} для активации баффа {{ site.data.talent.Momentum }}.
 1. {{ site.data.talent.Felblade }}
 1. {{ site.data.spell.Eye_Beam }}
 1. {{ site.data.spell.Metamorphosis }}
 1. {{ site.data.spell.Blade_Dance }}
-1. {{ site.data.spell.Eye_Beam }}
 1. {{ site.data.spell.Death_Sweep }}
 
 **Список приоритетов**

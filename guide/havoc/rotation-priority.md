@@ -66,12 +66,12 @@ toc: true
 
 1. Прекастом {{ site.data.covenant.Elysian_Decree }}
 1. {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Vengeful_Retreat }}
 1. {{ site.data.spell.Fel_Rush }} для активации баффа {{ site.data.talent.Momentum }}.
 1. {{ site.data.talent.Felblade }}
 1. {{ site.data.spell.Eye_Beam }}
 1. {{ site.data.spell.Metamorphosis }}
 1. {{ site.data.spell.Blade_Dance }}
-1. {{ site.data.spell.Eye_Beam }}
 1. {{ site.data.spell.Death_Sweep }}
 
 <div class="tabs">
@@ -88,7 +88,7 @@ toc: true
 3. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.<br>
 4. {{ site.data.talent.Glaive_Tempest }}<br>
 5. {{ site.data.spell.Eye_Beam }}<br>
-6. {{ site.data.covenant.Elysian_Decree }} по готовности
+6. {{ site.data.covenant.Elysian_Decree }} по готовности<br>
 7. {{ site.data.spell.Death_Sweep }}если 3+ целей.<br>
 8. {{ site.data.spell.Blade_Dance }} если 5+ целей.<br>
 9. {{ site.data.spell.Immolation_Aura }}<br>
@@ -105,7 +105,7 @@ toc: true
 3. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.<br>
 4. {{ site.data.spell.Death_Sweep }}<br>
 5. {{ site.data.spell.Blade_Dance }}<br>
-6. {{ site.data.covenant.Elysian_Decree }} по готовности
+6. {{ site.data.covenant.Elysian_Decree }} по готовности<br>
 7. {{ site.data.spell.Eye_Beam }}<br>
 7. {{ site.data.spell.Immolation_Aura }}<br>
 8. {{ site.data.spell.Annihilation }}<br>
@@ -190,6 +190,23 @@ toc: true
     })
   </script>
   <br>
+  
+## Использование Импульса
+
+{{ site.data.talent.Momentum }} - это талант, который требует особого внимания, чтобы правильно его реализовать.Основной игровой процесс включает в себя использование в паре {{ site.data.spell.Fel_Rush }} и {{ site.data.spell.Vengeful_Retreat }}, чтобы связать окна баффа урона вместе, чтоб получить максимальную выгоду от бафа урона, все остальное время используется стандартная ротация.Есть несколько ключевых моментов для правильного использования этого таланта:
+<ul>
+<li> Прочтите "Правильное позиционирование" о котором написано выше.</li>
+<li> {{ site.data.spell.Vengeful_Retreat }} нужно всегда использовать по кулдауну. Можно сделать WeakAuras чтоб она вас предупреждала когда способность готова к использованию.</li>
+<li> Заряды {{ site.data.spell.Fel_Rush }} никогда не следует тратить просто так.</li>
+<li> Вы всегда должны держать хотя бы один заряд {{ site.data.spell.Fel_Rush }} на перезарядке.</li>
+</ul>
+
+Как указано выше, остальная часть ротации Охотника на Демонов не изменится слишком сильно. Основные изменения заключаются в следующем:
+<ul>
+<li> Все ваши способности с временем восстановления должны использоваться когда действует баф от {{ site.data.talent.Momentum }}. </li>
+<li> Вы должны копить гнев когда нет бафа от {{ site.data.talent.Momentum }}, а когда баф от {{ site.data.talent.Momentum }} есть вы должны тратить ваш запас гнева. </li>
+</ul>  
+  
 ## Оптимизация игры через Импульс
   
 Если у вас взят талант {{ site.data.talent.Momentum }}, вы будете использовать {{ site.data.spell.Vengeful_Retreat }}. Следовательно, правильная игра за Охотника на Демонов Истребление требует от вас как планирования своего позиционирования, так и четкого контроля в отношении своего окружения.
@@ -216,22 +233,6 @@ toc: true
 <ul>
 <li> Подумайте, в каких направлениях вы можете безопасно двигаться. Иногда такой способ не позволит вам нанести максимальный урон. Если слева от вас есть например стена из огня, возможно, вы решите использовать {{ site.data.spell.Fel_Rush }} от лица боса за его спину, а не из стороны в сторону. </li>
 <li> Планируйте и минимизируйте неудачные использования {{ site.data.spell.Fel_Rush }}. Использование {{ site.data.spell.Fel_Rush }} из стороны в сторону часто будет лучшим вариантом, но имейте в виду, что вместо этого легко случайно можете улететь вперед. Всегда стойте так, чтобы нападающий не убил вас, если это возможно. Используйте {{ site.data.spell.Fel_Rush }} лишь убедившись, что ваш персонаж смотрит в том направлении, в котором вы собрались использовать {{ site.data.spell.Fel_Rush }}, это значительно снизит вероятность того, что вы попадете в неожиданное место.</li>
-</ul>
-
-## Использование Импульса
-
-{{ site.data.talent.Momentum }} - это талант, который требует особого внимания, чтобы правильно его реализовать.Основной игровой процесс включает в себя использование в паре {{ site.data.spell.Fel_Rush }} и {{ site.data.spell.Vengeful_Retreat }}, чтобы связать окна баффа урона вместе, чтоб получить максимальную выгоду от бафа урона, все остальное время используется стандартная ротация.Есть несколько ключевых моментов для правильного использования этого таланта:
-<ul>
-<li> Прочтите "Правильное позиционирование" о котором написано выше.</li>
-<li> {{ site.data.spell.Vengeful_Retreat }} нужно всегда использовать по кулдауну. Можно сделать WeakAuras чтоб она вас предупреждала когда способность готова к использованию.</li>
-<li> Заряды {{ site.data.spell.Fel_Rush }} никогда не следует тратить просто так.</li>
-<li> Вы всегда должны держать хотя бы один заряд {{ site.data.spell.Fel_Rush }} на перезарядке.</li>
-</ul>
-
-Как указано выше, остальная часть ротации Охотника на Демонов не изменится слишком сильно. Основные изменения заключаются в следующем:
-<ul>
-<li> Все ваши способности с временем восстановления должны использоваться когда действует баф от {{ site.data.talent.Momentum }}. </li>
-<li> Вы должны копить гнев когда нет бафа от {{ site.data.talent.Momentum }}, а когда баф от {{ site.data.talent.Momentum }} есть вы должны тратить ваш запас гнева. </li>
 </ul>
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Назад:<br>Таланты и Билды</a></div> <div class="minibox"><a href="{{ site.url }}/guide/havoc/stats.html">Длаее:<br>Характеристики</a></div>
