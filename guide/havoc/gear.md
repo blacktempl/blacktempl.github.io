@@ -554,21 +554,21 @@ toc: true
 * {{ site.data.legendary.Chaos_Theory }}  —  {{ site.data.spell.Blade_Dance }} с вероятностью 30% накладывает на персонажа эффект “Клинки Хаоса”, который повышает урон от {{ site.data.spell.Chaos_Strike }} на 50%, а вероятность восполнения гнева - дополнительно на 60%. Время действия эффекта - 8 сек. 
 > Можно применить на пояс или перчатки
 
-Рецепт на этот легендарный предмет добывается с последнего босса {{ site.data.mplus.Castle_Nathria }} рейда {{ site.data.mplus.Sire_Denathrius }}.
+Рецепт на этот легендарный предмет добывается с последнего босса {{ site.data.mplus.Sire_Denathrius }} рейда {{ site.data.mplus.Castle_Nathria }}.
 
 **Клив/АоЕ**
 
 * {{ site.data.legendary.Collective_Anguish }}  — При использовании {{ site.data.spell.Eye_Beam }} Охотник на Демонов призывает союзника, который использует {{ site.data.spell.Fel_Devastation }}.
 > Можно применить на плащ или наручи.
 
-Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Sire_Denathrius }}.
+Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Castle_Nathria }}.
 
 ### Мифик+
 
 * {{ site.data.legendary.Collective_Anguish }} — При использовании {{ site.data.spell.Eye_Beam }} Охотник на Демонов призывает союзника, который использует {{ site.data.spell.Fel_Devastation }}.
 > Можно применить на плащ или наручи.
 
-Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Sire_Denathrius }}.
+Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Castle_Nathria }}.
 
 ## Аксессуар
 
