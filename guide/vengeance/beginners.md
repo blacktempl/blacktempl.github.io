@@ -437,7 +437,7 @@ toc: true
 
 ## Расходники
 
-### Зачарованние
+### Зачарование
 
 <ul>
 <li>Оружие: 2х{{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li>

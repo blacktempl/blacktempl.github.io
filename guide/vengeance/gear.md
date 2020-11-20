@@ -665,7 +665,7 @@ toc: true
 <tbody>
 <tr>
 <td style="text-align: center;"><b>Сложность</b></td>
-<td style="text-align: center;"><b>Первые 8 босса</b></td>
+<td style="text-align: center;"><b>Первые 8 боссов</b></td>
 <td style="text-align: center;"><b>Последние 2 босса</b></td>
 </tr>
 <tr><td>ЛФР</td>
