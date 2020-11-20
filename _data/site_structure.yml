@@ -5,13 +5,13 @@ categories:
 - title: Истребление
   subcategories:
     - title: Гайд
-      url: /guide/havoc/quick_faq.html.html
+      url: /guide/havoc/quick_faq.html
 #   - title: Мифик+
 #      url: /guide/havoc/mythic_plus.html
 - title: Месть
   subcategories:
     - title: Гайд
-      url: /guide/vengeance/quick_faq.html.html    
+      url: /guide/vengeance/quick_faq.html 
 #    - title: Мифик+
 #      url: /guide/vengeance/mythic_plus.html
 - title: Руководства
