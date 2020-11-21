@@ -41,7 +41,7 @@ toc: true
 <img src="{{ site.url }}/assets/img/guide/havoc/WA_ipses_havoc.gif">
 </p>
 
-**Afenar WA's - Demon Hunter:** <a href="https://wago.io/4kTH1dUFb" target="blank">https://wago.io/4kTH1dUFb</a>
+**Afenar WA's - Demon Hunter:** <a href="https://wago.io/Afenar_DH" target="blank">https://wago.io/Afenar_DH</a>
 <p align="left" width="100%">
 <img src="{{ site.url }}/assets/img/guide/havoc/WA_afenar_Havoc.webp">
 </p>

@@ -33,7 +33,7 @@ toc: true
  процесса (что в любом случае противоречит правилам игры). 
  
 ## Полезные WeakAuras
-**Afenar WA's - Demon Hunter:** <a href="https://wago.io/4kTH1dUFb" target="blank">https://wago.io/4kTH1dUFb</a><br>
+**Afenar WA's - Demon Hunter:** <a href="https://wago.io/4kTH1dUFb" target="blank">https://wago.io/Afenar_DH</a><br>
 >Это сборник отслеживает все кулдауны и баффы, и динамически обновляется с учетом ваших текущих талантов.
 <p align="left" width="100%">
 <img src="{{ site.url }}/assets/img/guide/vengeance/WA_afenar_Veng.gif">

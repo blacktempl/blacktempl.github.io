@@ -65,7 +65,7 @@ toc: true
             <ul>
                 <li>{{ site.data.spell.Fiery_Brand }} сильная защитная способность применяемая к одной цели с коротким временем восстановления.</li>
                 <li class="asc-apl" style="display:none;"></li>
-               	<li>{{ site.data.spell.MetamorphosisVDH }} защитная способность, которая увеличивает здоровье, генерацию гнева и генерацию {{ site.data.spell.Soul_Fragment }}.</li>	
+               	<li>{{ site.data.spell.MetamorphosisVDH }} защитная способность, которая увеличивает здоровье и броню, генерацию гнева и генерацию {{ site.data.spell.Soul_Fragment }}.</li>	
            </ul>
         </li>
 <li> <b>Броня:</b> Охотники на демонов носят Кожанную броню с Ловкостью.</li>
