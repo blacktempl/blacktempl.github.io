@@ -864,6 +864,8 @@ toc: true
 <br>
 ## Какой ковенант и медиума выбрать?
 
+### Ковенат Кирий
+
 <p style="color:#68ccef;font-size:2em;"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png"> Кирии</p>
 
 **Медиум Пелагос**
@@ -875,6 +877,20 @@ toc: true
 {{ site.data.covenant.Summon_Steward }} - Вы зовете распорядителя, который приносит вам {{ site.data.covenant.Phial_of_Serenity }}, восполняющий 20% здоровья и снимающий проклятия, болезни, яды и эффекты кровотечения. Очень полезный флакон, сильно упрощает жизнь в ключах, снимает даже стаки аффикса {{ site.data.mplus.Necrotic }}.
 
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/pelagos.png"> </p>
+
+
+### Ковенат Вентиров
+
+Вторым возможным для выбора ковенатом являются <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span>. Лучший медиум для нас это **Наджия**. 
+
+После вступленя в ковенант нам отроются две способности:
+
+{{ site.data.covenant.Sinful_Brand }} - Отмечает противника клеймом вентиров, снижая скорость атак ближнего боя на 30%, скорость произнесения заклинаний – на 30%, а также наносит урон от темной магии в течение 8 сек. {{ site.data.covenant.Sinful_Brand }} накладывается на всех ближайших противников при активации {{ site.data.spell.Metamorphosis }}. Наносит неплохой урон в одну цель, и очень сильный урон в АоЕ после применения {{ site.data.spell.Metamorphosis }}, может стать неплохим выбором для СТ боев.
+
+{{ site.data.covenant.Door_of_Shadows }} - Способность дающая нам дополнительную мобильность, с ее помощью можно пропускать группы мобов.
+
+
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.jpg"> </p>
 
 ## Проводники (Кондуиты)
 
