@@ -390,6 +390,10 @@
 
 <div class="tabs__pane" id="content-2">
 <div class="tabs_in">
+
+В четвертом тире талантов ипользуется талант {{ site.data.talent.Netherwalk }}, но если в бою с боссом не требуется талант с избеганием урона, то вы можете взять чтобы {{ site.data.talent.Soul_Rending }} поднять выживаемость.
+<br><br>
+
 <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
 <div class="talentcalc-wrapper" style="" data-selected="no">
 <div class="talentcalc-main" data-selected="no" data-class="demonhunter">
@@ -769,7 +773,7 @@
 <div class="tabs__pane" id="content-3">
 <div class="tabs_in">
 
-Билд используется только с легендарным предметом {{ site.data.legendary.Chaos_Theory }}.
+Билд используется только с легендарным предметом {{ site.data.legendary.Chaos_Theory }}. В четвертом тире талантов ипользуется талант {{ site.data.talent.Netherwalk }}, но если в бою с боссом не требуется талант с избеганием урона, то вы можете взять чтобы {{ site.data.talent.Soul_Rending }} поднять выживаемость.
 <br>
 <br>
 <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
