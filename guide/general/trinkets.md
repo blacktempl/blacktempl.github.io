@@ -770,6 +770,7 @@
 <div class="tabs_in">
 
 Билд используется только с легендарным предметом {{ site.data.legendary.Chaos_Theory }}.
+<br>
 
 <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
 <div class="talentcalc-wrapper" style="" data-selected="no">
