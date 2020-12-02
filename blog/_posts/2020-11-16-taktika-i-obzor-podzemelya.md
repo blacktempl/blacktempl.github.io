@@ -14,52 +14,14 @@ toc: true
 <p style="color:red">Нажмите на изображения подземелья, чтобы развернуть информацию о нем.</p>
 
 <hr>
-
 <div class="dungeon-accordion">
 <div id="accordion">
-    <div class="card">
-        <div class="card-header" id="Sanguine_Depths">
-            <div data-toggle="collapse" data-target="#Sanguine_Depths-collapse" aria-expanded="true" aria-controls="Sanguine_Depths-collapse" class="dungeon-header Sanguine_Depths"><h2>Кровавые катакомбы</h2></div>
-        </div>
-        <div id="Sanguine_Depths-collapse" class="collapse show" aria-labelledby="Sanguine_Depths" data-parent="#accordion">
-            <div class="card-body" markdown="1">
-			Кровавые Катакомбы — подземелье в локации Ревендрет, доступное для игроков 50 уровня на нормальной сложности и игроков 60 на героической, мифической и мифической+ сложностях. Вход в Кровавые катакомбы находится снаружи разрушенной части Замка Нафрия и является его частью.
-			<br>
-		<hr>
-		<br><br>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Sanguine_Depths/Kryxis.png" align="left">Криксис Ненасытный</span> - почувствовал запасы анимы в глубине подземелий, и жажда этой энергии довела его до безумия. Образовавшийся в Ревендрете разлом позволил Криксису проникнуть в катакомбы, теперь он стремится поглотить каждую каплю анимы из подземного хранилища.
-				<br><br>
-Босс будет бить танка {{ site.data.mplus.Vicious_Headbutt }}, откидывая назад, — стойте спиной к стене, чтобы не улететь в пропасть. Иногда Криксис будет читать заклинание {{ site.data.mplus.Hungering_Drain }}, увеличивающее его урон, — сбиваем.
-<br>
-<br>
-Периодически босс будет выбирать одного игрока и совершать {{ site.data.mplus.Juggernaut_Rush }} к нему. Игроки, оказавшиеся на линии атаки также получат урон. Фокус босса можно скинуть, например, притворившись мёртвым охотником.
-<br>
-<br>
-На площадке будут появляться {{ site.data.mplus.Living_Essence }} — собираем их, пока этого не сделал Криксис, иначе он отлечится и получит баф, увеличивающий урон. 
-				</p>
-<hr>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Sanguine_Depths/Tarvold.png" align="left">Вершитель Тарвольд</span> - Страж Кровавых катакомб, он испытывает извращённое удовольствие, истязая заключенных. Вершитель Тарвольд стремится освободить пленников от их грехов и анимы.
-				<br><br>
-
-Все сложность босса в правильном позиционировании. На одного из участников группы будет вешаться дебаф {{ site.data.mplus.Castigate }}, наносящий урон всем рядом — отбегаем. 
-<br><br>
-Периодически босс будет призывать адда, который при после смерти оставляет под собой лужу {{ site.data.mplus.Residue }}. Причем чем дольше он проживет, тем больше останется лужа. Более того, пока ад жив по группе будет проходить периодический АоЕ урон {{ site.data.mplus.Growing_Pride }}. Фокусим его и убиваем как можно быстрее.
-				</p>
-				<hr>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Sanguine_Depths/Beryllia.png" align="left">Верховная надзирательница Бериллия</span> - Она провела целую вечность, изучая потоки анимы в Ревендрете. Теперь её умения и знания ждут испытаний, ведь Бериллия узнала об одном очень любопытном заключенном из глубин Кровавых катакомб – наару З'рали.
-				<br><br>
-<hr>
-<div class="dungeon-accordion">
-  <div id="accordion">
-    <div class="card">
-        <div class="card-header" id="Sanguine_Depths">
-            <div data-toggle="collapse" data-target="#Sanguine_Depths-collapse" aria-expanded="true" aria-controls="Sanguine_Depths-collapse" class="dungeon-header Sanguine_Depths"><h2>Кровавые катакомбы</h2></div>
-        </div>
-        <div id="Sanguine_Depths-collapse" class="collapse show" aria-labelledby="Sanguine_Depths" data-parent="#accordion">
-          <div class="card-body" markdown="1">   
+<div class="card">
+<div class="card-header" id="Sanguine_Depths">
+<div data-toggle="collapse" data-target="#Sanguine_Depths-collapse" aria-expanded="true" aria-controls="Sanguine_Depths-collapse" class="dungeon-header Sanguine_Depths"><h2>Кровавые катакомбы</h2></div>
+</div>
+<div id="Sanguine_Depths-collapse" class="collapse show" aria-labelledby="Sanguine_Depths" data-parent="#accordion">
+<div class="card-body" markdown="1">   
 
 Кровавые Катакомбы — подземелье в локации Ревендрет, доступное для игроков 50 уровня на нормальной сложности и игроков 60 на героической, мифической и мифической+ сложностях. Вход в Кровавые катакомбы находится снаружи разрушенной части Замка Нафрия и является его частью.
 
@@ -265,3 +227,4 @@ toc: true
 </div>
 </div>
 </div>
+
