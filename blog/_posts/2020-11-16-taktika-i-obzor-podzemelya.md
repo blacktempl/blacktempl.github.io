@@ -1,67 +1,81 @@
 ---
-layout: post
-title: Тактика и обзор подземелий 
-date: 2020-11-16 00:00:00 +0200
-author: Rodriguezz
-toc: true
+layout: page
+title: "Castle Nathria Guide"
+last_update: 2020-11-17 00:00:00
+game_version: 9.0.2 Shadowlands
+author: Altenna
+toc: false
 ---
+# Introduction
+This guide was made possible by:
 
-<p style="color:red">Нажмите на изображения подземелья, чтобы развернуть информацию о нем.</p>
+- Altenna (Discord: JudgeJames#0001 \| [Twitch](https://www.twitch.tv/judgejames) \| [Twitter](https://twitter.com/_judgejames_))
+- Amani (Discord: Amani#0001 \| [Discord Server](https://discordapp.com/invite/zTQhBn8) \| [YouTube](https://www.youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg))
+- Cayna (Discord: cayna#0103 \| [Twitch](https://www.twitch.tv/cayna))
+- HawkCorrigan (Discord: HawkCorrigan#1811)
+- Sheffy (Discord: Sheffy#4928 \| [Twitch](https://www.twitch.tv/sheffywow) \| [Twitter](https://twitter.com/SheffyWoW))
+
+Information on this page is written with the assumption that you understand the new priority list, talents, and legendary items introduced in Shadowlands. If you have not done so, we highly recommend reading our other resources to learn about them!
+
+The tips and recommendations listed here are based on educated opinions from beta testing as well as reviewing logs and videos, so strategies can change as we develop a better understanding of each fight or as the spec and bosses are tuned. If you have any disagreements, feedback, or questions, please feel welcome to reach out to the team.
+
+# Miscellaneous Tips
+- GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
+
+- Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilizing {{ site.data.spell.spiritwalkers_grace }} and instant casts as much as you can for movement heavy encounters.
+
+- When talenting {{ site.data.talent.pe }}, always remember you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun ({{ site.data.spell.pulverize }}) through {{ site.data.spell.earth_elemental }}.
+
+- Recall that [Stampeding Roar](https://www.wowhead.com/spell=106898/stampeding-roar) is now a baseline Druid ability. Depending on your raid comp, it may not be necessary to talent {{ site.data.talent.wind_rush_totem }}.
+
+- As kill times become faster on farm, {{ site.data.legendary.reminder }} may be a competitive legendary to use for some bosses.
+
+# Bosses
+<p style="color:red">Click on a boss banner to expand it.</p>
 
 <hr>
 <div class="dungeon-accordion">
   <div id="accordion">
     <div class="card">
-        <div class="card-header" id="Sanguine_Depths">
-            <div data-toggle="collapse" data-target="#Sanguine_Depths-collapse" aria-expanded="true" aria-controls="Sanguine_Depths-collapse" class="dungeon-header Sanguine_Depths"><h2>Кровавые катакомбы</h2></div>
+        <div class="card-header" id="shriekwing">
+            <div data-toggle="collapse" data-target="#shriekwing-collapse" aria-expanded="true" aria-controls="shriekwing-collapse" class="raid-header castle_nathria"><h2>Shriekwing</h2></div>
         </div>
-        <div id="Sanguine_Depths-collapse" class="collapse show" aria-labelledby="Sanguine_Depths" data-parent="#accordion">
+        <div id="shriekwing-collapse" class="collapse" aria-labelledby="shriekwing" data-parent="#accordion">
           <div class="card-body" markdown="1">   
 
-Кровавые Катакомбы — подземелье в локации Ревендрет, доступное для игроков 50 уровня на нормальной сложности и игроков 60 на героической, мифической и мифической+ сложностях. Вход в Кровавые катакомбы находится снаружи разрушенной части Замка Нафрия и является его частью.
+**Boss Fight Profile:** Single-Target
 
-<span class="blue">
-<img src="{{ site.url }}/assets/img/guide/dungeons/Sanguine_Depths/Kryxis.png" align="left">Криксис Ненасытный</span> - почувствовал запасы анимы в глубине подземелий, и жажда этой энергии довела его до безумия. Образовавшийся в Ревендрете разлом позволил Криксису проникнуть в катакомбы, теперь он стремится поглотить каждую каплю анимы из подземного хранилища.
+**Talents:**
+* **15**: {{site.data.talent.echo_of_the_elements}}
+* **25**: {{ site.data.talent.echoing_shock }} or {{ site.data.talent.elemental_blast }}
+* **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
+* **35**: {{ site.data.talent.master_of_the_elements }}
+* **40**: {{ site.data.talent.wind_rush_totem }}
+* **45**: {{ site.data.talent.icefury }}
+* **50**: {{ site.data.talent.stormkeeper }}
 
-Босс будет бить танка {{ site.data.mplus.Vicious_Headbutt }}, откидывая назад, — стойте спиной к стене, чтобы не улететь в пропасть. Иногда Криксис будет читать заклинание {{ site.data.mplus.Hungering_Drain }}, увеличивающее его урон, — сбиваем.
+**Potential Legendaries:**
+- {{ site.data.legendary.windspeaker }}
+- {{ site.data.legendary.eeq }}
 
-Периодически босс будет выбирать одного игрока и совершать {{ site.data.mplus.Juggernaut_Rush }} к нему. Игроки, оказавшиеся на линии атаки также получат урон. Фокус босса можно скинуть, например, притворившись мёртвым охотником.
+**Damage:**
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts if targeted with {{ site.data.nathria.echolocation }}.
+- If possible, pool Maelstrom on Shriekwing during Phase 2, but do not be reckless for it.
 
-На площадке будут появляться {{ site.data.mplus.Living_Essence }} — собираем их, пока этого не сделал Криксис, иначе он отлечится и получит баф, увеличивающий урон. 
+**Defensives:**
+- Use {{ site.data.spell.astral_shift }} for {{ site.data.nathria.earsplitting_shriek }} and {{ site.data.nathria.reverberating_scream }} as needed.
+- {{ site.data.talent.spirit_wolf }} can help your survivability during intermission. {{ site.data.talent.earth_shield }} can offer HPS against the constant damage from {{ site.data.nathria.reverberating_scream }}.
 
-<span class="blue">
-<img src="{{ site.url }}/assets/img/guide/dungeons/Sanguine_Depths/Tarvold.png" align="left">Вершитель Тарвольд</span> - Страж Кровавых катакомб, он испытывает извращённое удовольствие, истязая заключенных. Вершитель Тарвольд стремится освободить пленников от их грехов и анимы.
+**Healing:**
+- Phase 2 is a great opportunity to support your raid with off-healing through {{ site.data.spell.healing_stream_totem }}, {{site.data.spell.chain_heal }}, and {{ site.data.spell.healing_surge }} as needed.
 
-Все сложность босса в правильном позиционировании. На одного из участников группы будет вешаться дебаф {{ site.data.mplus.Castigate }}, наносящий урон всем рядом — отбегаем. 
+**Utilities:**
+- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members with {{ site.data.nathria.echolocation }}, {{ site.data.nathria.echoing_screech }}, or throughout Phase 2.
 
-Периодически босс будет призывать адда, который при после смерти оставляет под собой лужу {{ site.data.mplus.Residue }}. Причем чем дольше он проживет, тем больше останется лужа. Более того, пока ад жив по группе будет проходить периодический АоЕ урон {{ site.data.mplus.Growing_Pride }}. Фокусим его и убиваем как можно быстрее.
-
-<span class="blue">
-<img src="{{ site.url }}/assets/img/guide/dungeons/Sanguine_Depths/Beryllia.png" align="left">Верховная надзирательница Бериллия</span> - Она провела целую вечность, изучая потоки анимы в Ревендрете. Теперь её умения и знания ждут испытаний, ведь Бериллия узнала об одном очень любопытном заключенном из глубин Кровавых катакомб – наару З'рали.
-			
-Босс будет применять на танка {{ site.data.mplus.Iron_Spikes }} — прожимаемся, отлечиваем.
-
-Когда Бериллия набирает 100 энергии она начинает читать заклинание {{ site.data.mplus.Rite_of_Supremacy }}. В этот момент всем игрокам необходимо забежать в купол, иначе вы получите урон и дебаф Агония.
-
-Когда босс бьёт З'рали заклинанием {{ site.data.mplus.Endless_Torment }}, та начинает АоЕ-шить {{ site.data.mplus.Anguished_Cries }} по всей группе — выбегаем из войд-зон.
-
-После победы над Бериллией не забудьте подобрать сущность З'рали, которая упадёт неподалёку на землю. Игрок, взявший сущность, будет ключевым в следующем сражении. 
+**Notes:**
+- The damage patterns for this fight are either small trickles or very lethal. As such, {{ site.data.talent.natures_guardian }} may not prove useful, and {{ site.data.talent.wind_rush_totem }} will offer better survivability for you and your raid.
+- Because {{ site.data.nathria.sonar_shriek }} is a Horrify and not a Fear, you cannot use {{ site.data.spell.tremor_totem }} to dispel players.
         
-<span class="blue">
-<img src="{{ site.url }}/assets/img/guide/dungeons/Sanguine_Depths/Kaal.png" align="left">Генерал Кааль</span> - Один из главных генералов Сира Денатрия, которая наблюдает за исполнением его воли в Ревендрете. Сильная, ловкая и очень коварная, генерал Кааль использует своё проворство и аниму, чтобы устранять каждого, кто выступает против воли её господина.
-			
-Первая фаза боя заключается в преследовании босса и зачистке волн аддов. Через какое-то время вы прибудете на небольшой балкон, где и состоится финальное сражение.
-
-Группе лучше стоять рассредоточено, чтобы не ловить урон и кровотечение {{ site.data.mplus.Wicked_Gash }} после рывка {{ site.data.mplus.Piercing_Blur }} босса. Смотрите по сторонам: по краям площадки будут появляться копии босса, наносящие урон {{ site.data.mplus.Piercing_Blur }} перед собой.
-
-На 100 единицах энергии Кааль начнёт читать мощное АоЕ {{ site.data.mplus.Gloom_Squall }}. Игрок, взявший ранее сущность З'рали, должен поставить купол {{ site.data.mplus.Shining_Radiance }}, который поможет группе выжить.</p>
-<hr>		
-
-<span class="blue">Бонусы ковенантов в Кровавых Катакомбах</span>
-
-<img src="{{ site.url }}/assets/img/blog/mplusguide/c8cf77d2ae0ba5cf15ce.jpg" align="right">
-Бонусы в этом подземелье для всей группы помогут получить сторонники **Вентиров**. Тут вы можете найти Клетки с анимой, всего их четыре на весь данж. Активировав её, на всех противников в радиусе 40 метров будет наложен эффект {{ site.data.mplus.Anima_Drain }}. Через 20 секунд клетка отключается и на всю группу накладывается эффект {{ site.data.mplus.Sinfall_Boon }}, сила которого зависит от того, сколько противников было убито во время действия клетки и под действием её дебафа. 
-		
 </div>
 </div>
 </div>
@@ -485,4 +499,3 @@ Phase 3:
 </div>
 </div>
 </div>
-
