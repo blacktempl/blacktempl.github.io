@@ -17,10 +17,10 @@ toc: true
 <div class="dungeon-accordion">
 <div id="accordion">
 <div class="card">
-<div class="card-header" id="Sanguine_Depths">
-<div data-toggle="collapse" data-target="#Sanguine_Depths-collapse" aria-expanded="true" aria-controls="Sanguine_Depths-collapse" class="dungeon-header Sanguine_Depths"><h2>Кровавые катакомбы</h2></div>
+<div class="card-header" id="sanguine_depths">
+<div data-toggle="collapse" data-target="#sanguine_depths-collapse" aria-expanded="true" aria-controls="sanguine_depths-collapse" class="dungeon-header sanguine_depths"><h2>Кровавые катакомбы</h2></div>
 </div>
-<div id="Sanguine_Depths-collapse" class="collapse show" aria-labelledby="Sanguine_Depths" data-parent="#accordion">
+<div id="sanguine_depths-collapse" class="collapse show" aria-labelledby="sanguine_depths" data-parent="#accordion">
 <div class="card-body" markdown="1">   
 
 Кровавые Катакомбы — подземелье в локации Ревендрет, доступное для игроков 50 уровня на нормальной сложности и игроков 60 на героической, мифической и мифической+ сложностях. Вход в Кровавые катакомбы находится снаружи разрушенной части Замка Нафрия и является его частью.
