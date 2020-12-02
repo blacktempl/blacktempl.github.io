@@ -1,11 +1,3 @@
----
-layout: highcharts_page
-title: Trinkets
-last_update: 2020-01-11 09:00:00
-game_version: 8.3.0 Battle for Azeroth
-toc: true
----
-
 
 ## Какие таланты мне выбрать?
 
@@ -13,6 +5,7 @@ toc: true
 <div class="tabs__nav">
 <a class="tabs__link tabs__link_active" href="#content-1">АоЕ М+</a>
 <a class="tabs__link" href="#content-2">Рейд СТ</a>
+<a class="tabs__link" href="#content-3">Рейд СТ Теория</a>
 </div>
 <div class="tabs__content">
 
@@ -1235,7 +1228,3 @@ toc: true
 ## Какой ковенант и медиума выбрать?
 
 ### Ковенат Кирий
-
-
-
-
