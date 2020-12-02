@@ -918,7 +918,7 @@ toc: true
 <div class="inner">30</div>
 </td>
 
-<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="yes">
+<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="no">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258881" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_bladedance.jpg)"></ins><del></del>
@@ -948,7 +948,7 @@ toc: true
 </div>
 </td>
 
-<td class="outer last-child" data-row="2" data-col="1" cursor="pointer" data-selected="no">
+<td class="outer last-child" data-row="2" data-col="1" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=342817" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactazgalor_d_06dual.jpg)"></ins><del></del>
