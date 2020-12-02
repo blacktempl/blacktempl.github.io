@@ -1537,7 +1537,7 @@ toc: true
         <td>{{ site.data.mplus.Nalthor_the_Rimebinder }}</td>
         <td>{{ site.data.mplus.Theater_of_Pain }}</td>
     </tr>
-    <tr>
+    <tr> 
         <td>Правая рука</td>
         <td>{{ site.data.item.Poxstorm_Longsword_of_Pestilence }}</td>
         <td>{{ site.data.mplus.Margrave_Stradama }}</td>
