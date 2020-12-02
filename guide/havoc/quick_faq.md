@@ -28,19 +28,21 @@ toc: true
 ## Какие таланты мне выбрать?
 
 <div class="tabs">
-    <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-1">АоЕ М+</a>
-      <a class="tabs__link" href="#content-2">Рейд СТ</a>
-      <a class="tabs__link" href="#content-3">Рейд СТ с Теория хаоса</a>
-    </div>
-    <div class="tabs__content">
-      <div class="tabs__pane tabs__pane_show" id="content-1">
- <div class="tabs_in">
-         <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
-    <div class="talentcalc-wrapper" style="" data-selected="no">
-	  <div class="talentcalc-main" data-selected="no" data-class="demonhunter">
-	<div class="talentcalc-header-class">
-		<a class="c12">Таланты Охотника на Демонов</a></div>
+<div class="tabs__nav">
+<a class="tabs__link tabs__link_active" href="#content-1">АоЕ М+</a>
+<a class="tabs__link" href="#content-2">Рейд СТ</a>
+<a class="tabs__link" href="#content-3">Рейд СТ с Теория хаоса</a>
+</div>
+<div class="tabs__content">
+<div class="tabs__pane tabs__pane_show" id="content-1">
+
+<div class="tabs_in">
+
+<div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
+<div class="talentcalc-wrapper" style="" data-selected="no">
+<div class="talentcalc-main" data-selected="no" data-class="demonhunter">
+<div class="talentcalc-header-class">
+<a class="c12">Таланты Охотника на Демонов</a></div>
 <div class="talentcalc-spec-switcher">Специализация: <span class="q1"><span class="tooltip-inside-icon" style="background-image: url(https://wow.zamimg.com/images/wow/icons/small/ability_demonhunter_specdps.jpg)"></span> Истребление <span class="talentcalc-spec-role" style="background-position: 0px 0"></span></span>
 </div>                             
 <div class="talentcalc-spec-desc" data-spec="3">Мрачный мастер боевых клинков и разрушительной магии Скверны. Оружие: боевые клинки, мечи, топоры, кистевое.</div>  
@@ -411,13 +413,14 @@ toc: true
 </div>
 </div>      
 </div>
-      <div class="tabs__pane" id="content-2">
- <div class="tabs_in">
-         <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
-    <div class="talentcalc-wrapper" style="" data-selected="no">
-	  <div class="talentcalc-main" data-selected="no" data-class="demonhunter">
-	<div class="talentcalc-header-class">
-		<a class="c12">Таланты Охотника на Демонов</a></div>
+
+<div class="tabs__pane" id="content-2">
+<div class="tabs_in">
+<div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
+<div class="talentcalc-wrapper" style="" data-selected="no">
+<div class="talentcalc-main" data-selected="no" data-class="demonhunter">
+<div class="talentcalc-header-class">
+<a class="c12">Таланты Охотника на Демонов</a></div>
 <div class="talentcalc-spec-switcher">Специализация: <span class="q1"><span class="tooltip-inside-icon" style="background-image: url(https://wow.zamimg.com/images/wow/icons/small/ability_demonhunter_specdps.jpg)"></span> Истребление <span class="talentcalc-spec-role" style="background-position: 0px 0"></span></span>
 </div>                             
 <div class="talentcalc-spec-desc" data-spec="3">Мрачный мастер боевых клинков и разрушительной магии Скверны. Оружие: боевые клинки, мечи, топоры, кистевое.</div>  
@@ -789,8 +792,6 @@ toc: true
 </div> 
 
 <div class="tabs__pane" id="content-3">
-<div class="tabs_in">
-	 
 <div class="tabs_in">
 
 Этот билд используеться только при наличии легендарного предмета {{ site.data.legendary.Chaos_Theory }}.
