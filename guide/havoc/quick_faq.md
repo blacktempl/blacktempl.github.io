@@ -2,7 +2,7 @@
 layout: page
 title: Кратко и Быстро
 last_update: 2020-11-14 09:00:00
-game_version: 9.0.0 Shadowlands
+game_version: 9.0.2 Shadowlands
 author: Rodriguezz
 toc: true
 ---
@@ -792,6 +792,7 @@ toc: true
 </div> 
 
 <div class="tabs__pane" id="content-3">
+
 <div class="tabs_in">
 
 Этот билд используеться только при наличии легендарного предмета {{ site.data.legendary.Chaos_Theory }}.
@@ -1173,7 +1174,7 @@ toc: true
 </div> 
       </div>
     </div>
-  </div>
+
 
   <script>
     var $tabs = function (target) {
