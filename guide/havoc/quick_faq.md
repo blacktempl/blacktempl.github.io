@@ -1529,13 +1529,13 @@ toc: true
         <td>Кольцо</td>
         <td>{{ site.data.item.Entwined_Gorger_Tendril }}</td>
         <td>{{ site.data.mplus.Kryxis_the_Voracious }}</td>
-        <td>{{ site.data.mplus.The_Necrotic_Wake }}</td>
+        <td>{{ site.data.mplus.Sanguine_Depths }}</td>
     </tr>
     <tr>
         <td>Кольцо</td>
         <td>{{ site.data.item.Ritual_Commanders_Ring }}</td>
         <td>{{ site.data.mplus.Nalthor_the_Rimebinder }}</td>
-        <td>{{ site.data.mplus.Theater_of_Pain }}</td>
+        <td>{{ site.data.mplus.The_Necrotic_Wake }}</td>
     </tr>
     <tr> 
         <td>Правая рука</td>
