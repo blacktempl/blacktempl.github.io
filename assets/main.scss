@@ -959,37 +959,6 @@ font-size:14px}
                 0 0 5px rgba(0, 0, 0, .1) inset;
 }
 
-#card-body li {
-    border: 2px solid #7922CC78;
-	border-radius: 20px 0px 20px 10px;
-    padding: 1.25rem;
-	margin: 10px;
-	
-}
-
-#card-body a {
-    color: #78c50a;
-    text-decoration: none;
-    background-color: transparent;
-    -webkit-text-decoration-skip: objects;
-}
-
-#card-body a:visited {
-    color: #6c8d78;
-}
-
-.post-read {
-   display: block;
-   flex: 1;
-}
-
-#card-body ul {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-      border: none;
-      }
-
 .site-header {
   border-top: 5px solid $background-color;
 }
