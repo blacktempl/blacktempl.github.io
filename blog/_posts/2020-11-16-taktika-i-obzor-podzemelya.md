@@ -6,23 +6,19 @@ author: Rodriguezz
 toc: true
 ---
 
-
 Шпили Перерождения — подземелье в локации Бастион, доступное для игроков 60 уровня на нормальной, героической, мифической и мифической+ сложностях. Подземелье продолжает сюжет ковенанта Кирий.
 
-
-
 <p style="color:red">Нажмите на изображения подземелья, чтобы развернуть информацию о нем.</p>
-
-<hr>
 
 <hr>
 <div class="dungeon-accordion">
   <div id="accordion">
     <div class="card">
-        <div class="card-header" id="shriekwing">
-            <div data-toggle="collapse" data-target="#shriekwing-collapse" aria-expanded="true" aria-controls="shriekwing-collapse" class="raid-header castle_nathria"><h2>Shriekwing</h2></div>
+        <div class="card-header" id="Sanguine_Depths">
+            <div data-toggle="collapse" data-target="#Sanguine_Depths-collapse" aria-expanded="true" aria-controls="Sanguine_Depths-collapse" class="dungeon-header Sanguine_Depths"><h2>Кровавые катакомбы</h2></div>
         </div>
-        <div id="shriekwing-collapse" class="collapse" aria-labelledby="shriekwing" data-parent="#accordion">
+        <div id="Sanguine_Depths-collapse" class="collapse show" aria-labelledby="Sanguine_Depths" data-parent="#accordion">
+          <div class="card-body" markdown="1"> 
           <div class="card-body" markdown="1">   
 
 Кровавые Катакомбы — подземелье в локации Ревендрет, доступное для игроков 50 уровня на нормальной сложности и игроков 60 на героической, мифической и мифической+ сложностях. Вход в Кровавые катакомбы находится снаружи разрушенной части Замка Нафрия и является его частью.
