@@ -1529,7 +1529,7 @@ toc: true
         <td>Кольцо</td>
         <td>{{ site.data.item.Entwined_Gorger_Tendril }}</td>
         <td>{{ site.data.mplus.Kryxis_the_Voracious }}</td>
-        <td>{{ site.data.mplus.Sanguine_Depths }}</td>
+        <td>{{ site.data.mplus.The_Necrotic_Wake }}</td>
     </tr>
     <tr>
         <td>Кольцо</td>
