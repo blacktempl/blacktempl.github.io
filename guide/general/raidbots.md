@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WeakAuras
+title: Raidbots
 last_update: 2020-10-22 09:00:00
 author: "Rodriguezz. Перевод: Leggo. Оригинал: WoWHead."
 toc: true
