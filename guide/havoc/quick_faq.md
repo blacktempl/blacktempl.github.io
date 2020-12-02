@@ -31,7 +31,7 @@ toc: true
 <div class="tabs__nav">
 <a class="tabs__link tabs__link_active" href="#content-1">АоЕ М+</a>
 <a class="tabs__link" href="#content-2">Рейд СТ</a>
-<a class="tabs__link" href="#content-3">Рейд СТ Теория Хаоса</a>
+<a class="tabs__link" href="#content-3">Рейд СТ Теория</a>
 </div>
 <div class="tabs__content">
 
@@ -417,7 +417,7 @@ toc: true
 <div class="tabs__pane" id="content-2">
 <div class="tabs_in">
 
-В четвертом тире талантов ипользуется талант {{ site.data.talent.Netherwalk }}, но если в бою с боссом не требуется талант с избеганием урона, то вы можете взять чтобы {{ site.data.talent.Soul_Rending }} поднять выживаемость.
+В четвертом тире талантов ипользуется талант {{ site.data.talent.Netherwalk }}, но если в бою с боссом не требуется талант с избеганием урона, то вы можете взять {{ site.data.talent.Soul_Rending }} чтобы поднять выживаемость.
 <br><br>
 
 <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
@@ -799,7 +799,7 @@ toc: true
 <div class="tabs__pane" id="content-3">
 <div class="tabs_in">
 
-Билд используется только с легендарным предметом {{ site.data.legendary.Chaos_Theory }}. В четвертом тире талантов ипользуется талант {{ site.data.talent.Netherwalk }}, но если в бою с боссом не требуется талант с избеганием урона, то вы можете взять чтобы {{ site.data.talent.Soul_Rending }} поднять выживаемость.
+Билд используется только с легендарным предметом {{ site.data.legendary.Chaos_Theory }}. В четвертом тире талантов ипользуется талант {{ site.data.talent.Netherwalk }}, но если в бою с боссом не требуется талант с избеганием урона, то вы можете взять {{ site.data.talent.Soul_Rending }} чтобы поднять выживаемость.
 <br>
 <br>
 <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
@@ -1260,82 +1260,6 @@ toc: true
 
 ### Ковенат Кирий
 
-
-  <script>
-    var $tabs = function (target) {
-      var
-        _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
-        _eventTabsShow,
-        _showTab = function (tabsLinkTarget) {
-          var tabsPaneTarget, tabsLinkActive, tabsPaneShow;
-          tabsPaneTarget = document.querySelector(tabsLinkTarget.getAttribute('href'));
-          tabsLinkActive = tabsLinkTarget.parentElement.querySelector('.tabs__link_active');
-          tabsPaneShow = tabsPaneTarget.parentElement.querySelector('.tabs__pane_show');
-          // если следующая вкладка равна активной, то завершаем работу
-          if (tabsLinkTarget === tabsLinkActive) {
-            return;
-          }
-          // удаляем классы у текущих активных элементов
-          if (tabsLinkActive !== null) {
-            tabsLinkActive.classList.remove('tabs__link_active');
-          }
-          if (tabsPaneShow !== null) {
-            tabsPaneShow.classList.remove('tabs__pane_show');
-          }
-          // добавляем классы к элементам (в завимости от выбранной вкладки)
-          tabsLinkTarget.classList.add('tabs__link_active');
-          tabsPaneTarget.classList.add('tabs__pane_show');
-          document.dispatchEvent(_eventTabsShow);
-        },
-        _switchTabTo = function (tabsLinkIndex) {
-          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
-          if (tabsLinks.length > 0) {
-            if (tabsLinkIndex > tabsLinks.length) {
-              tabsLinkIndex = tabsLinks.length;
-            } else if (tabsLinkIndex < 1) {
-              tabsLinkIndex = 1;
-            }
-            _showTab(tabsLinks[tabsLinkIndex - 1]);
-          }
-        };
-
-      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
-
-      _elemTabs.addEventListener('click', function (e) {
-        var tabsLinkTarget = e.target;
-        // завершаем выполнение функции, если кликнули не по ссылке
-        if (!tabsLinkTarget.classList.contains('tabs__link')) {
-          return;
-        }
-        // отменяем стандартное действие
-        e.preventDefault();
-        _showTab(tabsLinkTarget);
-      });
-
-      return {
-        showTab: function (target) {
-          _showTab(target);
-        },
-        switchTabTo: function (index) {
-          _switchTabTo(index);
-        }
-      }
-
-    };
-
-    var mytabs = $tabs('.tabs');
-    if (localStorage.getItem('mytabs')) {
-      mytabs.showTab(document.querySelector('[href="' + localStorage.getItem('mytabs') + '"]'));
-    }
-
-    document.addEventListener('tab.show', function (e) {
-      localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
-    })
-  </script>
-<br>
-## Какой ковенант и медиума выбрать?
-
-### Ковенат Кирий
 
 <p style="color:#68ccef;font-size:2em;"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png"> Кирии</p>
 
