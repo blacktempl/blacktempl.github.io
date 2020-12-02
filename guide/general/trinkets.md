@@ -8,7 +8,7 @@ toc: true
 
 The following charts present all known trinkets in Patchwerk 
 
-
+<a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/ApaqAgUrbwAVK5MAEQUtHwAiFSr6ACUq7wA">anything</a>
 
 ## Patchwerk
 <div id="bloodmallet_patchwerk" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-language="ru" data-entries="10000">Loading...</div>
