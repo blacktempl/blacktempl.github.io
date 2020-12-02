@@ -576,7 +576,7 @@ toc: true
 * {{ site.data.item.Phial_of_Putrefaction }} - Наносит высокий урон и показывает высокий оверолл.
 
 ### Patchwerk
-<div id="bloodmallet_patchwerk" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-language="ru" data-entries="10000">Loading...</div>
+<div id="bloodmallet_patchwerk" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-language="ru" data-entries="10">Loading...</div>
 
 ### Hectic Add Cleave
 <div id="bloodmallet_hecticaddcleave" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-fight-style="hecticaddcleave" data-font-color="#eee" data-background-color="#222" data-language="ru">Loading...</div>
