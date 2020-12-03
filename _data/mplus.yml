@@ -144,8 +144,117 @@ Discarded_Shield: <a href="https://ru.wowhead.com/spell=325189" target="blank">�
 #Театр боли
 Necrolords_Chosen: <a href="https://ru.wowhead.com/spell=340378" target="blank">Избранник некролордов</a>
 Necrolords_Command: <a href="https://ru.wowhead.com/spell=340379" target="blank">Приказы некролордов</a>
+Sathel_the_Accursed: <a href="https://ru.wowhead.com/npc=164461" target="blank">Сатель Злосчастный</a>
+Dessia_the_Decapitator: <a href="https://ru.wowhead.com/npc=164451" target="blank">Дессия Обезглавливательница</a>
+Paceran_the_Virulent: <a href="https://ru.wowhead.com/npc=164463" target="blank">Пакиран Заразный</a>
+Necromantic_Bolt: <a href="https://ru.wowhead.com/spell=320300" target="blank">Стрела некромантии</a>
+One_With_Death: <a href="https://ru.wowhead.com/spell=320293" target="blank">Слияние со смертью</a>
+Mortal_Strike: <a href="https://ru.wowhead.com/spell=320069" target="blank">Смертельный удар</a>
+Slam: <a href="https://ru.wowhead.com/spell=320063" target="blank">Мощный удар</a>
+Plague_Bolt: <a href="https://ru.wowhead.com/spell=320120" target="blank">Чумная стрела</a>
+Enrage: <a href="https://ru.wowhead.com/spell=324085" target="blank">Исступление</a>
+Soothe: <a href="https://ru.wowhead.com/spell=2908" target="blank">Умиротворение</a>
+Fixate: <a href="https://ru.wowhead.com/spell=326892" target="blank">Сосредоточение внимания</a>
+Noxious_Spores: <a href="https://ru.wowhead.com/spell=320180" target="blank">Гибельные споры</a>
+Blighted_Sludge_Spewer: <a href="https://ru.wowhead.com/npc=174210" target="blank">Чумной изрыгатель слизи</a>
+Withering_Discharge: <a href="https://ru.wowhead.com/spell=341969" target="blank">Губительный выброс</a>
+Rancid_Gasbag: <a href="https://ru.wowhead.com/npc=163086" target="blank">Тошнотворный газовый мешок</a>
+Vile_Eruption: <a href="https://ru.wowhead.com/spell=330614" target="blank">Мерзкое извержение</a>
+Disease_Cloud: <a href="https://ru.wowhead.com/spell=330972" target="blank">Болезнетворное облако</a>
+Hateful_Strike: <a href="https://ru.wowhead.com/spell=323515" target="blank">Удар ненависти</a>
+Meat_Hooks: <a href="https://ru.wowhead.com/spell=322795" target="blank">Мясницкие крюки</a>
+Oozing_Leftovers: <a href="https://ru.wowhead.com/npc=165260" target="blank">Сочащиеся ошметки</a>
+Tenderizing_Smash: <a href="https://ru.wowhead.com/spell=318406" target="blank">Превращение в отбивную</a>
+Battle_Trance: <a href="https://ru.wowhead.com/spell=342139" target="blank">Упоение боем</a>
+Demoralizing_Shout: <a href="https://ru.wowhead.com/spell=330562" target="blank">Деморализующий крик</a>
+Ricocheting_Blade: <a href="https://ru.wowhead.com/spell=333861" target="blank">Рикошетящий клинок</a>
+Swift_Strikes: <a href="https://ru.wowhead.com/spell=333839" target="blank">Быстрые удары</a>
+Brutal_Combo: <a href="https://ru.wowhead.com/spell=320644" target="blank">Жестокая комбинация</a>
+Blood_and_Glory: <a href="https://ru.wowhead.com/spell=320114" target="blank">Кровь и слава</a>
+Glorified: <a href="https://ru.wowhead.com/spell=320165" target="blank">Триумф</a>
+Bloodied: <a href="https://ru.wowhead.com/spell=320167" target="blank">В крови</a>
+Oppressive_Banner: <a href="https://ru.wowhead.com/spell=331618" target="blank">Подавляющее знамя</a>
+Might_of_Maldraxxus: <a href="https://ru.wowhead.com/spell=320050" target="blank">Сила Малдраксуса</a>
+Crushing_Slam: <a href="https://ru.wowhead.com/spell=317231" target="blank">Крушащий удар</a>
+Massive_Cleave: <a href="https://ru.wowhead.com/spell=320729" target="blank">Жуткий рассекающий удар</a>
+Deafening_Crash: <a href="https://ru.wowhead.com/spell=339415" target="blank">Оглушительный раскат</a>
+Shackled_Soul: <a href="https://ru.wowhead.com/npc=169875" target="blank">Скованная душа</a>
+Nefarious_Darkspeaker: <a href="https://ru.wowhead.com/npc=169893" target="blank">Пагубный темный проповедник</a>
+Death_Winds: <a href="https://ru.wowhead.com/spell=333294" target="blank">Смертоносные ветра</a>
+Draw_Soul: <a href="https://ru.wowhead.com/spell=319521" target="blank">Вытягивание души</a>
+Grasping_Hands: <a href="https://ru.wowhead.com/spell=319589" target="blank">Хваткие руки</a>
+Reaping_Scythe: <a href="https://ru.wowhead.com/spell=324079" target="blank">Коса жнеца</a>
+Dark_Devastation: <a href="https://ru.wowhead.com/spell=323681" target="blank">Темное опустошение</a>
+Grasping_Rift: <a href="https://ru.wowhead.com/spell=323685" target="blank">Затягивающий разлом</a>
+Manifest_Death: <a href="https://ru.wowhead.com/spell=324449" target="blank">Явление смерти</a>
+Echos_of_Carnage: <a href="https://ru.wowhead.com/spell=339573" target="blank">Отголоски резни</a>
+Echo_of_Battle: <a href="https://ru.wowhead.com/spell=339550" target="blank">Эхо битвы</a>
+Ghostly_Charge: <a href="https://ru.wowhead.com/spell=339751" target="blank">Призрачная скачка</a>
 
 
+#Туманы скитра
+Overgrown_Roots: <a href="https://ru.wowhead.com/object=326498" target="blank">Разросшиеся корни</a>
+Savory_Statshroom: <a href="https://ru.wowhead.com/spell=340162" target="blank">Деликатесный лютогриб</a>
+Tasty_Toughshroom: <a href="https://ru.wowhead.com/spell=340158" target="blank">Вкусный жесткогриб/a>
+Depleted_Anima_Seed: <a href="https://ru.wowhead.com/npc=173702" target="blank">Истощенное анимасемя/a>
+Drust_Soulcleaver: <a href="https://ru.wowhead.com/npc=164920" target="blank">Друст-душеруб</a>
+Soul_Split: <a href="https://ru.wowhead.com/spell=322557" target="blank">Расщепление души</a>
+Drust_Harvester: <a href="https://ru.wowhead.com/npc=164921" target="blank">Друст-жнец</a>
+Harvest_Essence: <a href="https://ru.wowhead.com/spell=322938" target="blank">Сбор сущности</a>
+Tirnenn_Villager: <a href="https://ru.wowhead.com/npc=164929" target="blank">Жительница Тирна Скитта</a>
+Bewildering_Pollen: <a href="https://ru.wowhead.com/spell=321968" target="blank">Ошеломляющая пыльца</a>
+Overgrowth: <a href="https://ru.wowhead.com/spell=322486" target="blank">Опутывание</a>
+Drust_Boughbreaker: <a href="https://ru.wowhead.com/npc=164926" target="blank">Друст-древолом</a>
+Furious_Thrashing: <a href="https://ru.wowhead.com/spell=324909" target="blank">Яростная взбучка</a>
+Bramble_Burst: <a href="https://ru.wowhead.com/spell=324923" target="blank">Выброс колючек</a>
+Droman_Oulfarran: <a href="https://ru.wowhead.com/npc=164804" target="blank">Дроман Ульфарран</a>
+Death_Shroud: <a href="https://ru.wowhead.com/spell=323146" target="blank">Пелена смерти</a>
+Dromans_Wrath: <a href="https://ru.wowhead.com/spell=323059" target="blank">Гнев дромана</a>
+Tears_of_the_Forest: <a href="https://ru.wowhead.com/spell=323059" target="blank">Слезы леса</a>
+Repulsive_Visage: <a href="https://ru.wowhead.com/spell=328756" target="blank">Отвратительная личина</a>
+Mistveil_Tender: <a href="https://ru.wowhead.com/npc=166299" target="blank">Туманная хранительница</a>
+Nourish_the_Forest: <a href="https://ru.wowhead.com/spell=324914" target="blank">Покровительство леса</a>
+Mistveil_Shaper: <a href="https://ru.wowhead.com/npc=166275" target="blank">Туманный культиватор</a>
+Bramblethorn_Coat: <a href="https://ru.wowhead.com/spell=324776" target="blank">Плащ с колючками</a>
+Anima_Injection: <a href="https://ru.wowhead.com/spell=325223" target="blank">Инъекция анимы</a>
+Mistveil_Stinger: <a href="https://ru.wowhead.com/npc=166304" target="blank">Туманный острожал</a>
+Mistveil_Nightblossom: <a href="https://ru.wowhead.com/npc=173714" target="blank">Ночноцвет Туманной Завесы</a>
+Triple_Bite: <a href="https://ru.wowhead.com/spell=340288" target="blank">Тройной укус</a>
+Mistveil_Gorgegullet: <a href="https://ru.wowhead.com/npc=173720" target="blank">Жоробрюх Туманной Завесы</a>
+Crushing_Leap: <a href="https://ru.wowhead.com/spell=340305" target="blank">Тяжелый прыжок</a>
+Tongue_Lashing: <a href="https://ru.wowhead.com/spell=340300" target="blank">Хлесткий язык</a>
+Poisonous_Secretions: <a href="https://ru.wowhead.com/spell=340304" target="blank">Ядовитые выделения</a>
+Mistveil_Matriarch: <a href="https://ru.wowhead.com/npc=173655" target="blank">Матриарх темнокрылов</a>
+Radiant_Breath: <a href="https://ru.wowhead.com/spell=340160" target="blank">Сияющее дыхание</a>
+Pool_of_Radiance: <a href="https://ru.wowhead.com/spell=340189" target="blank">Область сияния</a>
+Patty_Cake: <a href="https://ru.wowhead.com/spell=321828" target="blank">Ладушки</a>
+Dodge_Ball: <a href="https://ru.wowhead.com/spell=321834" target="blank">Выбивной</a>
+Illusionary_Vulpin: <a href="https://ru.wowhead.com/npc=165251" target="blank">Иллюзорный лисохвост</a>
+Penalizing_Burst: <a href="https://ru.wowhead.com/spell=321669" target="blank">Карающий взрыв</a>
+Spinemaw_Staghorn: <a href="https://ru.wowhead.com/npc=167111" target="blank">Иглобрюх-рогач</a>
+Stimulate_Resistance: <a href="https://ru.wowhead.com/spell=326046" target="blank">Стимуляция сопротивляемости</a>
+Stimulate_Regeneration: <a href="https://ru.wowhead.com/spell=340544" target="blank">Стимуляция регенерации</a>
+Spinemaw_Acidgullet: <a href="https://ru.wowhead.com/npc=167113" target="blank">Иглобрюх-кислотник</a>
+Volatile_Acid: <a href="https://ru.wowhead.com/spell=325418" target="blank">Нестабильная кислота</a>
+Acid_Expulsion: <a href="https://ru.wowhead.com/spell=322655" target="blank">Кислотный выброс</a>
+Parasitic_Incapacitation: <a href="https://ru.wowhead.com/spell=337251" target="blank">Паразитический паралич</a>
+Parasitic_Pacification: <a href="https://ru.wowhead.com/spell=3337235" target="blank">Паразитическое усмирение</a>
+Parasitic_Domination: <a href="https://ru.wowhead.com/spell=337253" target="blank">Паразитическое подчинение</a>
+Mind_Link: <a href="https://ru.wowhead.com/spell=322614" target="blank">Связь разума</a>
+Gorging_Shield: <a href="https://ru.wowhead.com/spell=322527" target="blank">Щит поглощения</a>
+Consumption: <a href="https://ru.wowhead.com/spell=322450" target="blank">Пожирание</a>
+Corrosive_Gunk: <a href="https://ru.wowhead.com/spell=340210" target="blank">Разъедающая жижа</a>
+CorrosiveGunk: <a href="https://ru.wowhead.com/spell=340211" target="blank">Разъедающая жижа</a>
+Rapid_Infection: <a href="https://ru.wowhead.com/spell=340225" target="blank">Быстрая инфекция</a>
+RapidInfection: <a href="https://ru.wowhead.com/spell=340227" target="blank">Быстрая инфекция</a>
+Congealed_Contagion: <a href="https://ru.wowhead.com/spell=340271" target="blank">Сгустившаяся зараза</a>
+CongealedContagion: <a href="https://ru.wowhead.com/spell=340273" target="blank">Сгустившаяся зараза</a>
+Decaying_Flesh_Giant: <a href="https://ru.wowhead.com/npc=163882" target="blank">Разлагающийся великан</a>
+Toxic_Pool: <a href="https://ru.wowhead.com/spell=320072" target="blank">Ядовитая лужа</a>
+Hatchling_Nest: <a href="https://ru.wowhead.com/npc=163915/" target="blank">Чумное гнездо</a>
+Fungistorm: <a href="https://ru.wowhead.com/spell=328177/" target="blank">Грибошторм</a>
+Wing_Buffet: <a href="https://ru.wowhead.com/spell=330403" target="blank">Взмах крыльями</a>
+Plagueroc: <a href="https://ru.wowhead.com/npc=168310/" target="blank">Чумной рух</a>
 
 
 
