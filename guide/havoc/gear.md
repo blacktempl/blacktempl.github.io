@@ -611,7 +611,7 @@ toc: true
 <tr>
 <td>Эпохальный 6</td>
 <td style="text-align: center;">197</td>
-<td style="text-align: center;">110</td>
+<td style="text-align: center;">210</td>
 </tr>
 <tr>
 <td>Эпохальный 7</td>
