@@ -1271,7 +1271,7 @@ toc: true
 
 {{ site.data.covenant.Summon_Steward }} - Вы зовете распорядителя, который приносит вам {{ site.data.covenant.Phial_of_Serenity }}, восполняющий 20% здоровья и снимающий проклятия, болезни, яды и эффекты кровотечения. Очень полезный флакон, сильно упрощает жизнь в ключах, снимает даже стаки аффикса {{ site.data.mplus.Necrotic }}.
 
-<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/pelagos.png"> </p>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/Apbm" target="blank">anything</a>
 
 
 ### Ковенат Вентиров
@@ -1285,7 +1285,7 @@ toc: true
 {{ site.data.covenant.Door_of_Shadows }} - Способность дающая нам дополнительную мобильность, с ее помощью можно пропускать группы мобов.
 
 
-<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.jpg"> </p>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/Apav" target="blank">anything</a>
 
 ## Проводники (Кондуиты)
 
