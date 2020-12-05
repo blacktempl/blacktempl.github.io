@@ -371,44 +371,54 @@ Lost_Confidence: <a href="https://ru.wowhead.com/spell=322818" target="blank">П
 Activate: <a href="https://ru.wowhead.com/spell=322999" target="blank">Активация</a>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#Та Сторона
+Haunted_Urn: <a href="https://ru.wowhead.com/spell=228626" target="blank">Призрачная урна</a>
+Risen_Warlord: <a href="https://ru.wowhead.com/npc=169905" target="blank">Воскрешенный полководец</a>
+Death_Speaker: <a href="https://ru.wowhead.com/npc=168942" target="blank">Вестник смерти</a>
+Enraged_Spirit: <a href="https://ru.wowhead.com/npc=168934" target="blank">Разъяренный дух</a>
+Undying_Rage: <a href="https://ru.wowhead.com/spell=333227" target="blank">Бессмертная ярость</a>
+Erupting_Darkness: <a href="https://ru.wowhead.com/spell=334051" target="blank">Извергающаяся тьма</a>
+Enraged_Mask: <a href="https://ru.wowhead.com/spell=342869" target="blank">Яростная маска</a>
+Rage: <a href="https://ru.wowhead.com/spell=333787" target="blank">Ярость</a>
+Atalai_Devoted: <a href="https://ru.wowhead.com/npc=170486" target="blank">Верный служитель из племени Атал'ай</a>
+Devoted_Sacrifice: <a href="https://ru.wowhead.com/spell=332329" target="blank">Преданная жертва</a>
+Son_of_Hakkar: <a href="https://ru.wowhead.com/npc=170488" target="blank">Сын Хаккара</a>
+Atalai_Deathwalker: <a href="https://ru.wowhead.com/npc=170480" target="blank">Вестник смерти из племени Атал'ай</a>
+Bladestorm: <a href="https://ru.wowhead.com/spell=332671" target="blank">Вихрь клинков</a>
+Atalai_High_Priest: <a href="https://ru.wowhead.com/npc=170490/" target="blank">Старший жрец из племени Атал'ай</a>
+Renew: <a href="https://ru.wowhead.com/spell=332666" target="blank">Обновление</a>
+Heal: <a href="https://ru.wowhead.com/spell=332706" target="blank">Исцеление</a>
+Atalai_Hoodoo_Hexxer: <a href="https://ru.wowhead.com/npc=170572" target="blank">Проклинатель худу из племени Атал'ай</a>
+Healing_Wave: <a href="https://ru.wowhead.com/spell=332612" target="blank">Волна исцеления</a>
+Blood_Nova: <a href="https://ru.wowhead.com/spell=323544" target="blank">Кольцо крови</a>
+Spilled_Essence: <a href="https://ru.wowhead.com/spell=323569" target="blank">Пролитая сущность</a>
+Corrupted_Blood: <a href="https://ru.wowhead.com/spell=322746" target="blank">Порченая кровь</a>
+Blood_Barrier: <a href="https://ru.wowhead.com/spell=322773" target="blank">Кровяной барьер</a>
+Blood_Barrage: <a href="https://ru.wowhead.com/spell=323064" target="blank">Шквал крови</a>
+Piercing_Barb: <a href="https://ru.wowhead.com/spell=322736" target="blank">Пронзающий шип</a>
+Defunct_Dental_Drill: <a href="https://ru.wowhead.com/npc=167962" target="blank">Испорченная бормашина</a>
+Haywire: <a href="https://ru.wowhead.com/spell=331927" target="blank">Неполадка</a>
+4RF_4RF: <a href="https://ru.wowhead.com/npc=167964" target="blank">Г4В-Г4В</a>
+W_00F: <a href="https://ru.wowhead.com/spell=331846" target="blank">Г-АВВ</a>
+Headless_Client: <a href="https://ru.wowhead.com/npc=167963" target="blank">Безголовый клиент</a>
+Spinning_Up: <a href="https://ru.wowhead.com/spell=332156" target="blank">Ввод команд</a>
+Volatile_Memory: <a href="https://ru.wowhead.com/npc=170147" target="blank">Нестабильное воспоминание</a>
+Lubricator: <a href="https://ru.wowhead.com/npc=167965" target="blank">Смазчик</a>
+Self_Cleaning_Cycle: <a href="https://ru.wowhead.com/spell=332084" target="blank">Цикл самоочищения</a>
+Power_Overwhelming: <a href="https://ru.wowhead.com/spell=320786" target="blank">Переполняющая мощь</a>
+Echo_Finger_Laser_X_treme: <a href="https://ru.wowhead.com/spell=324047" target="blank">Сверхмощный лазер "Два пальца"</a>
+Buzz_Saw: <a href="https://ru.wowhead.com/spell=320145" target="blank">Циркулярная пила</a>
+Bleeding: <a href="https://ru.wowhead.com/spell=320147" target="blank">Кровотечение</a>
+Experimental_Squirrel_Bomb: <a href="https://ru.wowhead.com/spell=320811" target="blank">Экспериментальная бомбелка</a>
+Shadowfury: <a href="https://ru.wowhead.com/spell=320132" target="blank">Неистовство Тьмы</a>
+Weald_Shimmermoth: <a href="https://ru.wowhead.com/npc=164862" target="blank">Чащобный мерцающий мотылек</a>
+Mythresh_Skys_Talons: <a href="https://ru.wowhead.com/npc=171184" target="blank">Мифреш Небесный Коготь</a>
+Soporific_Shimmerdust: <a href="https://ru.wowhead.com/spell=334493" target="blank">Сонная мерцающая пыльца</a>
+Wailing_Grief: <a href="https://ru.wowhead.com/spell=340026" target="blank">Горестный вой</a>
+Displacement_Trap: <a href="https://ru.wowhead.com/spell=319619" target="blank">Перемещающая ловушка</a>
+Localized_Explosive_Contrivance: <a href="https://ru.wowhead.com/spell=321948" target="blank">Взрывоопасное устройство локального действия</a>
+Master_of_Death: <a href="https://ru.wowhead.com/spell=325258" target="blank">Повелитель смерти</a>
+Cosmic_Artifice: <a href="https://ru.wowhead.com/spell=325725" target="blank">Космическая уловка</a>
+Shatter_Reality: <a href="https://ru.wowhead.com/spell=326171" target="blank">Раскол реальности</a>
+Bwonsamdis_Fury: <a href="https://ru.wowhead.com/spell=327891" target="blank">Ярость Бвонсамди</a>
+Bwonsamdis_Fervor: <a href="https://ru.wowhead.com/spell=327893" target="blank">Рвение Бвонсамди</a>
