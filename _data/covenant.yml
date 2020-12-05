@@ -12,17 +12,27 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-#Havoc
+#Кирий
 Elysian_Decree: <a href="https://ru.wowhead.com/spell=306830" target="blank">Элизийский декрет</a>
 Summon_Steward: <a href="https://ru.wowhead.com/spell=324739" target="blank">Призыв распорядителя</a>
 Phial_of_Serenity: <a href="https://ru.wowhead.com/item=177278" target="blank">Флакон безмятежности</a>
 
+#Медиумы 
+Let_Go_of_the_Past: <a href="https://ru.wowhead.com/spell=328257" target="blank">Забудь прошлое</a>
+
+Valiant_Strikes: <a href="https://ru.wowhead.com/spell=300728" target="blank">Храбрые удары</a>
+Cleansing_Rites: <a href="https://ru.wowhead.com/spell=329784" target="blank">Ритуалы очищения</a>
+Pointed_Courage: <a href="https://ru.wowhead.com/spell=329778" target="blank">Демонстративная отвага</a>
+
+#Вентиры
 Sinful_Brand: <a href="https://ru.wowhead.com/spell=317009" target="blank">Клеймо греха</a>
 Door_of_Shadows: <a href="https://ru.wowhead.com/spell=300728" target="blank">Врата теней</a>
 
+#Некролорды
 Fodder_to_the_Flame: <a href="https://ru.wowhead.com/spell=329554" target="blank">Подпитка для пламени</a>
 Fleshcraft: <a href="https://ru.wowhead.com/spell=331180" target="blank">Скульптор плоти</a>
 
+#ночной народец
 The_Hunt: <a href="https://ru.wowhead.com/spell=323639" target="blank">Охота</a>
 Soulshape: <a href="https://ru.wowhead.com/spell=310143" target="blank">Облик души</a>
 

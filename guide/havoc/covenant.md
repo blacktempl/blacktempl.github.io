@@ -38,7 +38,7 @@ toc: true
 
 ## Какие связи душ выбрать?
 
-<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/pelagos.png"> </p>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/Apbm" target="blank">anything</a>
 
 ## Проводники (Кондуиты)
 

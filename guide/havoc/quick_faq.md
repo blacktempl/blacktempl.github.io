@@ -1273,7 +1273,6 @@ toc: true
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/Apbm" target="blank">anything</a>
 
-
 ### Ковенат Вентиров
 
 Вторым возможным для выбора ковенатом являются <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span>. Лучший медиум для нас это **Наджия**. 
@@ -1283,7 +1282,6 @@ toc: true
 {{ site.data.covenant.Sinful_Brand }} - Отмечает противника клеймом вентиров, снижая скорость атак ближнего боя на 30%, скорость произнесения заклинаний – на 30%, а также наносит урон от темной магии в течение 8 сек. {{ site.data.covenant.Sinful_Brand }} накладывается на всех ближайших противников при активации {{ site.data.spell.Metamorphosis }}. Наносит неплохой урон в одну цель, и очень сильный урон в АоЕ после применения {{ site.data.spell.Metamorphosis }}, может стать неплохим выбором для СТ боев.
 
 {{ site.data.covenant.Door_of_Shadows }} - Способность дающая нам дополнительную мобильность, с ее помощью можно пропускать группы мобов.
-
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/Apav" target="blank">anything</a>
 
