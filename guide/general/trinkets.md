@@ -143,7 +143,7 @@ toc: true
 ## Ковенант Некролорды
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/necrolord_logo.png"> </p>
 
-<span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - предлагают наверное самыйе скучные таланты среди всех ковенантов. {{ site.data.covenant.Fodder_to_the_Flame }} призывает мобо которого нужно убить, все это отнимает много времени, но баф который мы получаем очень сильный и его можно совмещать с Метаморфозой. 
+<span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - предлагают наверное самыйе скучные таланты среди всех ковенантов. {{ site.data.covenant.Fodder_to_the_Flame }} призывает моба которого нужно убить, все это отнимает много времени, но баф который мы получаем очень сильный и его можно совмещать с Метаморфозой. 
 
 После вступленя в ковенант нам отроются две способности:
 * {{ site.data.covenant.Fodder_to_the_Flame }} - Вы призываете демона которого можете атаковать только вы, его убийство дает {{ site.data.covenant.Empowered_Demon_Soul }}, хоть демон и убивается очень легко, все эти махинации отнимают много времени прежде чем вы начнете бить свою приоритетную цель, тем самым это будет ломать нашу ротацию и вносить дискомфорт в игру.
