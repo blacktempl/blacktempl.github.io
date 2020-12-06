@@ -143,7 +143,7 @@ toc: true
 ## Ковенант Некролорды
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/necrolord_logo.png"> </p>
 
-<span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="16" height="24"> <b>Некролорды</b></span> - предлагают наверное самыйе скучные таланты среди всех ковенантов. {{ site.data.covenant.Fodder_to_the_Flame }} призывает мобо которого нужно убить, все это отнимает много времени, но баф который мы получаем очень сильный и его можно совмещать с Метаморфозой. 
+<span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - предлагают наверное самыйе скучные таланты среди всех ковенантов. {{ site.data.covenant.Fodder_to_the_Flame }} призывает мобо которого нужно убить, все это отнимает много времени, но баф который мы получаем очень сильный и его можно совмещать с Метаморфозой. 
 
 После вступленя в ковенант нам отроются две способности:
 * {{ site.data.covenant.Fodder_to_the_Flame }} - Вы призываете демона которого можете атаковать только вы, его убийство дает {{ site.data.covenant.Empowered_Demon_Soul }}, хоть демон и убивается очень легко, все эти махинации отнимают много времени прежде чем вы начнете бить свою приоритетную цель, тем самым это будет ломать нашу ротацию и вносить дискомфорт в игру.
@@ -180,43 +180,6 @@ toc: true
 Рекомендуемое дерево развития медиума Костоплав Гейрмир:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/ApZqAQUrbwARBSzPACIVKvoAJSrvAA" target="blank">anything</a>
-
-## Проводники (Кондуиты)
-
-### Рейд
-
-<u>Проводники силы</u>
-
-* {{ site.data.conduits.Demons_Touch }} —  {{ site.data.spell.Chaos_Strike }} с вероятностью 5,0%-14,5% сработает еще раз. Очень сильный кондуит для СТ боев.
-* {{ site.data.conduits.Growing_Inferno }} — урон способности {{ site.data.spell.Immolation_Aura }} дополнительно увеличивается на 10-24% каждый раз, когда она наносит урон. Очень сильно увеличивает урон от {{ site.data.spell.Immolation_Aura }}, используем всегда.
-
-<u>Проводники выносливости</u>
-
-* {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} снижает получаемый вами урон от магии дополнительно на 6-13%. Очень сильный проводник, берем когда в бою присутствует магический урон.
-* {{ site.data.conduits.Fel_Defender }} — время восстановления вашей способности {{ site.data.spell.Blur }} уменьшается на 5-20 сек. Выбор по умолчанию в боях без магии.
-
-<u>Проводники точности</u>
-
-* {{ site.data.conduits.Felfire_Haste }} — ваша скорость передвижения повышается на 5-20% после использования способности {{ site.data.spell.Fel_Rush }}. Дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку.
-* {{ site.data.conduits.Ravenous_Consumption }} — способность {{ site.data.spell.Consume_Magic }} получает 15-30% шанс рассеять дополнительный эффект.
-
-### Мифик+
-
-<u>Проводники силы</u>
-
-* {{ site.data.conduits.Demons_Touch }} —  {{ site.data.spell.Chaos_Strike }} с вероятностью 5,0%-14,5% сработает еще раз. Очень сильный кондуит для СТ боев.
-* {{ site.data.conduits.Growing_Inferno }} — урон способности {{ site.data.spell.Immolation_Aura }} дополнительно увеличивается на 10-24% каждый раз, когда она наносит урон. Очень сильно увеличивает урон от {{ site.data.spell.Immolation_Aura }}, используем всегда.
-
-<u>Проводники выносливости</u>
-
-* {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} снижает получаемый вами урона от магии дополнительно на 6-13%. Очень сильный проводник, берем когда в бою присутствует магический урон.
-* {{ site.data.conduits.Fel_Defender }} — время восстановления вашей способности {{ site.data.spell.Blur }} уменьшается на 5-20 сек. Выбор по умолчанию в боях без магии.
-
-<u>Проводники точности</u>
-
-* {{ site.data.conduits.Felfire_Haste }} — ваша скорость передвижения повышается на 5-20% после использования способности {{ site.data.spell.Fel_Rush }}. Дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку.
-* {{ site.data.conduits.Ravenous_Consumption }} — способность {{ site.data.spell.Consume_Magic }} получает 15-30% шанс рассеять дополнительный эффект.
-
 
 ## Проводники (Кондуиты)
 
