@@ -75,7 +75,7 @@ toc: true
 
 Рекомендуемое дерево развития медиума Наджия:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/ApavAgUrbwAVK5MAEQUtHwAhFSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/ApavAgUrbwAVK5MAEQUszwAiFSr6ACUq7wA" target="blank">anything</a>
 
 ### Безумный герцог Теотар
 
@@ -85,7 +85,7 @@ toc: true
 
 Рекомендуемое дерево развития медиума Безумный герцог Теотар:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/demon-hunter/ApbvARUrbwARBS0fACIFKvoAFSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/demon-hunter/ApbvARUrbwARBSzPACMFKvoAFSrvACUraQA" target="blank">anything</a>
 
 ### Генерал Дрейвен
 
@@ -96,7 +96,7 @@ toc: true
 
 Рекомендуемое дерево развития медиума Генерал Дрейвен:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/demon-hunter/ApbqEQUszwAjBSr6ABUq7wAlK2kA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/demon-hunter/ApbqARUrbwARBSzPACMFKvoAFSrvACUraQA" target="blank">anything</a>
 
 ## Ковенант Кирий
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/kiri_logo.png"> </p>
@@ -113,7 +113,7 @@ toc: true
 * {{ site.data.covenant.Let_Go_of_the_Past }} постоянный баф на снижение магического урона.
 
 Рекомендуемое дерево развития медиума Пелагий:
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/ApbmAQUrbwASBS0fABUszwAiFSr6ACUq7wA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/ApbmEgUszwAVLR8AIhUq-gAlKu8A" target="blank">anything</a>
 
 ### Клея
 
@@ -125,7 +125,7 @@ toc: true
 
 Рекомендуемое дерево развития медиума Клея:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/demon-hunter/ApZqAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/demon-hunter/ApZqAQUrbwARBSzPACIVKvoAJSrvAA" target="blank">anything</a>
 
 ### Верховный автоматург Миканикос
 
@@ -137,7 +137,7 @@ toc: true
 
 Рекомендуемое дерево развития медиума Верховный автоматург Миканикос:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/ApbqAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/ApbqAQUrbwARBSzPACIVKvoAJSrvAA" target="blank">anything</a>
 
 ## Ковенант Ночного Народца
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/fae_logo.png"> </p>
