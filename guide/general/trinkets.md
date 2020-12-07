@@ -45,7 +45,7 @@ toc: true
 
 После вступленя в ковенант нам отроются две способности:
 
-{{ site.data.covenant.Sinful_Brand }} - Отмечает противника клеймом вентиров, которое наносит урон от темной магии в течение 8 сек, так же снижая скорость атаки и скорость произнесения заклинаний цели на 30%. Клеймо греха ДоТ, а это значит, что количество "тиков" зависит от параметра скорости. {{ site.data.covenant.Sinful_Brand }} накладывается на всех противников по кому вы попадете "прыжком" {{ site.data.spell.Metamorphosis }}. 
+{{ site.data.covenant.Sinful_Brand }} - Отмечает противника клеймом вентиров, которое наносит урон от темной магии в течение 8 сек, так же снижая скорость атаки и скорость произнесения заклинаний цели на 30%. Клеймо греха ДоТ, а это значит, что количество "тиков" зависит от параметра скорости. {{ site.data.covenant.Sinful_Brand }} накладывается на всех противников которые находятся рядом с персонажем при активации {{ site.data.spell.MetamorphosisVDH }}. 
 Данная способность наносит сильный урон в одну цель и очень сильный урон в АоЕ, т.к. он не имеет ограничения целей. 
 Этот ковенант может стать неплохим выбором для Рейдов.
 
@@ -57,17 +57,18 @@ toc: true
 * {{ site.data.covenant.Thrill_Seeker }} - Сильный баф скорости с хорошим аптаймом в рейде и мифик+.
 * {{ site.data.covenant.Agent_of_Chaos }} - теперь {{ site.data.covenant.Door_of_Shadows }} можно использовать для прерывания опасных заклинаний, очень сильный трейт для мифик+.
 * {{ site.data.covenant.Exacting_Preparation }} - постоянный баф нашей химии, зачарований и еды.
-* {{ site.data.covenant.Dauntless_Duelist }} - сильный трейт дающий нам 3% дополнительного урона по цели которую мы атакуем, очень сильный трейт для СТ боев. 
+* {{ site.data.covenant.Dauntless_Duelist }} - сильный трейт дающий нам 3% дополнительного урона по цели которую мы атакуем и уменьшает наносимый этой целью урон на 1.5%, очень сильный трейт для СТ боев. 
 
 Рекомендуемое дерево развития медиума Наджия:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/ApavAgUrbwAVK5MAEQUtHwAhFSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/ApaqAQUrbwARBS0fACIVKu8AJSr6AA" target="blank">anything</a>
 
 ### Безумный герцог Теотар
 
 * {{ site.data.covenant.Soothing_Shade }} - сильный баф мастери с приличным аптаймом, из минусов вы будете привязаны к месту.
 * {{ site.data.covenant.Refined_Palate }} - очень сильный трейт, так как боевые зелья очень сильны в Shadowlands.
-* {{ site.data.covenant.Wasteland_Propriety }} - самый сильный трейт для нас, но к сожалению он скрыт за проводником Точности.
+* {{ site.data.covenant.Wasteland_Propriety }} - хороший баф Универсальности для нас и наших союзников, неплохой выбор так как {{ site.data.covenant.Sinful_Brand }} имеет небольшое время восстановления, что обеспечит отличный аптайм баффа.
+* {{ site.data.covenant.Token_of_Appreciation }} - даем щит союзнику когда он взаимодействует с нами.
 
 Рекомендуемое дерево развития медиума Безумный герцог Теотар:
 
@@ -76,30 +77,31 @@ toc: true
 ### Генерал Дрейвен
 
 * {{ site.data.covenant.Service_In_Stone }} - уменьшает входящий урон когда здоровье падает ниже 40%, очень сильный защитный трейт.
-* {{ site.data.covenant.Enduring_Gloom }} - способность дает нам отличный щит, но тогда нам приодеться брать проводник Точности. 
+* {{ site.data.covenant.Enduring_Gloom }} - способность дает нам отличный щит, но тогда нам приодеться брать проводник Точности.
+* {{ site.data.covenant.Hold_Your_Ground }} - хороший защитный трейт при условии, что вы можете стоять на месте.
 * {{ site.data.covenant.Superior_Tactics }} - имеет потенциал в мифик+, в рейде не найдет места для применения.
 * {{ site.data.covenant.Built_for_War }} - сильный баф основной характеристики, предположительно должен иметь высокий аптайм, но к сожалению он скрыт за проводником Точности.
 
 Рекомендуемое дерево развития медиума Генерал Дрейвен:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/demon-hunter/ApbqEQUszwAjBSr6ABUq7wAlK2kA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/demon-hunter/ApbqEgUtHwAVMDwAIwUq7wAVKvoAJStpAA" target="blank">anything</a>
 
-## Ковенант Кирий
+## Ковенант Кирии
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/kiri_logo.png"> </p>
 
-<span style="color:#68ccef;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> <b>Кирии</b></span> сильный ковенант для Мифик+ контента из-за {{ site.data.covenant.Elysian_Decree }} который дает высокий АоЕ бурст и сильными защитными свойствами {{ site.data.covenant.Phial_of_Serenity }}, который не только может восстановить ваше здоровье но и развеять вредоносные эффекты, особенно будет полезен когда группа может не иметь доступа к развеиванию определенного типа эффекта.
+<span style="color:#68ccef;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> <b>Кирии</b></span> сильный ковенант для Мифик+ контента из-за {{ site.data.covenant.Elysian_Decree }} который дает высокий АоЕ бурст и отлично сосчитаться с легендарным предметом {{ site.data.legendary.Razelikhs_Defilement }}. К тому же на {{ site.data.covenant.Elysian_Decree }} действует эффект таланта {{ site.data.talent.Quickened_Sigils }} что позволит еще чаще использовать способность кирии.
 
-После вступленя в ковенант нам отроются две способности:
-* {{ site.data.covenant.Elysian_Decree }} - Размещает в указанном месте кирийскую печать, которая активируется через 2 сек. Печать наносит сильный АоЕ урон, который можно усилить баффом от {{ site.data.talent.Momentum }}. После взрыва печати появляются 3 {{ site.data.spell.Shattered_SoulsHDH }}, это немного повышает нашу выживаемость. Также использование {{ site.data.covenant.Elysian_Decree }} активирует способность нашего медиума и дает нам бафф искусности на 10 сек, который можно продлевать собирая сферы "Печальных воспоминаний", тем самым усиливая наши способности которые используют Хаос, например такие как {{ site.data.spell.Chaos_Strike }} или {{ site.data.spell.Eye_Beam }}.
-* {{ site.data.covenant.Summon_Steward }} - Вы зовете распорядителя, который приносит вам {{ site.data.covenant.Phial_of_Serenity }}, восполняющий 20% здоровья и снимающий проклятия, болезни, яды и эффекты кровотечения. Очень полезный флакон, сильно упрощает жизнь в ключах, снимает даже стаки аффикса {{ site.data.mplus.Necrotic }}.
+После вступления в ковенант нам откроются две способности:
+* {{ site.data.covenant.Elysian_Decree }} - Размещает в указанном месте кирийскую печать, которая активируется через 2 sec. Печать наносит сильный АоЕ урон, скорость восстановления печати можно ускорить талантом {{ site.data.talent.Quickened_Sigils }}. После взрыва печати появляются 3 {{ site.data.spell.Soul_Fragment }}, это повышает нашу выживаемость и урон. 
+* {{ site.data.covenant.Summon_Steward }} - Вы зовете распорядителя, и он приносит вам {{ site.data.covenant.Phial_of_Serenity }}, восполняющий 20% здоровья и снимающий проклятия, болезни, яды и эффекты кровотечения. Очень полезная флакон, сильно упрощает жизнь в ключах, снимает даже стаки аффикса {{ site.data.mplus.Necrotic }}.
 
 ### Пелагий
 
-* {{ site.data.covenant.Combat_Meditation }} Дает нам Баф искусности при каждом использовании {{ site.data.covenant.Elysian_Decree }}, неплохой баф который усилит наш АоЕ урон от способностей такие как {{ site.data.spell.Chaos_Strike }} или {{ site.data.spell.Eye_Beam }}.
+* использование {{ site.data.covenant.Elysian_Decree }} активирует способность нашего медиума {{ site.data.covenant.Combat_Meditation }} и дает нам бафф искусности на 10 сек, который можно продлевать собирая сферы "Печальных воспоминаний", тем самым усиливая наши защитные способности и урон.
 * {{ site.data.covenant.Let_Go_of_the_Past }} постоянный баф на снижение магического урона.
 
 Рекомендуемое дерево развития медиума Пелагий:
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/ApbmAQUrbwASBS0fABUszwAiFSr6ACUq7wA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/ApZmEgUvtwAVLR8AIhUraQAlKvoA" target="blank">anything</a>
 
 ### Клея
 
@@ -208,6 +210,8 @@ toc: true
 Рекомендуемое дерево развития медиума Костоплав Гейрмир:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/ApZqAQUrbwARBSzPACIVKvoAJSrvAA" target="blank">anything</a>
+
+## Симуляция медиумов и связей душ
 
 <div id="bloodmallet_soul_binds" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-fight-style="castingpatchwerk" data-type="soul_binds" data-entries="10000" data-language="ru">Loading...</div>
 

@@ -21,6 +21,7 @@ Phial_of_Serenity: <a href="https://ru.wowhead.com/item=177278" target="blank">�
 Combat_Meditation: <a href="https://ru.wowhead.com/spell=328266" target="blank">Боевая медитация</a>
 Let_Go_of_the_Past: <a href="https://ru.wowhead.com/spell=328257" target="blank">Забудь прошлое</a>
 
+Ascendant_Phial: <a href="https://ru.wowhead.com/spell=329776" target="blank">Храбрые удары</a>
 Valiant_Strikes: <a href="https://ru.wowhead.com/spell=329791" target="blank">Храбрые удары</a>
 Cleansing_Rites: <a href="https://ru.wowhead.com/spell=329784" target="blank">Ритуалы очищения</a>
 Pointed_Courage: <a href="https://ru.wowhead.com/spell=329778" target="blank">Демонстративная отвага</a>
@@ -41,11 +42,14 @@ Dauntless_Duelist: <a href="https://ru.wowhead.com/spell=331584" target="blank">
 Soothing_Shade: <a href="https://ru.wowhead.com/spell=336239" target="blank">Успокаивающая тень</a>
 Refined_Palate: <a href="https://ru.wowhead.com/spell=336243" target="blank">Тонкий вкус</a>
 Wasteland_Propriety: <a href="https://ru.wowhead.com/spell=319983" target="blank">Этикет пустошей</a>
+Token_of_Appreciation: <a href="https://ru.wowhead.com/spell=336245" target="blank">Знак признательности</a>
 
 Service_In_Stone: <a href="https://ru.wowhead.com/spell=340159" target="blank">Каменное служение</a>
 Enduring_Gloom: <a href="https://ru.wowhead.com/spell=319978" target="blank">Стойкий мрак</a>
 Superior_Tactics: <a href="https://ru.wowhead.com/spell=332753" target="blank">Превосходство в тактике</a>
 Built_for_War: <a href="https://ru.wowhead.com/spell=319973" target="blank">Дитя войны</a>
+Hold_Your_Ground: <a href="https://ru.wowhead.com/spell=332754" target="blank">Ни шагу назад</a>
+
 
 #Некролорды
 Fodder_to_the_Flame: <a href="https://ru.wowhead.com/spell=329554" target="blank">Подпитка для пламени</a>
@@ -77,7 +81,7 @@ Social_Butterfly: <a href="https://ru.wowhead.com/spell=319210" target="blank">�
 Field_of_Blossoms: <a href="https://ru.wowhead.com/spell=319191" target="blank">Цветочное поле</a>
 
 Wild_Hunt_Tactics: <a href="https://ru.wowhead.com/spell=325066" target="blank">Тактика Дикой Охоты</a>
-Wild_Hunts_Charge: <a href="https://ru.wowhead.com/spell=325069" target="blank">Рывок Дикой Охоты</a>
+Wild_Hunts_Charge: <a href="https://ru.wowhead.com/spell=325065" target="blank">Рывок Дикой Охоты</a>
 First_Strike: <a href="https://ru.wowhead.com/spell=325069" target="blank">Первый удар</a>
 
 Reservoir_Anima: <a href="https://ru.wowhead.com/currency=1813" target="blank">Запасенная анима</a>
