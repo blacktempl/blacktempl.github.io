@@ -27,7 +27,7 @@ toc: true
 <tr><td><span class="c10">Некролорды</span></td>
 <td>Хороший</td><td>Слабый</td>
 </tr>
-<tr><td><span class="c12">Ночной народец</span></td><td>Сильные</td>
+<tr><td><span class="c12">Ночной народец</span></td><td>Сильный</td>
 <td><b>Низкие ключи</b>: Слабый<br><b>Высокие ключи</b>: Хороший</td>
 </tr>
 <tr><td><span class="c6">Вентиры</span>
