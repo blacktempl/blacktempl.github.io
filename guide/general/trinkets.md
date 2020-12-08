@@ -108,12 +108,13 @@ toc: true
 Неплохой медиум который повышает нашу выживаемость.
 
 * {{ site.data.covenant.Valiant_Strikes }} - Хорошее исцеление, особенно если учесть как быстро мы можем накопить 20 стаков в групповом контенте.
+* {{ site.data.covenant.Ascendant_Phial }} - очень сильный трейт который усиляет {{ site.data.covenant.Phial_of_Serenity }} после использования флакона мы получаем иммунитет к проклятиям, болезням, ядам и кровотечению 8 сек. Привыборе этого трета мы потеряем слот под кондуит Силы, что уменьшит наш урон.
 * {{ site.data.covenant.Cleansing_Rites }} - Будет не очень полезным в рейде, но в мифик+ контенте принесет много пользы так как повысит нашу выживаемость.
 * {{ site.data.covenant.Pointed_Courage }} - очень мощный баф крита, он отлично сочитается с {{ site.data.covenant.Valiant_Strikes }}.
 
 Рекомендуемое дерево развития медиума Клея:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/demon-hunter/ApZqAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/demon-hunter/ApZqAQUrbwYRBS-3ACIVK2kGJSr6AA" target="blank">anything</a>
 
 ### Верховный автоматург Миканикос
 
