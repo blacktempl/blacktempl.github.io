@@ -122,11 +122,12 @@ toc: true
 
 * {{ site.data.covenant.Brons_Call_to_Action }} - призывает стража который наносит небольшой урон.
 * {{ site.data.covenant.Forgelite_Filter }} - Трейт хорош тем, что он активирует {{ site.data.covenant.Phial_of_Serenity }} даже когда он перезаряжается, при этом не обновляя время восстановления. Если на момент срабатывания трейта {{ site.data.covenant.Phial_of_Serenity }} был доступен к использованию, то это запустит перезарядку.
+* {{ site.data.covenant.Resilient_Plumage }}  можно с помощью {{ site.data.spell.Infernal_Strike }} и двойного прыжка забираться на возвышености чтоб специально получить урон от падения перед запулом пака мобов.
 * {{ site.data.covenant.Hammer_of_Genesis }} - очень сильный трейт практически в любых ситуациях так как может вам дать от 3-15% скорости.
 
 Рекомендуемое дерево развития медиума Верховный автоматург Миканикос:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/ApbqAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/ApbqAQUrbwYRBS-3BiIVK2kGJSr6Bg" target="blank">anything</a>
 
 ## Ковенант Ночного Народца
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/fae_logo.png"> </p>
