@@ -59,6 +59,8 @@ toc: true
 * {{ site.data.covenant.Exacting_Preparation }} - постоянный баф нашей химии, зачарований и еды.
 * {{ site.data.covenant.Dauntless_Duelist }} - сильный трейт дающий нам 3% дополнительного урона по цели которую мы атакуем и уменьшает наносимый этой целью урон на 1.5%, очень сильный трейт для СТ боев. 
 
+> Очень сильный медиум на ранних этапах из-за {{ site.data.covenant.Thrill_Seeker }}, в лейт гейме теряет свои преимущества.
+
 Рекомендуемое дерево развития медиума Наджия:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/ApaqAQUrbwARBS0fACIVKu8AJSr6AA" target="blank">anything</a>
@@ -69,6 +71,8 @@ toc: true
 * {{ site.data.covenant.Refined_Palate }} - очень сильный трейт, так как боевые зелья очень сильны в Shadowlands.
 * {{ site.data.covenant.Wasteland_Propriety }} - хороший баф Универсальности для нас и наших союзников, неплохой выбор так как {{ site.data.covenant.Sinful_Brand }} имеет небольшое время восстановления, что обеспечит отличный аптайм баффа.
 * {{ site.data.covenant.Token_of_Appreciation }} - даем щит союзнику когда он взаимодействует с нами.
+
+> Вы можете взять трейт {{ site.data.covenant.Wasteland_Propriety }} с кондуитом Универсальности {{ site.data.conduits.Felfire_Haste }}, хоть кондуиты и очень слабы баф трейта перекроет все его недостатки так как даст нам Универсальность.
 
 Рекомендуемое дерево развития медиума Безумный герцог Теотар:
 
@@ -81,6 +85,8 @@ toc: true
 * {{ site.data.covenant.Hold_Your_Ground }} - хороший защитный трейт при условии, что вы можете стоять на месте.
 * {{ site.data.covenant.Superior_Tactics }} - имеет потенциал в мифик+, в рейде не найдет места для применения.
 * {{ site.data.covenant.Built_for_War }} - сильный баф основной характеристики, предположительно должен иметь высокий аптайм, но к сожалению он скрыт за проводником Точности.
+
+> Если вы захотите получить максимум защиты с терйтом {{ site.data.covenant.Superior_Tactics }}, третьим кондуитом Выносливости берите {{ site.data.conduits.Fel_Defender }}.
 
 Рекомендуемое дерево развития медиума Генерал Дрейвен:
 
@@ -100,6 +106,8 @@ toc: true
 * использование {{ site.data.covenant.Elysian_Decree }} активирует способность нашего медиума {{ site.data.covenant.Combat_Meditation }} и дает нам бафф искусности на 10 сек, который можно продлевать собирая сферы "Печальных воспоминаний", тем самым усиливая наши защитные способности и урон.
 * {{ site.data.covenant.Let_Go_of_the_Past }} постоянный баф на снижение магического урона.
 
+> Огромный плюс Пелагия в том что он доступен сразу и на ранних этапах дает доступ к кондуиту Сили и Выносливости, что позволить использовать наши сильные кондуиты в начале первого сезона.
+
 Рекомендуемое дерево развития медиума Пелагий:
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/ApZmEgUvtwAVLR8AIhUraQAlKvoA" target="blank">anything</a>
 
@@ -111,6 +119,8 @@ toc: true
 * {{ site.data.covenant.Ascendant_Phial }} - очень сильный трейт который усиляет {{ site.data.covenant.Phial_of_Serenity }} после использования флакона мы получаем иммунитет к проклятиям, болезням, ядам и кровотечению 8 сек. Привыборе этого трета мы потеряем слот под кондуит Силы, что уменьшит наш урон.
 * {{ site.data.covenant.Cleansing_Rites }} - Будет не очень полезным в рейде, но в мифик+ контенте принесет много пользы так как повысит нашу выживаемость.
 * {{ site.data.covenant.Pointed_Courage }} - очень мощный баф крита, он отлично сочитается с {{ site.data.covenant.Valiant_Strikes }}.
+
+> Клея на ранних стадия игры слабее Пелагоса, но на белее высокой стадии известности она станет сильней.
 
 Рекомендуемое дерево развития медиума Клея:
 
@@ -125,6 +135,8 @@ toc: true
 * {{ site.data.covenant.Resilient_Plumage }}  можно с помощью {{ site.data.spell.Infernal_Strike }} и двойного прыжка забираться на возвышености чтоб специально получить урон от падения перед запулом пака мобов.
 * {{ site.data.covenant.Hammer_of_Genesis }} - очень сильный трейт практически в любых ситуациях так как может вам дать от 3-15% скорости.
 
+> Если вы захотите получить максимум защиты с терйтом {{ site.data.covenant.Superior_Tactics }}, третьим кондуитом Выносливости берите {{ site.data.conduits.Fel_Defender }}.
+
 Рекомендуемое дерево развития медиума Верховный автоматург Миканикос:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/ApbqAQUrbwYRBS-3BiIVK2kGJSr6Bg" target="blank">anything</a>
@@ -132,7 +144,7 @@ toc: true
 ## Ковенант Ночного Народца
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/fae_logo.png"> </p>
 
-<span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="16" height="24"> <b>Ночной народец</b></span> - {{ site.data.covenant.The_Hunt }} с является сильной способностью, которая наносит огромный прямой урон в одну цель и оставляет на ней ДоТ на 6 сек., что делает этот ковенант прекрасным выбором для ПвП и хорошим выбором для рейдов. Природа данной способности позволяет ей хорошо скейлится от крита и от скорости, однако АоЕ урон с данным ковенантом оставляет желать лучшего, т.к. способность имеет кап в 5 целей. Более того, попадание по пяти целям не является тривиальной задачей (в отличие от ковенанта Вентиров и Кирий), т.к. придется отойти от основной цели и просчитать траекторию полета таким образом, чтобы попасть по всем (пяти) мобам. Учитывайте, что в контексте м+ это действие может усложниться тем, что танк может в это время кайтить мобов.
+<span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="16" height="24"> <b>Ночной народец</b></span> - {{ site.data.covenant.The_Hunt }} добавляет нам немного мобильности, по урону в 1 цель примерно равна ковенанту Кирии, но не сравниться с ними в АоЕ. Дотка которая дает нам 50% лича очень слабая так как у нас не очень высокий СТ урон. Попадать в 5 целей {{ site.data.covenant.The_Hunt }} для танка будет сложная задача. В целом ковенант неплохой, но не лучший. 
 
 После вступленя в ковенант нам отроются две способности:
 * {{ site.data.covenant.The_Hunt }} - Совершает рывок к цели, нанося урон от сил природы и обездвиживая ее на 1.5 сек., накладывая ДоТ на до 5 врагов на пути между вами и вашей целью. Преследование укрепляет вашу душу, в результате чего вы в течение 30 sec. восполняете здоровье в объеме 50% урона, который наносите цели "Охоты". Кондуит {{ site.data.conduits.Unnatural_Malice }} значительно увеличивает урон наносимый {{ site.data.covenant.The_Hunt }} по цели в вашем таргете, что делает этот ковенат хорошим выбором для СТ.
@@ -141,8 +153,11 @@ toc: true
 ### Ния
 
 * {{ site.data.covenant.Grove_Invigoration }} - не особо сильный баф Искусности и Здоровья.
-* {{ site.data.covenant.Niyas_Tools_Burrs }} - наносит много урона, очень сильный трейт.
+* {{ site.data.covenant.Run_Without_Tiring }} - может помочь восстановить здоровье между паками в м+ и в те моменты когда вам будет удаваться использовать способность {{ site.data.covenant.Soulshape }} во время кайта. 
 * {{ site.data.covenant.Niyas_Tools_Poison }} - подойдет для мифик+, в рейде не будет использоваться. 
+* {{ site.data.covenant.Niyas_Tools_Herbs }} - неплохой баф скорости, но требует выбирать слот под кондуит Точности, который нам лучше избегать.
+
+> Не рекомендую брать Нию для Охотников на Демонов Месть так как ее способности для них не очень полезны.
 
 Рекомендуемое дерево развития медиума Ния:
 
@@ -150,32 +165,38 @@ toc: true
 
 ### Творец Снов
 
-Творец Снов обладает очень сильными связями душ на раннем развитии дерева, а также дает возможность получить 2 слота для кондуитов Силы раньше чем у кого либо, что будет полезно на освоении рейда.
+Творец Снов обладает очень сильными связями душ, также мы получаем 3 слота Выносливости и 1 Силы. Однако у нее есть 1 недостаток который не перекрывает все плюсы этого медиума.
 
 * {{ site.data.covenant.Podtender }} - Дает нам читдес, но из-за того что мы после получения смертельного урона получаем стан на 10 сек. является огромным недостатком.
 * {{ site.data.covenant.Social_Butterfly }} - дает нам постоянный баф Универсальности когда мы находимся в группе.
 * {{ site.data.covenant.Field_of_Blossoms }} - 12% баф скорости с очень приличным аптаймом.
 
-Рекомендуемое дерево развития медиума Ния:
+> Творец Снов была бы отличным медиумом для нас если бы не {{ site.data.covenant.Podtender }}, он создает слишком много проблем для танков и избежать их невозможно.
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/ApquAQUrbwASBSzPABUtHwAjBSr6ABUraQAlKu8A" target="blank">anything</a>
+Рекомендуемое дерево развития медиума Творец Снов:
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/ApqmAQUrbwARBUEmACMFK2kAFSr6ACUq7wA" target="blank">anything</a>
 
 ### Корейн
 
 Корейн обладает очень сильными связями душ на раннем развитии дерева, а также дает возможность получить 2 слота для кондуитов Силы раньше чем у кого либо, что будет полезно на освоении рейда.
 
-* {{ site.data.covenant.Wild_Hunt_Tactics }} - Очень сильный баф урона и скорости передвижения в начале боя и увеличенное исцеление когда у вас мало здоровья
+* {{ site.data.covenant.Wild_Hunt_Tactics }} - Очень сильный баф урона и скорости передвижения в начале боя и увеличенное исцеление когда у вас мало здоровья..
 * {{ site.data.covenant.Wild_Hunts_Charge }} - потенциально хороший талант для мифик+, позволяет начать бой со стана.
-* {{ site.data.covenant.First_Strike }} - очень мощный бонус к урону который мы получаем в начале пулла.
+* {{ site.data.covenant.Face_Your_Foes }} - отличная защитная способность при активном танкиге.
+* {{ site.data.covenant.First_Strike }} - очень мощный бонус к урону который мы получаем в начале боя.
+* {{ site.data.covenant.Hold_the_Line }} - очень сильный защитный трейт, снижает на 15% весь физический урон когда мы не двигаемся. 
 
-Рекомендуемое дерево развития медиума Ния:
+> Корей лучший из трех медиумов доступных ковененту Ночной Народец, минус только в том что он откроется не сразу.
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/ApbqAQUrbwARBSzPACIVKvoAJSrvAA" target="blank">anything</a>
+Рекомендуемое дерево развития медиума Корейн:
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/Ar7lAQUrbwARFUEmACIFK2kAFSr6AA" target="blank">anything</a>
 
 ## Ковенант Некролорды
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/necrolord_logo.png"> </p>
 
-<span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - предлагают, наверное, самые скучные таланты среди всех ковенантов. {{ site.data.covenant.Fodder_to_the_Flame }} призывает моба которого нужно убить, это отнимает много времени, но баф который мы получаем очень сильный и его можно совмещать с {{ site.data.spell.Metamorphosis }}. 
+<span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - предлагают, наверное, самые скучные таланты среди всех ковенантов. {{ site.data.covenant.Fodder_to_the_Flame }} призывает моба которого нужно убить, это отнимает много времени, щит {{ site.data.covenant.Fleshcraft }} нужно кастовать 4 сек. стоя на месте, что для танка в большенсве случаев непозволительная роскошь.
 
 После вступленя в ковенант нам отроются две способности:
 * {{ site.data.covenant.Fodder_to_the_Flame }} - Вы призываете демона которого можете атаковать только вы, его убийство дает {{ site.data.covenant.Empowered_Demon_Soul }}, хоть демон и убивается очень легко, все эти махинации отнимают много времени прежде чем вы начнете бить свою приоритетную цель, тем самым это будет ломать нашу ротацию и вносить дискомфорт в игру.
@@ -184,34 +205,41 @@ toc: true
 ### Изобретатель чумы Марилет
 Марилет обладает связями душ которые могут очень сильно усилить {{ site.data.covenant.Fleshcraft }}, но его применение так и останется очень затратным по времени.
 
-* {{ site.data.covenant.Volatile_Solvent }} - принесет пользу в мифиик+ контенте, для рейда бесполезен.
-* {{ site.data.covenant.Oozs_Frictionless_Coating }} - дает нам 15% щит каждые 30 сек. без какого либо увеличения урона, но позволяет выбрать в дереве 2 кондуита Силы.
-* {{ site.data.covenant.Ultimate_Form }} - восстанавливает в общей сумме 16% здоровья и дает невосприимчевость к контролю на время 
-использования {{ site.data.covenant.Fleshcraft }} и если вы полностью завершили его каст то дополнительно получите еще 4 сек. иммунитета к контролю.
+* {{ site.data.covenant.Volatile_Solvent }} - неплохой трейт, дает различные бафы от типа поглощенного врага {{ site.data.covenant.Fleshcraft }}. Мы можем призвать демона {{ site.data.covenant.Fodder_to_the_Flame }}  и получить 5% Выносливости, что очень неплохо. Прелесь этого трейта в том что он лучше способности ковенанта {{ site.data.covenant.Fleshcraft }}, трейт дает то же количество щита при меньшем усилии и на него не нужно тратить ГКД и тем более стоять на месте 4 сек.
+* {{ site.data.covenant.Oozs_Frictionless_Coating }} - дает нам 15% щит каждые 30 сек. так как здоровье часто опускается ниже 50% во время танкования. 
+* {{ site.data.covenant.Ultimate_Form }} - восстанавливает в общей сумме 16% здоровья и дает невосприимчевость к контролю на время использования {{ site.data.covenant.Fleshcraft }} и если вы полностью завершили его каст то дополнительно получите еще 4 сек. иммунитета к контролю.
+
+> Марилет - хороший медиум на ранних этапах игры так как обеспечивает слот Силы и Выносливости до 15 уровня славы.
 
 Рекомендуемое дерево развития медиума Изобретатель чумы Марилет:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/ApZmAQUrbwASBSzPABUtHwAiFSr6ACUq7wA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/ApZmEgUtHwAVMF8AIhUraQAlKvoA" target="blank">anything</a>
 
 ### Эмени
 
 * {{ site.data.covenant.Lead_by_Example }} - дает до 20% основной характеристики при использовании {{ site.data.covenant.Fodder_to_the_Flame }} - К сожалению эффект длится недолго, но это мощный атакующий баф и дополнительный защитный эффект.
+* {{ site.data.covenant.Emenis_Ambulatory_Flesh }} - Хороший повод для выбора Эмени, позволяет передвигаться во время использования {{ site.data.covenant.Fleshcraft }}.
+* {{ site.data.covenant.Cartilaginous_Legs }} - можно использовать если найти способ получать урон от падения в подземельях, но трейт сомнительный и скорей всего бесполезный.
 * {{ site.data.covenant.Gnashing_Chompers }} - Хороший трейт, в полную силу откроется в мифик+ или рейде на боссах с трешом.
 
+> Эмени еще один хороший медиум на ранних этапах игры, так как имеет с своем арсенале два сильных трейта которые открываются до 15 уровня славы.
 
 Рекомендуемое дерево развития медиума Эмени:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/demon-hunter/ApZqAQUrbwARBSzPACIVKvoAJSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/demon-hunter/ApZqAQUrbwARBS0fACIVK2kAJSr6AA" target="blank">anything</a>
 
 ### Костоплав Гейрмир
 
-* {{ site.data.covenant.Forgeborne_Reveries }} - не очень полезный трейт.
+* {{ site.data.covenant.Forgeborne_Reveries }} - не очень полезный трейт, танк не должен умирать.
 * {{ site.data.covenant.Serrated_Spaulders }} - очень мощный трейт наносящий значительный урон, у него есть внутреннее КД 1 сек поэтому он не может срабатывать сразу на нескольких врагов и он может обновлять свое действие на одном и том же враге, поэтому его ценность будет постепенно теряться если он будет срабатывать дважды на одной и той же цели. 
 * {{ site.data.covenant.Heirmirs_Arsenal_Marrowed_Gemstone }} - приличный баф крита с хорошим аптаймом.
+* {{ site.data.covenant.Heirmirs_Arsenal_Ravenous_Pendant }} - Дает очень много исцеления, но требует выбирать слот кондуита Точности, что делает трейт не таким привлекательным.
+
+> Не рекомендую использовать этого медиума, так как он слабей чем Эмени и Изобретатель чумы Марилет
 
 Рекомендуемое дерево развития медиума Костоплав Гейрмир:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/ApZqAQUrbwARBSzPACIVKvoAJSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/Ar5qAQUrbwAjBStpABUq-gAlKu8A" target="blank">anything</a>
 
 ## Симуляция медиумов и связей душ
 
