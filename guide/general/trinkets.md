@@ -21,17 +21,18 @@ toc: true
 <td style="width: 33%;"><b>Мифик+</b></td>
 </tr>
 <tr><td><span class="c8">Кирии</span></td>
-<td>Хороший</td>
-<td><b>Низкие ключи</b>: Сильный<br><b>Высокие ключи</b>: Хороший</td>
+<td>Отличный</td>
+<td><b>Низкие ключи</b>: Отличный<br><b>Высокие ключи</b>: Отличный</td>
 </tr>
 <tr><td><span class="c10">Некролорды</span></td>
-<td>Хороший</td><td>Слабый</td>
+<td>Слабый</td><td>Слабый</td>
 </tr>
-<tr><td><span class="c12">Ночной народец</span></td><td>Сильный</td>
-<td><b>Низкие ключи</b>: Слабый<br><b>Высокие ключи</b>: Хороший</td>
+<tr><td><span class="c12">Ночной народец</span></td>
+<td>Хороший</td>
+<td><b>Низкие ключи</b>: Слабый<br><b>Высокие ключи</b>: Слабый</td>
 </tr>
 <tr><td><span class="c6">Вентиры</span>
-</td><td>Сильный</td>
+</td><td>Хороший</td>
 <td><b>Низкие ключи</b>: Хороший<br><b>Высокие ключи</b>: Хороший</td>
 </tr>
 </tbody>
@@ -243,7 +244,7 @@ toc: true
 
 ## Симуляция медиумов и связей душ
 
-<div id="bloodmallet_soul_binds" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-fight-style="castingpatchwerk" data-type="soul_binds" data-entries="10000" data-language="ru">Loading...</div>
+<div id="bloodmallet_soul_binds" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="vengeance" data-font-color="#eee" data-background-color="#222" data-fight-style="castingpatchwerk" data-type="soul_binds" data-entries="10000" data-language="ru">Loading...</div>
 
 ## Проводники (Кондуиты)
 
