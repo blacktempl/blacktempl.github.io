@@ -1044,6 +1044,7 @@ author: Rodriguezz
 
 * Перекрывайте {{ site.data.mplus.Power_Overwhelming }}.
 * Используйте все свои КД чтоб быстрей закончить бой с {{ site.data.mplus.Millificent_Manastorm }}
+* Заходите с дэбафом {{ site.data.mplus.Shadowfury }} в Милифисенту чтоб прервать ее каст.
 
 **Дилер Зи'екса**
 
@@ -1153,7 +1154,7 @@ author: Rodriguezz
 
 **Треш**
 
-* Прерывайте способность {{ site.data.mplus.Loyal_Beasts }} которую используют {{ site.data.mplus.Depraved_Houndmaster }}.
+* Прерывайте способность {{ site.data.mplus.Loyal_Beasts }} с помощью стана или {{ site.data.spell.Imprison }} которую используют {{ site.data.mplus.Depraved_Houndmaster }}.
 
 **Лорд-камергера**
 
