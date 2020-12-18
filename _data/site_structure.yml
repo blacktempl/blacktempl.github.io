@@ -6,8 +6,8 @@ categories:
   subcategories:
     - title: Гайд
       url: /guide/havoc/quick_faq.html
-#   - title: Мифик+
-#      url: /guide/havoc/mythic_plus.html
+   - title: Мифик+
+      url: /guide/havoc/mythic_plus.html
 - title: Месть
   subcategories:
     - title: Гайд

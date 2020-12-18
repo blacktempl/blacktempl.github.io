@@ -248,40 +248,20 @@ toc: true
 
 ## Проводники (Кондуиты)
 
-### Рейд
-
 <u>Проводники силы</u>
 
-* {{ site.data.conduits.Demons_Touch }} —  {{ site.data.spell.Chaos_Strike }} с вероятностью 5,0%-14,5% сработает еще раз. Очень сильный кондуит для СТ боев.
-* {{ site.data.conduits.Growing_Inferno }} — урон способности {{ site.data.spell.Immolation_Aura }} дополнительно увеличивается на 10-24% каждый раз, когда она наносит урон. Очень сильно увеличивает урон от {{ site.data.spell.Immolation_Aura }}, используем всегда.
+* {{ site.data.conduits.Growing_Inferno }} — приоритетный выбор данного типа проводников. В паре с талантом {{ site.data.talent.Agonizing_Flames }} показывает очень высокие цифры урона
+* {{ site.data.conduits.Repeat_Decree }} — наша способность <span style="color:#68ccef;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="22"> Кирии</span> наносит еще больше урона за счет повторной активации. Берем во вторую ячейку силы
 
 <u>Проводники выносливости</u>
 
-* {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} снижает получаемый вами урон от магии дополнительно на 6-13%. Очень сильный проводник, берем когда в бою присутствует магический урон.
-* {{ site.data.conduits.Fel_Defender }} — время восстановления вашей способности {{ site.data.spell.Blur }} уменьшается на 5-20 сек. Выбор по умолчанию в боях без магии.
+* {{ site.data.conduits.Viscous_Ink }}— дает дополнительное снижение урона от магии нашим {{ site.data.spell.Demonic_WardsVDH }}. Очень сильный проводник, берем когда в бою присутствует магический урон
+* {{ site.data.conduits.Shattered_Restoration }} — наиболее универсальный среди проводников выносливости. Берем в большинстве ситуаций
+* {{ site.data.conduits.Fel_Defender }} — берем вместо {{ site.data.conduits.Viscous_Ink }} в боях без магии и всегда, если играем через клеймобилд
 
 <u>Проводники точности</u>
 
-* {{ site.data.conduits.Felfire_Haste }} — ваша скорость передвижения повышается на 5-20% после использования способности {{ site.data.spell.Fel_Rush }}. Дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку.
-* {{ site.data.conduits.Ravenous_Consumption }} — способность {{ site.data.spell.Consume_Magic }} получает 15-30% шанс рассеять дополнительный эффект.
-
-### Мифик+
-
-<u>Проводники силы</u>
-
-* {{ site.data.conduits.Repeat_Decree }} — способность {{ site.data.covenant.Elysian_Decree }} устанавливает вторую руну через 1 сек, которая наносит 25% урона. Усиливает и без того сильную способность ковенанта, но нужен высокий илвл кондуита.
-* {{ site.data.conduits.Demons_Touch }} —  {{ site.data.spell.Chaos_Strike }} с вероятностью 5,0%-14,5% сработает еще раз. Очень сильный кондуит для СТ боев.
-* {{ site.data.conduits.Growing_Inferno }} — урон способности {{ site.data.spell.Immolation_Aura }} дополнительно увеличивается на 10-24% каждый раз, когда она наносит урон. Очень сильно увеличивает урон от {{ site.data.spell.Immolation_Aura }}, используем всегда.
-
-<u>Проводники выносливости</u>
-
-* {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} снижает получаемый вами урон от магии дополнительно на 6-13%. Очень сильный проводник, берем когда в бою присутствует магический урон.
-* {{ site.data.conduits.Fel_Defender }} — время восстановления вашей способности {{ site.data.spell.Blur }} уменьшается на 5-20 сек. Выбор по умолчанию в боях без магии.
-
-<u>Проводники точности</u>
-
-* {{ site.data.conduits.Felfire_Haste }} — ваша скорость передвижения повышается на 5-20% после использования способности {{ site.data.spell.Fel_Rush }}. Дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку.
-* {{ site.data.conduits.Ravenous_Consumption }} — способность {{ site.data.spell.Consume_Magic }} получает 15-30% шанс рассеять дополнительный эффект.
+* {{ site.data.conduits.Felfire_Haste }} — дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/gear.htmll">Назад:<br>Бис лист</a></div>
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/consumables.html">Длаее:<br>Расходники</a></div>

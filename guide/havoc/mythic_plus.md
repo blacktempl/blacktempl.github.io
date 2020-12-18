@@ -1,203 +1,1197 @@
 ---
 layout: page
 title: "Mythic+ Гайд"
-last_update: 2020-10-30 09:00:00
-game_version: 9.0.1 ShadowLands
+last_update: 2020-12-11 09:00:00
+game_version: 9.0.2 ShadowLands
 author: Rodriguezz
 ---
 
-<p style="color:red">Нажмите на изображение подземелья, чтобы развернуть информацию о нем.</p>
+# Недельные аффиксы
+
+<div class="tabs">
+<div class="tabs__nav">
+<a class="tabs__link tabs__link_active" href="#content-1">Ключи 2+</a>
+<a class="tabs__link" href="#content-2">Ключи 4+</a>
+<a class="tabs__link" href="#content-3">Ключи 7+</a>
+</div>
+
+<div class="tabs__content">
+<div class="tabs__pane tabs__pane_show" id="content-1">
+
+<div class="tabs_in" markdown="1">
+
+| Аффиксы | Рекомендации |
+|-----------------|:-------------|
+| {{ site.data.mplus.Tyrannical }} |Учитывая тот факт, что с каждым уровнем подземелья наносимый урон и здоровье всего, что находится в подземелье и так растет, этот аффикс может превратить некоторые бои с боссами в полноценные 2-3 минутные бои. Но что самое неприятное — некоторые способности начинают наносить настолько большой урон, что для незащищенных игроков это может оказаться фатальным. Заранее договоритесь со своей группой, на какие способности вы будете использовать персональные или групповые защитные кулдаунды. В некоторых случаях, во избежание ваншотов следует максимально увеличивать свой запас здоровья. | 
+| {{ site.data.mplus.Fortified }} | На высоких уровнях запул большого количества треша может быть фатальным. Заранее распланируйте применение массовых оглушений и прерываний к конкретным целям. Не стесняйтесь помогать танку в кайте мобов (замедление и др. контроль). | 
+
+</div>
+</div>
+
+<div class="tabs__pane" id="content-2">
+   
+<div class="tabs_in" markdown="1">
+
+| Аффиксы | Рекомендации |
+|-----------------|:-------------|
+| {{ site.data.mplus.Tyrannical }} | Избегайте огромных паков, особенно, если в таковых находятся мобы со слишком разным значением здоровья. Если же противники имеют одинаковое значение здоровья, и ваша группа имеет возможность убить всех одновременно, то вам бояться нечего. Никогда с этим аффиксом не пытайтесь пулить треш вместе с боссом — аффикс хоть и относится только к трешу, все же эффект в бою сработает и на босса. В случае, если что-то пошло не так, постарайтесь максимально сравнять мобов по текущему значению здоровья. Если все-таки есть сильно забафанные противники — ваш танк и хиллер должны иметь наготове защитные кулдауны, вся группа может также снизить получаемый урон с помощью оглушений (многие другие эффекты контроля на усиленных противников уже могут не сработать). Также не брезгуйте кайтом, если в вашей группе есть замедление.| 
+| {{ site.data.mplus.Spiteful }} | Постарайтесь помочь контролировать порожденных призраков. {{ site.data.spell.Chaos_Nova }}, {{ site.data.talent.Fel_Eruption }} и {{ site.data.spell.Vengeful_Retreat }} - очень мощные способности контроля, которые помогут вам и вашей группе. | 
+| {{ site.data.mplus.Bolstering }} | Избегайте одновременного убийства большого количества противников. Давайте передышку своему лекарю, чтобы иметь достаточно здоровья и маны, чтобы оставаться всем живыми. Является магическим эффектом, можно продиспелить либо иммунитеты могут развеивать стаки и предотвращать их наложение. | 
+| {{ site.data.mplus.Raging }} | Оставляйте оглушения на конец боя с паками, чтобы добить всех в контроле, и снизить шанс смерти кого-либо в группе. Друиды и Охотники могут развеивать этот эффект.| 
+| {{ site.data.mplus.Sanguine }} | Лужи стакаются, поэтому очень опасно находится в месте смерти множества противников. В случае наличия кастеров в группе противников придержите свои прерывания и различные откидывания на момент смерти каких-нибудь противников в таких паках, чтобы была возможность быстро вывести оставшихся из лужи от убитых противников. Если вышеперечисленные способности отсутствуют, танк может уйти в ЛоС (Line of sight — линия видимости), то есть уходить за стены и прочие препятствия, которые вынудят мобов самих выходить из кровавых луж.| 
+| {{ site.data.mplus.Inspiring }} | Используйте {{ site.data.spell.Imprison }} чтоб отделить моба от группы чтоб иметь возможность использовать стан и прерывания.| 
+
+</div>
+</div>
+      
+<div class="tabs__pane" id="content-3">
+
+<div class="tabs_in" markdown="1">
+
+| Аффиксы | Рекомендации |
+|-----------------|:-------------|
+| {{ site.data.mplus.Explosive }} | Сферы не получают урон от АоЕ способностей. Считаются полноправным противником, поэтому после их убийства вы можете получать различные бонусы вашего класса, если таковые имеются. Сферы невозможно выбрать в цель макросом, придется их выбирать в цель вручную. В зависимости от уровня ключа урон и здоровье сферы изменяется. Чем больше противников в бою, тем больше сфер спавнится — избегайте запулов больших паков.|
+| {{ site.data.mplus.Grievous }} | Эффект наносит физический урон. Может быть развеян с помощью таких эффектов, как: Благословение защиты или Ледяная глыба. Аффикс «высушивает» лекарей по мане, давайте вашему лекарю возможность отхиливать вас после боя и отпиваться после.|
+| {{ site.data.mplus.Necrotic }} | Избегайте боев с большим количеством противников, чтобы избежать большого количества стаков. Используйте последовательно массовые оглушения, таким образом можно позволить вашему танку не прибегая к кайту сбросить стаки — ему нужно 9 секундное окно без мили атак по нему. Не брезгуйте кайтом. В затяжных боях с боссами могут помочь таунты ваших дамагеров или, к примеру, {{ site.data.spell.Force_of_Nature }}. {{ site.data.covenant.Phial_of_Serenity }} снимает стаки {{ site.data.spell.Force_of_Nature }}| 
+| {{ site.data.mplus.Quaking }} | На время активации этого аффикса стоит рассредоточиться, особенно мили-группе. Будьте бдительны когда используете {{ site.data.spell.Eye_Beam }}.|
+| {{ site.data.mplus.Storming }} | Лучший аффикс для мили группы, вы зарание будете видеть где оно появляется и просто отходите от него|
+| {{ site.data.mplus.Volcanic }} | Если все будут находиться в мили у босса, и во время боя спавнится какой-то противник на расстоянии — моментально появится вулкан рядом с группой.|
+
+</div>
+</div>
+
+</div>
+</div>
+
+<script>
+    var $tabs = function (target) {
+      var
+        _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
+        _eventTabsShow,
+        _showTab = function (tabsLinkTarget) {
+          var tabsPaneTarget, tabsLinkActive, tabsPaneShow;
+          tabsPaneTarget = document.querySelector(tabsLinkTarget.getAttribute('href'));
+          tabsLinkActive = tabsLinkTarget.parentElement.querySelector('.tabs__link_active');
+          tabsPaneShow = tabsPaneTarget.parentElement.querySelector('.tabs__pane_show');
+          // если следующая вкладка равна активной, то завершаем работу
+          if (tabsLinkTarget === tabsLinkActive) {
+            return;
+          }
+          // удаляем классы у текущих активных элементов
+          if (tabsLinkActive !== null) {
+            tabsLinkActive.classList.remove('tabs__link_active');
+          }
+          if (tabsPaneShow !== null) {
+            tabsPaneShow.classList.remove('tabs__pane_show');
+          }
+          // добавляем классы к элементам (в завимости от выбранной вкладки)
+          tabsLinkTarget.classList.add('tabs__link_active');
+          tabsPaneTarget.classList.add('tabs__pane_show');
+          document.dispatchEvent(_eventTabsShow);
+        },
+        _switchTabTo = function (tabsLinkIndex) {
+          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
+          if (tabsLinks.length > 0) {
+            if (tabsLinkIndex > tabsLinks.length) {
+              tabsLinkIndex = tabsLinks.length;
+            } else if (tabsLinkIndex < 1) {
+              tabsLinkIndex = 1;
+            }
+            _showTab(tabsLinks[tabsLinkIndex - 1]);
+          }
+        };
+
+      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
+
+      _elemTabs.addEventListener('click', function (e) {
+        var tabsLinkTarget = e.target;
+        // завершаем выполнение функции, если кликнули не по ссылке
+        if (!tabsLinkTarget.classList.contains('tabs__link')) {
+          return;
+        }
+        // отменяем стандартное действие
+        e.preventDefault();
+        _showTab(tabsLinkTarget);
+      });
+
+      return {
+        showTab: function (target) {
+          _showTab(target);
+        },
+        switchTabTo: function (index) {
+          _switchTabTo(index);
+        }
+      }
+
+    };
+
+    var mytabs = $tabs('.tabs');
+    if (localStorage.getItem('mytabs')) {
+      mytabs.showTab(document.querySelector('[href="' + localStorage.getItem('mytabs') + '"]'));
+    }
+
+    document.addEventListener('tab.show', function (e) {
+      localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
+    })
+</script>
+
+## Аффикс в 10+ ключе - Полный гордыни
+
+В 1 сезоне Shadowlands к эпохальным ключам 10 уровня и выше применяется сезонный {{ site.data.mplus.Prideful }} модификатор. По сравнению с другими сезонными модификаторами он оказывает относительно небольшое влияние на сложность подземелья и, судя по всему, каждую неделю его свойства будут одинаковы.
+
+Каждые 20% прогресса зачистки существ подземелья игроки порождают Проявление гордыни неподалеку от себя. Это означает, что всего в подземелье можно создать только 5 таких проявлений. Базово Проявление гордыни имеет около 189 тыс. ед. здоровья (это примерно 30% от среднего запаса здоровья боссов), которые растут вместе с повышением уровня ключа. Если в сражении с проявлением игроки погибают или как-то иначе сбрасывают бой, то оно возвращается на место своего появления, при этом не восстанавливая оставшийся запас здоровья.
+
+Проявление гордыни атакует в ближнем бою цель с наибольшей угрозой и применяет два умения: {{ site.data.mplus.Bursting_With_Pride }} и {{ site.data.mplus.Belligerent_Boast }}.
+В первую очередь будет применено умение {{ site.data.mplus.Bursting_With_Pride }}, которое базово наносит 384 ед. урона (масштабируется в зависимости от уровня подземелья) всем игрокам каждые 2 сек. и накладывает на них эффект "Распирающая гордыня", увеличивающий этот урон на 40% за каждое наложение. Эта способность наносит урон игрокам до самой победы над проявлением, но если бой с существом сбросится, то все эффекты рассеются и в следующий раз начнут накладываться с самого начала.
+
+Каждые 7 сек. во время боя также применяется умение {{ site.data.mplus.Belligerent_Boast }}. Это умение накладывает на одного случайного члена группы (отдавая предпочтение бойцам и лекарям) негативный эффект на 4 сек., по истечению которых от игрока в 4 стороны направляются снаряды "Зловредного хвастовства", что наносят большой урон и оглушают на 2 сек. попавших в них игроков. Пока на первого игрока действует изначальный негативный эффект, вокруг него крестом появляются 4 стрелы, которые указывают направления будущих снарядов (они всегда направлены на север, юг, запад и восток, поэтому поворот персонажа не изменит направление снарядов). Снаряды всегда вылетают из игрока, даже если он перебежит на другое место.
+
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/20226.jpg" width="43%" height="43%"> <img src="{{ site.url }}/assets/img/guide/havoc/20227.jpg" width="45%" height="45%"> </p>
+
+После победы над Проявлением гордыни на всех членов группы будет наложен позитивный эффект {{ site.data.mplus.Prideful_buff }}, действующий 1 мин. Этот эффект повышает наносимый урон на 30%, скорость передвижения на 60% и восполняет 5% маны каждую секунду. Чем персонажи, конечно, должны поскорее воспользоваться.
+
+
+# Билды
+
+## Демоник
+
+<div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
+<div class="talentcalc-wrapper" style="" data-selected="no">
+<div class="talentcalc-main" data-selected="no" data-class="demonhunter">
+<div class="talentcalc-header-class">
+<a class="c12">Таланты Охотника на Демонов</a></div>
+<div class="talentcalc-spec-switcher">Специализация: <span class="q1"><span class="tooltip-inside-icon" style="background-image: url(https://wow.zamimg.com/images/wow/icons/small/ability_demonhunter_specdps.jpg)"></span> Истребление <span class="talentcalc-spec-role" style="background-position: 0px 0"></span></span>
+</div>                             
+<div class="talentcalc-spec-desc" data-spec="3">Мрачный мастер боевых клинков и разрушительной магии Скверны. Оружие: боевые клинки, мечи, топоры, кистевое.</div>  
+  
+<table class="talentcalc-core" data-selected="no">
+	<tbody data-selected="no">
+<tr data-row="0" class="talentcalc-row" data-selected="yes" data-available="yes">
+<td class="outer" data-selected="no">
+
+<div class="inner">15</div>
+</td>
+
+<td class="outer" data-row="0" data-col="1" cursor="pointer" data-selected="yes">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203550" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bosskilrogg_deadeye.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Слепая ярость</td>
+</tr>
+</tbody>
+</table >
+</div>
+</td>
+
+<td class="outer" data-row="0" data-col="0" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206478" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_creature_poison_01_purple.jpg)"></ins><del></del>
+<div class="state active">✓</div></div>
+<table>
+<tbody>
+<tr>
+<td>Демонический аппетит</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="0" data-col="2" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=232893" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_felblade.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Клинок Скверны</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+
+<tr data-row="1" class="talentcalc-row" data-selected="yes" data-available="yes">
+<td class="outer" data-selected="no">
+<div class="inner">25</div>
+</td>
+
+<td class="outer" data-row="1" data-col="0" cursor="pointer" data-selected="yes">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258876" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_hungerforblood.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Неутолимый голод</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer" data-row="1" data-col="1" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=320374" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_immolation.jpg)"></ins><del></del>
+<div class="state active">✓</div></div>
+<table>
+<tbody>
+<tr>
+<td>Пылающая ненависть</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="1" data-col="2" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203555" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_92.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Демонические клинки</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+
+<tr data-row="2" class="talentcalc-row" data-selected="yes" data-available="yes">
+<td class="outer" data-selected="no">
+<div class="inner">30</div>
+</td>
+
+<td class="outer" data-row="2" data-col="1" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258881" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_bladedance.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Остатки разрушений</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=347461" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/artifactability_vengeancedemonhunter_painbringer.jpg)"></ins><del></del>
+<div class="state active">✓</div></div>
+<table>
+<tbody>
+<tr>
+<td>Необузданный хаос</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="2" data-col="2" cursor="pointer" data-selected="yes">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=342817" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactazgalor_d_06dual.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Буря клинков</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+
+<tr data-row="3" class="talentcalc-row" data-selected="no" data-available="yes">
+<td class="outer" data-selected="no">
+<div class="inner">35</div>
+</td>
+
+<td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="yes">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=204909" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_soulcleave2.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Раздирание души</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=205411" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_manafeed.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Инстинкт самосохранения</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="3" data-col="2" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=196555" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Путь Пустоты</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+
+<tr data-row="4" class="talentcalc-row" data-selected="yes" data-available="yes">
+<td class="outer" data-selected="no">
+<div class="inner">40</div>
+</td>
+
+<td class="outer" data-row="4" data-col="0" cursor="pointer" data-selected="yes">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258887" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_whirlofblood.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Цикл ненависти</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer" data-row="4" data-col="1" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206416" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_bloodcorruption_death.jpg)"></ins><del></del>
+<div class="state active">✓</div></div>
+<table>
+<tbody>
+<tr>
+<td>Первая кровь</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="4" data-col="2" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258860" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_ritualofsacrifice.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Разрыв сущности</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+
+<tr data-row="5" class="talentcalc-row" data-selected="yes" data-available="yes"><td class="outer" data-selected="no">
+<div class="inner">45</div>
+</td>
+
+<td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206477" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_chaosnova.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Освобожденная сила</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203556" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_demonhunter_a_01.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Мастер боевого клинка</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="5" data-col="2" cursor="pointer" data-selected="yes">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=211881" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bossfellord_felspike.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Извержение Скверны</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+
+<tr data-row="6" class="talentcalc-row" data-selected="yes" data-available="yes">
+<td class="outer" data-selected="no">
+<div class="inner">50</div>
+</td>
+
+<td class="outer" data-row="6" data-col="0" cursor="pointer" data-selected="yes">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=213410" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonform.jpg)"></ins><del></del>
+<div class="state active">✓</div></div>
+<table>
+<tbody>
+<tr>
+<td>Демонизм</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer" data-row="6" data-col="1" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206476" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_foundryraid_demolition.jpg)"></ins><del></del>
+</a><div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Импульс</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="6" data-col="2" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258925" onclick="return false;"></a>
+<div class="iconmedium">
+<ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_felbarrage.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Обстрел Скверны</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>    
+</div>
+</div>
+</div>   
+                 
+<br>
+## Импульс 
+
+<div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
+<div class="talentcalc-wrapper" style="" data-selected="no">
+<div class="talentcalc-main" data-selected="no" data-class="demonhunter">
+<div class="talentcalc-header-class">
+<a class="c12">Таланты Охотника на Демонов</a></div>
+<div class="talentcalc-spec-switcher">Специализация: <span class="q1"><span class="tooltip-inside-icon" style="background-image: url(https://wow.zamimg.com/images/wow/icons/small/ability_demonhunter_specdps.jpg)"></span> Истребление <span class="talentcalc-spec-role" style="background-position: 0px 0"></span></span>
+</div>                             
+<div class="talentcalc-spec-desc" data-spec="3">Мрачный мастер боевых клинков и разрушительной магии Скверны. Оружие: боевые клинки, мечи, топоры, кистевое.</div>  
+  
+<table class="talentcalc-core" data-selected="no">
+	<tbody data-selected="no">
+<tr data-row="0" class="talentcalc-row" data-selected="yes" data-available="yes">
+<td class="outer" data-selected="no">
+
+<div class="inner">15</div>
+</td>
+
+<td class="outer" data-row="0" data-col="1" cursor="pointer" data-selected="yes">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203550" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bosskilrogg_deadeye.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Слепая ярость</td>
+</tr>
+</tbody>
+</table >
+</div>
+</td>
+
+<td class="outer" data-row="0" data-col="0" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206478" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_creature_poison_01_purple.jpg)"></ins><del></del>
+<div class="state active">✓</div></div>
+<table>
+<tbody>
+<tr>
+<td>Демонический аппетит</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="0" data-col="2" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=232893" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_felblade.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Клинок Скверны</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+
+<tr data-row="1" class="talentcalc-row" data-selected="yes" data-available="yes">
+<td class="outer" data-selected="no">
+<div class="inner">25</div>
+</td>
+
+<td class="outer" data-row="1" data-col="0" cursor="pointer" data-selected="yes">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258876" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_hungerforblood.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Неутолимый голод</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer" data-row="1" data-col="1" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=320374" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_immolation.jpg)"></ins><del></del>
+<div class="state active">✓</div></div>
+<table>
+<tbody>
+<tr>
+<td>Пылающая ненависть</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="1" data-col="2" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203555" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_92.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Демонические клинки</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+
+<tr data-row="2" class="talentcalc-row" data-selected="yes" data-available="yes">
+<td class="outer" data-selected="no">
+<div class="inner">30</div>
+</td>
+
+<td class="outer" data-row="2" data-col="1" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258881" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_bladedance.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Остатки разрушений</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=347461" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/artifactability_vengeancedemonhunter_painbringer.jpg)"></ins><del></del>
+<div class="state active">✓</div></div>
+<table>
+<tbody>
+<tr>
+<td>Необузданный хаос</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="2" data-col="2" cursor="pointer" data-selected="yes">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=342817" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactazgalor_d_06dual.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Буря клинков</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+
+<tr data-row="3" class="talentcalc-row" data-selected="no" data-available="yes">
+<td class="outer" data-selected="no">
+<div class="inner">35</div>
+</td>
+
+<td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="yes">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=204909" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_soulcleave2.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Раздирание души</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=205411" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_manafeed.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Инстинкт самосохранения</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="3" data-col="2" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=196555" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Путь Пустоты</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+
+<tr data-row="4" class="talentcalc-row" data-selected="yes" data-available="yes">
+<td class="outer" data-selected="no">
+<div class="inner">40</div>
+</td>
+
+<td class="outer" data-row="4" data-col="0" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258887" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_whirlofblood.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Цикл ненависти</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer" data-row="4" data-col="1" cursor="pointer" data-selected="yes">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206416" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_bloodcorruption_death.jpg)"></ins><del></del>
+<div class="state active">✓</div></div>
+<table>
+<tbody>
+<tr>
+<td>Первая кровь</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="4" data-col="2" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258860" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_ritualofsacrifice.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Разрыв сущности</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+
+<tr data-row="5" class="talentcalc-row" data-selected="yes" data-available="yes"><td class="outer" data-selected="no">
+<div class="inner">45</div>
+</td>
+
+<td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206477" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_chaosnova.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Освобожденная сила</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203556" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_demonhunter_a_01.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Мастер боевого клинка</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="5" data-col="2" cursor="pointer" data-selected="yes">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=211881" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bossfellord_felspike.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Извержение Скверны</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+
+<tr data-row="6" class="talentcalc-row" data-selected="yes" data-available="yes">
+<td class="outer" data-selected="no">
+<div class="inner">50</div>
+</td>
+
+<td class="outer" data-row="6" data-col="2" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=213410" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonform.jpg)"></ins><del></del>
+<div class="state active">✓</div></div>
+<table>
+<tbody>
+<tr>
+<td>Демонизм</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer" data-row="6" data-col="1" cursor="pointer" data-selected="yes">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206476" onclick="return false;"></a>
+<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_foundryraid_demolition.jpg)"></ins><del></del>
+</a><div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Импульс</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+<td class="outer last-child" data-row="6" data-col="2" cursor="pointer" data-selected="no">
+<div class="inner">
+<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258925" onclick="return false;"></a>
+<div class="iconmedium">
+<ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_felbarrage.jpg)"></ins><del></del>
+<div class="state">✗</div></div>
+<table>
+<tbody>
+<tr>
+<td>Обстрел Скверны</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>    
+</div>
+</div>
+</div>  
+<br>
+
+# Утилити способности Охотника на Демонов
+
+* {{ site.data.spell.Darkness }} Не самая сильная сейв способность для группы, но может спасти группу от вайпа.
+* {{ site.data.spell.Vengeful_Retreat }} можно использовать для замедления врагов во время когда ваш танк пойдет их кайтить.
+* {{ site.data.spell.Chaos_Nova }} АоЕ стан. Оглушайте опасных врагов, используйте ее как можно чаще.
+* {{ site.data.talent.Fel_Eruption }} очень сильное оглушение по 1 цели, выбирается в талантах, всегда будет отличным выбором для м+.
+* {{ site.data.spell.Imprison }} Ренж контроль который не вводит вас в бой, в его помощью можно пропускать паки мобов и сбивать заклинания противников.
+* {{ site.data.spell.Consume_Magic }} пурж с коротким временем восстановления.
+* {{ site.data.spell.Spectral_Sight }} поможет найти скрытых врагов в подземелье.
+* {{ site.data.spell.Arcane_Torrent }}  /  {{ site.data.spell.Shadowmeld }}.  {{ site.data.spell.Arcane_Torrent }} АоЕ пурж. {{ site.data.spell.Shadowmeld }} поможет выжить когда группа будет выполнять пропуск мобов по тактике "Десран", способность поможет выйти из боя и вы не умрете.
+
+# Кровавые катакомбы
+<div data-target="#sanguine_depths-collapse" class="dungeon-header sanguine_depths"></div>
+
+**Треш**
+
+Так как бои происходят в узких коридорах будьте очень внимательный, враги здесь используют конусные атаки и АоЕ, в высоких ключах цена одной ошибки будет стоить вам жизни. 
+
+**Криксис**
+
+{{ site.data.spell.Darkness }} поможет снизить урон по группе от {{ site.data.mplus.Juggernaut_Rush }}.
+
+**Вершитель Тарвольд**
+
+Ключом к успешному убийству будет быстрое убийство призванного ада, чем дольше он живет тем больше урона получает группа.
+
+**Верховная надзирательница Бериллия**
+
+Пользуйтесь своей мобильностью и собирайте самые дальние сферы во время {{ site.data.mplus.Rite_of_Supremacy }}.
+
+<span class="blue">Бонусы ковенантов в Кровавых Катакомбах</span>
+
+<img src="{{ site.url }}/assets/img/blog/mplusguide/c8cf77d2ae0ba5cf15ce.jpg" align="right">
+Бонусы в этом подземелье для всей группы помогут получить сторонники **Вентиров**. Тут вы можете найти Клетки с анимой, всего их четыре на весь данж. Активировав её, на всех противников в радиусе 40 метров будет наложен эффект {{ site.data.mplus.Anima_Drain }}. Через 20 секунд клетка отключается и на всю группу накладывается эффект {{ site.data.mplus.Sinfall_Boon }}, сила которого зависит от того, сколько противников было убито во время действия клетки и под действием её дебафа. 
 
 <hr>
 
-<div class="dungeon-accordion">
-<div id="accordion">
+# Смертельная тризна
+<div data-target="#The_Necrotic_Wake-collapse" class="dungeon-header The_Necrotic_Wake"></div>
 
-    <div class="card">
-        <div class="card-header" id="Sanguine_Depths">
-            <div data-toggle="collapse" data-target="#Sanguine_Depths-collapse" aria-expanded="true" aria-controls="Sanguine_Depths-collapse" class="dungeon-header Sanguine_Depths"><h2>Кровавые катакомбы</h2></div>
-        </div>
-        <div id="Sanguine_Depths-collapse" class="collapse show" aria-labelledby="Sanguine_Depths" data-parent="#accordion">
-            <div class="card-body">
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Sanguine_Depths/Kryxis.png">Криксис Ненасытный</span> - Криксис Ненасытный давно учуял аниму, заключённую в Кровавых катакомбах, и желание поглотить эту энергию сводило его с ума. Образовавшийся в Ревендрете разлом позволил Криксису проникнуть в катакомбы, и теперь он намерен поглотить всю аниму в подземном хранилище до последней капли.</p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Sanguine_Depths/Tarvold.png">Вершитель Тарвольд</span> - Криксис Ненасытный давно учуял аниму, заключённую в Кровавых катакомбах, и желание поглотить эту энергию сводило его с ума. Образовавшийся в Ревендрете разлом позволил Криксису проникнуть в катакомбы, и теперь он намерен поглотить всю аниму в подземном хранилище до последней капли.</p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Sanguine_Depths/Beryllia.png">Верховная надзирательница Бериллия</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Sanguine_Depths/Kaal.png">Генерал Кааль</span> - </p>
-                <p markdown="1"><span class="blue">Треш</span> Заметки:</p>
-                <ul>
-                    <li>Заметки по трешу</li>
-                    <li>Заметки по трешу</li>  
-                </ul>
-            </div>
-        </div>
-    </div>
-	
-    <div class="card">
-        <div class="card-header" id="The_Necrotic_Wake">
-            <div data-toggle="collapse" data-target="#The_Necrotic_Wake-collapse" aria-expanded="true" aria-controls="The_Necrotic_Wake-collapse" class="dungeon-header The_Necrotic_Wake"><h2>Смертельная тризна</h2></div>
-        </div>
-        <div id="The_Necrotic_Wake-collapse" class="collapse" aria-labelledby="The_Necrotic_Wake" data-parent="#accordion">
-            <div class="card-body">
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/The_Necrotic_Wake/Blightbone.png">Чумокост</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/The_Necrotic_Wake/Amarth.png">Амарт Жнец</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/The_Necrotic_Wake/Stitchflesh.png">Хирург Трупошов</span> - </p>
-				<p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/The_Necrotic_Wake/Nalthor.png">Налтор Криомант</span> - </p>
-                 <p markdown="1"><span class="blue">Треш</span> Заметки:</p>
-                <ul>
-                    <li>Заметки по трешу</li>
-                    <li>Заметки по трешу</li>  
-                </ul>
-            </div>
-        </div>
-    </div>
-	
-    <div class="card">
-        <div class="card-header" id="The_Other_Side">
-            <div data-toggle="collapse" data-target="#The_Other_Side-collapse" aria-expanded="true" aria-controls="The_Other_Side-collapse" class="dungeon-header The_Other_Side"><h2>Та Сторона</h2></div>
-        </div>
-        <div id="The_Other_Side-collapse" class="collapse" aria-labelledby="The_Other_Side" data-parent="#accordion">
-            <div class="card-body">
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/The_Other_Side/Hakkar.png">Хаккар Свежеватель Душ</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/The_Other_Side/Manastorms.png">Манаштормы</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/The_Other_Side/Xyexa.png">Дилер Зи'екса</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/The_Other_Side/Muehzala.png">Мве'зала</span> - </p>
-                <p markdown="1"><span class="blue">Треш</span> Заметки:</p>
-                <ul>
-                    <li>Заметки по трешу</li>
-                    <li>Заметки по трешу</li>  
-                </ul>
-            </div>
-        </div>
-    </div>
+**Треш**
 
-    <div class="card">
-        <div class="card-header" id="Theater_of_Pain">
-            <div data-toggle="collapse" data-target="#Theater_of_Pain-collapse" aria-expanded="true" aria-controls="Theater_of_Pain-collapse" class="dungeon-header Theater_of_Pain"><h2>Театр Боли</h2></div>
-        </div>
-        <div id="Theater_of_Pain-collapse" class="collapse" aria-labelledby="Theater_of_Pain" data-parent="#accordion">
-            <div class="card-body">
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Theater_of_Pain/AnAffront.png">Оскорбление претендентов</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Theater_of_Pain/Gorechop.png">Кроворуб</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Theater_of_Pain/Xav.png">Ксав Несломленный</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Theater_of_Pain/Kultharok.png">Кул'тарок</span> - </p>
-				<p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Theater_of_Pain/Mordretha.png">Мордрета, Вечная императрица</span> - </p>
-                <p markdown="1"><span class="blue">Треш</span> Заметки:</p>
-                <ul>
-                    <li>Заметки по трешу</li>
-                    <li>Заметки по трешу</li>  
-                </ul>
-            </div>
-        </div>
-    </div>
-	
-        <div class="card">
-        <div class="card-header" id="Mists_of_Tirna_Scithe">
-            <div data-toggle="collapse" data-target="#Mists_of_Tirna_Scithe-collapse" aria-expanded="true" aria-controls="Mists_of_Tirna_Scithe-collapse" class="dungeon-header Mists_of_Tirna_Scithe"><h2>Туманы Тирна Скитта</h2></div>
-        </div>
-        <div id="Mists_of_Tirna_Scithe-collapse" class="collapse" aria-labelledby="Mists_of_Tirna_Scithe" data-parent="#accordion">
-            <div class="card-body">
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Mists_of_Tirna_Scithe/Maloch.png">Ингра Малох</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Mists_of_Tirna_Scithe/Mistcaller.png">Призывательница Туманов</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Mists_of_Tirna_Scithe/Tredova.png">Тред'ова</span> - </p>
-				<p markdown="1"><span class="blue">Треш</span> Заметки:</p>
-                <ul>
-                    <li>Заметки по трешу</li>
-                    <li>Заметки по трешу</li>  
-                </ul>
-            </div>
-        </div>
-    </div>
-	
-    <div class="card">
-        <div class="card-header" id="Halls_of_Atonement">
-            <div data-toggle="collapse" data-target="#Halls_of_Atonement-collapse" aria-expanded="true" aria-controls="Halls_of_Atonement-collapse" class="dungeon-header Halls_of_Atonement"><h2>Чертоги Покаяния</h2></div>
-        </div>
-        <div id="Halls_of_Atonement-collapse" class="collapse" aria-labelledby="Halls_of_Atonement" data-parent="#accordion">
-            <div class="card-body">
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Halls_of_Atonement/Halkias.png">Халкиас, запятнанный грехом голиаф</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Halls_of_Atonement/Echelon.png">Эшелон</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Halls_of_Atonement/Aleez.png">Верховный адъюдикатор Ализа</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Halls_of_Atonement/Chamberlain.png">Лорд-камергер</span> - </p>
-                <p markdown="1"><span class="blue">Треш</span> Заметки:</p>
-                <ul>
-                    <li>Заметки по трешу</li>
-                    <li>Заметки по трешу</li>  
-                </ul>
-            </div>
-        </div>
-    </div>
-	
-    <div class="card">
-        <div class="card-header" id="Plaguefall">
-            <div data-toggle="collapse" data-target="#Plaguefall-collapse" aria-expanded="true" aria-controls="Plaguefall-collapse" class="dungeon-header Plaguefall"><h2>Чумные каскады</h2></div>
-        </div>
-        <div id="Plaguefall-collapse" class="collapse" aria-labelledby="Plaguefall" data-parent="#accordion">
-            <div class="card-body">
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Plaguefall/Globgrog.png">Склизгл</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Plaguefall/Ickus.png">Доктор Икус</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Plaguefall/Domina.png">Домина Отравленный Клинок</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Plaguefall/Margrave.png">Маркграфиня Страдама</span> - </p>
-                <p markdown="1"><span class="blue">Треш</span> Заметки:</p>
-                <ul>
-                    <li>Заметки по трешу</li>
-                    <li>Заметки по трешу</li>  
-                </ul>
-            </div>
-        </div>
-    </div>
-	
-    <div class="card">
-        <div class="card-header" id="Spires_of_Ascension">
-            <div data-toggle="collapse" data-target="#Spires_of_Ascension-collapse" aria-expanded="true" aria-controls="Spires_of_Ascension-collapse" class="dungeon-header Spires_of_Ascension"><h2>Шпили Перерождения</h2></div>
-        </div>
-        <div id="Spires_of_Ascension-collapse" class="collapse" aria-labelledby="Spires_of_Ascension" data-parent="#accordion">
-            <div class="card-body">
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Spires_of_Ascension/Kin-Tara.png">Кин-Тара</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Spires_of_Ascension/Ventunax.png">Вентунакс</span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Spires_of_Ascension/Oryphrion.png">Орифрион </span> - </p>
-                <p markdown="1"><span class="blue">
-				<img src="{{ site.url }}/assets/img/guide/dungeons/Spires_of_Ascension/Devos.png">Девия, идеал Сомнения</span> - </p>
-                <p markdown="1"><span class="blue">Треш</span> Заметки:</p>
-                <ul>
-                    <li>Заметки по трешу</li>
-                    <li>Заметки по трешу</li>  
-                </ul>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-</div>
-</div>
+* Обязательно возьмите один из спец предметы {{ site.data.mplus.Discharged_Anima }}, {{ site.data.mplus.Bloody_Javelin }}, {{ site.data.mplus.Forgotten_Forgehammer }}, {{ site.data.mplus.Discarded_Shield }} - они дают очень сильные бонусы если использовать их в правильных местах. При смерти подобранный предмет исчезает.
+* Снимайте с мобов {{ site.data.mplus.Dark_Shroud }} при помощи  {{ site.data.mplus.Consume_Magic }}.
+
+**Амарт, Воскреситель**
+
+В приоритете убиваем призванных адов, сбиваем все касты призванных магов чтоб избежать вайпа.
+
+**Хирург Трупошов**
+
+* Не стойте между адом и боссом, чтоб не спавнить там лишние лужи.
+* Если вы повторно захватите босса {{ site.data.mplus.Meat_Hook }} то он будет дольше оставаться на нижней платфоме.
+
+<span class="blue">Бонусы ковенантов в Смертельной тризне</span>
+
+<img src="{{ site.url }}/assets/img/blog/mplusguide/82ec3436f6a173a39355.jpg" align="right">
+В этом подземелье сторонники **Кирий** могут применить способность {{ site.data.covenant.Summon_Steward }} рядом с одним из двух {{ site.data.mplus.Malfunctioning_Goliath }}. При этом в меню диалога с распорядителем появится новый пункт: «Ты можешь исправить голиафа?», который и надо выбрать.
+
+После починки голиаф бросит на землю 5 сфер анимы, подобрав которые игроки получат баф {{ site.data.mplus.Anima_Exhaust }}. Эффект суммируется, а сферы лежат на земле всего 12 сек., поэтому следует заранее решить кто и в каком количестве их подберёт. Более того, голиафов в подземелье три.
+
+<span class="blue">Дополнительные бонусы в Смертельной тризне</span>
+В различных местах подземелья вы обнаружите активные предметы, разбросанные по полу. Однажды найденные, они будут подсвечены при каждом прохождении подземелья.
+
+Эти вещи дают очень мощные бафы, которые будут важны в эпохальном+ режимах. Каждый игрок взять единовременно только один предмет и каждый их них можно использовать только один раз. При этом при смерти баффы теряются.
+* {{ site.data.mplus.Discharged_Anima }} — высвободите сохраненную аниму, нанося урон от тайной магии ближайшим врагам и прерывая их заклинания каждые 1 секунду в течение 8 секунд.
+* {{ site.data.mplus.Bloody_Javelin }} — Бросает в цель кирийский дротик, нанося пронзенным противникам на линии физический урон мгновенно и дополнительный физический урон раз в 2 сек. в течение 16 сек. Пораженные противники в течение 16 сек. получают на 20% больше урона.
+* {{ site.data.mplus.Forgotten_Forgehammer }} — Бросает в цель кирийский молот, нанося физический урон и оглушая цель на 8 сек.
+* {{ site.data.mplus.Discarded_Shield }}  — активируйте, чтобы уменьшить получаемый урон на 50% для всех союзников в радиусе 8 м на 6 секунд.
+
+{{ site.data.mplus.Bloody_Javelin }} и {{ site.data.mplus.Forgotten_Forgehammer }} наносят огромный урон врагам и могут использоваться для сложных паков трэша или для боссов. Кровавое копье заставляет цель получать на 20% больше урона в течение 16 секунд, и если вы объедините это с БЛ и кулдаунами, любой босс будет уничтожен мгновенно.
+
+<hr>
+
+# Та Сторона
+<div data-target="#The_Other_Side-collapse" class="dungeon-header The_Other_Side"></div>
+
+**Треш перед Хаккаром**
+
+* Не дайте превратиться {{ site.data.mplus.Atalai_Devoted  }} в {{ site.data.mplus.Son_of_Hakkar  }}, используйте  {{ site.data.spell.Chaos_Nova }} чтоб прервать заклинание.
+* Используйте {{ site.data.spell.Consume_Magic }} чтоб продиселить духов после смерти {{ site.data.mplus.Atalai_Deathwalker }}.
+* Смотрите за применением заклинаний {{ site.data.mplus.Atalai_High_Priest }} и {{ site.data.mplus.Atalai_Hoodoo_Hexxer }} их нужно прерывать.
+
+**Треш перед Манаштормами**
+
+* Пуржите баф с {{ site.data.mplus.Headless_Client }} чтоб они перестали крутиться {{ site.data.spell.Consume_Magic }} / {{ site.data.spell.Arcane_Torrent }}.
+
+**Хаккар**
+
+* Старайтесь не убивать {{ site.data.mplus.Son_of_Hakkar }} под боссом в мили, лужи от них могут доставить много проблем.
+
+**Манаштормы**
+
+* Перекрывайте {{ site.data.mplus.Power_Overwhelming }}.
+* Используйте все свои КД чтоб быстрей закончить бой с {{ site.data.mplus.Millificent_Manastorm }}
+
+**Дилер Зи'екса**
+
+* Заходите в {{ site.data.mplus.Displacement_Trap }} во время использования боссом способности {{ site.data.mplus.Explosive_Contrivance }}
+
+**Мве'зала**
+
+* Не попадайте под способность босса {{ site.data.mplus.Master_of_Death }}.
+* Перед использованием портала убедитесь что он приведет вас на нужную платформу.  
+
+<span class="blue">Бонусы ковенантов в Та Сторона</span>
+
+Бонусы в этом подземелье помогут получить сторонники **Ночного Народца**. По подземелью случайным образом разбросаны предметы — {{ site.data.mplus.Haunted_Urn }}. Вы сможете разрушать их, оглушая всех противников в радиусе 30 метров.
+
+<hr>
+
+# Театр Боли
+
+<div data-target="#Theater_of_Pain-collapse" class="dungeon-header Theater_of_Pain"></div>
+
+**Оскорбление претендентов**
+
+* Пуржите {{ site.data.mplus.Unholy_Fervor }} с помощью {{ site.data.spell.Consume_Magic }} если ваша группа пропустила сбитие каста.
+
+**Кроворуб**
+
+* Периодически Кроворуб притягивает всех игроков к себе, а затем начинает применение способности {{ site.data.mplus.Tenderizing_Smash }}. Как можно быстрее отбегите от босса, чтобы покинуть радиус её действия.
+
+**Ксав Несломленный**
+
+* В приоритете убиваем {{ site.data.mplus.Oppressive_Banner }}.
+* Перед началом боя с боссом лучше определить кто проиграет в дуэль, чтоб она прошла быстрее.
+
+**Кул'тарок**
+
+* Стойте в {{ site.data.mplus.Grasping_Hands }} чтоб быстрей вернуть свою душу {{ site.data.mplus.Draw_Soul }}.
+
+**Молдрета**
+
+* В первую очередь заливаем адов {{ site.data.mplus.Manifest_Death }}, что не получать лишний урон и было проще уворачиваться от механик босса.
+
+<span class="blue">Бонусы ковенантов в Театре Боли</span>
+
+<img src="{{ site.url }}/assets/img/blog/mplusguide/bd4bed19a85720b55343.jpg" align="right">
+В Театре Боли бонусы всей группе могут дать сторонники **Некролордов**. В подземелье в каждом из кварталов после первого босса вы можете найти Знамёна Некролордов. Всего их три. Использовав знамя, игрок получит баф {{ site.data.mplus.Necrolords_Chosen }}, а все его союзники, находящиеся в радиусе 150 метров, получат {{ site.data.mplus.Necrolords_Command }}.
+
+<hr>
+
+# Туманы Тирна Скитта
+<div data-target="#Mists_of_Tirna_Scithe-collapse" class="dungeon-header Mists_of_Tirna_Scithe"></div>
+
+**Треш**
+
+* Если ваша группа пропустила сбитие каста у {{ site.data.mplus.Mistveil_Tender }} или {{ site.data.mplus.Mistveil_Shaper }} вы можете прострелить {{ site.data.mplus.Nourish_the_Forest }} и {{ site.data.mplus.Bramblethorn_Coat }} с помощью {{ site.data.spell.Consume_Magic }}.
+* Минибосс {{ site.data.mplus.Mistveil_Nightblossom }} очень сильный, на него желательно использовать ваши КД.
+
+**Лабиринт**
+
+Цель заключается в том, чтобы определить какой из символов имеет уникальную особенность, и пройти через эту дверь. Есть 3 вещи, которые могут быть уникальными:
+**Круг**
+* Только ли у одного из символов есть круг?
+* Только один из символов не имеет круга?
+
+**Лист или цветок**
+* Только один из предметов является цветком?
+* Только один из предметов является листом?
+
+**Заливка или контур**
+* Залит цветом только один из предметов?
+* Не залит цветом только один из символов?
+
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/mplusguide/aaaf4e229e65ad0b4dc2.jpg"> </p>
+
+Например, на скриншоте выше только один цветок и три лепестка. Цветок тут — уникальный символ, эта дверь верная. Тут также:
+* Два символа с кружками и два без них — ничего уникального.
+* Два символа затенены, а два нет — ничего уникального.
+* Цветок только один.
+
+**Ингра Малох**
+
+* Используйте свои сильные КД во время когда на босса действует дебаф {{ site.data.mplus.Dromans_Wrath }}.
+
+**Призывательница Туманов**
+
+* Используйте {{ site.data.spell.Imprison }} когда появляется {{ site.data.mplus.llusionary_Vulpin }}.
+
+<span class="blue">Бонусы ковенантов в Туманах Тирна Скитта</span>
+
+<img src="{{ site.url }}/assets/img/blog/mplusguide/e7d8b789d60ead4fbaaf.jpg" align="right">
+В этом подземелье бонусы всей группе могут дать сторонники **Ночного Народца**. В начале подземелья слева от вы можете найти {{ site.data.mplus.Overgrown_Roots }}. Они преграждают короткий путь, позволяющий пропустить несколько групп существ.
+
+Второй бонус, который может получить группа — это 10% бонус к характеристикам. После первого босса, Ингры Малоха, есть ещё одни {{ site.data.mplus.Overgrown_Roots }}, за которыми роща с грибами. Можно находиться под действием только одного гриба одного типа, но их вполне достаточно, чтобы все 5 членов группы получили оба эффекта.
+* {{ site.data.mplus.Savory_Statshroom }} (5 шт.) – мгновенно восполняет 100% здоровья и повышает силу, ловкость и интеллект на 10% на 10 мин.
+* {{ site.data.mplus.Tasty_Toughshroom }} (5 шт.) – мгновенно восполняет 100% здоровья и повышает выносливость на 10% на 10 мин.
+
+Единовременно можно находиться под действием эффекта только одного типа, но грибов достаточно на всю группу.
+
+И третий бонус — дополнительные точки возрождения. В двух местах вы сможете найти {{ site.data.mplus.Depleted_Anima_Seed }}, которое необходимо активировать.
+* Первое находится после первого босса, слева, до пака мобов
+* Второе находится после второго босса справа, сразу после прыжка с обрыва
+
+<hr>
+   
+# Чертоги Покаяния
+
+<div data-target="#Halls_of_Atonement-collapse" class="dungeon-header Halls_of_Atonement"></div>
+
+**Треш**
+
+* Прерывайте способность {{ site.data.mplus.Loyal_Beasts }} которую используют {{ site.data.mplus.Depraved_Houndmaster }}.
+
+**Лорд-камергера**
+
+* На 70% и 40% здоровья босс применяет особое комбо — {{ site.data.mplus.Chamberlains_Chorus }}
+* Займите свободное месте между статей и боссом чтоб перекрыть {{ site.data.mplus.Ritual_of_Woe }}.
+* Если у вас достаточно урона и после применения {{ site.data.mplus.Ritual_of_Woe }} бос снова перейдет на фазу с перекрытием {{ site.data.mplus.Ritual_of_Woe }}, вы можете зайти в модель босса и продлжать наносить урон, статуи вас там не заденут.
+
+<span class="blue">Бонусы ковенантов в Чертогах Покаяния</span>
+
+<img src="{{ site.url }}/assets/img/blog/mplusguide/79464156054f0cb583fb.jpg" align="right">
+
+В этом подземелье бонусы для группы помогут получить адепты **Вентиров**. Тут вы можете отыскать враждебных мобов {{ site.data.mplus.Loyal_Stoneborn }}. Обратите внимание на их баф {{ site.data.mplus.LoyalStoneborn }}. Подойдя к ним, у сторонников Вентиров появится дополнительная кнопка, нажав которую вы начнёте ритуал приручения, длящийся всего 2 секунды. По окончании каста, Камнерождённый перейдёт на вашу сторону на 30 секунд, а потом просто улетит.
+
+Пока моб сражается на вашей стороне вся группа получит эффект {{ site.data.mplus.Stoneborn_Boon }}, который уменьшает получаемый урон. Баф суммируется, если активно больше одного существа.
+  	
+<hr> 
+
+# Чумные каскады
+<div data-target="#Plaguefall-collapse" class="dungeon-header Plaguefall"></div>
+
+**Треш**
+
+* Сбивайте щит {{ site.data.mplus.Defender_of_Many_Eyes }} мобов {{ site.data.mplus.Bulwark_of_Maldraxxus  }}спомощью стана. 
+* Сбивайте каст {{ site.data.mplus.Enveloping_Webbing }} мобов {{ site.data.mplus.Brood_Ambusher }} с помощью стана или {{ site.data.spell.Imprison }}.
+
+**Склизгла**
+
+* Вы можете игнорировать отбрасывание способности {{ site.data.mplus.Plaguestomp }} с помощью {{ site.data.spell.Glide }}.
+
+**Доктор Икус**
+
+* Дважды за бой, на 66% и 33% здоровья, Икус прыгнет на один из соседних островков, где установит бомбу {{ site.data.mplus.Virulent_Explosion }}. У вас будет 30 сек., чтобы добраться туда и разрушить её, иначе урон может быть фатальным. 
+
+**Домина**
+
+* Домина призывает 4 скрытых убийцы, они в невидимости, но их окружает {{ site.data.mplus.Shroudweb }}, которую видно на земле. Вы можете помочь танку собрать их с помощью {{ site.data.spell.Fel_Rush }}.
+
+**Маркграфиня Страдама**
+
+* Используйте {{ site.data.spell.Darkness }} чтоб уменьшить урон по группе во время {{ site.data.mplus.Infectious_Rain }}.
+
+<span class="blue">Бонусы ковенантов в Чумных каскадах</span>
+
+В этом подземелье бонусы для группы помогут получить сторонники Некролордов, применив {{ site.data.covenant.Fleshcraft }} к телам слизняков, которых тут несколько типов:
+* **Кровоточащий слизнюк**: на 5 минут повесит на игрока ауру {{ site.data.mplus.Corrosive_Gunk }}. Все союзники в радиусе 10 метров получают эффект {{ site.data.mplus.CorrosiveGunk }}, который периодически наносит урон всем противникам в радиусе 10 метров.
+* **Заразный слизнюк**: на 2 минуты повесит на игрока ауру {{ site.data.mplus.Rapid_Infection }}. Все союзники в радиусе 10 метров получают эффект {{ site.data.mplus.RapidInfection }}, повышающий показатель скорости. Кроме того, после смерти Заразный слизнюк оставляет лужу {{ site.data.mplus.RapidInfection }}, которая также повышает показатель скорости, если в ней стоять. Оба эффекта суммируются.
+* **Замерзший слизнюк**: на 2 минуты повесит на игрока ауру {{ site.data.mplus.Congealed_Contagion }}. Все союзники в радиусе 10 метров получают эффект {{ site.data.mplus.CongealedContagion }}, уменьшающий получаемый урон.
+
+<hr>
+
+# Шпили Перерождения
+
+<div data-target="#Spires_of_Ascension-collapse" class="dungeon-header Spires_of_Ascension"></div>
+
+**Кин-Тара**
+
+* Бейте {{ site.data.mplus.Azules }} уворачиваясь от фронтальных атак и кливайте {{ site.data.mplus.Kin_Tara }}.
+
+**Вентунакс**
+
+* Ничего особенного в бое нет, просто уворачивайтесь от АоЕ вихря тьмы {{ site.data.mplus.Dark_Stride }}.
+
+**Орифрион**
+
+* Стакайтесь в одном месте чтоб спавнить лужи от {{ site.data.mplus.Empyreal_Ordnance }}.
+* С помощью {{ site.data.spell.Netherwalk  }} вы можете собрать сферы, но лучше чтоб это делал танк, а вы сосредоточились на нанесении урона.
+
+**Девия**
+
+* Заранее занимайте место где упадет самая дальняя сфера на переходке.
+* Используйте {{ site.data.spell.Glide }} чтоб пролетать над АоЕ лужами и уменьшить по себе урон.
+
+<span class="blue">Бонусы ковенантов в Шпилях Перерождения</span>
+
+<img src="{{ site.url }}/assets/img/blog/mplusguide/1b87b6d497aebb6735e2.jpg" align="right"> 
+
+В этом подземелье бонус имеют сторонники **Кирий**. Слева и справа от площадки, где находится первый босс Кин-тара, лежит мёртвая Кирия. При клике по трупу вы получите {{ site.data.mplus.Spear_of_Destiny }}, которое можно метнуть на землю в любое время.
+
+Подобрать можно оба копья, но не одновременно — за вторым придётся вернуться после использования первого.
+
+
+#### По мере поступления новой информации руководство будет дополнятся.
+

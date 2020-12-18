@@ -62,7 +62,24 @@ Sludgefist: <a href="https://ru.wowhead.com/npc=174733" target="blank">Алчу�
 
 
 # Аффиксы
+Tyrannical: <a href="https://ru.wowhead.com/affix=9" target="blank">Тиранический</a>
+Fortified: <a href="https://ru.wowhead.com/affix=10" target="blank">Укрепленный</a>
+Bolstering: <a href="https://ru.wowhead.com/affix=7" target="blank">Усиливающий</a>
+Spiteful: <a href="https://ru.wowhead.com/affix=123" target="blank">Злопамятный</a>
+Bursting: <a href="https://ru.wowhead.com/affix=11" target="blank">Взрывной</a>
+Raging: <a href="https://ru.wowhead.com/affix=6" target="blank">Разъяренный</a>
+Sanguine: <a href="https://ru.wowhead.com/affix=8" target="blank">Кровавый</a>
+Inspiring: <a href="https://ru.wowhead.com/affix=122" target="blank">Воодушевляющий</a>
+Explosive: <a href="https://ru.wowhead.com/affix=13" target="blank">Взрывоопасный</a>
+Grievous: <a href="https://ru.wowhead.com/affix=12" target="blank">Мучительный</a>
 Necrotic: <a href="https://ru.wowhead.com/affix=4" target="blank">Некротический</a>
+Quaking: <a href="https://ru.wowhead.com/affix=14" target="blank">Сотрясающий</a>
+Storming: <a href="https://ru.wowhead.com/affix=124" target="blank">Бушующий</a>
+Volcanic: <a href="https://ru.wowhead.com/affix=3" target="blank">Вулканический</a>
+Prideful: <a href="https://ru.wowhead.com/affix=121" target="blank">Полный гордыни</a>
+Bursting_With_Pride: <a href="https://ru.wowhead.com/spell=342332" target="blank">Переполняющая гордыня</a>
+Belligerent_Boast: <a href="https://ru.wowhead.com/spell=342466" target="blank">Бахвальство</a>
+Prideful_buff: <a href="https://ru.wowhead.com/spell=340880/" target="blank">Гордыня</a>
 
 #Cкилы
 #Кровавые Катакомбы
@@ -299,6 +316,7 @@ Ghost_Step: <a href="https://ru.wowhead.com/spell=330816" target="blank">При�
 Plague_Crash: <a href="https://ru.wowhead.com/spell=322473" target="blank">Удар чумы</a>
 Malignant_Growth: <a href="https://ru.wowhead.com/spell=322304" target="blank">Болезнетворный нарост</a>
 Touch_of_Slime: <a href="https://ru.wowhead.com/spell=322236" target="blank">Касание слизи</a>
+llusionary_Vulpin: <a href="https://ru.wowhead.com/npc=165251" target="blank">Иллюзорный лисохвост</a>
 
 
 #Чертоги покаяния
@@ -422,3 +440,9 @@ Cosmic_Artifice: <a href="https://ru.wowhead.com/spell=325725" target="blank">К
 Shatter_Reality: <a href="https://ru.wowhead.com/spell=326171" target="blank">Раскол реальности</a>
 Bwonsamdis_Fury: <a href="https://ru.wowhead.com/spell=327891" target="blank">Ярость Бвонсамди</a>
 Bwonsamdis_Fervor: <a href="https://ru.wowhead.com/spell=327893" target="blank">Рвение Бвонсамди</a>
+Millificent_Manastorm: <a href="https://ru.wowhead.com/npc=101976" target="blank">Миллифисент Манашторм</a>
+
+
+Enveloping_Webbing: <a href="https://ru.wowhead.com/spell=328409" target="blank">Окутывающие сети</a>
+Azules: <a href="https://ru.wowhead.com/npc=163077" target="blank">Азуль</a>
+
