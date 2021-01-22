@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Характеристики
-last_update: 2020-01-11 09:00:00
+last_update: 2021-01-22 09:00:00
 game_version: 9.0.0 Shadowlands
 toc: true
 ---
@@ -45,16 +45,38 @@ toc: true
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
 	  
-	<div class="tabs_in">
-<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> Ловкость > <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30"> Критический удар > <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> Скорость > <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> Искусность > <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> Универсальность
-	</div>	
+	<div class="tabs_in" markdown="1">
+#### Ковенант **Ночной народец** <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22">
+
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="25" height="25"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="25" height="25">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="25" height="25"> **Скорость >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="25" height="25"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="25" height="25"> **Искусность** 
+
+<hr>
+
+#### Ковенант **Вентиры** <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24">
+
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="25" height="25"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="25" height="25"> **Скорость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="25" height="25">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="25" height="25"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="25" height="25"> **Искусность** 
+
+<hr>
+
+#### Ковенант **Кирии** <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24">
+
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="25" height="25"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="25" height="25">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="25" height="25"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="25" height="25"> **Искусность >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="25" height="25"> **Скорость**
+</div>	
 	
 	 </div>
       <div class="tabs__pane" id="content-2">
 
-	<div class="tabs_in">
-<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> Ловкость > <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30">  Критический удар > <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> Универсальность > <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> Искусность > <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> Скорость
-	</div>	
+	<div class="tabs_in" markdown="1">
+#### Ковенант **Кирии** <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24">
+
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> **Искусность >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> **Скорость**
+
+<hr>
+
+#### Ковенант **Вентиры** <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24">
+
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> **Скорость >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> **Искусность** 
+</div>	
 
       </div>
       
