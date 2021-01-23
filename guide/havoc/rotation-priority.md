@@ -64,58 +64,93 @@ toc: true
 
 **Опенер**
 
+<div class="tabs">
+<div class="tabs__nav">
+<a class="tabs__link tabs__link_active" href="#content-1">СТ Ротация</a>
+<a class="tabs__link" href="#content-2">Мифик+</a>
+ </div>
+ 
+<div class="tabs__content">
+<div class="tabs__pane tabs__pane_show" id="content-1">
+<div class="tabs_in" markdown="1">
+
+Рейд СТ Демоник
+**Опенер**
+
 1. Прекастом {{ site.data.covenant.Elysian_Decree }}
-1. {{ site.data.spell.Immolation_Aura }}
-1. {{ site.data.spell.Fel_Rush }} для активации баффа {{ site.data.talent.Momentum }}.
+1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
 1. {{ site.data.talent.Felblade }}
 1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за **Ночной народец**
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за **Вентиров**
 1. {{ site.data.spell.Blade_Dance }}
-1. {{ site.data.spell.Metamorphosis }}
+1. Если вы играете за **Ночной народец** {{ site.data.spell.Metamorphosis }}
+1. Если вы **Вентир** Играем СТ ротацию до тех пор, пока до спадения {{ site.data.covenant.Sinful_Brand }} с цели не останется 1 сек и только затем отдаем {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Eye_Beam }}
 1. {{ site.data.spell.Death_Sweep }}
 
-<div class="tabs">
-    <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-1">Мифик+</a>
-      <a class="tabs__link" href="#content-2">СТ Ротация</a>
-    </div>
-    <div class="tabs__content">
-      <div class="tabs__pane tabs__pane_show" id="content-1">
+<hr>
 
-	<div class="tabs_in">
-1. {{ site.data.spell.Metamorphosis }}<br>
-2. {{ site.data.spell.Vengeful_Retreat }}<br>
-3. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.<br>
-4. {{ site.data.talent.Glaive_Tempest }}<br>
-5. {{ site.data.spell.Eye_Beam }}<br>
-6. {{ site.data.covenant.Elysian_Decree }} по готовности<br>
-7. {{ site.data.spell.Death_Sweep }} если 3+ целей.<br>
-8. {{ site.data.spell.Blade_Dance }} если 5+ целей.<br>
-9. {{ site.data.spell.Immolation_Aura }}<br>
-10. {{ site.data.spell.Annihilation }}<br>
-11. {{ site.data.spell.Chaos_Strike }}<br>
-12. {{ site.data.spell.Demons_Bite }}
-	</div>
-		
-      </div>
-      <div class="tabs__pane" id="content-2">
-	<div class="tabs_in">
-1. {{ site.data.spell.Metamorphosis }}<br>
-2. {{ site.data.spell.Vengeful_Retreat }}<br>
-3. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.<br>
-4. {{ site.data.spell.Death_Sweep }}<br>
-5. {{ site.data.spell.Blade_Dance }}<br>
-6. {{ site.data.covenant.Elysian_Decree }} по готовности<br>
-7. {{ site.data.spell.Eye_Beam }}<br>
-7. {{ site.data.spell.Immolation_Aura }}<br>
-8. {{ site.data.spell.Annihilation }}<br>
-9. {{ site.data.talent.Felblade }} если у вас меньше 80 ед. гнева.<br>
-10. {{ site.data.spell.Chaos_Strike }}<br>
-11. {{ site.data.spell.Throw_Glaive }} 
-	</div>
-      </div>
+#### Рейд СТ Импульс
+**Опенер**
 
-    </div>
-  </div>
+1. Прекастом {{ site.data.covenant.Elysian_Decree }}
+1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.
+1. {{ site.data.talent.Felblade }}
+1. {{ site.data.spell.Vengeful_Retreat }}
+1. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за **Ночной народец**
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за **Вентиров**
+1. {{ site.data.spell.Blade_Dance }}
+1. Если вы играете за **Ночной народец** {{ site.data.spell.Metamorphosis }}
+1. Если вы **Вентир** Играем СТ ротацию до тех пор, пока до спадения {{ site.data.covenant.Sinful_Brand }} с цели не останется 1 сек и только затем отдаем {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.spell.Death_Sweep }}
+
+**Список приоритетов**
+
+1. {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Vengeful_Retreat }} - Если выбран в талантах {{ site.data.talent.Momentum }}.
+1. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }} - Если он выбран в талантах.
+1. {{ site.data.spell.Death_Sweep }} / {{ site.data.spell.Blade_Dance }}
+1. {{ site.data.covenant.Elysian_Decree }} по готовности - Если вы играете за **Кирий**.
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за **Ночной народец**
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за **Вентиров**
+1. {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Annihilation }} / {{ site.data.spell.Chaos_Strike }}
+1. {{ site.data.talent.Felblade }} если у вас меньше 80 гнева.
+1. {{ site.data.spell.Throw_Glaive }} 
+
+</div>
+</div>
+
+<div class="tabs__pane" id="content-2">
+<div class="tabs_in" markdown="1">
+
+**Список приоритетов**
+
+1. {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Vengeful_Retreat }} - Если выбран в талантах {{ site.data.talent.Momentum }}.
+1. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }} - Если он выбран в талантах.
+1. {{ site.data.talent.Glaive_Tempest }}
+1. {{ site.data.covenant.Elysian_Decree }} по готовности - Если вы играете за **Кирий**.
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за **Ночной народец**
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за **Вентиров**
+1. {{ site.data.spell.Death_Sweep }} если 2+ целей.
+1. {{ site.data.spell.Blade_Dance }} если 3+ целей.
+1. {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Annihilation }} / {{ site.data.spell.Chaos_Strike }}
+1. {{ site.data.spell.Demons_Bite }}
+
+</div>
+</div>
+
+</div>
+</div>
 
   <script>
     var $tabs = function (target) {

@@ -69,13 +69,13 @@ toc: true
 	<div class="tabs_in" markdown="1">
 #### Ковенант **Кирии** <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24">
 
-<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> **Искусность >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> **Скорость**
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="25" height="25"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="25" height="25">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="25" height="25"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="25" height="25"> **Искусность >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="25" height="25"> **Скорость**
 
 <hr>
 
 #### Ковенант **Вентиры** <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24">
 
-<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> **Скорость >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> **Искусность** 
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="25" height="25"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="25" height="25">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="25" height="25"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="25" height="25"> **Скорость >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="25" height="25"> **Искусность** 
 </div>	
 
       </div>
