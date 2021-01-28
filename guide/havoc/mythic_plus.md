@@ -994,6 +994,12 @@ author: Rodriguezz
 * Обязательно возьмите один из спец предметы {{ site.data.mplus.Discharged_Anima }}, {{ site.data.mplus.Bloody_Javelin }}, {{ site.data.mplus.Forgotten_Forgehammer }}, {{ site.data.mplus.Discarded_Shield }} - они дают очень сильные бонусы если использовать их в правильных местах. При смерти подобранный предмет исчезает.
 * Снимайте с мобов {{ site.data.mplus.Dark_Shroud }} при помощи  {{ site.data.spell.Consume_Magic }}.
 
+<br>
+Скип после первого босса с подбором молота
+
+<div class="frame_blc">
+<iframe src="https://www.youtube.com/embed/tGrrpwHH_2Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 **Амарт, Воскреситель**
 
 В приоритете убиваем призванных адов, сбиваем все касты призванных магов чтоб избежать вайпа.
@@ -1169,6 +1175,10 @@ author: Rodriguezz
 В этом подземелье бонусы для группы помогут получить адепты **Вентиров**. Тут вы можете отыскать враждебных мобов {{ site.data.mplus.Loyal_Stoneborn }}. Обратите внимание на их баф {{ site.data.mplus.LoyalStoneborn }}. Подойдя к ним, у сторонников Вентиров появится дополнительная кнопка, нажав которую вы начнёте ритуал приручения, длящийся всего 2 секунды. По окончании каста, Камнерождённый перейдёт на вашу сторону на 30 секунд, а потом просто улетит.
 
 Пока моб сражается на вашей стороне вся группа получит эффект {{ site.data.mplus.Stoneborn_Boon }}, который уменьшает получаемый урон. Баф суммируется, если активно больше одного существа.
+
+Можно приручить сразу 2 {{ site.data.mplus.Loyal_Stoneborn }}. Как вы начнете приручать 1 переключитесь на 2 и начинайте спамить кнопку приручения.
+<div class="frame_blc">
+<iframe src="https://www.youtube.com/embed/mpVRTXaTY0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   	
 <hr> 
 
@@ -1226,6 +1236,11 @@ author: Rodriguezz
 
 * Заранее занимайте место где упадет самая дальняя сфера на переходке.
 * Используйте {{ site.data.spell.Glide }} чтоб пролетать над АоЕ лужами и уменьшить по себе урон.
+
+Во время переходной фазы, когда нужно кинуть в Девию копье, можно спрыгнуть с платформы чтоб подобрать дополнительное копье и кинуть в босса.
+
+<div class="frame_blc">
+<iframe src="https://www.youtube.com/embed/-4NlPtIEcgU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <span class="blue">Бонусы ковенантов в Шпилях Перерождения</span>
 
