@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Кратко и Быстро
+description: ДХ Истребление 9.0.2 PvE гайд Shadowlands
 last_update: 2021-01-22 09:00:00
 game_version: 9.0.0 Shadowlands
 author: Rodriguezz
@@ -1822,12 +1823,11 @@ toc: true
 Для максимально точного подбора зачарований на кольца лучше воспользоваться рейдботсом.
 
 ### Настой и  Зелья
-<ul>
-<li>Настой: {{ site.data.prof.Eternal_Flask }}</li>
-<li>Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }} СТ</li>
-<li>Зелья: {{ site.data.prof.Potion_of_Empowered_Exorcisms }} АОЕ</li>
-<li>Исцеление: {{ site.data.prof.Spiritual_Healing_Potion }} </li>
-</ul>
+
+* Настой: {{ site.data.prof.Eternal_Flask }}
+* Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }} СТ
+* Зелья: {{ site.data.prof.Potion_of_Empowered_Exorcisms }} АОЕ
+* Исцеление: {{ site.data.prof.Spiritual_Healing_Potion }}
 
 ### Камни
 
