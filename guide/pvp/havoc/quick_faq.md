@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Таланты и Билды 
+title: Таланты 
 description: ДХ Истребление 9.0.2 PvP гайд Shadowlands
 last_update: 2021-01-22 09:00:00
 game_version: 9.0.2 Shadowlands
@@ -9,15 +9,17 @@ toc: true
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/pvp/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/pvp/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Кратко и Быстро</span></a>
 <a href="{{ site.url }}/guide/pvp/havoc/srong-compositions.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Напарники для арены</a>
-<a href="{{ site.url }}/guide/pvp/havoc/talent.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"><span style="color: white;"> Таланты и Билды</span></a>
+<a href="{{ site.url }}/guide/pvp/havoc/talent.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/pvp/havoc/rotations-abilities.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Ротация и Стратегия</a>
 <a href="{{ site.url }}/guide/pvp/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Экипировка</a>
 <a href="{{ site.url }}/guide/pvp/havoc/covenants.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Ковенанты</a>
 <a href="{{ site.url }}/guide/pvp/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
 </div>
 <br>
+
+## Какие таланты мне выбрать?
 
 <div class="tabs">
 <div class="tabs__nav">
@@ -886,72 +888,119 @@ toc: true
 
 <br>
 
-**Тир 1** - {{ site.data.talent.Demonic_Appetite }} или {{ site.data.talent.BlindFury }} (Демоник), {{ site.data.talent.Felblade }} (Моментум)
+## Какой ковенант и медиума выбрать?
 
-* В основном используется {{ site.data.talent.Felblade }}, так как его можно использовать как филер для генерации Гнева. Если вы используете {{ site.data.talent.Demonic }}, можно рассмотреть возможность использования {{ site.data.talent.Blind_Fury }}, это даст вам бурст во время действия {{ site.data.talent.Metamorphosis }}. Это означает, что если {{ site.data.talent.Eye_Beam }} не прервать, вы начнете с полной шкалой Гнева. Если вы против состава, который может легко прервать ваш {{ site.data.talent.Eye_Beam }}, или если вы являетесь целью, есть смысл брать {{ site.data.talent.Demonic_Appetite }}.
+### Лучший ковенант
 
-**Тир 2** - {{ site.data.talent.Demon_Blades }}
+1. Ночной народец
+1. Вентиры
 
-* Пассивное генерирование гнева и дополнительный урон от автоатак означают дополнительный урон и больше бесплатных GCD! Всякий раз, когда Клинок Скверны взят{{ site.data.talent.Felblade }} в талантах, вы должны брать по умолчанию {{ site.data.talent.Demon_Blades }}.
+### Ковенант Ночного Народца
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/fae_logo.png"> </p>
 
-**Тир 3** - {{ site.data.talent.Glaive_Tempest }} или {{ site.data.talent.Unbound_Chaos }}
+После вступления в ковенант нам отроются две способности:
 
-* {{ site.data.talent.Glaive_Tempest }} наносит очень много урона но при условии, что вы сможете удержать противника в нем.
+* {{ site.data.covenant.The_Hunt }} 
+* {{ site.data.covenant.Soulshape }} 
 
-* {{ site.data.talent.Unbound_Chaos }} - Вам нужно поразить противника {{ site.data.spell.Fel_Rush }} чтоб активировать {{ site.data.talent.Mortal_Rush }}, талант наносит много урона и может поразить сразу нескольких противников. Далее вы можете активировать {{ site.data.talent.immolation_Aura }} для генерации гнева, урона или очищения от дебафов благодаря таланту {{ site.data.talent.Flame_Aura }}. Все эти способности прекрасно сочетаются друг с другом. 
+### Ния 
 
-**Тир 4 - Ситуативный**
+Рекомендуемое дерево развития медиума Ния от **AVENGTV**:
 
-Все три таланта в этом тире чрезвычайно полезны в зависимости от ваших потребностей в защите.
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/ApbqAgUrkwAVLM0AEgVBJgAVLM8AIhUq7wAlKvoA" target="blank">anything</a>
 
-* {{ site.data.talent.Netherwalk }} - делает вас в течение пяти секунд невосприимчивым к урону с 3-минутным кулдауном. {{ site.data.talent.Netherwalk }} дает вам второй кулдаун для защиты вместе с {{ site.data.spell.Blur }}. {{ site.data.talent.Netherwalk }} также является иммуном, который может спасти от сильных КД противников таких как {{ site.data.talent.Incarnations }} или {{ site.data.talent.Icy_Veins }}.
+**Связь душ Ния**
+ 
+У Нии отличные атакующие связи душ - два проводника Силы и спсобность которая наносит дополнительный урон при успешных прерываниях заклинаний.
 
-* {{ site.data.talent.Desperate_Instincts }} усиливает ваш {{ site.data.spell.Blur }}, добавляя 10% снижения урона и возможность сработать автоматически, когда наше здоровье падает ниже 35%. Хоть талант довольно сильный но из-за того что он может сработать автоматические это делает его менее востребованным, так как вы можете остаться без сейва в критический момент.
+**Связь душ Творец Снов**
 
-* {{ site.data.talent.Soul_Rending }} улучшает наше самоисцеление во время { site.data.spell.Metamorphosis }}. {{ site.data.talent.Soul_Rending }} следует брать только с талантом {{ site.data.talent.Demonic }}. Этот талант имеет пониженный эффект в PvP, но его все же определенно стоит использовать против команд с Жрец Тьма и Чернокнижник Колдовство.
+В очень редких случаях может пригодиться чит-дес, больше полезных связей для нас нет. Корейн и Ния будут лучшим выбором.
 
-**Тир 5** - {{ site.data.talent.First_Blood }} или {{ site.data.talent.Essence_Break }} 
+**Связь душ Корейн**
 
-* {{ site.data.talent.First_Blood }} с этим талантом всегда стоит брать {{ site.data.talent.Trail_of_Ruin }}
+Корейн обладает довольно сильными связями душ. {{ site.data.covenant.Hold_the_Line }} может помочь выжить вначале боя, {{ site.data.covenant.Wild_Hunts_Charge }} дополнительный урон в цели с полным запасом здоровья.
 
-* {{ site.data.talent.Essence_Break }} хороший талант в тех случаях когда вас не контролят. Вы можете брать этот талант, когда играете в очень динамичных составах по типу Охотник на Демонов / Монах Танцующий с ветром / X, Охотник на Демонов / Друид Баланс / X или Охотник на Демонов / Воин / X. Талант хорошо сочитается с {{ site.data.talent.Immolation_Aura }} и {{ site.data.talent.Momentum }}.
+Рекомендуемое дерево развития медиума Ния от **TrenacetateTV**:
 
-**Тир 6** - {{ site.data.talent.Fel_Eruption }}
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/ApZlAgUrkwAVLM0AEQUszwAiFSr6ACUq7wA" target="blank">anything</a>
 
-{{ site.data.talent.Fel_Eruption }} очень мощный талант в паре с {{ site.data.talent.Mana_Rift }}. Вы можете гарантированный использовать каждые 30 секунд {{ site.data.talent.Mana_Rift }}, если вы находитесь в форме демона с 25% бонусом скорости.
+> Этот ковенант дает нам две отличные способности: {{ site.data.covenant.The_Hunt }} и {{ site.data.covenant.Soulshape }}. Охота - очень интересная способность, так как наносит безумно высокий урон. Я лично использую ее как экзекьют способность, а не как КД которое нужно нажимать по готовности. Я всегда буду использовать эту способность в моменты, когда противник не сможет отреагировать, в таком случае он умрет. Выживаемость Охотников на Демонов сильно уменьшена ( по сравнению с прошлыми аддонами), и нам нужно Кайтить все время. {{ site.data.covenant.Soulshape }}  - отличный инструмент для кайтинга с очень низким временем восстановления. Обязательно используйте эту способность по максимуму.
 
-**Тир 7 - Ситуативный** 
+## Ковенат Вентиров
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/ventyr_logo.png"> </p>
 
-Этот тир определяет ваш стиль игры и способ, которым вы планируете выиграть игру.
+После вступления в ковенант нам отроются две способности:
 
-{{ site.data.talent.Momentum }} второй возможный талант в тире, можно пользоваться часто получая усиление урона, при игре с этим талантом вы получаете меньший штраф к урону когда вас контролят чем с {{ site.data.talent.Demonic }}.
+* {{ site.data.covenant.Sinful_Brand }}
+* {{ site.data.covenant.Door_of_Shadows }}
 
-{{ site.data.talent.Demonic }} дает вам хорошую выживаемость в боях с мулитидот классами, таким как Чернокнижники Колдовство и Жрец Тьма. Он также дает вам сильный бурст урон каждые 30 секунд, поэтому можно фокусировать урон по целям, у которых защитные способности находятся на перезарядке.
+Рекомендуемое дерево развития медиума Наджия:
 
-В этом тире нет явного фаворита, и именно на этом уровне Охотники на Демонов имеют такую большую гибкость на арене. {{ site.data.talent.Momentum }} может быть мощным против Магов и большинства заклинателей, а {{ site.data.talent.Demonic }} может использоваться для повышения выживаемости в боях против Чернокнижников Колдовство и Жрецов Тьма.
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/ApalAQUrkwASBTA8ABUszwAhFSrvAA" target="blank">anything</a>
 
-## Рекомендуемые PvP таланты для Охотника на Демонов
+**Связь душ Наджия**
 
-**Приоритетный выбор 1** - {{ site.data.talent.Mortal_Rush }}
+На мой взгляд, это лучшая связь душ для Охотника на Демонов из всех ковенантов. Прок 20% скорости от {{ site.data.covenant.Thrill_Seeker }} сильно усиливает наш урон. {{ site.data.covenant.Agent_of_Chaos }} дезориентирует врагов, Охотники на Демонов - один из немногих классов, которые могут позволить себе отказаться от мобильности, в пользу увеличения контроля. В дополнении ко всему на нас действует весь контроль на 25% меньше благодаря {{ site.data.covenant.Familiar_Predicaments }}
 
-* {{ site.data.talent.Mortal_Rush }} - самый сильный дебафф в игре для PvP - обязательный талант, если ваша команде никто другой его не взял, если уже ктото есть с аналогом этого таланта то выберите другой вариант из представленных ниже.
+**Связь душ Теотар**
 
+{{ site.data.covenant.Watch_the_Shoes }} делает способность {{ site.data.covenant.Door_of_Shadows }} более удобной, но это не особо нам нужно.
 
-**Приоритетный выбор 2** - {{ site.data.talent.Cover_of_Darkness }}
+**Связь душ Дрейвен**
 
-* Учитывая, насколько быстрая проходят бои на арене и насколько сильно понизили выживаемость сейчас Истребления, вам понадобится этот талант в сочетании с легендарным предметом {{ site.data.legendary.Darkest_Hour }}
+{{ site.data.covenant.Service_In_Stone }} отлично подходит для того, чтобы сделать вас немного более живучим, а так же есть небольшой шанс случайным образом убивать людей после вашей смерти (что сейчас будет часто происходить в ДХ). {{ site.data.covenant.Enduring_Gloom }} также усиливает нашу выживаемость за счет щита. Сильные связи душ которые делают Охотников на Демонов более живучими.
 
-**Ситуационный выбор выбор**
+## Проводники (Кондуиты)
 
-* {{ site.data.talent.Reverse_Magic }} чрезвычайно эффективна против эффектов контроля которые используют на вашего целителя, и ее определенно следует применять против таких классов, как Маги с {{ site.data.talent.Polymorph }}, Паладины с {{ site.data.talent.Repentance }} или {{ site.data.talent.Hammer_of_Justice }} и Охотники с {{ site.data.talent.Freezing_Trap }}. Этот талант будет вашим основным выбором для последнего тира PvP-талантов, если вы не против команды без особого магического контроля.
+### Проводники Силы
 
-* {{ site.data.talent.Mana_Rift }} АоЕ способность которая срабатывает через 2 секунды. По истечении этого времени способность наносит урон до 8% от максимального здоровья врага урона Хаосом и сжигает 8% маны врага (если она есть). {{ site.data.talent.Mana_Rift }} объединить это вместе с {{ site.data.talent.Fel_Eruption }}, чтобы оглушить цель и {{ site.data.talent.Mana_Rift }} гарантировано нанесла урон цели. Такая комбинация будет работать только если взят талан {{ site.data.talent.Demonic }}, потому что, если вражеской команды есть пассивные таланты на уменьшения длительности оглушения / контроля, такой как расовая способность Орков или {{ site.data.talent.Relentless }}, в большинстве случаев без бефа скорости от{{ site.data.talent.Demonic }} цель успеет выйти из АоЕ области не получив урона. Полезно против Жрецов Послушание в текущей мете, если вы можете освободить место для этого таланта.
+{{ site.data.conduits.Increased_Scrutiny }} Очень сильный кондуит если выбрали ковенант Вентиров.<br>
+{{ site.data.conduits.Unnatural_Malice }} Очень сильный кондуит если выбрали ковенант Ночного народца.<br>
+{{ site.data.conduits.Dancing_with_Fate }}  Очень сильный кондуит в паре с талантом {{ site.data.talent.First_Blood }}.<br>
+{{ site.data.conduits.Relentless_Onslaught }} сильный кондуит.
 
-* {{ site.data.talent.Detainment }} усиливает способность {{ site.data.spell.Imprison }}, под его действием {{ site.data.spell.Imprison }} цель становится невосприимчивой к урону, лечению и его нельзя сдиспелить. На {{ site.data.spell.Imprison }} делит диминишинг вместе с {{ site.data.talent.Polymorph }} и {{ site.data.talent.Paralysis }}. 
+### Проводники Точности
 
-* {{ site.data.talent.Unending_Hatred }} дает огромное количество гнева против любой магической способности, включая магические эффекты, такие как яды, тики {{ site.data.talent.Remorseless_Winter }}, бесы Чернокнижников Демонологов и так далее. Это может быть ваш основной источник генерации гнева в PvP, этот талант стоит всегда использовать, если вам не нужна {{ site.data.talent.Reverse_Magic }}.
+{{ site.data.conduits.Lost_in_Darkness }} полезный против Разбойников.
+{{ site.data.conduits.Ravenous_Consumption }} очень сильный кондуит особенно когда играете против Друидов Исцеление.
 
-* {{ site.data.talent.Rain_from_Above }} можно использовать против мили составов, чтобы избежать урона, когда {{ site.data.spell.Blur }}, {{ site.data.talent.Darkness }} и {{ site.data.talent.Netherwalk }} находятся на перезарядке.
+### Проводники Выносливости
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/pvp/havoc/srong-compositions.html">Назад:<br>Напарники для арены</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/pvp/havoc/rotations-abilities.html">Длаее:<br>Ротация и Стратегия</a></div>
+{{ site.data.conduits.Fel_Defender }} и {{ site.data.conduits.Viscous_Ink }} - первый хорош против физического урона, второй против магического.
+
+## Легендарные предметы
+
+Выживание Охотников на Демонов сильно пострадало в Shadowlands. {{ site.data.legendary.Darkest_Hour }} поможет нам выжить, легендарный предмет отлично работает в паре с PvP талантом {{ site.data.talent.Cover_of_Darkness }}.
+
+{{ site.data.legendary.Chaos_Theory }} очень сильный легендарный предмет в паре с талантом {{ site.data.talent.First_Blood }}.
+
+{{ site.data.legendary.Erratic_Fel_Core}} можно использовать с талантом {{ site.data.talent.Momentum }} чтоб получить 100% время работы бафа и всегда поддерживать дебаф от {{ site.data.talent.Mortal_Rush }} на враге.
+
+## Расходники
+
+### Зачарование
+
+* {{ site.data.prof.Sinful_Revelation }} Для оружия 
+* {{ site.data.prof.Eternal_Skirmish }} Для нагрудника 
+* {{ site.data.prof.Enchant_Ring_Tenet_of_Versatility }} Для колец 
+* {{ site.data.prof.Enchant_Boots_Eternal_Agility }} Для сапог 
+* {{ site.data.prof.Fortified_Speed  }} Для плаща
+
+### Камни
+
+В сокеты вставляйте {{ site.data.prof.Versatile_Jewel_Cluster }}
+
+## Приоритет статов
+
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="25" height="25"> **Ловкость >** 
+<img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="25" height="25"> **Универсальность >**
+<img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="25" height="25"> **Скорость >** 
+<img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="25" height="25">  **Критический удар >** 
+<img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="25" height="25"> **Искусность** 
+
+## Аксессуары
+
+Рекомендуется использовать сет из 2 PvP аксессуаров, чтоб получить бонус сета {{ site.data.item.Gladiators_Distinction}}
+
+<div class="minibox"><a href="{{ site.url }}/guide/pvp/havoc/srong-compositions.html">Далее:<br>Напарники для арены</a></div>

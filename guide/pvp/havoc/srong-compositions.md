@@ -1,26 +1,21 @@
 ---
 layout: page
-title: Кратко и Быстро
+title: Напарники для арены
 description: ДХ Истребление 9.0.2 PvP гайд Shadowlands
 last_update: 2021-01-22 09:00:00
-game_version: 9.0.0 Shadowlands
-author: Rodriguezz
+game_version: 9.0.2 Shadowlands
+author: "Перевод: Rodriguezz. Оригинал: wowhead AVENGTV."
 toc: true
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Кратко и Быстро</span></a>
-<a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
-<a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ротация</a>
-<a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
-<a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
-<a href="{{ site.url }}/guide/havoc/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ковенанты</a>
-<a href="{{ site.url }}/guide/havoc/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
-<a href="{{ site.url }}/guide/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
-<a href="{{ site.url }}/guide/havoc/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
-<a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
+<a href="{{ site.url }}/guide/pvp/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/pvp/havoc/srong-compositions.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"><span style="color: white;"> Напарники для арены</span></a>
+<a href="{{ site.url }}/guide/pvp/havoc/talent.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Таланты и Билды</a>
+<a href="{{ site.url }}/guide/pvp/havoc/rotations-abilities.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Ротация и Стратегия</a>
+<a href="{{ site.url }}/guide/pvp/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Экипировка</a>
+<a href="{{ site.url }}/guide/pvp/havoc/covenants.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Ковенанты</a>
+<a href="{{ site.url }}/guide/pvp/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
 </div>
 <br>
 
@@ -73,4 +68,5 @@ toc: true
 
 В таком составе Охотник на Демонов может играть с талантами {{ site.data.talent.Momentum }} и {{ site.data.talent.Demonic }} комбинируя свои способности с Друидом {{ site.data.talent.Mass_Entanglement }}, {{ site.data.talent.Solar_Beam }}, {{ site.data.talent.Incarnation }}, и {{ site.data.spell.Chaos_Nova }} Охотника на демонов. Это означает, что некоторые исцеляющие классы, такие как Паладины Свет, могут быть совершенно неготовы к такому составу. Вражеского хила можно надолго вывести с боя с помощью {{ site.data.talent.Mass_Entanglement }} плюс {{ site.data.talent.Solar_Beam }} затем {{ site.data.talent.Cyclone }} и {{ site.data.spell.Imprison }}. Это сильный состав с большим количеством контроля и огромным уроном раз в минуту.
 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/overview.html">Далее:<br>Обзор</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/pvp/havoc/quick_faq.html">Назад:<br>Кратко и Быстро</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/pvp/havoc/talent.html">Длаее:<br>Таланты и Билды</a></div>

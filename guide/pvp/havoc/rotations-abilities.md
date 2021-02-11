@@ -3,24 +3,19 @@ layout: page
 title: Ротация и Способности 
 description: ДХ Истребление 9.0.2 PvP гайд Shadowlands
 last_update: 2021-01-22 09:00:00
-game_version: 9.0.0 Shadowlands
-author: Rodriguezz
+game_version: 9.0.2 Shadowlands
+author: "Перевод: Rodriguezz. Оригинал: wowhead AVENGTV."
 toc: true
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Кратко и Быстро</span></a>
-<a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
-<a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ротация</a>
-<a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
-<a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
-<a href="{{ site.url }}/guide/havoc/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ковенанты</a>
-<a href="{{ site.url }}/guide/havoc/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
-<a href="{{ site.url }}/guide/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
-<a href="{{ site.url }}/guide/havoc/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
-<a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
+<a href="{{ site.url }}/guide/pvp/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/pvp/havoc/srong-compositions.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Напарники для арены</a>
+<a href="{{ site.url }}/guide/pvp/havoc/talent.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Таланты и Билды</a>
+<a href="{{ site.url }}/guide/pvp/havoc/rotations-abilities.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"><span style="color: white;"> Ротация и Стратегия</span></a>
+<a href="{{ site.url }}/guide/pvp/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Экипировка</a>
+<a href="{{ site.url }}/guide/pvp/havoc/covenants.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Ковенанты</a>
+<a href="{{ site.url }}/guide/pvp/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
 </div>
 <br>
 
@@ -97,6 +92,29 @@ toc: true
 Талант {{ site.data.talent.Netherwalk }} или {{ site.data.talent.Desperate_Instincts }} помогает пережить бурст урон. Ваша основная задача - создать дистанцию, играя далеко от своего целителя в нужное время, чтобы было время для использования защитного кулдауна. Например, с такими составами, как Разбойник / Маг / Жрец, в тот момент, когда {{ site.data.talent.Blind }}, {{ site.data.talent.Polymorph }} или {{ site.data.talent.Fear }} наложены на вашего целителя, и вражеская группа переводит свое внимание на вас, у вас есть небольшое окно чтоб использовать {{ site.data.spell.Blur }} перед тем как вам дадут {{ site.data.talent.Kidney_Shot }}, которое поможет выжить во время контроля. Монахи Ткач Туманов и Танцующий с Ветром часто парализуют вашего целителя пока действует {{ site.data.spell.Blur }}.
 
 
+Вам нужно согласовывать использовать свои аксессуары с целителем. Часто лучший способ выжить - это сообщить, кто будет использовать аксессуар, чтобы спастись когда вас начали фокусить, или если вам нужно использовать аксессуар, чтобы спасти товарища по команде. Перекрытие важных кулдаунов, таких как {{ site.data.item.Gladiators_Medallion }} - один из самых простых способов проиграть битву.
 
+### Игра против классов с постепенным уроном,
 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/overview.html">Далее:<br>Обзор</a></div>
+Используем {{ site.data.talent.Demonic }} билд с {{ site.data.talent.Soul_Rending }} и {{ site.data.talent.Demonic_Appetite }} чтоб увеличить самоисцеление. Этот билд даст вам много самоисцелиения и увеличит время действия {{ site.data.spell.Metamorphosis }}. Такой набор талантов также может позволить вам атаковать вражеского целителя играя против Чернокнижников и Жрецов Тьма.
+
+### Змаетки: Метаморфоза
+
+Один трюк, который вы можете использовать на Арены, - это анимация {{ site.data.spell.Metamorphosis }}. Когда вы используете {{ site.data.spell.Metamorphosis }}, ваш персонаж на секунду подскакивает в воздух, превращаясь в Демона. Во время этой анимации вы на короткое время невосприимчивы к контролю и урону. Это означает, что вы можете использовать анимацию {{ site.data.spell.Metamorphosis }} для защиты от входящего контроля или урона, такого как {{ site.data.talent.Chaos_Bolt }} с {{ site.data.talent.Focused_Chaos }} чтобы выжить.
+
+### Защита команды
+
+{{ site.data.spell.Imprison }}, {{ site.data.spell.Chaos_Nova }}, and  {{ site.data.spell.Disrupt }} можно использовать, чтобы  защитить вашу команду, помогая остановить нападение тем самым спасти игрока.
+ 
+ Помимо этих стандартных кулдаунов, также важно согласовать {{ site.data.spell.Darkness }} с вашим целителем, особенно если вы взяли талант {{ site.data.talent.Cover_of_Darkness }}. По сути, это иммунитет к урону по вашей команде каждые три минуты, но он появляется под ногами Охотника на Демонов, потому вам нужен анонс перед его применением чтоб сдать его максимально эффективно.
+
+{{ site.data.talent.Reverse_Magic }} может снять контроль с вашего лекаря , такой как {{ site.data.talent.Polymorph }} и {{ site.data.talent.Fear }}, не забывайте сообщать лекарю о доступности способности, чтоб он не тратил кд {{ site.data.item.Gladiators_Medallion }}.
+
+## Распространенные ошибки, которые допускают охотники на демонов
+
+Постоянно общайтесь со своим лекарем по поводу ваших защитных кулдаунов. Охотники на Демонов, когда не играют с талантом {{ site.data.talent.Demonic }}, очень мало живут, когда {{ site.data.spell.Blur }}, {{ site.data.talent.Netherwalk }} и {{ site.data.spell.Darkness }} находятся на перезарядке. Когда {{ site.data.item.Gladiators_Medallion }} на перезарядке, играя с талантом {{ site.data.talent.Netherwalk }}, вы можете очень легко умереть, если вы не используете защитную способность {{ site.data.spell.Blur }}.
+ 
+Играть слишком агрессивно - это самый простой способ проиграть, будь то агрессивное использование {{ site.data.spell.Blur }} или использование {{ site.data.item.Gladiators_Medallion }} при первом контроле который вам дадут,. Позиционирование также играет важную роль - если вы играете на стороне карты противника, ваш лекарь может стать легкой целью для контроля, где они не может избежать входящего контроля и прерываний.
+
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/pvp/havoc/talent.html">Назад:<br>Таланты и Билды</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/pvp/havoc/gear.html">Длаее:<br>Экипировка</a></div>

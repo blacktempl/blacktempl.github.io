@@ -3,24 +3,19 @@ layout: page
 title: Экипировка 
 description: ДХ Истребление 9.0.2 PvP гайд Shadowlands
 last_update: 2021-01-22 09:00:00
-game_version: 9.0.0 Shadowlands
-author: Rodriguezz
+game_version: 9.0.2 Shadowlands
+author: "Перевод: Rodriguezz. Оригинал: wowhead AVENGTV."
 toc: true
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Кратко и Быстро</span></a>
-<a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
-<a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ротация</a>
-<a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
-<a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
-<a href="{{ site.url }}/guide/havoc/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ковенанты</a>
-<a href="{{ site.url }}/guide/havoc/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
-<a href="{{ site.url }}/guide/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
-<a href="{{ site.url }}/guide/havoc/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
-<a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
+<a href="{{ site.url }}/guide/pvp/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/pvp/havoc/srong-compositions.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Напарники для арены</a>
+<a href="{{ site.url }}/guide/pvp/havoc/talent.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Таланты и Билды</a>
+<a href="{{ site.url }}/guide/pvp/havoc/rotations-abilities.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Ротация и Стратегия</a>
+<a href="{{ site.url }}/guide/pvp/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Экипировка</span></a>
+<a href="{{ site.url }}/guide/pvp/havoc/covenants.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Ковенанты</a>
+<a href="{{ site.url }}/guide/pvp/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
 </div>
 <br>
 
@@ -50,16 +45,17 @@ toc: true
 
 ## Аксессуары
 
-В дополнении 9.0.1 были возвращены PvP аксессуары. Рекомендуется использовать сет из 2 аксессуаров, чтоб получить бонус сета {{ site.data.item.Gladiators_Distinction}}
+В дополнении 9.0.1 были возвращены PvP аксессуары. Рекомендуется использовать сет из 2 PvP аксессуаров, чтоб получить бонус сета {{ site.data.item.Gladiators_Distinction}}
 
 ## Зачарования и камни
 
- {{ site.data.prof.Sinful_Revelation }} Для оружия</br>
- {{ site.data.prof.Eternal_Skirmish }} Для нагрудника</br>
- {{ site.data.prof.Enchant_Ring_Tenet_of_Versatility }} Для колец</br>
- {{ site.data.prof.Eternal_Agility }} Для сапог</br>
- {{ site.data.prof.Fortified_Speed  }} Для плаща
+* {{ site.data.prof.Sinful_Revelation }} Для оружия 
+* {{ site.data.prof.Eternal_Skirmish }} Для нагрудника 
+* {{ site.data.prof.Enchant_Ring_Tenet_of_Versatility }} Для колец 
+* {{ site.data.prof.Enchant_Boots_Eternal_Agility }} Для сапог 
+* {{ site.data.prof.Fortified_Speed  }} Для плаща
  
- В сокеты вставляйте  {{ site.data.prof.Versatile_Jewel_Cluster  }}
+В сокеты вставляйте {{ site.data.prof.Versatile_Jewel_Cluster }}
 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/overview.html">Далее:<br>Обзор</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/pvp/havoc/rotations-abilities.html">Назад:<br>Ротация и Стратегия</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/pvp/havoc/covenants.html">Длаее:<br>Ковенанты</a></div>
