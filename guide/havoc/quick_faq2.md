@@ -206,7 +206,7 @@ toc: true
 </td>
 </tr>
 
-<tr data-row="3" class="talentcalc-row" data-selected="yes" data-available="no">
+<tr data-row="3" class="talentcalc-row" data-selected="yes" data-available="yes">
 <td class="outer" data-selected="no">
 <div class="inner">35</div>
 </td>
@@ -624,7 +624,7 @@ toc: true
 </td>
 </tr>
 
-<tr data-row="3" class="talentcalc-row" data-selected="yes" data-available="no">
+<tr data-row="3" class="talentcalc-row" data-selected="yes" data-available="yes">
 <td class="outer" data-selected="no">
 <div class="inner">35</div>
 </td>
@@ -1066,7 +1066,7 @@ toc: true
 </td>
 </tr>
 
-<tr data-row="3" class="talentcalc-row" data-selected="yes" data-available="no">
+<tr data-row="3" class="talentcalc-row" data-selected="yes" data-available="yes">
 <td class="outer" data-selected="no">
 <div class="inner">35</div>
 </td>
@@ -1319,9 +1319,6 @@ toc: true
 <div class="tabs__pane" id="content-4">
 <div class="tabs_in" markdown="1">
 
-</div>
-</div>
-
 <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
 <div class="talentcalc-wrapper" style="" data-selected="no">
 <div class="talentcalc-main" data-selected="no" data-class="demonhunter">
@@ -1487,7 +1484,7 @@ toc: true
 </td>
 </tr>
 
-<tr data-row="3" class="talentcalc-row" data-selected="yes" data-available="no">
+<tr data-row="3" class="talentcalc-row" data-selected="yes" data-available="yes">
 <td class="outer" data-selected="no">
 <div class="inner">35</div>
 </td>
@@ -1733,6 +1730,9 @@ toc: true
 1. {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}
 1. {{ site.data.spell.Demons_Bite }}
 
+
+</div>
+</div>
 
 </div>
 </div>
