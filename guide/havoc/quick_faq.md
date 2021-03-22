@@ -2266,7 +2266,7 @@ DPS = a1 х Crit+a2 х Haste+a3 х Mastery+a4 х Versatility+a5 х Agility + а6
 <hr>
 <br>
 
-<img src="{{ site.url }}/assets/img/guide/havoc/kal.png" width="24" height="24"> **Генералы Каменного легиона**
+<img src="{{ site.url }}/assets/img/guide/havoc/sire.png" width="24" height="24"> **Сир Денатрий**
 
 Рекомендуемый билд: **1123121**
 
