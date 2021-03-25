@@ -974,7 +974,7 @@ toc: true
 
 > Крафтим в слот штанов
 
-* {{ site.data.legendary.Razelikhs_Defilement }} — после апа в 9.0.5 является хорошим выбором. В купе с реворком {{ site.data.conduits.Fel_Defender }} выглядит особенно привлекательно
+* {{ site.data.legendary.Darkglare_Boon }} — после апа в 9.0.5 является хорошим выбором. В купе с реворком {{ site.data.conduits.Fel_Defender }} выглядит особенно привлекательно
 
 > Крафтим в любой слот
 
@@ -1057,14 +1057,13 @@ toc: true
 
 **В М+ контенте один из этих тринкетов обязательно нужно заменить на**
 
-
+{{ site.data.item.Blood_Spattered_Scale }} 
 
 ## Заметки по боссам Замка Нафрия
 
 <img src="{{ site.url }}/assets/img/guide/havoc/vizguniya.png" width="24" height="24"> **Визгунья**
-Phial_of_Serenity
 
-> Проходной босс, на котором нет ничего особенного. Стаки иммуна снимаются кирийским {{ site.data.item.Blood_Spattered_Scale }} }}, так же {{ site.data.spell.MetamorphosisVDH }} отхиливает нас при использовании даже в иммуне к хилу
+> Проходной босс, на котором нет ничего особенного. Стаки иммуна снимаются кирийским {{ site.data.covenant.Phial_of_Serenity }}, так же {{ site.data.spell.MetamorphosisVDH }} отхиливает нас при использовании даже в иммуне к хилу
 
 <hr>
 <br>

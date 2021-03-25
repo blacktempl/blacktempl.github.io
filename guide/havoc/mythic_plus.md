@@ -153,7 +153,7 @@ author: Rodriguezz
 
 # Билды
 
-## Демоник
+## АоЕ М+ билд Медальон
 
 <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
 <div class="talentcalc-wrapper" style="" data-selected="no">
@@ -289,7 +289,7 @@ author: Rodriguezz
 </div>
 </td>
 
-<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="no">
+<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=347461" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/artifactability_vengeancedemonhunter_painbringer.jpg)"></ins><del></del>
@@ -304,7 +304,7 @@ author: Rodriguezz
 </div>
 </td>
 
-<td class="outer last-child" data-row="2" data-col="2" cursor="pointer" data-selected="yes">
+<td class="outer last-child" data-row="2" data-col="2" cursor="pointer" data-selected="no">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=342817" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactazgalor_d_06dual.jpg)"></ins><del></del>
@@ -312,7 +312,7 @@ author: Rodriguezz
 <table>
 <tbody>
 <tr>
-<td>Буря клинков</td>
+<td>Шквал клинков</td>
 </tr>
 </tbody>
 </table>
@@ -320,12 +320,12 @@ author: Rodriguezz
 </td>
 </tr>
 
-<tr data-row="3" class="talentcalc-row" data-selected="no" data-available="yes">
+<tr data-row="3" class="talentcalc-row" data-selected="yes" data-available="yes">
 <td class="outer" data-selected="no">
 <div class="inner">35</div>
 </td>
 
-<td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="yes">
+<td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="no">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=204909" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_soulcleave2.jpg)"></ins><del></del>
@@ -355,7 +355,7 @@ author: Rodriguezz
 </div>
 </td>
 
-<td class="outer last-child" data-row="3" data-col="2" cursor="pointer" data-selected="no">
+<td class="outer last-child" data-row="3" data-col="2" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=196555" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg)"></ins><del></del>
@@ -527,10 +527,47 @@ author: Rodriguezz
 </table>    
 </div>
 </div>
-</div>   
+</div>                    
+ 
+
+<br>
+> На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
+
+> Используем легендарный предмет: {{ site.data.legendary.Darkglare_Boon }}
+
+> **Крафтим в слот пояса.**
+
+Рецепт на этот легендарный предмет добывается с подземелья {{ site.data.mplus.De_Other_Side }}
+
+В ротации не используется {{ site.data.spell.Blade_Dance }}, а {{ site.data.spell.Death_Sweep }} используем только на 3+ цели
+
+```Ротация М+ Дар созерцателя тьмы ```
+
+**Опенер:**
+1. Прекастом {{ site.data.covenant.Elysian_Decree }}
+1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Fel_Rush }} - для нанесения повышенного урона благодаря таланту {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. {{ site.data.spell.Death_Sweep }}
+1. Если вы Вентир - {{ site.data.spell.Metamorphosis }} для наложения {{ site.data.covenant.Sinful_Brand }} на все цели. Сливаем рагу. 1. {{ site.data.spell.Eye_Beam }}. {{ site.data.covenant.Sinful_Brand }} - в самую жирную/важную цель, но прежде стоит дождаться спадения {{ site.data.covenant.Sinful_Brand }} с цели, или пока (в идеале) не останется 1 сек.
+1. Если вы **НЕ** Вентир {{ site.data.spell.Metamorphosis }}.
+ 
+**Список приоритетов**
+
+1. {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Fel_Rush }} - Если активен баф {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.covenant.Elysian_Decree }} - Если вы играете за Кирий
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
+1. {{ site.data.spell.Death_Sweep }} - 2+ целей.
+1. {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}
+1. {{ site.data.spell.Demons_Bite }} 
                  
 <br>
-## Импульс 
+## АоЕ М+ Тоска
 
 <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
 <div class="talentcalc-wrapper" style="" data-selected="no">
@@ -549,7 +586,7 @@ author: Rodriguezz
 <div class="inner">15</div>
 </td>
 
-<td class="outer" data-row="0" data-col="1" cursor="pointer" data-selected="yes">
+<td class="outer" data-row="0" data-col="1" cursor="pointer" data-selected="no">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203550" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bosskilrogg_deadeye.jpg)"></ins><del></del>
@@ -579,7 +616,7 @@ author: Rodriguezz
 </div>
 </td>
 
-<td class="outer last-child" data-row="0" data-col="2" cursor="pointer" data-selected="no">
+<td class="outer last-child" data-row="0" data-col="2" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=232893" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_felblade.jpg)"></ins><del></del>
@@ -600,7 +637,7 @@ author: Rodriguezz
 <div class="inner">25</div>
 </td>
 
-<td class="outer" data-row="1" data-col="0" cursor="pointer" data-selected="yes">
+<td class="outer" data-row="1" data-col="0" cursor="pointer" data-selected="no">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258876" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_hungerforblood.jpg)"></ins><del></del>
@@ -630,7 +667,7 @@ author: Rodriguezz
 </div>
 </td>
 
-<td class="outer last-child" data-row="1" data-col="2" cursor="pointer" data-selected="no">
+<td class="outer last-child" data-row="1" data-col="2" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203555" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_92.jpg)"></ins><del></del>
@@ -666,7 +703,7 @@ author: Rodriguezz
 </div>
 </td>
 
-<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="no">
+<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=347461" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/artifactability_vengeancedemonhunter_painbringer.jpg)"></ins><del></del>
@@ -681,7 +718,7 @@ author: Rodriguezz
 </div>
 </td>
 
-<td class="outer last-child" data-row="2" data-col="2" cursor="pointer" data-selected="yes">
+<td class="outer last-child" data-row="2" data-col="2" cursor="pointer" data-selected="no">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=342817" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactazgalor_d_06dual.jpg)"></ins><del></del>
@@ -689,7 +726,7 @@ author: Rodriguezz
 <table>
 <tbody>
 <tr>
-<td>Буря клинков</td>
+<td>Шквал клинков</td>
 </tr>
 </tbody>
 </table>
@@ -697,12 +734,12 @@ author: Rodriguezz
 </td>
 </tr>
 
-<tr data-row="3" class="talentcalc-row" data-selected="no" data-available="yes">
+<tr data-row="3" class="talentcalc-row" data-selected="yes" data-available="yes">
 <td class="outer" data-selected="no">
 <div class="inner">35</div>
 </td>
 
-<td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="yes">
+<td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="no">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=204909" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_soulcleave2.jpg)"></ins><del></del>
@@ -732,7 +769,7 @@ author: Rodriguezz
 </div>
 </td>
 
-<td class="outer last-child" data-row="3" data-col="2" cursor="pointer" data-selected="no">
+<td class="outer last-child" data-row="3" data-col="2" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=196555" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg)"></ins><del></del>
@@ -753,7 +790,7 @@ author: Rodriguezz
 <div class="inner">40</div>
 </td>
 
-<td class="outer" data-row="4" data-col="0" cursor="pointer" data-selected="no">
+<td class="outer" data-row="4" data-col="0" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258887" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_whirlofblood.jpg)"></ins><del></del>
@@ -768,7 +805,7 @@ author: Rodriguezz
 </div>
 </td>
 
-<td class="outer" data-row="4" data-col="1" cursor="pointer" data-selected="yes">
+<td class="outer" data-row="4" data-col="1" cursor="pointer" data-selected="no">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206416" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_bloodcorruption_death.jpg)"></ins><del></del>
@@ -854,7 +891,7 @@ author: Rodriguezz
 <div class="inner">50</div>
 </td>
 
-<td class="outer" data-row="6" data-col="2" cursor="pointer" data-selected="no">
+<td class="outer" data-row="6" data-col="0" cursor="pointer" data-selected="no">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=213410" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonform.jpg)"></ins><del></del>
@@ -904,50 +941,161 @@ author: Rodriguezz
 </table>    
 </div>
 </div>
-</div>  
+</div> 
+
+<br>
+
+> На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
+> В последнем тире талантов можно использовать {{ site.data.talent.Demonic }} 
+
+> Используем легендарный предмет: {{ site.data.legendary.Collective_Anguish }}
+
+> **Крафтим в слот наручей.**
+
+Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Castle_Nathria }}.
+
+В ротации не используется {{ site.data.spell.Blade_Dance }}, а {{ site.data.spell.Death_Sweep }} используем только на 3+ цели
+
+```АоЕ М+ билд Всеобщая тоска  ```
+
+**Опенер с Корейном:**
+1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }} и использования бафа от {{ site.data.talent.Unbound_Chaos }}
+1. {{ site.data.talent.Felblade }} 
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }}
+1. {{ site.data.spell.Vengeful_Retreat }}
+1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }}
+1. {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Eye_Beam }}
+
+> Бафф, который дает Корейн на +25% крита в первые 5 секунд боя (при правильной реализации) играет ВАЖНЕЙШУЮ РОЛЬ в вашем опенере. Главная мысль заключается в том, что под этим баффом вы должны зарядить в босса {{ site.data.spell.Fel_Rush }} с бафом от {{ site.data.talent.Unbound_Chaos }} и {{ site.data.covenant.The_Hunt }} Охотой по самому жирному/важному мобу. Реализация усложняется, если у вас есть тринкет с Визгуньи или Денатрия. Тогда в эти 5 секунд надо еще "внедрить" использование тринкета. 
+
+
+**Опенер:**
+1. Прекастом {{ site.data.covenant.Elysian_Decree }}
+1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }} и использования бафа от {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.talent.Felblade }}
+1. {{ site.data.spell.Vengeful_Retreat }}
+1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }}
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
+1. {{ site.data.spell.Death_Sweep }}
+1. **Если вы играете за Ночной народец** - {{ site.data.spell.Metamorphosis }}
+1. Если вы Вентир -  Играем СТ ротацию до тех пор, пока до спадения клейма с цели не останется 1 сек и только затем отдаем {{ site.data.spell.Metamorphosis }} 
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.spell.Death_Sweep }}
+
+**Список приоритетов**
+
+1. {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Vengeful_Retreat }}
+1. {{ site.data.spell.Fel_Rush }}
+1. {{ site.data.spell.Fel_Rush }} - Если активен баф {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.spell.Death_Sweep }} - 3+ цели
+1. {{ site.data.covenant.Elysian_Decree }} - Если вы играете за Кирий
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
+1. {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Blade_Dance }} - 4+ целей.
+1. {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}
+1. {{ site.data.spell.Throw_Glaive }} 
 <br>
 
 # Легендарные предметы
 
-* {{ site.data.legendary.Collective_Anguish }}  — При использовании {{ site.data.spell.Eye_Beam }} Охотник на Демонов призывает союзника, который использует {{ site.data.spell.Fel_Devastation }}. На данный момент это лучший легендарный эффект, мы будем использовать его в большинстве ситуаций.
-> Можно применить на плащ или наручи.
+* {{ site.data.legendary.Darkglare_Boon }}  — {{ site.data.spell.Eye_Beam }} с вероятностью 40% не требует восстановления и восполняет 30 ед. гнева.
+> Крафтим в слот пояса.
+
+Рецепт на этот легендарный предмет добывается с подземелья {{ site.data.mplus.De_Other_Side }}
+
+* {{ site.data.legendary.Collective_Anguish }}  — При использовании {{ site.data.spell.Eye_Beam }} Охотник на Демонов призывает союзника, который использует {{ site.data.spell.Fel_Devastation }}.
+> Крафтим в слот наручей.
 
 Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Castle_Nathria }}.
 
-* {{ site.data.legendary.Chaos_Theory }}  —  {{ site.data.spell.Blade_Dance }} с вероятностью 30% накладывает на персонажа эффект “Клинки Хаоса”, который повышает урон от {{ site.data.spell.Chaos_Strike }} на 50%, а вероятность восполнения гнева - дополнительно на 60%. Время действия эффекта - 8 сек. Легендарный эффект рассчитанный на нанесении высокого урона одной цели, подойдет на {{ site.data.mplus.Tyrannical }} неделях.
-> Можно применить на пояс или перчатки
+* {{ site.data.legendary.Burning_Wound }}  —  {{ site.data.spell.Demons_Bite }}оставляет открытую рану, наносящую противнику урон от магии Хаоса 15 sec. и увеличивающую урон, получаемый от вашего {{ site.data.spell.Immolation_Aura }} на 65%.
+> Крафтим в слот нагрудника
 
-Рецепт на этот легендарный предмет добывается с последнего босса {{ site.data.mplus.Sire_Denathrius }} рейда {{ site.data.mplus.Castle_Nathria }}.
+Рецепт на этот легендарный предмет добывается с подземелья {{ site.data.mplus.Plaguefall }}.
 
-# Ковенант
+# Какой ковенант выбрать
 
-## Кирии
+**Лучший выбор для М+**
+1. Ночной народец <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> / Вентиры <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> / Кирии <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24">  
+1. Некролорды <img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24">
 
-В начале дополнения нам не доступен лучший медиум Кирий для Истребления. Будем использовать Пелагия до открытия Верховный автоматург Миканикос.
+> Для М+ на данный момент выбор ковенанта особой роли не играет, т.к. игра в каждом ковенанте имеет свои плюсы и минусы. Если вы проводите львиную долю игры в ключах, а мифик рейды вас не интересуют, а ПвП вам всю жизнь было противно - то можете выбрать любой ковенант. Если вы планируете играть ключи и покорять  "прогулочным шагом" мифик рейды - то стоит выбирать между <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> Вентирами и <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> Ночным народцем . Если вы играете во все аспекты игры (мифик рейды, М+ и пвп) то ваш выбор ограничен (увы) Ночной народец <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> Ночным народцем.
 
-**Пелагий**
+# Какого медиума выбрать
+
+## Ковенат Ночной народец
+
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/fae_logo.png"> </p>
+
+После вступления в ковенант нам откроются две способности:
+{{ site.data.covenant.The_Hunt }} - Совершает рывок к цели, нанося урон от сил природы и обездвиживая ее на 1.5 сек., накладывая ДоТ на до 5 врагов на пути между вами и вашей целью. Преследование укрепляет вашу душу, в результате чего вы в течение 30 sec. восполняете здоровье в объеме 50% урона, который наносите цели "Охоты". Кондуит {{ site.data.conduits.Unnatural_Malice }} значительно увеличивает урон наносимый {{ site.data.covenant.The_Hunt }} по цели в вашем таргете, что делает этот ковенат хорошим выбором для СТ.
+{{ site.data.covenant.Soulshape }} - дополнительное увеличение мобильности, которая поможет уворачиваться от механик.
+
+Лучшим медиумом для нас будет Ния, дерево прокачки медиума выглядит следующим образом:
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/ApZlAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
+
+Начиная с 31 уровня известности для М+ и АоЕ используем медиума **Корейн**, его дерево прокачки выглядит следующим образом:
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/ApbqAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
+
+> Что касается М+ контента, тут выигрывает Корейн, при "вдумчивой" игре Корейн нам дает неоспоримое преимущество перед Нией и взрывной бурстовый урон.
+
+## Ковенат Вентиров
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/ventyr_logo.png"></p>
+
+После вступления в ковенант нам откроются две способности:
+
+{{ site.data.covenant.Sinful_Brand }} - Отмечает противника клеймом вентиров, снижая скорость атак ближнего боя на 30%, скорость произнесения заклинаний – на 30%, а также наносит урон от темной магии в течение 8 сек. {{ site.data.covenant.Sinful_Brand }} накладывается на всех ближайших противников при активации {{ site.data.spell.Metamorphosis }}. Наносит неплохой урон в одну цель, и очень сильный урон в АоЕ после применения {{ site.data.spell.Metamorphosis }}, может стать неплохим выбором для СТ боев.
+
+{{ site.data.covenant.Door_of_Shadows }} - Способность дающая нам дополнительную мобильность, с ее помощью можно пропускать группы мобов.
+
+Лучшим медиумом для нас будет **Наджия**, дерево прокачки медиума выглядит следующим образом:
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/ApavAgUrbwAVK5MAEQUtHwAhFSr6AA" target="blank">anything</a>
+
+> Билд подходит для М+ и Рейда
+
+> У  Наджии есть возможность немного поднять наш АоЕ урон, для этого нужно заменить {{ site.data.covenant.Dauntless_Duelist }} на {{ site.data.covenant.Exacting_Preparation }}, а также зачаровать оружие 2х {{ site.data.prof.Enchant_Weapon_Lightless_Force }}.
+
+## Ковенат Кирий
+
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/kiri_logo.png"> </p>
+
+После вступления в ковенант нам откроются две способности:
+
+{{ site.data.covenant.Elysian_Decree }} - Размещает в указанном месте кирийскую печать, которая активируется через 2 сек. Печать наносит сильный АоЕ урон, который можно усилить баффом от {{ site.data.talent.Momentum }}. После взрыва печати появляются 3 {{ site.data.spell.Shattered_SoulsHDH }}, это сильно повышает нашу выживаемость. Также использование {{ site.data.covenant.Elysian_Decree }} активирует способность нашего медиума и дает нам бафф искусности на 10 сек, который можно продлевать собирая сферы "Печальных воспоминаний", тем самым усиливая наши способности которые используют Хаос, например такие как {{ site.data.spell.Chaos_Strike }} и {{ site.data.spell.Eye_Beam }}.
+
+{{ site.data.covenant.Summon_Steward }} - Вы зовете распорядителя, который приносит вам {{ site.data.covenant.Phial_of_Serenity }}, восполняющий 20% здоровья и снимающий проклятия, болезни, яды и эффекты кровотечения. Очень полезный флакон, сильно упрощает жизнь в ключах, снимает даже стаки аффикса {{ site.data.mplus.Necrotic }}.
+
+Лучшим медиумом для нас будет **Пелагос**, дерево прокачки медиума выглядит следующим образом:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/ApbmEgUtHwAVLM8AIhUq-gAlKu8A" target="blank">anything</a>
 
-**Верховный автоматург Миканикос**
+> Для М+ и АоЕ заменяем проводник {{ site.data.conduits.Demons_Touch }} на {{ site.data.conduits.Repeat_Decree }} Начиная с 31 уровня известности для М+ и АоЕ используем медиума **Верховный автоматург Миканикос**, его дерево прокачки выглядит следующим образом:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/ApbqAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
 
-## Вентиры
+## Ковенант Некролорды
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/ApaqAgUrbwAVK5MAEQUtHwAiFSr6ACUq7wA" target="blank">anything</a>
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/necrolord_logo.png"> </p>
 
-## Ночной народец
+После вступленя в ковенант нам отроются две способности:
+{{ site.data.covenant.Fodder_to_the_Flame }} - Вы призываете демона которого можете атаковать только вы, его убийство дает {{ site.data.covenant.Empowered_Demon_Soul }}, хоть демон и убивается очень легко, все эти махинации отнимают много времени прежде чем вы начнете бить свою приоритетную цель, тем самым это будет ломать нашу ротацию и вносить дискомфорт в игру.
+{{ site.data.covenant.Fleshcraft }} - по описанию звучит как очень хорошая способность, но ее нужно применять 4 сек. чтоб получить щит максимального объема и без специальной связи душ вы не сможете двигаться пока щит "накачивается".
 
-В начале дополнения нам не доступен лучший медиум Корейн для Истребления. Будем использовать Нию до открытия Корейна.
+Лучшим медиумом для нас будет **Костоплав Гейрмир**, дерево прокачки медиума выглядит следующим образом:
 
-**Ния**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/ApbqAQUrbwASBS0fABUszwAiFSr6ACUq7wA" target="blank">anything</a>
-
-**Корейн**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/ApbqAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/ApbqAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
 
 # Утилити способности Охотника на Демонов
 
@@ -1239,8 +1387,6 @@ author: Rodriguezz
 
 Во время переходной фазы, когда нужно кинуть в Девию копье, можно спрыгнуть с платформы чтоб подобрать дополнительное копье и кинуть в босса.
 
-<div class="frame_blc">
-<iframe src="https://www.youtube.com/embed/-4NlPtIEcgU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <span class="blue">Бонусы ковенантов в Шпилях Перерождения</span>
 
