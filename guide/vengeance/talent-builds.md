@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Таланты и Билды
-last_update: 2020-11-11 09:00:00
-game_version: 9.0.0 Shadowlands
+description: ДХ Месть 9.0.5 PvE гайд Shadowlands
+last_update: 2020-03-22 09:00:00
+game_version: 9.0.5 Shadowlands
+author: Airithez
 toc: true
 ---
 
@@ -22,33 +24,25 @@ toc: true
 </div>
 <br>
 # Лучший набор талантов для Охотника на Демонов Месть
-<ul>
-<li>Уровень 15: {{ site.data.talent.Agonizing_Flames }}</li> 
-<li>Уровень 25: {{ site.data.talent.Fallout }}</li> 
-<li>Уровень 30: {{ site.data.talent.Spirit_Bomb }}</li> 
-<li>Уровень 35: {{ site.data.talent.Fracture }}</li>
-<li>Уровень 40: {{ site.data.talent.Quickened_Sigils }} для увеличения урона, {{ site.data.talent.Sigil_of_Chains }} для подземелий.</li> 
-<li>Уровень 45: {{ site.data.talent.DemonicVDH }}</li> 
-<li>Уровень 50: {{ site.data.talent.Last_Resort }}</li> 
-</ul>
 
-<br>  
 <div class="tabs">
-    <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-1">ДПС Билд</a>
-      <a class="tabs__link" href="#content-2">Сейв Билд</a>
-    </div>
-    <div class="tabs__content">
-      <div class="tabs__pane tabs__pane_show" id="content-1">
+<div class="tabs__nav">
+<a class="tabs__link tabs__link_active" href="#content-1">Клеймобилд</a>
+<a class="tabs__link" href="#content-2">ДПС Билд</a>
+</div>
 
- <div class="tabs_in">
-ДПС вариант через {{ site.data.talent.Spirit_Bomb }} и легендарный эффект {{ site.data.legendary.Razelikhs_Defilement }}. Берем только с ковенантом <span style="color:#68ccef;font-size:1.5em;"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="32" height="45"> Кирий</span>
+<div class="tabs__content">
+<div class="tabs__pane tabs__pane_show" id="content-1" >
 
-        <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
-    <div class="talentcalc-wrapper" style="" data-selected="no">
-	  <div class="talentcalc-main" data-selected="no" data-class="demonhunter">
-	<div class="talentcalc-header-class">
-		<a class="c12">Таланты Охотника на Демонов</a></div>
+<div class="tabs_in" markdown="1">
+
+Клеймобилд с высокой выживаемостью через легендарный эффект {{ site.data.legendary.Fiery_Soul }}. Основной билд ВДХ в высокие ключи и мифик рейд
+
+<div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
+<div class="talentcalc-wrapper" style="" data-selected="no">
+<div class="talentcalc-main" data-selected="no" data-class="demonhunter">
+<div class="talentcalc-header-class">
+<a class="c12">Таланты Охотника на Демонов</a></div>
 <div class="talentcalc-spec-switcher">Специализация: <span class="q1"><span class="tooltip-inside-icon" style="background-image: url(https://wow.zamimg.com/images/wow/icons/small/ability_demonhunter_spectank.jpg)"></span> Месть <span class="talentcalc-spec-role" style="background-position: -32px 0"></span></span>
 </div>                             
 <div class="talentcalc-spec-desc" data-spec="3">Использует силу внутреннего демона, чтобы испепелять противников и защищать союзников. Оружие: боевые клинки, мечи, топоры, кистевое.</div>  
@@ -127,7 +121,7 @@ toc: true
 </div>
 </td>
 
-<td class="outer" data-row="1" data-col="1" cursor="pointer" data-selected="yes">
+<td class="outer" data-row="1" data-col="1" cursor="pointer" data-selected="no">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=227174" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_volatilefiregreen.jpg)"></ins><del></del>
@@ -142,10 +136,11 @@ toc: true
 </div>
 </td>
 
-<td class="outer last-child" data-row="1" data-col="2" cursor="pointer" data-selected="no">
+<td class="outer last-child" data-row="1" data-col="2" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=207739" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_fire_elementaldevastation.jpg)"></ins><del></del>
+<div class="iconmedium">
+<ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_fire_elementaldevastation.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -178,7 +173,7 @@ toc: true
 </div>
 </td>
 
-<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="no">
+<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=336639" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_warlock_backdraft.jpg)"></ins><del></del>
@@ -193,7 +188,7 @@ toc: true
 </div>
 </td>
 
-<td class="outer last-child" data-row="2" data-col="1" cursor="pointer" data-selected="yes">
+<td class="outer last-child" data-row="2" data-col="1" cursor="pointer" data-selected="no">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=247454" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_icon_shadowcouncilorb_purple.jpg)"></ins><del></del>
@@ -209,7 +204,7 @@ toc: true
 </td>
 </tr>
 
-<tr data-row="3" class="talentcalc-row" data-selected="no" data-available="yes">
+<tr data-row="3" class="talentcalc-row" data-selected="yes" data-available="yes">
 <td class="outer" data-selected="no">
 <div class="inner">35</div>
 </td>
@@ -311,7 +306,8 @@ toc: true
 </td>
 </tr>
 
-<tr data-row="5" class="talentcalc-row" data-selected="no" data-available="yes"><td class="outer" data-selected="no">
+<tr data-row="5" class="talentcalc-row" data-selected="yes" data-available="yes">
+<td class="outer" data-selected="no">
 <div class="inner">45</div>
 </td>
 
@@ -416,21 +412,25 @@ toc: true
 </table>    
 </div>
 </div>
-</div> 
+</div>  
+<br>
+> {{ site.data.talent.Quickened_Sigils }} перманентный выбор только с ковенантом <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> Кирий.
+
+</div>
 </div>
 
-      </div>
-      <div class="tabs__pane" id="content-2">
+<div class="tabs__pane" id="content-2">
+   
+<div class="tabs_in"  markdown="1">
 
- <div class="tabs_in">
-Клеймобилд с высокой выживаемостью через легендарный эффект {{ site.data.legendary.Fiery_Soul }}
+ДПС вариант через {{ site.data.talent.Spirit_Bomb }}. Выживаемость в этом варианте на порядок ниже.
+При игре с ковенантом <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> Кирий используем легендарный предмет {{ site.data.legendary.Razelikhs_Defilement }}, с остальными ковенантами - {{ site.data.legendary.Sephuzs_Proclamation }} либо {{ site.data.legendary.Darkglare_Boon }}.
 
-	  
-        <div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
-    <div class="talentcalc-wrapper" style="" data-selected="no">
-	  <div class="talentcalc-main" data-selected="no" data-class="demonhunter">
-	<div class="talentcalc-header-class">
-		<a class="c12">Таланты Охотника на Демонов</a></div>
+<div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
+<div class="talentcalc-wrapper" style="" data-selected="no">
+<div class="talentcalc-main" data-selected="no" data-class="demonhunter">
+<div class="talentcalc-header-class">
+<a class="c12">Таланты Охотника на Демонов</a></div>
 <div class="talentcalc-spec-switcher">Специализация: <span class="q1"><span class="tooltip-inside-icon" style="background-image: url(https://wow.zamimg.com/images/wow/icons/small/ability_demonhunter_spectank.jpg)"></span> Месть <span class="talentcalc-spec-role" style="background-position: -32px 0"></span></span>
 </div>                             
 <div class="talentcalc-spec-desc" data-spec="3">Использует силу внутреннего демона, чтобы испепелять противников и защищать союзников. Оружие: боевые клинки, мечи, топоры, кистевое.</div>  
@@ -527,7 +527,8 @@ toc: true
 <td class="outer last-child" data-row="1" data-col="2" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=207739" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_fire_elementaldevastation.jpg)"></ins><del></del>
+<div class="iconmedium">
+<ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_fire_elementaldevastation.jpg)"></ins><del></del>
 <div class="state">✗</div></div>
 <table>
 <tbody>
@@ -560,7 +561,7 @@ toc: true
 </div>
 </td>
 
-<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="yes">
+<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="no">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=336639" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_warlock_backdraft.jpg)"></ins><del></del>
@@ -575,7 +576,7 @@ toc: true
 </div>
 </td>
 
-<td class="outer last-child" data-row="2" data-col="1" cursor="pointer" data-selected="no">
+<td class="outer last-child" data-row="2" data-col="1" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=247454" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_icon_shadowcouncilorb_purple.jpg)"></ins><del></del>
@@ -591,7 +592,7 @@ toc: true
 </td>
 </tr>
 
-<tr data-row="3" class="talentcalc-row" data-selected="no" data-available="yes">
+<tr data-row="3" class="talentcalc-row" data-selected="yes" data-available="yes">
 <td class="outer" data-selected="no">
 <div class="inner">35</div>
 </td>
@@ -662,7 +663,7 @@ toc: true
 </div>
 </td>
 
-<td class="outer" data-row="4" data-col="0" cursor="pointer" data-selected="no">
+<td class="outer" data-row="4" data-col="0" cursor="pointer" data-selected="yes">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=209281" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_concentratedsigils.jpg)"></ins><del></del>
@@ -677,7 +678,7 @@ toc: true
 </div>
 </td>
 
-<td class="outer last-child" data-row="4" data-col="1" cursor="pointer" data-selected="yes">
+<td class="outer last-child" data-row="4" data-col="1" cursor="pointer" data-selected="no">
 <div class="inner">
 <a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=202138" onclick="return false;"></a>
 <div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_sigilofchains.jpg)"></ins><del></del>
@@ -693,7 +694,8 @@ toc: true
 </td>
 </tr>
 
-<tr data-row="5" class="talentcalc-row" data-selected="no" data-available="yes"><td class="outer" data-selected="no">
+<tr data-row="5" class="talentcalc-row" data-selected="yes" data-available="yes">
+<td class="outer" data-selected="no">
 <div class="inner">45</div>
 </td>
 
@@ -798,15 +800,17 @@ toc: true
 </table>    
 </div>
 </div>
-</div> 
+</div>  
+<br>
+> {{ site.data.talent.Quickened_Sigils }} перманентный выбор только с ковенантом <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> Кирий.
+
+</div>
+</div>
+      
+</div>
 </div>
 
-      </div>
-
-    </div>
-  </div>
-
-  <script>
+<script>
     var $tabs = function (target) {
       var
         _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
@@ -876,7 +880,8 @@ toc: true
     document.addEventListener('tab.show', function (e) {
       localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
     })
-  </script>
+</script>
+
 <br>  
 ## Обзор талантов
 

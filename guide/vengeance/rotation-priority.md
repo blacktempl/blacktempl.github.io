@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Ротация
-last_update: 2020-11-11 09:00:00
-game_version: 9.0.0 Shadowlands
+description: ДХ Месть 9.0.5 PvE гайд Shadowlands
+last_update: 2020-03-22 09:00:00
+game_version: 9.0.5 Shadowlands
+author: Airithez
 toc: true
 ---
 
@@ -75,30 +77,28 @@ toc: true
 
 ## Ротация
 
-**Как правильно начать бой**
+**Опенер**
 
-1. Прекаст {{ site.data.covenant.Elysian_Decree }}
-1. {{ site.data.spell.Torment }} вместе с {{ site.data.spell.Throw_GlaiveVDH }}
-1. {{ site.data.spell.Infernal_Strike }} вместе с {{ site.data.spell.Sigil_of_Flame }}
-1. {{ site.data.spell.Immolation_Aura }}
+1. Прекаст {{ site.data.spell.Sigil_of_Flame }}  
+1. {{ site.data.spell.Torment }} вместе с {{ site.data.spell.Fiery_Brand }}
+1. {{ site.data.spell.Infernal_Strike }} вместе с {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.covenant.Elysian_Decree }} / {{ site.data.covenant.The_Hunt }} / {{ site.data.covenant.Sinful_Brand }}
+1. {{ site.data.talent.Fracture }}  
+1. {{ site.data.spell.Soul_Cleave }} - если у вас есть души
 1. {{ site.data.spell.Fel_Devastation }} - если у вас есть Гнев
-1. {{ site.data.spell.Soul_Cleave }}
-1. {{ site.data.talent.Fracture }} - если взят талант или {{ site.data.spell.Shear }}
-7. Продолжайте основную ротацию
 
+**Ротация**
 
-### Основная ротация
-
-1. {{ site.data.spell.Infernal_Strike }}  если у вас 2 заряда
+1. {{ site.data.spell.Infernal_Strike }} если у вас 2 заряда
 1. {{ site.data.spell.Fiery_Brand }} - по готовности
-1. {{ site.data.talent.Spirit_Bomb }} - если у вас сейчас доступно 4-5 душ
 1. {{ site.data.spell.Fel_Devastation }} - если у вас есть 50 Ярости
-1. {{ site.data.spell.Soul_Cleave }} - чтобы избежать оверкапа Гнева
-1. {{ site.data.covenant.Elysian_Decree }} - по готовности
-1. {{ site.data.spell.Immolation_Aura }} - если у вас нет капа душ и/или Гнева
+1. {{ site.data.spell.Soul_Cleave }} - если у вас есть души
+1. {{ site.data.covenant.Elysian_Decree }} / {{ site.data.covenant.The_Hunt }} / {{ site.data.covenant.Sinful_Brand }} - по готовности
+1. {{ site.data.spell.Immolation_Aura }} - по готовности
 1. {{ site.data.talent.Fracture }} - если у вас нет капа душ и/или Гнева
 1. {{ site.data.spell.Sigil_of_Flame }} - по готовности
 1. {{ site.data.spell.Throw_GlaiveVDH }} - когда все способности восстанавливаются
+
 
 ### Взрывная душа и Разлом
 

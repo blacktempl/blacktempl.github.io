@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Характеристики
-last_update: 2020-11-11 09:00:00
-game_version: 9.0.0 Shadowlands
+description: ДХ Месть 9.0.5 PvE гайд Shadowlands
+last_update: 2020-03-22 09:00:00
+game_version: 9.0.5 Shadowlands
+author: Airithez
 toc: true
 ---
 
@@ -47,36 +49,32 @@ toc: true
 ## Приоритет характеристик для Охотника на Демонов Месть
 
 <div class="tabs">
-    <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-1">Рейд СТ</a>
-      <a class="tabs__link" href="#content-2">АоЕ М+</a>
-    </div>
-    <div class="tabs__content">
-      <div class="tabs__pane tabs__pane_show" id="content-1">
+<div class="tabs__nav">
+<a class="tabs__link tabs__link_active" href="#content-1">Рейд СТ</a>
+<a class="tabs__link" href="#content-2">АоЕ М+</a>
+</div>
 
- <div class="tabs_in">
-<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> Ловкость = 
-<img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> Скорость > 
-<img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> Универсальность > 
-<img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> Искусность > 
-<img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30"> Критический удар 
+<div class="tabs__content">
 
-    </div>
+<div class="tabs__pane tabs__pane_show" id="content-1">
+<div class="tabs_in" markdown="1">
 
-      </div>
-      <div class="tabs__pane" id="content-2">
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="25" height="25"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="25" height="25"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="25" height="25"> **Скорость >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="25" height="25"> **Искусность >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="25" height="25"> **Критический удар**
+
+</div>
+</div>
+
+<div class="tabs__pane" id="content-2">
 	  
- <div class="tabs_in">
-<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="30" height="30"> Ловкость > 
-<img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="30" height="30"> Скорость > 
-<img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="30" height="30"> Универсальность > 
-<img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="30" height="30"> Критический удар > 
-<img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="30" height="30"> Искусность
-    </div>
-      
-	  </div>
-  </div>
-  </div>
+ <div class="tabs_in" markdown="1">
+
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="25" height="25"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="25" height="25"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="25" height="25"> **Скорость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="25" height="25"> **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="25" height="25"> **Искусность** 
+
+</div>   
+</div>
+ 
+</div>
+</div>
   
 #### Для каждого персонажа приоритет характеристик индивидуальный, всегда используйте <a href="https://www.raidbots.com/simbot">RaidBots</a> чтоб использовать актуальную для вас экиперовку.
 

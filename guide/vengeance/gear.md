@@ -1,8 +1,10 @@
 ---
 layout: page
 title: БиС лист
-last_update: 2020-11-11 09:00:00
-game_version: 9.0.0 Shadowlands
+description: ДХ Месть 9.0.5 PvE гайд Shadowlands
+last_update: 2020-03-22 09:00:00
+game_version: 9.0.5 Shadowlands
+author: Rodriguezz
 toc: true
 ---
 

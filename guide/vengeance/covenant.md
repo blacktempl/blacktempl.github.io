@@ -1,8 +1,9 @@
 ---
 layout: highcharts_page
 title: Ковенанты
-last_update: 2020-11-14 09:00:00
-game_version: 9.0.0 Shadowlands
+description: ДХ Месть 9.0.5 PvE гайд Shadowlands
+last_update: 2020-03-22 09:00:00
+game_version: 9.0.5 Shadowlands
 author: Rodriguezz
 toc: true
 ---
@@ -124,7 +125,7 @@ toc: true
 > Огромный плюс Пелагия в том что он доступен сразу и на ранних этапах дает доступ к кондуиту Сили и Выносливости, что позволить использовать наши сильные кондуиты в начале первого сезона.
 
 Рекомендуемое дерево развития медиума Пелагий:
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/ApZmEgUvtwAVLR8AIhUraQAlKvoA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/ApbmEgUtHwAVL7cAIhUq7wAlK2kA" target="blank">anything</a>
 
 ### Клея
 

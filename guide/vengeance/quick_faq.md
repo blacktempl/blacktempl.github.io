@@ -25,9 +25,6 @@ toc: true
 <br>
 В этом разделе собраны все основные материалы из гайда, чтоб вы максимально быстро могли начать играть за Охотника на Демонов Месть.
 
-
-<div class="minibox"><a href="{{ site.url }}/guide/vengeance/overview.html">Далее:<br>Обзор</a></div>
-
 <div class="tabs">
 <div class="tabs__nav">
 <a class="tabs__link tabs__link_active" href="#content-1">Клеймобилд</a>
