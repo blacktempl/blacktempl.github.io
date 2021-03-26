@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Характеристики
-last_update: 2021-01-22 09:00:00
-game_version: 9.0.0 Shadowlands
+description: ДХ Истребление 9.0.5 PvE гайд Shadowlands
+last_update: 2021-03-19 09:00:00
+game_version: 9.0.5 Shadowlands
+author: Rodriguezz и Gaussiana
 toc: true
 ---
 
@@ -37,125 +39,17 @@ toc: true
 
 ## Приоритет характеристик для Охотника на Демонов Истребление
 
-<div class="tabs">
-    <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-1">Рейд СТ</a>
-      <a class="tabs__link" href="#content-2">АоЕ М+</a>
-    </div>
-    <div class="tabs__content">
-      <div class="tabs__pane tabs__pane_show" id="content-1">
-	  
-	<div class="tabs_in" markdown="1">
-#### Ковенант **Ночной народец** <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22">
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/sim.gif"> </p>
 
-<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="25" height="25"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="25" height="25">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="25" height="25"> **Скорость >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="25" height="25"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="25" height="25"> **Искусность** 
+**Почему веса статов "не имеют смысла", и почему лучше пользоваться Top Gear.**
 
-<hr>
-
-#### Ковенант **Вентиры** <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24">
-
-<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="25" height="25"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="25" height="25"> **Скорость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="25" height="25">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="25" height="25"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="25" height="25"> **Искусность** 
-
-<hr>
-
-#### Ковенант **Кирии** <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24">
-
-<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="25" height="25"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="25" height="25">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="25" height="25"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="25" height="25"> **Искусность >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="25" height="25"> **Скорость**
-</div>	
-	
-	 </div>
-      <div class="tabs__pane" id="content-2">
-
-	<div class="tabs_in" markdown="1">
-#### Ковенант **Кирии** <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24">
-
-<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="25" height="25"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="25" height="25">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="25" height="25"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="25" height="25"> **Искусность >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="25" height="25"> **Скорость**
-
-<hr>
-
-#### Ковенант **Вентиры** <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24">
-
-<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" width="25" height="25"> **Ловкость >** <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" width="25" height="25">  **Критический удар >** <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" width="25" height="25"> **Универсальность >** <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" width="25" height="25"> **Скорость >** <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" width="25" height="25"> **Искусность** 
-</div>	
-
-      </div>
-      
-    </div>
-  </div>
+Представьте, что функция описывающая ДПС выглядит следующим образом: 
+DPS = a1 х Crit+a2 х Haste+a3 х Mastery+a4 х Versatility+a5 х Agility + а6 х MH_DPS + a7 x OH_DPS. Значения крита, хасты, и т.д. получаются исходя из вашей экипировки, а веса статов, это коэффициенты (а1, а2, а3... а7). Чтобы получить эти самые коэффициенты ребята из симкрафта особо не заморачиваются и применяют простейшую множественную линейную регрессию для получения этих самых весов. Сложно объяснить вообще не вдаваясь в подробности, по этому кратко: значения всех статов будут варьироваться на небольшую величину (оставаясь по прежнему вблизи ваших текущим значений) и основываясь на этом будут получены веса статов).  Т.е. программа не такая уж и умная как нам хотелось бы, не будет она искать никакого "баланса в статах". "Максимум" что вы получаете из весов статов, это то, изменение какого стата влечет к наибольшему/наименьшему увеличению вашего ДПС. Так же веса статов покажут, если у вас (речь не о ДХ) катастрофически мало, скажем крита, то программа может заметить, что даже малое повышение крита вам дает "огромный" прирост ДПС - она и влепит, что вам "надо добрать крита", т.е. выдаст, что вес крита выше, чем у остальных статов. 
+Веса статов, это простая математическая модель, которая не берет в расчет смену талантов, легендарок, медиумов, проводников. Лучшее решение, которые вы можете принять в вопросе выбора лучшего предмета экипировки - использовать Top Gear.
 
 #### Для каждого персонажа приоритет характеристик индивидуальный, всегда используйте <a href="https://www.raidbots.com/simbot">RaidBots</a> чтобы использовать актуальную для вас экипировку.
 
-  <script>
-    var $tabs = function (target) {
-      var
-        _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
-        _eventTabsShow,
-        _showTab = function (tabsLinkTarget) {
-          var tabsPaneTarget, tabsLinkActive, tabsPaneShow;
-          tabsPaneTarget = document.querySelector(tabsLinkTarget.getAttribute('href'));
-          tabsLinkActive = tabsLinkTarget.parentElement.querySelector('.tabs__link_active');
-          tabsPaneShow = tabsPaneTarget.parentElement.querySelector('.tabs__pane_show');
-          // если следующая вкладка равна активной, то завершаем работу
-          if (tabsLinkTarget === tabsLinkActive) {
-            return;
-          }
-          // удаляем классы у текущих активных элементов
-          if (tabsLinkActive !== null) {
-            tabsLinkActive.classList.remove('tabs__link_active');
-          }
-          if (tabsPaneShow !== null) {
-            tabsPaneShow.classList.remove('tabs__pane_show');
-          }
-          // добавляем классы к элементам (в завимости от выбранной вкладки)
-          tabsLinkTarget.classList.add('tabs__link_active');
-          tabsPaneTarget.classList.add('tabs__pane_show');
-          document.dispatchEvent(_eventTabsShow);
-        },
-        _switchTabTo = function (tabsLinkIndex) {
-          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
-          if (tabsLinks.length > 0) {
-            if (tabsLinkIndex > tabsLinks.length) {
-              tabsLinkIndex = tabsLinks.length;
-            } else if (tabsLinkIndex < 1) {
-              tabsLinkIndex = 1;
-            }
-            _showTab(tabsLinks[tabsLinkIndex - 1]);
-          }
-        };
-
-      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
-
-      _elemTabs.addEventListener('click', function (e) {
-        var tabsLinkTarget = e.target;
-        // завершаем выполнение функции, если кликнули не по ссылке
-        if (!tabsLinkTarget.classList.contains('tabs__link')) {
-          return;
-        }
-        // отменяем стандартное действие
-        e.preventDefault();
-        _showTab(tabsLinkTarget);
-      });
-
-      return {
-        showTab: function (target) {
-          _showTab(target);
-        },
-        switchTabTo: function (index) {
-          _switchTabTo(index);
-        }
-      }
-
-    };
-
-    var mytabs = $tabs('.tabs');
-    if (localStorage.getItem('mytabs')) {
-      mytabs.showTab(document.querySelector('[href="' + localStorage.getItem('mytabs') + '"]'));
-    }
-
-    document.addEventListener('tab.show', function (e) {
-      localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
-    })
-  </script>
+ 
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/rotation-priority.html">Назад:<br>Ротация</a></div> 
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/gear.html">Далее:<br>Бис лист</a></div>

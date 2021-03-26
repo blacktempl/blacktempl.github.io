@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Ротация
-last_update: 2020-01-11 09:00:00
-game_version: 9.0.0 Shadowlands
+description: ДХ Истребление 9.0.5 PvE гайд Shadowlands
+last_update: 2021-03-19 09:00:00
+game_version: 9.0.5 Shadowlands
+author: Rodriguezz и Gaussiana
 toc: true
 ---
 
@@ -62,97 +64,174 @@ toc: true
 
 Стиль игры за Охотника на демонов Истребление полностью основана на списке приоритетов, то есть вы должны стремиться использовать способность с наивысшим приоритетом, а не фиксированную ротацию. 
 
-**Опенер**
-
 <div class="tabs">
 <div class="tabs__nav">
-<a class="tabs__link tabs__link_active" href="#content-1">СТ Ротация</a>
-<a class="tabs__link" href="#content-2">Мифик+</a>
- </div>
- 
+<a class="tabs__link tabs__link_active" href="#content-1">АоЕ М+ билд Медальон </a>
+<a class="tabs__link" href="#content-2">АоЕ М+ Тоска </a>
+<a class="tabs__link" href="#content-3">СТ билд Рана</a>
+<a class="tabs__link" href="#content-4">СТ ФБ Теория</a>
+</div>
+
 <div class="tabs__content">
 <div class="tabs__pane tabs__pane_show" id="content-1">
 <div class="tabs_in" markdown="1">
 
-Рейд СТ Демоник
-**Опенер**
+```Ротация М+ Дар созерцателя тьмы ```
 
+**Опенер:**
 1. Прекастом {{ site.data.covenant.Elysian_Decree }}
 1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
-1. {{ site.data.talent.Felblade }}
+1. {{ site.data.spell.Fel_Rush }} - для нанесения повышенного урона благодаря таланту {{ site.data.talent.Unbound_Chaos }} 
 1. {{ site.data.spell.Eye_Beam }}
-1. {{ site.data.covenant.The_Hunt }} - Если вы играете за **Ночной народец**
-1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за **Вентиров**
-1. {{ site.data.spell.Blade_Dance }}
-1. Если вы играете за **Ночной народец** {{ site.data.spell.Metamorphosis }}
-1. Если вы **Вентир** Играем СТ ротацию до тех пор, пока до спадения {{ site.data.covenant.Sinful_Brand }} с цели не останется 1 сек и только затем отдаем {{ site.data.spell.Metamorphosis }}
-1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
 1. {{ site.data.spell.Death_Sweep }}
-
-<hr>
-
-#### Рейд СТ Импульс
-**Опенер**
-
-1. Прекастом {{ site.data.covenant.Elysian_Decree }}
-1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
-1. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.
-1. {{ site.data.talent.Felblade }}
-1. {{ site.data.spell.Vengeful_Retreat }}
-1. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }}.
-1. {{ site.data.spell.Eye_Beam }}
-1. {{ site.data.covenant.The_Hunt }} - Если вы играете за **Ночной народец**
-1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за **Вентиров**
-1. {{ site.data.spell.Blade_Dance }}
-1. Если вы играете за **Ночной народец** {{ site.data.spell.Metamorphosis }}
-1. Если вы **Вентир** Играем СТ ротацию до тех пор, пока до спадения {{ site.data.covenant.Sinful_Brand }} с цели не останется 1 сек и только затем отдаем {{ site.data.spell.Metamorphosis }}
-1. {{ site.data.spell.Eye_Beam }}
-1. {{ site.data.spell.Death_Sweep }}
-
+1. Если вы Вентир - {{ site.data.spell.Metamorphosis }} для наложения {{ site.data.covenant.Sinful_Brand }} на все цели. Сливаем рагу. 1. {{ site.data.spell.Eye_Beam }}. {{ site.data.covenant.Sinful_Brand }} - в самую жирную/важную цель, но прежде стоит дождаться спадения {{ site.data.covenant.Sinful_Brand }} с цели, или пока (в идеале) не останется 1 сек.
+1. Если вы **НЕ** Вентир {{ site.data.spell.Metamorphosis }}.
+ 
 **Список приоритетов**
 
 1. {{ site.data.spell.Metamorphosis }}
-1. {{ site.data.spell.Vengeful_Retreat }} - Если выбран в талантах {{ site.data.talent.Momentum }}.
-1. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }} - Если он выбран в талантах.
-1. {{ site.data.spell.Death_Sweep }} / {{ site.data.spell.Blade_Dance }}
-1. {{ site.data.covenant.Elysian_Decree }} по готовности - Если вы играете за **Кирий**.
+1. {{ site.data.spell.Fel_Rush }} - Если активен баф {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.covenant.Elysian_Decree }} - Если вы играете за Кирий
 1. {{ site.data.spell.Eye_Beam }}
-1. {{ site.data.covenant.The_Hunt }} - Если вы играете за **Ночной народец**
-1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за **Вентиров**
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
+1. {{ site.data.spell.Death_Sweep }} - 2+ целей.
 1. {{ site.data.spell.Immolation_Aura }}
-1. {{ site.data.spell.Annihilation }} / {{ site.data.spell.Chaos_Strike }}
-1. {{ site.data.talent.Felblade }} если у вас меньше 80 гнева.
-1. {{ site.data.spell.Throw_Glaive }} 
-
-</div>
-</div>
-
-<div class="tabs__pane" id="content-2">
-<div class="tabs_in" markdown="1">
-
-**Список приоритетов**
-
-1. {{ site.data.spell.Metamorphosis }}
-1. {{ site.data.spell.Vengeful_Retreat }} - Если выбран в талантах {{ site.data.talent.Momentum }}.
-1. {{ site.data.spell.Fel_Rush }} для поддержания баффа {{ site.data.talent.Momentum }} - Если он выбран в талантах.
-1. {{ site.data.talent.Glaive_Tempest }}
-1. {{ site.data.covenant.Elysian_Decree }} по готовности - Если вы играете за **Кирий**.
-1. {{ site.data.spell.Eye_Beam }}
-1. {{ site.data.covenant.The_Hunt }} - Если вы играете за **Ночной народец**
-1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за **Вентиров**
-1. {{ site.data.spell.Death_Sweep }} если 2+ целей.
-1. {{ site.data.spell.Blade_Dance }} если 3+ целей.
-1. {{ site.data.spell.Immolation_Aura }}
-1. {{ site.data.spell.Annihilation }} / {{ site.data.spell.Chaos_Strike }}
+1. {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}
 1. {{ site.data.spell.Demons_Bite }}
 
 </div>
 </div>
 
+<div class="tabs__pane" id="content-2" >
+<div class="tabs_in" markdown="1">
+
+```АоЕ М+ билд Всеобщая тоска  ```
+
+**Опенер с Корейном:**
+1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }} и использования бафа от {{ site.data.talent.Unbound_Chaos }}
+1. {{ site.data.talent.Felblade }} 
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }}
+1. {{ site.data.spell.Vengeful_Retreat }}
+1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }}
+1. {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Eye_Beam }}
+
+> Бафф, который дает Корейн на +25% крита в первые 5 секунд боя (при правильной реализации) играет ВАЖНЕЙШУЮ РОЛЬ в вашем опенере. Главная мысль заключается в том, что под этим баффом вы должны зарядить в босса {{ site.data.spell.Fel_Rush }} с бафом от {{ site.data.talent.Unbound_Chaos }} и {{ site.data.covenant.The_Hunt }} Охотой по самому жирному/важному мобу. Реализация усложняется, если у вас есть тринкет с Визгуньи или Денатрия. Тогда в эти 5 секунд надо еще "внедрить" использование тринкета. 
+
+
+**Опенер:**
+1. Прекастом {{ site.data.covenant.Elysian_Decree }}
+1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }} и использования бафа от {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.talent.Felblade }}
+1. {{ site.data.spell.Vengeful_Retreat }}
+1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }}
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
+1. {{ site.data.spell.Death_Sweep }}
+1. **Если вы играете за Ночной народец** - {{ site.data.spell.Metamorphosis }}
+1. Если вы Вентир -  Играем СТ ротацию до тех пор, пока до спадения клейма с цели не останется 1 сек и только затем отдаем {{ site.data.spell.Metamorphosis }} 
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.spell.Death_Sweep }}
+
+**Список приоритетов**
+
+1. {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Vengeful_Retreat }}
+1. {{ site.data.spell.Fel_Rush }}
+1. {{ site.data.spell.Fel_Rush }} - Если активен баф {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.spell.Death_Sweep }} - 3+ цели
+1. {{ site.data.covenant.Elysian_Decree }} - Если вы играете за Кирий
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
+1. {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Blade_Dance }} - 4+ целей.
+1. {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}
+1. {{ site.data.spell.Throw_Glaive }}
+
+</div>
+</div>
+      
+<div class="tabs__pane" id="content-3">
+
+<div class="tabs_in" markdown="1">
+
+```Ротация СТ Жгучая рана```
+
+**Опенер:**
+1. Прекастом {{ site.data.covenant.Elysian_Decree }}
+1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Fel_Rush }} - для нанесения повышенного урона благодаря таланту {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.spell.Demons_Bite }}
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. Если вы Вентир - {{ site.data.spell.Metamorphosis }} для наложения {{ site.data.covenant.Sinful_Brand }} на все цели. Сливаем рагу. 1. {{ site.data.spell.Eye_Beam }}. {{ site.data.covenant.Sinful_Brand }} - в самую жирную/важную цель, но прежде стоит дождаться спадения {{ site.data.covenant.Sinful_Brand }} с цели, или пока (в идеале) не останется 1 сек.
+1. Если вы **НЕ** Вентир {{ site.data.spell.Metamorphosis }}.
+ 
+**Список приоритетов**
+
+1. {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Fel_Rush }} - Если активен баф {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.covenant.Elysian_Decree }} - Если вы играете за Кирий
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
+1. {{ site.data.spell.Death_Sweep }} - 2+ целей.
+1. {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}
+1. {{ site.data.spell.Demons_Bite }}
+
 </div>
 </div>
 
-  <script>
+
+<div class="tabs__pane" id="content-4">
+<div class="tabs_in" markdown="1">
+
+```Ротация СТ ФБ Теория Хаоса```
+
+**Опенер:**
+1. Прекастом {{ site.data.covenant.Elysian_Decree }}
+1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Fel_Rush }} - для нанесения повышенного урона благодаря таланту {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.talent.Felblade }}
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
+1. {{ site.data.spell.Death_Sweep }}
+1. Если вы Вентир - {{ site.data.spell.Metamorphosis }} для наложения {{ site.data.covenant.Sinful_Brand }} на все цели. Сливаем рагу. 1. {{ site.data.spell.Eye_Beam }}. {{ site.data.covenant.Sinful_Brand }} - в самую жирную/важную цель, но прежде стоит дождаться спадения {{ site.data.covenant.Sinful_Brand }} с цели, или пока (в идеале) не останется 1 сек.
+1. Если вы **НЕ** Вентир {{ site.data.spell.Metamorphosis }}.
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.spell.Death_Sweep }}
+ 
+**Список приоритетов**
+
+1. {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Death_Sweep }} / {{ site.data.spell.Blade_Dance }}
+1. {{ site.data.spell.Fel_Rush }} - Если активен баф {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.covenant.Elysian_Decree }} - Если вы играете за Кирий
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
+1. {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}
+1. {{ site.data.talent.Felblade }}
+1. {{ site.data.spell.Throw_Glaive }}
+
+
+</div>
+</div>
+
+</div>
+</div>
+
+<script>
     var $tabs = function (target) {
       var
         _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
@@ -222,7 +301,7 @@ toc: true
     document.addEventListener('tab.show', function (e) {
       localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
     })
-  </script>
+</script>
   <br>
   
 ## Использование Импульса

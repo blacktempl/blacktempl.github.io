@@ -1,8 +1,9 @@
 ---
 layout: highcharts_page
 title: Ковенанты
-last_update: 2020-12-07 09:00:00
-game_version: 9.0.2 Shadowlands
+description: ДХ Истребление 9.0.5 PvE гайд Shadowlands
+last_update: 2021-03-19 09:00:00
+game_version: 9.0.5 Shadowlands
 author: Rodriguezz
 toc: true
 ---
@@ -75,7 +76,7 @@ toc: true
 
 Рекомендуемое дерево развития медиума Наджия:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/ApavAgUrbwAVK5MAEQUszwAiFSr6ACUq7wA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/ApavAgUrbwAVK5MAEQUtHwAhFSr6AA" target="blank">anything</a>
 
 ### Безумный герцог Теотар
 
@@ -113,7 +114,7 @@ toc: true
 * {{ site.data.covenant.Let_Go_of_the_Past }} постоянный баф на снижение магического урона.
 
 Рекомендуемое дерево развития медиума Пелагий:
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/ApbmEgUszwAVLR8AIhUq-gAlKu8A" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/ApbmEgUtHwAVLM8AIhUq-gAlKu8A" target="blank">anything</a>
 
 ### Клея
 
@@ -137,7 +138,7 @@ toc: true
 
 Рекомендуемое дерево развития медиума Верховный автоматург Миканикос:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/ApbqAQUrbwARBSzPACIVKvoAJSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/ApbqAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
 
 ## Ковенант Ночного Народца
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/fae_logo.png"> </p>
@@ -156,7 +157,7 @@ toc: true
 
 Рекомендуемое дерево развития медиума Ния:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/ApZlAQUrbwASBSzPABUtHwAiFSr6ACUq7wA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/ApZlAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
 
 ### Творец Снов
 
@@ -166,7 +167,7 @@ toc: true
 * {{ site.data.covenant.Social_Butterfly }} - дает нам постоянный баф Универсальности когда мы находимся в группе.
 * {{ site.data.covenant.Field_of_Blossoms }} - 12% баф скорости с очень приличным аптаймом.
 
-Рекомендуемое дерево развития медиума Ния:
+Рекомендуемое дерево развития медиума Творец Снов:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/ApquAQUrbwASBSzPABUtHwAjBSr6ABUraQAlKu8A" target="blank">anything</a>
 
@@ -178,9 +179,9 @@ toc: true
 * {{ site.data.covenant.Wild_Hunts_Charge }} - потенциально хороший талант для мифик+, позволяет начать бой со стана.
 * {{ site.data.covenant.First_Strike }} - очень мощный бонус к урону который мы получаем в начале пулла.
 
-Рекомендуемое дерево развития медиума Ния:
+Рекомендуемое дерево развития медиума Корейн:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/ApbqAQUrbwARBSzPACIVKvoAJSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/ApbqAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
 
 ## Ковенант Некролорды
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/necrolord_logo.png"> </p>
@@ -221,7 +222,7 @@ toc: true
 
 Рекомендуемое дерево развития медиума Костоплав Гейрмир:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/ApZqAQUrbwARBSzPACIVKvoAJSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/ApbqAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
 
 ## Симуляция медиумов и связей душ
 

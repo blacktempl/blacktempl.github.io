@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Макросы и Аддоны
-last_update: 2020-11-11 09:00:00
-game_version: 9.0.0 Shadowlands
+description: ДХ Истребление 9.0.5 PvE гайд Shadowlands
+last_update: 2021-03-19 09:00:00
+game_version: 9.0.5 Shadowlands
 author: Rodriguezz
 toc: true
 ---
