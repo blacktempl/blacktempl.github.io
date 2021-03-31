@@ -2220,13 +2220,13 @@ DPS = a1 х Crit+a2 х Haste+a3 х Mastery+a4 х Versatility+a5 х Agility + а6
 
 Рекомендуемый билд: **3323221**
 
-<img src="{{ site.url }}/assets/img/guide/havoc/teoriya.png">
+<img src="https://i.imgur.com/Aum8vnp.png">
 
 Рекомендуемый легендарный предмет: {{ site.data.legendary.Chaos_Theory }}
 
 Альтернативный билд: **1133121**
 
-<img src="{{ site.url }}/assets/img/guide/havoc/rana.png">
+<img src="https://i.imgur.com/EqW2Gr8.png">
 
 Рекомендуемый легендарный предмет: {{ site.data.legendary.Burning_Wound }}
 
