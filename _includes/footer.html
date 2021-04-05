@@ -43,6 +43,45 @@
 
 <script>
 
+	    $(window).click(function() {
+        $(".collapse").collapse("hide");
+    });
+
+    $(document).on("click", ".dropdown-menu", function (e) {
+        e.stopPropagation();
+    });
+
+    function onResize() {
+        // make it as accordion for smaller screens
+        if ($(window).width() < 992) {
+            $(".dropdown-menu a").click(function(e){
+                //e.preventDefault();
+                if($(this).next(".submenu").length){
+                    e.preventDefault();
+                    $(this).next(".submenu").toggle();
+                }
+                $(".dropdown").on("hide.bs.dropdown", function () {
+                    $(this).find(".submenu").hide();
+                })
+            });
+
+             $(".navbar-collapse").on("show.bs.collapse", function () {
+                 $("body").css("overflow", "hidden");
+                 $("header").css("overflow", "auto");
+                 //$("header").css("height", "100%");
+             });
+
+             $(".navbar-collapse").on("hide.bs.collapse", function () {
+                 $("body").css("overflow", "auto");
+                 $("header").css("overflow", "");
+                 //$("header").css("height", "60px");
+             });
+
+        } else {
+            $(".navbar-nav > .nav-item > a.nav-link").click(function(e){
+                window.location = $(this).attr("href");
+            });
+        }
         
         // if ($(window).width() < 576) {
 
