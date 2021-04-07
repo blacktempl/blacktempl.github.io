@@ -265,5 +265,5 @@ toc: true
 * {{ site.data.conduits.Felfire_Haste }} — ваша скорость передвижения повышается на 5-20% после использования способности {{ site.data.spell.Fel_Rush }}. Дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку.
 * {{ site.data.conduits.Ravenous_Consumption }} — способность {{ site.data.spell.Consume_Magic }} получает 15-30% шанс рассеять дополнительный эффект.
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/gear.htmll">Назад:<br>Бис лист</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/gear.html">Назад:<br>Бис лист</a></div>
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/consumables.html">Длаее:<br>Расходники</a></div>
