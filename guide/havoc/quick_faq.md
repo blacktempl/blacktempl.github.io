@@ -1699,7 +1699,7 @@ toc: true
 > На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
 > На {{ site.mplus.Sludgefist }}  используем в 30 тире {{ site.data.talent.Glaive_Tempest }} 
 
-> Используем легендарный предмет: {{ site.data.legendary.Burning_Wound }}
+> Используем легендарный предмет: {{ site.data.legendary.Chaos_Theory }}
 
 > **Крафтим в слот нагрудник.**
 
