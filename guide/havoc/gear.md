@@ -574,7 +574,7 @@ toc: true
 
 ## Аксессуар
 
-* {{ site.data.item.Skulkers_Wing }} - Прожимной аксессуар с огромным уроном, который усиливается баффом {{ site.data.talent.Momentum }}.
+* {{ site.data.item.Skulkers_Wing }} - Прожимной аксессуар с огромным уроном.
 * {{ site.data.item.Phial_of_Putrefaction }} - Наносит высокий урон и показывает высокий оверолл.
 
 ### Patchwerk
