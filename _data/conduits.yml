@@ -12,6 +12,11 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
+#PTR910
+Relentless_Onslaught: <a href="https://ru.wowhead.com/spell=339151" target="blank">Непреклонный натиск</a>
+
+
+
 #Ковенант
 Repeat_Decree: <a href="https://ru.wowhead.com/spell=339895" target="blank">Повторный указ</a>
 Increased_Scrutiny: <a href="https://ru.wowhead.com/spell=340028" target="blank">Повышенная бдительность</a>
@@ -45,5 +50,8 @@ Soul_Furnace: <a href="https://ru.wowhead.com/spell=339423" target="blank">Ку�
 
 #Выносливость
 Demon_Muzzle: <a href="https://ru.wowhead.com/spell=339587" target="blank">Демонический намордник</a>
+
+#другие классы
+Proliferation: <a href="https://ru.wowhead.com/item=182295" target="blank">Распространение</a>
 
 
