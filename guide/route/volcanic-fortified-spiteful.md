@@ -1,33 +1,32 @@
 ---
 layout: page
-title: Замок Нафрия
+title: Укрепленный, Злопамятный, Вулканический
 last_update: 2020-01-11 09:00:00
 game_version: 9.0.0 Shadowlands
 author: Rodriguezz
 toc: true
 ---
 
-### De Other Side
+### Шпили перерождения
 
+<div data-target="#Spires_of_Ascension-collapse" class="dungeon-header Spires_of_Ascension"></div>
+
+Вся сложность подземелья с аффиксом {{ site.data.mplus.Spiteful }} сводится к тому, что в паках мобов будут мобы с разным количеством здоровья, бойцам ближнего боя нужно быть внимательным когда мобы начинают умирать и использовать контроль по духам чтоб не умереть.
 
   <div class="tabs" id="tabs-1">
     <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-1">Route with no Skips</a>
-      <a class="tabs__link" href="#content-2">Route with Skips</a>
+      <a class="tabs__link tabs__link_active" href="#content-1">Маршрут без пропуска</a>
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
-        <iframe src="https://wago.io/VRIX3BYI1/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
+        <iframe src="https://wago.io/3OcOlyr6Q/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
       </div>
-      <div class="tabs__pane" id="content-2">
-        <iframe src="https://wago.io/R7ygu0mD2/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
       </div>
-    </div>
   </div>
 
   <br><br>
 
-###  Halls of Atonement
+### Halls of Atonement
 
   <div class="tabs" id="tabs-2">
     <div class="tabs__nav">
