@@ -6,6 +6,108 @@
 
 // add more custom styles here
 
+
+
+// МДТ
+
+.slds-grid {
+    display: flex;
+}
+
+.slds-size--2-of-12 {
+    width: 16.66667%;
+}
+
+.slds-text-align--center {
+    text-align: center;
+}
+
+.rio-realm-link, .rio-realm-link:link, .rio-realm-link:visited {
+    color: #78c50a;
+}
+
+.rio-border--light {
+    border: 1px solid #666!important;
+	background-image: url(/assets/img/guide/weekly1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.slds-size--10-of-12 {
+    width: 83.33333%;
+}
+
+.rio-news-element--container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.slds-p-left--large {
+    padding-left: 1.5rem;
+}
+
+hr.rio-news-element--divider {
+    border-top: 1px dotted #aaa;
+}
+
+hr {
+    display: block;
+    margin: 1rem 0;
+    border-top: 1px solid #d8dde6;
+    height: 1px;
+    clear: both;
+}
+
+.rio-news-element--container .rio-news-element--title {
+    font-size: 1.75rem;
+    line-height: 1.90rem;
+    font-weight: 700;
+}
+.affix {
+    position: relative;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.affix img {
+    border: 1px solid #000 !important;
+    margin: 2px;
+}
+
+@media (max-width: 30em){
+.slds-max-small-size--1-of-4{
+    width: 25%;
+	}
+}
+
+@media only screen and (max-width: 767px){
+.rio-news-element--leftpad{
+    padding-left: .5rem;
+	}
+	
+.rio-news-element--container .rio-news-element--title{
+    font-size: 1rem;
+    line-height: 1.15rem;
+    font-weight: 700;
+	}
+	
+
+}
+
+.rio-news-element--container .rio-news-element--byline, .rio-news-element--container .rio-news-element--tags {
+    font-size: .6rem;
+}
+
+
+// МДТ
+
+
+
+
 // Блог рамки
 
 #card-body li {	
