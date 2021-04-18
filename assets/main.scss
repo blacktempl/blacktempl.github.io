@@ -6,7 +6,26 @@
 
 // add more custom styles here
 
+// patreon кнопка
 
+#patron {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	padding-top: 20px;
+}
+	
+#patron img {
+    opacity: 1;
+    box-shadow: 0 0 10px 0 black;
+    border: 1px solid transparent;
+}	
+
+#patron img:hover {
+    opacity: 0.6;
+}
+
+// patreon кнопка
 
 // МДТ
 

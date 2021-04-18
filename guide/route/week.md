@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Роуты для MDT
-last_update: 2020-01-11 09:00:00
-game_version: 9.0.0 Shadowlands
+description: Роуты для Mythic Dungeon Tools 9.0.5 Shadowlands
+last_update: 18-04-2021 09:00:00
+game_version: 9.0.5 Shadowlands
 author: Rodriguezz
 toc: false
 ---
