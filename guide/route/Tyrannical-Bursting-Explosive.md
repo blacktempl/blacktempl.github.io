@@ -71,6 +71,9 @@ toc: true
 <div data-target="#Halls_of_Atonement-collapse" class="dungeon-header Halls_of_Atonement"></div>
 <br>
 
+АоЕ урон от {{ site.data.mplus.Shard_of_Halkias }} можно игнорировать если уйти за радииус его действия (актуально для рдд и хилов). Если в группе нет Вентира, вам стоит быть предельно акуратным и не спулить 
+{{ site.data.mplus.Loyal_Stoneborn }}. Смотрите куда танк развернул {{ site.data.mplus.Depraved_Darkblade }}, чтоб не попасть под клив. Обязательно сбейте каст {{ site.data.mplus.Depraved_Houndmaster }} любым контролем, чтоб она не усилила своих {{ site.data.mplus.Vicious_Gargon }}.
+На последнем боссе танк может перекрыть сразу 2 луча на переходной фазе, для этого нужно зайти немного в модель босса.
 
 <iframe src="https://keystone.guru/ppfPbUD/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
 
