@@ -20,8 +20,9 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
-        <iframe src="https://wago.io/TVsxkfSHS/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
+        <iframe src="https://keystone.guru/yMCsjWI/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
       </div>
+      
     </div>
   </div>
 <br>
@@ -55,13 +56,15 @@ toc: true
 <div class="tabs" id="tabs-3">
     <div class="tabs__nav">
       <a class="tabs__link tabs__link_active" href="#content-5">Маршрут без Скипов</a>
+      <a class="tabs__link" href="#content-6">Маршрут со Скипом</a>
     </div>
-	
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-5">
-        <iframe src="https://wago.io/WW4E8wk3s/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
+        <iframe src="https://wago.io/VRIX3BYI1/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
       </div>
-	  
+      <div class="tabs__pane" id="content-6">
+        <iframe src="https://wago.io/R7ygu0mD2/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
+      </div>
     </div>
   </div>
 <br>
@@ -120,10 +123,10 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-11">
-        <iframe src="https://wago.io/uSZ3wInPQ/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
+        <iframe src="https://keystone.guru/9X5JKGt/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
       </div>
       <div class="tabs__pane" id="content-12">
-        <iframe src="https://wago.io/qd83jBJhg/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
+        <iframe src="https://keystone.guru/dH2UrFI/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
       </div>
     </div>
   </div>
@@ -141,10 +144,10 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-13">
-        <iframe src="https://wago.io/gmzBIZUkB/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
+        <iframe src="https://keystone.guru/3NMtpI8/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
       </div>
       <div class="tabs__pane" id="content-14">
-        <iframe src="https://wago.io/fkNvelJbm/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
+       <iframe src="https://keystone.guru/R0OAGVM/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
       </div>
     </div>
   </div>
@@ -162,8 +165,9 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-15">
-        <iframe src="https://wago.io/Pk-Faalh3/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
+        <iframe src="https://keystone.guru/DwlWfGz/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
       </div>
+
     </div>
   </div>
 

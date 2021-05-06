@@ -28,10 +28,10 @@ categories:
       url: /guide/general/wowanalyzer.html 
     - title: Макросы
       url: /guide/general/macros_guide.html   
-- title: Рейд
-  subcategories:
-    - title: Замок Нафрия
-      url: /guide/raids/castle_nathria/intro.html
+#- title: Рейд
+#  subcategories:
+#    - title: Замок Нафрия
+#      url: /guide/raids/castle_nathria/intro.html
       
 
 
@@ -51,7 +51,7 @@ categories:
 
 #- title: Mythic+
 # activate this v line if you don't want child elements in the top menu
-#url: /guide/dungeons.html
+#  url: /guide/dungeons.html
 # subcategories:
 
 #    - title: General Guide
