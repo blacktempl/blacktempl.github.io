@@ -20,10 +20,12 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
-        <iframe src="https://wago.io/VRIX3BYI1/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
+        <iframe src="https://keystone.guru/u55vWbM/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
+
       </div>
       <div class="tabs__pane" id="content-2">
-        <iframe src="https://wago.io/R7ygu0mD2/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
+        <iframe src="https://keystone.guru/ggGb09x/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
+
       </div>
     </div>
   </div>
@@ -34,6 +36,11 @@ toc: true
 <div data-target="#The_Necrotic_Wake-collapse" class="dungeon-header The_Necrotic_Wake"></div>
 <br>
 
+{{ site.data.mplus.Bloody_Javelin }} лучше всего подбирать тем, у кого самый большой показатель крита и использовать их в боссов. 
+{{ site.data.mplus.Forgotten_Forgehammer }} можно придержать на последнего босса. {{ site.data.mplus.Discharged_Anima }} можно применить для сложных паков или сложных 
+боссов, например {{ site.data.mplus.Amarth }}.
+
+
 <div class="tabs" id="tabs-2">
     <div class="tabs__nav">
       <a class="tabs__link tabs__link_active" href="#content-3">Маршрут без Скипов</a>
@@ -41,11 +48,12 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-3">
-        <iframe src="https://wago.io/VRIX3BYI1/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
+         <iframe src="https://keystone.guru/6QRvtmF/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
+
       </div>
       <div class="tabs__pane" id="content-4">
-        <iframe src="https://wago.io/R7ygu0mD2/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
-      </div>
+         <iframe src="https://keystone.guru/zi3oXUy/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
+     </div>
     </div>
   </div>
 <br>
@@ -55,20 +63,11 @@ toc: true
 <div data-target="#The_Other_Side-collapse" class="dungeon-header The_Other_Side"></div>
 <br>
 
-<div class="tabs" id="tabs-3">
-    <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-5">Маршрут без Скипов</a>
-      <a class="tabs__link" href="#content-6">Маршрут со Скипом</a>
-    </div>
-    <div class="tabs__content">
-      <div class="tabs__pane tabs__pane_show" id="content-5">
-        <iframe src="https://wago.io/VRIX3BYI1/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
-      </div>
-      <div class="tabs__pane" id="content-6">
-        <iframe src="https://wago.io/R7ygu0mD2/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
-      </div>
-    </div>
-  </div>
+Используйте, урны которые растравлены по всему подземелью, что б упросить убийство особо опасных мобов и паков. 
+Не дайте закончить каст {{ site.data.mplus.Bladebeak_Hatchling }}, используйте станы, что б прервать его.
+
+<iframe src="https://keystone.guru/MTTngo9/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
+
 <br>
 
 # Театр Боли
@@ -76,20 +75,8 @@ toc: true
 <div data-target="#Theater_of_Pain-collapse" class="dungeon-header Theater_of_Pain"></div>
 <br>
 
-<div class="tabs" id="tabs-4">
-    <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-7">Маршрут без Скипов</a>
-      <a class="tabs__link" href="#content-8">Маршрут со Скипом</a>
-    </div>
-    <div class="tabs__content">
-      <div class="tabs__pane tabs__pane_show" id="content-7">
-        <iframe src="https://wago.io/VRIX3BYI1/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
-      </div>
-      <div class="tabs__pane" id="content-8">
-        <iframe src="https://wago.io/R7ygu0mD2/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
-      </div>
-    </div>
-  </div>
+<iframe src="https://keystone.guru/SeK91uT/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
+
 <br>
 
 # Туманы Тирна Скитта
@@ -97,26 +84,21 @@ toc: true
 <div data-target="#Mists_of_Tirna_Scithe-collapse" class="dungeon-header Mists_of_Tirna_Scithe"></div>
 <br>
 
-<div class="tabs" id="tabs-5">
-    <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-9">Маршрут без Скипов</a>
-      <a class="tabs__link" href="#content-10">Маршрут со Скипом</a>
-    </div>
-    <div class="tabs__content">
-      <div class="tabs__pane tabs__pane_show" id="content-9">
-        <iframe src="https://wago.io/VRIX3BYI1/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
-      </div>
-      <div class="tabs__pane" id="content-10">
-        <iframe src="https://wago.io/R7ygu0mD2/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
-      </div>
-    </div>
-  </div>
+Из-за рандомного пути после первого босса единственного верного маршрута нет, вы просто проходите лабиринт и после второго босса добираете проценты на спавн последнего 
+прайда, что б получить бонус на последнего босса. Но если у вас высокий урон и бонус прайда вам не нужен, вы можете добрать проценты после убийства последнего босса.
+
+<iframe src="https://keystone.guru/xlsLQ01/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
+
 <br>
 
 # Чертоги Покаяния
 
 <div data-target="#Halls_of_Atonement-collapse" class="dungeon-header Halls_of_Atonement"></div>
 <br>
+
+АоЕ урон от {{ site.data.mplus.Shard_of_Halkias }} можно игнорировать если уйти за радииус его действия (актуально для рдд и хилов). Если в группе нет Вентира, вам стоит быть предельно акуратным и не спулить 
+{{ site.data.mplus.Loyal_Stoneborn }}. Смотрите куда танк развернул {{ site.data.mplus.Depraved_Darkblade }}, чтоб не попасть под клив. Обязательно сбейте каст {{ site.data.mplus.Depraved_Houndmaster }} любым контролем, чтоб она не усилила своих {{ site.data.mplus.Vicious_Gargon }}.
+На последнем боссе танк может перекрыть сразу 2 луча на переходной фазе, для этого нужно зайти немного в модель босса.
 
 <div class="tabs" id="tabs-6">
     <div class="tabs__nav">
@@ -125,10 +107,10 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-11">
-        <iframe src="https://wago.io/VRIX3BYI1/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
+        <iframe src="https://keystone.guru/BVFtDop/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
       </div>
       <div class="tabs__pane" id="content-12">
-        <iframe src="https://wago.io/R7ygu0mD2/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
+        <iframe src="https://keystone.guru/mkYWF14/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
       </div>
     </div>
   </div>
@@ -139,43 +121,22 @@ toc: true
 <div data-target="#Plaguefall-collapse" class="dungeon-header Plaguefall"></div>
 <br>
 
-<div class="tabs" id="tabs-7">
-    <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-13">Маршрут без Скипов</a>
-      <a class="tabs__link" href="#content-14">Маршрут со Скипом</a>
-    </div>
-    <div class="tabs__content">
-      <div class="tabs__pane tabs__pane_show" id="content-13">
-        <iframe src="https://wago.io/VRIX3BYI1/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
-      </div>
-      <div class="tabs__pane" id="content-14">
-        <iframe src="https://wago.io/R7ygu0mD2/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
-      </div>
-    </div>
-  </div>
+Когда здоровье {{ site.data.mplus.Rigged_Plagueborer }} опустится до 40% он начнет детонировать, фокусируйте урон на этих адах 
+что б они быстрей взорвались танку во время детонации нужно держать адов так что б он весь находился в зоне взрыва. 
+Тоже самое касается Нестабильной канистры.
+
+<iframe src="https://keystone.guru/V8KTF6c/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
+
 <br>
 
 # Шпили перерождения
 
 <div data-target="#Spires_of_Ascension-collapse" class="dungeon-header Spires_of_Ascension"></div>
 
-Вся сложность подземелья с аффиксом {{ site.data.mplus.Spiteful }} сводится к тому, что в паках мобов будут мобы с разным количеством здоровья, бойцам ближнего боя нужно быть внимательным когда мобы начинают умирать и использовать контроль по духам чтоб не умереть.
-
-<div class="tabs" id="tabs-8">
-    <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-15">Маршрут без Скипов</a>
-      <a class="tabs__link" href="#content-16">Маршрут со Скипом</a>
-    </div>
-    <div class="tabs__content">
-      <div class="tabs__pane tabs__pane_show" id="content-15">
-        <iframe src="https://wago.io/3OcOlyr6Q/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
-      </div>
-      <div class="tabs__pane" id="content-16">
-        <iframe src="https://wago.io/3OcOlyr6Q/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
-      </div>
-    </div>
-  </div>
-
+Не пропускайте каст {{ site.data.mplus.Forsworn_Goliath }} если он докастует, то это может привести к вайпу группы. 
+Диспельте мобов [Раскольник-целитель](https://ru.wowhead.com/npc=163459/) и подбирайте выпавшие с них молоты.
+ 
+<iframe src="https://keystone.guru/Scpuogc/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
 
 	
 <script>
