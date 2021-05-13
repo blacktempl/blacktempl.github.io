@@ -50,7 +50,7 @@ toc: true
 [Blazing Slaughter](https://ptr.wowhead.com/spell=355890/blazing-slaughter) -  самый интересный легендарный предмет. Он дает нам каждые 90 секунд дополнительный заряд [Необузданного хаоса](https://ru.wowhead.com/spell=275144), 
 а также дает нам хороший бафф ловкости в зависимости от того, сколько целей мы поразили (максимум 15%). Синергия исходит от [Обжигающего жар](https://ru.wowhead.com/spell=258920), который активирует [Охота](https://ru.wowhead.com/spell=323639) когда мы используем легендарный предмет [Blazing Slaughter](https://ptr.wowhead.com/spell=355890/blazing-slaughter), поскольку это новая активация [Обжигающего жар](https://ru.wowhead.com/spell=258920), 
 он также даст нам заряд [Необузданного хаоса](https://ru.wowhead.com/spell=275144), что позволяет нам значительно увеличить АоЕ бурст, который нам дает [Охота](https://ru.wowhead.com/spell=323639). 
-Это легендарная предмет, которая имеет наибольший потенциал среди новых.
+Это легендарный предмет, который имеет наибольший потенциал среди новых.
 <br>
 
 <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span>
