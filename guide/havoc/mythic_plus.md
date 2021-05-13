@@ -537,7 +537,7 @@ author: Rodriguezz
 
 > **Крафтим в слот пояса.**
 
-Рецепт на этот легендарный предмет добывается с подземелья {{ site.data.mplus.De_Other_Side }}
+Рецепт на этот легендарный предмет добывается с подземелья {{ site.data.mplus.Plaguefall }}
 
 В ротации не используется {{ site.data.spell.Blade_Dance }}, а {{ site.data.spell.Death_Sweep }} используем только на 3+ цели
 
@@ -1183,7 +1183,7 @@ author: Rodriguezz
 **Треш перед Хаккаром**
 
 * Не дайте превратиться {{ site.data.mplus.Atalai_Devoted  }} в {{ site.data.mplus.Son_of_Hakkar  }}, используйте  {{ site.data.spell.Chaos_Nova }} чтоб прервать заклинание.
-* Используйте {{ site.data.spell.Consume_Magic }} чтоб продиселить духов после смерти {{ site.data.mplus.Atalai_Deathwalker }}.
+* Используйте {{ site.data.spell.Consume_Magic }} чтоб продиспелить духов после смерти {{ site.data.mplus.Atalai_Deathwalker }}.
 * Смотрите за применением заклинаний {{ site.data.mplus.Atalai_High_Priest }} и {{ site.data.mplus.Atalai_Hoodoo_Hexxer }} их нужно прерывать.
 
 **Треш перед Манаштормами**
@@ -1252,7 +1252,7 @@ author: Rodriguezz
 
 **Треш**
 
-* Если ваша группа пропустила сбитие каста у {{ site.data.mplus.Mistveil_Tender }} или {{ site.data.mplus.Mistveil_Shaper }} вы можете прострелить {{ site.data.mplus.Nourish_the_Forest }} и {{ site.data.mplus.Bramblethorn_Coat }} с помощью {{ site.data.spell.Consume_Magic }}.
+* Если ваша группа пропустила сбитие каста у {{ site.data.mplus.Mistveil_Tender }} или {{ site.data.mplus.Mistveil_Shaper }} вы можете продиспелить {{ site.data.mplus.Nourish_the_Forest }} и {{ site.data.mplus.Bramblethorn_Coat }} с помощью {{ site.data.spell.Consume_Magic }}.
 * Минибосс {{ site.data.mplus.Mistveil_Nightblossom }} очень сильный, на него желательно использовать ваши КД.
 
 **Лабиринт**
@@ -1290,11 +1290,9 @@ author: Rodriguezz
 <img src="{{ site.url }}/assets/img/blog/mplusguide/e7d8b789d60ead4fbaaf.jpg" align="right">
 В этом подземелье бонусы всей группе могут дать сторонники **Ночного Народца**. В начале подземелья слева от вы можете найти {{ site.data.mplus.Overgrown_Roots }}. Они преграждают короткий путь, позволяющий пропустить несколько групп существ.
 
-Второй бонус, который может получить группа — это 10% бонус к характеристикам. После первого босса, Ингры Малоха, есть ещё одни {{ site.data.mplus.Overgrown_Roots }}, за которыми роща с грибами. Можно находиться под действием только одного гриба одного типа, но их вполне достаточно, чтобы все 5 членов группы получили оба эффекта.
+Второй бонус, который может получить группа — это 10% бонус к характеристикам. Перед первым боссом, Ингры Малоха, есть ещё одни {{ site.data.mplus.Overgrown_Roots }}, за которыми роща с грибами. Можно находиться под действием только одного гриба одного типа, но их вполне достаточно, чтобы все 5 членов группы получили оба эффекта.
 * {{ site.data.mplus.Savory_Statshroom }} (5 шт.) – мгновенно восполняет 100% здоровья и повышает силу, ловкость и интеллект на 10% на 10 мин.
 * {{ site.data.mplus.Tasty_Toughshroom }} (5 шт.) – мгновенно восполняет 100% здоровья и повышает выносливость на 10% на 10 мин.
-
-Единовременно можно находиться под действием эффекта только одного типа, но грибов достаточно на всю группу.
 
 И третий бонус — дополнительные точки возрождения. В двух местах вы сможете найти {{ site.data.mplus.Depleted_Anima_Seed }}, которое необходимо активировать.
 * Первое находится после первого босса, слева, до пака мобов
@@ -1310,7 +1308,7 @@ author: Rodriguezz
 
 * Прерывайте способность {{ site.data.mplus.Loyal_Beasts }} с помощью стана или {{ site.data.spell.Imprison }} которую используют {{ site.data.mplus.Depraved_Houndmaster }}.
 
-**Лорд-камергера**
+**Лорд-камергер**
 
 * На 70% и 40% здоровья босс применяет особое комбо — {{ site.data.mplus.Chamberlains_Chorus }}
 * Займите свободное месте между статей и боссом чтоб перекрыть {{ site.data.mplus.Ritual_of_Woe }}.
@@ -1335,7 +1333,7 @@ author: Rodriguezz
 
 **Треш**
 
-* Сбивайте щит {{ site.data.mplus.Defender_of_Many_Eyes }} мобов {{ site.data.mplus.Bulwark_of_Maldraxxus  }}спомощью стана. 
+* Сбивайте щит {{ site.data.mplus.Defender_of_Many_Eyes }} мобов {{ site.data.mplus.Bulwark_of_Maldraxxus}} с помощью стана. 
 * Сбивайте каст {{ site.data.mplus.Enveloping_Webbing }} мобов {{ site.data.mplus.Brood_Ambusher }} с помощью стана или {{ site.data.spell.Imprison }}.
 
 **Склизгла**
