@@ -21,15 +21,15 @@ toc: true
 
 ## Проводники Силы
 
-{{ site.data.conduits.Increased_Scrutiny }} Очень сильный кондуит если выбрали ковенант Вентиров.<br>
-{{ site.data.conduits.Unnatural_Malice }} Очень сильный кондуит если выбрали ковенант Ночного народца.<br>
-{{ site.data.conduits.Dancing_with_Fate }}  Очень сильный кондуит в паре с талантом {{ site.data.talent.First_Blood }}.<br>
-{{ site.data.conduits.Relentless_Onslaught }} сильный кондуит.
+{{ site.data.conduits.Increased_Scrutiny }} - очень сильный кондуит если выбрали ковенант Вентиров.<br>
+{{ site.data.conduits.Unnatural_Malice }} - очень сильный кондуит если выбрали ковенант Ночного народца.<br>
+{{ site.data.conduits.Dancing_with_Fate }} -  очень сильный кондуит в паре с талантом {{ site.data.talent.First_Blood }}.<br>
+{{ site.data.conduits.Relentless_Onslaught }} - сильный кондуит.
 
 ## Проводники Точности
 
-{{ site.data.conduits.Lost_in_Darkness }} полезный против Разбойников.
-{{ site.data.conduits.Ravenous_Consumption }} очень сильный кондуит особенно когда играете против Друидов Исцеление.
+{{ site.data.conduits.Lost_in_Darkness }} - полезный против Разбойников.
+{{ site.data.conduits.Ravenous_Consumption }} - очень сильный кондуит особенно когда играете против Друидов Исцеление.
 
 ## Проводники Выносливости
 

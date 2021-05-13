@@ -33,13 +33,13 @@ toc: true
 
 ### Основные способности для нанесения урона
 
-Базовая ротация для Охотника на демонов на Арене заключается в том, чтобы не допустить полного заполнения шкалы гнева с помощью {{ site.data.spell.Chaos_Strike }}, при этом удерживая {{ site.data.spell.Throw_Glaive }} и {{ site.data.talent.Felblade }} на кулдауне. Если вы играете с талантом {{ site.data.talent.Momentum }}, все становится немного интересней, вы можете комбинировать {{ site.data.talent.Felblade }} с {{ site.data.talent.Momentum }} чтоб активировать баф и вернутся обратно к цели, и далее использовать {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}. Полежно иметь баф от {{ site.data.talent.Momentum }} при использовании {{ site.data.talent.Fel_Barrage }}, но он не так важен для {{ site.data.spell.Eye_Beam }}, так как {{ site.data.spell.Eye_Beam }} имеет смысл использовать только для клива и когда цель нет возможности атаковать атаками ближнего боя.
+Базовая ротация для Охотника на демонов на Арене заключается в том, чтобы не допустить полного заполнения шкалы гнева с помощью {{ site.data.spell.Chaos_Strike }}, при этом удерживая {{ site.data.spell.Throw_Glaive }} и {{ site.data.talent.Felblade }} на кулдауне. Если вы играете с талантом {{ site.data.talent.Momentum }}, все становится немного интересней, вы можете комбинировать {{ site.data.talent.Felblade }} с {{ site.data.talent.Momentum }} чтоб активировать баф и вернутся обратно к цели, и далее использовать {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}. Полезно иметь баф от {{ site.data.talent.Momentum }} при использовании {{ site.data.talent.Fel_Barrage }}, но он не так важен для {{ site.data.spell.Eye_Beam }}, так как {{ site.data.spell.Eye_Beam }} имеет смысл использовать только для клива и когда цель нет возможности атаковать атаками ближнего боя.
 
 * Если вы можете активировать баф {{ site.data.talent.Momentum }} и у вас есть гнев для {{ site.data.spell.Chaos_Strike }}, используйте {{ site.data.spell.Vengeful_Retreat }} а после {{ site.data.spell.Fel_Rush  }}.
 * Используйте {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }} чтоб не допустить капа гнева.
 * Держите {{ site.data.spell.Throw_Glaive }} и {{ site.data.talent.Felblade }} на кулдауне.
 * Если у вас не полная шкала гнева и вы играете без таланта {{ site.data.talent.Demon_Blades }}, используйте {{ site.data.spell.Demons_Bite }}.
-* {{ site.data.talent.Essence_Break }} - Это новый талан который усиливает урон от {{ site.data.spell.Chaos_Strike }}. Используйте {{ site.data.talent.Essence_Break }} когда у вас максимальный запас гнева что использовать как можно больше {{ site.data.spell.Chaos_Strike }} пока действует усиление.
+* {{ site.data.talent.Essence_Break }} - Это новый талант который усиливает урон от {{ site.data.spell.Chaos_Strike }}. Используйте {{ site.data.talent.Essence_Break }} когда у вас максимальный запас гнева что использовать как можно больше {{ site.data.spell.Chaos_Strike }} пока действует усиление.
 
 ### Бурст Охотников на Демонов
 
@@ -98,13 +98,13 @@ toc: true
 
 Используем {{ site.data.talent.Demonic }} билд с {{ site.data.talent.Soul_Rending }} и {{ site.data.talent.Demonic_Appetite }} чтоб увеличить самоисцеление. Этот билд даст вам много самоисцелиения и увеличит время действия {{ site.data.spell.Metamorphosis }}. Такой набор талантов также может позволить вам атаковать вражеского целителя играя против Чернокнижников и Жрецов Тьма.
 
-### Змаетки: Метаморфоза
+### Заметки: Метаморфоза
 
-Один трюк, который вы можете использовать на Арены, - это анимация {{ site.data.spell.Metamorphosis }}. Когда вы используете {{ site.data.spell.Metamorphosis }}, ваш персонаж на секунду подскакивает в воздух, превращаясь в Демона. Во время этой анимации вы на короткое время невосприимчивы к контролю и урону. Это означает, что вы можете использовать анимацию {{ site.data.spell.Metamorphosis }} для защиты от входящего контроля или урона, такого как {{ site.data.talent.Chaos_Bolt }} с {{ site.data.talent.Focused_Chaos }} чтобы выжить.
+Один трюк, который вы можете использовать на Арене, - это анимация {{ site.data.spell.Metamorphosis }}. Когда вы используете {{ site.data.spell.Metamorphosis }}, ваш персонаж на секунду подскакивает в воздух, превращаясь в Демона. Во время этой анимации вы на короткое время невосприимчивы к контролю и урону. Это означает, что вы можете использовать анимацию {{ site.data.spell.Metamorphosis }} для защиты от входящего контроля или урона, такого как {{ site.data.talent.Chaos_Bolt }} с {{ site.data.talent.Focused_Chaos }} чтобы выжить.
 
 ### Защита команды
 
-{{ site.data.spell.Imprison }}, {{ site.data.spell.Chaos_Nova }}, and  {{ site.data.spell.Disrupt }} можно использовать, чтобы  защитить вашу команду, помогая остановить нападение тем самым спасти игрока.
+{{ site.data.spell.Imprison }}, {{ site.data.spell.Chaos_Nova }}, и {{ site.data.spell.Disrupt }} можно использовать, чтобы  защитить вашу команду, помогая остановить нападение тем самым спасти игрока.
  
  Помимо этих стандартных кулдаунов, также важно согласовать {{ site.data.spell.Darkness }} с вашим целителем, особенно если вы взяли талант {{ site.data.talent.Cover_of_Darkness }}. По сути, это иммунитет к урону по вашей команде каждые три минуты, но он появляется под ногами Охотника на Демонов, потому вам нужен анонс перед его применением чтоб сдать его максимально эффективно.
 
@@ -114,7 +114,7 @@ toc: true
 
 Постоянно общайтесь со своим лекарем по поводу ваших защитных кулдаунов. Охотники на Демонов, когда не играют с талантом {{ site.data.talent.Demonic }}, очень мало живут, когда {{ site.data.spell.Blur }}, {{ site.data.talent.Netherwalk }} и {{ site.data.spell.Darkness }} находятся на перезарядке. Когда {{ site.data.item.Gladiators_Medallion }} на перезарядке, играя с талантом {{ site.data.talent.Netherwalk }}, вы можете очень легко умереть, если вы не используете защитную способность {{ site.data.spell.Blur }}.
  
-Играть слишком агрессивно - это самый простой способ проиграть, будь то агрессивное использование {{ site.data.spell.Blur }} или использование {{ site.data.item.Gladiators_Medallion }} при первом контроле который вам дадут,. Позиционирование также играет важную роль - если вы играете на стороне карты противника, ваш лекарь может стать легкой целью для контроля, где они не может избежать входящего контроля и прерываний.
+Играть слишком агрессивно - это самый простой способ проиграть, будь то агрессивное использование {{ site.data.spell.Blur }} или использование {{ site.data.item.Gladiators_Medallion }} при первом контроле который вам дадут. Позиционирование также играет важную роль - если вы играете на стороне карты противника, ваш лекарь может стать легкой целью для контроля, где он не может избежать входящего контроля и прерываний.
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/pvp/havoc/talent.html">Назад:<br>Таланты и Билды</a></div> 
 <div class="minibox"><a href="{{ site.url }}/guide/pvp/havoc/gear.html">Длаее:<br>Экипировка</a></div>
