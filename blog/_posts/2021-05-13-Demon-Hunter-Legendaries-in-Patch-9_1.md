@@ -2,7 +2,7 @@
 layout: page
 title: Новые Легендарные предметы на PTR 9.1.0 для Охотников на Демонов
 description: Новые Легендарные предметы на PTR 9.1.0 для Охотников на Демонов Shadowlands
-game_version: 9.1.0 Shadowlands•
+game_version: 9.1.0 Shadowlands
 date: 2021-05-13 00:00:00 
 author: Rodriguezz
 toc: true
