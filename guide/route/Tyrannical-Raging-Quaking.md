@@ -2,7 +2,7 @@
 layout: page
 title: Тиранический, Разъяренный, Сотрясающий
 description: Маршруты для недели Тиранический, Разъяренный, Сотрясающий и Полный гордыни Mythic Dungeon Tools 9.0.5 Shadowlands
-last_update: 16-05-2021 09:00:00 +0800
+date: 2021-05-13 00:00:00 
 game_version: 9.0.5 Shadowlands
 author: Rodriguezz
 toc: true
