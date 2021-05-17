@@ -6,6 +6,9 @@ game_version: 9.1.0 Shadowlands
 date: 2021-05-13 00:00:00 
 author: Rodriguezz
 toc: true
+tags:
+  - Легендарки
+  - PTR
 image:
     path: assets/img/guide/havoc/nightfae.png
     width: 500
