@@ -7,9 +7,7 @@ date: 2021-05-13 00:00:00
 author: Rodriguezz
 toc: true
 image:
-    path: assets/img/guide/havoc/nightfae.png
-    width: 500
-    height: 500
+    path: assets/img/blog/prev/post1.png
 ---
 
 В обновлении 9.1 Shadowlands Chains of Domination у Охотников на Демонов появятся новые легендарные предметы. 
