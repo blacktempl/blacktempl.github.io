@@ -5,8 +5,8 @@ description: Новые Легендарные предметы на PTR 9.1.0 �
 game_version: 9.1.0 Shadowlands
 date: 2021-05-13 00:00:00 
 author: Rodriguezz
-image: /assets/img/guide/havoc/nightfae.png
 toc: true
+image: /assets/img/guide/havoc/nightfae.png
 ---
 
 В обновлении 9.1 Shadowlands Chains of Domination у Охотников на Демонов появятся новые легендарные предметы. 
