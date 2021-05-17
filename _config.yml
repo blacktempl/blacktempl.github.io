@@ -40,6 +40,8 @@ show_excerpts: true # show excerpt of posts
 plugins:
   #- jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 
 # paginate value, how many posts shall be shown per page? (especially on the front page)
