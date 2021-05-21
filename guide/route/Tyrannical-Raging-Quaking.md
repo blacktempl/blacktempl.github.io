@@ -37,7 +37,9 @@ toc: true
 <div data-target="#The_Necrotic_Wake-collapse" class="dungeon-header The_Necrotic_Wake"></div>
 <br>
 
-{{ site.data.mplus.Bloody_Javelin }} лучше всего подбирать тем, у кого самый большой показатель крита и использовать их в боссов. {{ site.data.mplus.Forgotten_Forgehammer }} можно придержать на последнего босса. {{ site.data.mplus.Discharged_Anima }} можно применить для сложных паков или сложных боссов, например {{ site.data.mplus.Amarth }}.
+{{ site.data.mplus.Bloody_Javelin }} лучше всего подбирать тем, у кого самый большой показатель крита и использовать их в боссов. 
+{{ site.data.mplus.Forgotten_Forgehammer }} можно придержать на последнего босса. {{ site.data.mplus.Discharged_Anima }} 
+можно применить для сложных паков или сложных боссов, например {{ site.data.mplus.Amarth }}.
 
 <div class="tabs" id="tabs-2">
     <div class="tabs__nav">
