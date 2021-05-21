@@ -8,10 +8,13 @@ author: Rodriguezz
 toc: true
 ---
 
-# Кровавые катакомбы
+# Кровавые катакомбы 
 
 <div data-target="#sanguine_depths-collapse" class="dungeon-header sanguine_depths"></div>
 <br>
+
+Для многих нелюбимый данж, но если все делать правильно то сложного ничего нет. Танку нужно разворачивать {{ site.data.mplus.regal_mistdancer }} что б кливы не шли в группу. Цепи {{ site.data.mplus.Grand_Overseer }} можно избегать стоя вне зоны действия способности (актуально для рдд и хилов) либо прятаться за стену (для этого танку нужно поставить паке рядом с стеной). На втором боссе ВСЕГДА фокусите призванного ада. 
+В коридоре к ласту не стойте все кемпом, распределитесь так что б клив босса задевал минимум игроков, а идеально только одного ( стоя спиной в стену есть большой шанс избежать наложения дота). На ласте вы можете избежать наложения кровотечения просто начав двигаться в момент когда босс начинает чарджи, можете использовать рывки и блинки с ними шанс избежать наложения блида выше, но будьте внимательны и смотрите куда вы делаете рывок, блинк.  
 
 <div class="tabs" id="tabs-1">
     <div class="tabs__nav">
@@ -20,7 +23,7 @@ toc: true
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-1">
-        <iframe src="https://keystone.guru/kSJbxLc/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
+        <iframe src="https://keystone.guru/RyHGiYN/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
       </div>
       <div class="tabs__pane" id="content-2">
         <iframe src="https://wago.io/R7ygu0mD2/embed.html" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 795px"></iframe>
