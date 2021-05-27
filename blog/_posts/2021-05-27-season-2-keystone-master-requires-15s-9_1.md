@@ -5,7 +5,6 @@ description: Во 2 сезоне Shadowlands достижение "Мастер 
 game_version: 9.1.0 Shadowlands
 date: 2021-05-27 00:00:00 
 author: AlanMix
-toc: true
 image:
     path: assets/img/blog/prev/post2mplus.png
 ---
