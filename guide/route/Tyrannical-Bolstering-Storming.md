@@ -146,7 +146,7 @@ toc: true
 
 <div data-target="#Spires_of_Ascension-collapse" class="dungeon-header Spires_of_Ascension"></div>
 
-Вся сложность подземелья с аффиксом {{ site.data.mplus.Spiteful }} сводится к тому, что в паках мобов будут мобы с разным количеством здоровья, бойцам ближнего боя нужно быть внимательным когда мобы начинают умирать и использовать контроль по духам чтоб не умереть.
+Не пропускайте каст {{ site.data.mplus.Forsworn_Goliath }} если он докастует, то это может привести к вайпу группы.
 
 <iframe src="https://keystone.guru/eYVKQsc/embed" frameborder="0" allowfullscreen="0" scrolling="no" style="width: 100%; height: 600px"></iframe>
 
