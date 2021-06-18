@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Проводники Охотников на Демонов в Shadowlands
-date: 2020-10-22 00:00:00 +0200
+last_update: 2020-10-22 00:00:00 +0200
 author: Rodriguezz
 toc: true
 ---

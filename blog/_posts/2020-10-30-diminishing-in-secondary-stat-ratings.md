@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Масштабирования вторичных характеристик в Shadowlands
-date: 2020-10-30 00:00:00 +0200
+last_update: 2020-10-30 00:00:00 +0200
 author: "Автор: Wishko. Оригинал: Noob-Club."
 toc: true
 ---

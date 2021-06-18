@@ -3,7 +3,7 @@ layout: page
 title: Обновление на PTR 9.1.0 для Охотников на Демонов
 description: Обновление на PTR 9.1.0 для Охотников на Демонов Shadowlands
 game_version: 9.1.0 Shadowlands
-date: 2021-03-06 00:00:00 +0200
+last_update: 2021-03-06 00:00:00 +0200
 author: Rodriguezz
 toc: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Обзор Ковенантов
-date: 2020-10-22 00:00:00 +0200
+last_update: 2020-10-22 00:00:00 +0200
 author: Rodriguezz
 toc: true
 ---

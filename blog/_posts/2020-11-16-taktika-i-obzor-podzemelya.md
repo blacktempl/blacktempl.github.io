@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Тактика и обзор подземелий 
-date: 2020-11-16 00:00:00 +0200
+last_update: 2020-11-16 00:00:00 +0200
 author: "Оригинал: mirimafion.com"
 toc: true
 ---
