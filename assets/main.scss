@@ -81,8 +81,8 @@
     height: calc(100% + 2rem);
     z-index: 2;
     pointer-events: none;
-    border-style: solid;
-    border-image-source: url(https://tanknotes.com/_nuxt/img/50969ee.png);
+    border-style: solid; 
+    border-image-source: url(/assets/img/logos/50969ee.png);
     border-image-repeat: repeat;
     border-image-slice: 183 fill;
     border-image-width: 7rem;
@@ -247,7 +247,7 @@ hr {
     padding: 1.25rem;	
 	margin: 10px;
     border-style: solid;
-    border-image-source: url(https://tanknotes.com/_nuxt/img/50969ee.png);
+    border-image-source: url(/assets/img/logos/50969ee.png);
     border-image-repeat: repeat;
     border-image-slice: 183 fill;
     border-image-width: 7rem;
