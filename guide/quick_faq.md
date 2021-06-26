@@ -6,6 +6,8 @@ last_update: 2021-06-24 09:00:00
 game_version: 9.1.0 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
+image:
+    path: assets/img/logos/spec_logo.jpg
 ---
 
 <div id="smooth-nav-outer">
@@ -25,6 +27,7 @@ toc: true
 <br>
 
 В этом разделе собраны все основные материалы из гайда, чтобы вы максимально быстро смогли начать играть за Охотника на Демонов Истребление.
+
 
 ## Таланты и Ротация
 
