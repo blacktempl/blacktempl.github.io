@@ -6,7 +6,17 @@
 
 // add more custom styles here
 
+::-webkit-scrollbar {
+    width: 10px;
+}
 
+::-webkit-scrollbar-thumb {
+    background: #555;
+}
+
+::-webkit-scrollbar-track {
+    background: #353535;
+}
 
 // Tank notes
 
@@ -111,6 +121,89 @@
     color: #f8fcf8;
     text-shadow: 2px 3px 0 #353535;
     font-weight: 700;
+}
+
+.guide-boss-card ul {
+    padding-bottom: 3rem;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    list-style: disc;
+    padding-right: 6rem;
+}
+
+
+.accent {
+    color: #d49a29;
+}
+
+.guide-boss-card {
+    margin: 0 -2rem;
+    -webkit-filter: drop-shadow(2px 4px 6px #000);
+    filter: drop-shadow(2px 4px 6px black);
+    overflow: hidden;
+}
+
+#guide .markdown-body h2 {
+    font-size: 2.2rem;
+    margin-left: .5rem;
+    border-bottom: none;
+}
+
+.guide-boss-card .title {
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    font-size: 2rem;
+    text-align: center;
+    margin: 0;
+    transform-origin: center;
+}
+
+.guide-boss-card .subtitle, .guide-boss-card .title {
+    text-shadow: 2px 2px 6px #000;
+}
+
+.guide-boss-card .flex, .guide-boss-card .subtitle, .guide-boss-card .title {
+    padding: 0 2rem;
+}
+
+.group-guide-boss-card, .guide-boss-card .flex, .guide-boss-card .subtitle, .guide-boss-card .title {
+    background-color: #191919;
+}
+
+.guide-boss-card .subtitle {
+    letter-spacing: .1rem;
+    font-size: 1.4rem;
+    text-align: center;
+    padding-bottom: .2rem;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.flex-2 {
+    flex: 2;
+}
+
+.guide-boss-card .image {
+    text-align: center;
+}
+
+
+.roate-divider {
+    transform: rotate(
+180deg
+);
+    margin-top: -.1rem;
+}
+
+.flex {
+    display: flex;
+}
+
+.guide-boss-card .flex, .guide-boss-card .subtitle, .guide-boss-card .title {
+    padding: 0 2rem;
 }
 
 // Tank notes
@@ -226,6 +319,20 @@ hr {
     font-weight: 700;
 	}
 	
+.flex.break-mobile {
+    display: block;
+}
+
+.guide-boss-card ul {
+    top: 0;
+    transform: none;
+    padding-right: 0;
+}
+
+.roate-divider {
+    margin-top: -1.1rem;
+}
+	
 
 }
 
@@ -235,8 +342,6 @@ hr {
 
 
 // МДТ
-
-
 
 
 // Блог рамки
@@ -1322,7 +1427,7 @@ a.dropdown-item:visited {
 @media only screen and (min-width: 1500px) {
   .side-menu { // adjust position to be closer to content
     right: 15%;
-	width: 375px !important;
+	width: 340px !important;
   }
 }
 @media only screen and (min-width: 1700px) {
