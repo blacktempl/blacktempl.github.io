@@ -7,7 +7,7 @@ game_version: 9.1.0 Shadowlands
 author: Rodriguezz и Gaussiana
 toc: true
 image:
-    path: assets/img/logos/spec_logo.jpg
+    path: assets/img/logos/7d2trb5kxdx41.jpg
 ---
 
 <div id="smooth-nav-outer">
