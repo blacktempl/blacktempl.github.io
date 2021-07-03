@@ -1,28 +1,26 @@
 ---
 layout: page
 title: Ротация
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+description: ДХ Истребление 9.0.5 PvE гайд Shadowlands
+last_update: 2021-03-19 09:00:00
+game_version: 9.0.5 Shadowlands
 author: Rodriguezz и Gaussiana
 toc: true
-image:
-    path: assets/img/blog/prev/spec_logo.png
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
-<a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
-<a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Ротация</span></a>
-<a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
-<a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
-<a href="{{ site.url }}/guide/havoc/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ковенанты</a>
-<a href="{{ site.url }}/guide/havoc/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
-<a href="{{ site.url }}/guide/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
-<a href="{{ site.url }}/guide/havoc/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
-<a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_0_5/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_0_5/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_0_5/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_0_5/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_0_5/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Ротация</span></a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_0_5/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_0_5/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_0_5/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ковенанты</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_0_5/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_0_5/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_0_5/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_0_5/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
 ## Базовые способности
@@ -72,7 +70,6 @@ image:
 <a class="tabs__link" href="#content-2">АоЕ М+ Тоска </a>
 <a class="tabs__link" href="#content-3">СТ билд Рана</a>
 <a class="tabs__link" href="#content-4">СТ ФБ Теория</a>
-<a class="tabs__link" href="#content-5">СТ билд Рана+Разрыв Сущности</a>
 </div>
 
 <div class="tabs__content">
@@ -88,7 +85,7 @@ image:
 1. {{ site.data.spell.Eye_Beam }}
 1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
 1. {{ site.data.spell.Death_Sweep }}
-1. Если вы Вентир - {{ site.data.spell.Metamorphosis }} для наложения {{ site.data.covenant.Sinful_Brand }} на все цели. Сливаем рагу. {{ site.data.spell.Eye_Beam }}. {{ site.data.covenant.Sinful_Brand }} - в самую жирную/важную цель, но прежде стоит дождаться спадения {{ site.data.covenant.Sinful_Brand }} с цели, или пока (в идеале) не останется 1 сек.
+1. Если вы Вентир - {{ site.data.spell.Metamorphosis }} для наложения {{ site.data.covenant.Sinful_Brand }} на все цели. Сливаем рагу. 1. {{ site.data.spell.Eye_Beam }}. {{ site.data.covenant.Sinful_Brand }} - в самую жирную/важную цель, но прежде стоит дождаться спадения {{ site.data.covenant.Sinful_Brand }} с цели, или пока (в идеале) не останется 1 сек.
 1. Если вы **НЕ** Вентир {{ site.data.spell.Metamorphosis }}.
  
 **Список приоритетов**
@@ -123,9 +120,7 @@ image:
 1. {{ site.data.spell.Metamorphosis }}
 1. {{ site.data.spell.Eye_Beam }}
 
-> Бафф, который дает Корейн на +25% крита в первые 5 секунд боя (при правильной реализации) играет ВАЖНЕЙШУЮ РОЛЬ в вашем опенере. 
-Главная мысль заключается в том, что под этим баффом вы должны зарядить в босса {{ site.data.spell.Fel_Rush }} с бафом от {{ site.data.talent.Unbound_Chaos }} и 
-{{ site.data.covenant.The_Hunt }} Охотой по самому жирному/важному мобу. 
+> Бафф, который дает Корейн на +25% крита в первые 5 секунд боя (при правильной реализации) играет ВАЖНЕЙШУЮ РОЛЬ в вашем опенере. Главная мысль заключается в том, что под этим баффом вы должны зарядить в босса {{ site.data.spell.Fel_Rush }} с бафом от {{ site.data.talent.Unbound_Chaos }} и {{ site.data.covenant.The_Hunt }} Охотой по самому жирному/важному мобу. Реализация усложняется, если у вас есть тринкет с Визгуньи или Денатрия. Тогда в эти 5 секунд надо еще "внедрить" использование тринкета. 
 
 
 **Опенер:**
@@ -176,7 +171,7 @@ image:
 1. {{ site.data.spell.Demons_Bite }}
 1. {{ site.data.spell.Eye_Beam }}
 1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
-1. Если вы Вентир - {{ site.data.spell.Metamorphosis }} для наложения {{ site.data.covenant.Sinful_Brand }} на все цели. Сливаем рагу. {{ site.data.spell.Eye_Beam }}. {{ site.data.covenant.Sinful_Brand }} - в самую жирную/важную цель, но прежде стоит дождаться спадения {{ site.data.covenant.Sinful_Brand }} с цели, или пока (в идеале) не останется 1 сек.
+1. Если вы Вентир - {{ site.data.spell.Metamorphosis }} для наложения {{ site.data.covenant.Sinful_Brand }} на все цели. Сливаем рагу. 1. {{ site.data.spell.Eye_Beam }}. {{ site.data.covenant.Sinful_Brand }} - в самую жирную/важную цель, но прежде стоит дождаться спадения {{ site.data.covenant.Sinful_Brand }} с цели, или пока (в идеале) не останется 1 сек.
 1. Если вы **НЕ** Вентир {{ site.data.spell.Metamorphosis }}.
  
 **Список приоритетов**
@@ -210,7 +205,7 @@ image:
 1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
 1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
 1. {{ site.data.spell.Death_Sweep }}
-1. Если вы Вентир - {{ site.data.spell.Metamorphosis }} для наложения {{ site.data.covenant.Sinful_Brand }} на все цели. Сливаем рагу. {{ site.data.spell.Eye_Beam }}. {{ site.data.covenant.Sinful_Brand }} - в самую жирную/важную цель, но прежде стоит дождаться спадения {{ site.data.covenant.Sinful_Brand }} с цели, или пока (в идеале) не останется 1 сек.
+1. Если вы Вентир - {{ site.data.spell.Metamorphosis }} для наложения {{ site.data.covenant.Sinful_Brand }} на все цели. Сливаем рагу. 1. {{ site.data.spell.Eye_Beam }}. {{ site.data.covenant.Sinful_Brand }} - в самую жирную/важную цель, но прежде стоит дождаться спадения {{ site.data.covenant.Sinful_Brand }} с цели, или пока (в идеале) не останется 1 сек.
 1. Если вы **НЕ** Вентир {{ site.data.spell.Metamorphosis }}.
 1. {{ site.data.spell.Eye_Beam }}
 1. {{ site.data.spell.Death_Sweep }}
@@ -232,49 +227,6 @@ image:
 
 </div>
 </div>
-
-<div class="tabs__pane" id="content-5">
-<div class="tabs_in" markdown="1">
-
-```Ротация СТ Жгучая рана + Разрыв сущности```
-
-**Опенер:**
-1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
-1. {{ site.data.spell.Fel_Rush }} - для нанесения повышенного урона благодаря таланту {{ site.data.talent.Unbound_Chaos }} 
-1. {{ site.data.talent.Felblade }}
-1. {{ site.data.spell.Eye_Beam }}
-1. {{ site.data.spell.Metamorphosis }} **Если вы НЕ Вентир**
-1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
-1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
-1. Если вы Вентир - {{ site.data.spell.Metamorphosis }} для наложения {{ site.data.covenant.Sinful_Brand }} на все цели. Сливаем рагу. 1. {{ site.data.spell.Eye_Beam }}. {{ site.data.covenant.Sinful_Brand }} - в самую жирную/важную цель, но прежде стоит дождаться спадения {{ site.data.covenant.Sinful_Brand }} с цели, или пока (в идеале) не останется 1 сек.
-1. {{ site.data.spell.Eye_Beam }}
-
-1 {{ site.data.spell.Metamorphosis }}<br>
-2 [Разрыв сущности](https://ru.wowhead.com/spell=258860)<br>
- 
-<hr> 
-**Пока активен баф Разрыва сущности**
-
-{{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}<br>
-{{ site.data.spell.Blade_Dance }} 3+ цели <br> 
-{{ site.data.spell.Death_Sweep }} 2+ цель<br>
-
-<hr>
-3 {{ site.data.spell.Vengeful_Retreat }}<br>
-4 {{ site.data.spell.Fel_Rush }}<br>
-5 {{ site.data.spell.Fel_Rush }} - Если активен баф {{ site.data.talent.Unbound_Chaos }} <br>
-6 {{ site.data.spell.Death_Sweep }} 2+ цель<br>
-7 {{ site.data.spell.Eye_Beam }}<br>
-8 {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец<br>
-9 {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров<br>
-10 {{ site.data.spell.Immolation_Aura }}<br>
-11 {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}<br>
-12 {{ site.data.talent.Felblade }}<br>
-13 {{ site.data.spell.Throw_Glaive }}<br>
-
-</div>
-</div>
-
 
 </div>
 </div>
@@ -396,5 +348,5 @@ image:
 <li> Планируйте и минимизируйте неудачные использования {{ site.data.spell.Fel_Rush }}. Использование {{ site.data.spell.Fel_Rush }} из стороны в сторону часто будет лучшим вариантом, но имейте в виду, что вместо этого легко случайно можете улететь вперед. Всегда стойте так, чтобы нападающий не убил вас, если это возможно. Используйте {{ site.data.spell.Fel_Rush }} лишь убедившись, что ваш персонаж смотрит в том направлении, в котором вы собрались использовать {{ site.data.spell.Fel_Rush }}, это значительно снизит вероятность того, что вы попадете в неожиданное место.</li>
 </ul>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Назад:<br>Таланты и Билды</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/stats.html">Далее:<br>Характеристики</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_0_5/talent-builds.html">Назад:<br>Таланты и Билды</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_0_5/stats.html">Далее:<br>Характеристики</a></div>
