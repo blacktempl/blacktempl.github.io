@@ -661,7 +661,7 @@ image:
 
 {{ site.data.covenant.Summon_Steward }} - Вы зовете распорядителя, который приносит вам {{ site.data.covenant.Phial_of_Serenity }}, восполняющий 20% здоровья и снимающий проклятия, болезни, яды и эффекты кровотечения. Очень полезный флакон, сильно упрощает жизнь в ключах, снимает даже стаки аффикса {{ site.data.mplus.Necrotic }}.
 
-Лучшим медиумом для нас будет **Пелагос**, дерево прокачки медиума выглядит следующим образом:
+Лучшим медиумом для нас будет **Пелагий**, дерево прокачки медиума выглядит следующим образом:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwCW5pYTBS0fABUszwAldg4AIxUq-gAlKu8ANXYAAA" target="blank">anything</a>
 
@@ -703,10 +703,10 @@ image:
 <img src="/assets/img/guide/havoc/endurance.png" width="15" height="100%"> <u>Проводники выносливости</u>
 
 * {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} снижает получаемый вами урон от магии дополнительно на 6-13%. Очень сильный проводник, берем когда в бою присутствует магический урон.
-> Добыча: подземелье [Tazavesh, the Veiled Market](https://ru.wowhead.com/zone=13577/) босс [So'azmi](https://ru.wowhead.com/npc=175806)
+> Добыча: подземелье [Тайный рынок Тазавеш](https://ru.wowhead.com/zone=13577/) босс [Со'азми](https://ru.wowhead.com/npc=175806)
 
 * {{ site.data.conduits.Fel_Defender }} — время восстановления вашей способности {{ site.data.spell.Blur }} уменьшается на 5-20 сек. Выбор по умолчанию в боях без магии.
-> Добыча: подземелье [Tazavesh, the Veiled Market](https://ru.wowhead.com/zone=13577/) босс [So'leah](https://ru.wowhead.com/npc=180863/)
+> Добыча: подземелье [Тайный рынок Тазавеш](https://ru.wowhead.com/zone=13577/) босс [Со'лея](https://ru.wowhead.com/npc=180863/)
 
 * [Конденсированная сфера анимы](https://ru.wowhead.com/spell=357888) — При получении любого урона вы восполняете 0.25-0.45% максимального запаса здоровья. Эффект срабатывает не чаще раза в 10 сек.
 > Добыча: мировой босс [Мор'гет](https://ru.wowhead.com/npc=178958/)
@@ -717,7 +717,7 @@ image:
 > Добыча: рейд [Святилище Господства](https://ru.wowhead.com/zone=13561/) босс [Сир Денатрий](https://ru.wowhead.com/npc=179390/)
 
 * {{ site.data.conduits.Ravenous_Consumption }} — способность {{ site.data.spell.Consume_Magic }} получает 15-30% шанс рассеять дополнительный эффект.
-> Добыча: подземелье [Tazavesh, the Veiled Market](https://ru.wowhead.com/zone=13577/) босс [P.O.S.T. Master](https://ru.wowhead.com/npc=175646)
+> Добыча: подземелье [Тайный рынок Тазавеш](https://ru.wowhead.com/zone=13577/) босс [P.O.S.T. Master](https://ru.wowhead.com/npc=175646)
 
 ### Мифик+
 
@@ -801,6 +801,44 @@ image:
 > Крафтим в слот ног.
 
 Рецепт выдается на 48 уровне известности ковенанат.
+
+## Осколки Господства
+
+### Рейд
+
+* [Осколок Диз](https://ru.wowhead.com/item=187073)
+* [Осколок Зед](https://ru.wowhead.com/item=187079)
+* [Осколок От](https://ru.wowhead.com/item=187076)
+* [Осколок Бек](https://ru.wowhead.com/item=187057)
+* [Осколок Кор](https://ru.wowhead.com/item=187063)
+
+**Улучшаем их в следующем порядке**
+
+<p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
+
+1. [Осколок Диз](https://ru.wowhead.com/item=187073), [Осколок Бек](https://ru.wowhead.com/item=187057) и [Осколок Кор](https://ru.wowhead.com/item=187063) улучшаем их до 3 уровня и после этого переходим к 4 камню.<br>
+2. [Осколок Зед](https://ru.wowhead.com/item=187079)<br>
+3. [Осколок От](https://ru.wowhead.com/item=187076)
+
+</span></p>
+
+### Мифик+
+
+* [Осколок Кор](https://ru.wowhead.com/item=187063)
+* [Осколок Бек](https://ru.wowhead.com/item=187057)
+* [Осколок Диз](https://ru.wowhead.com/item=187073)
+* [Осколок Тел](https://ru.wowhead.com/item=187071)
+* [Осколок Рев](https://ru.wowhead.com/item=187061)
+
+**Улучшаем их в следующем порядке**
+
+<p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
+
+1. [Осколок Диз](https://ru.wowhead.com/item=187073), [Осколок Бек](https://ru.wowhead.com/item=187057) и [Осколок Кор](https://ru.wowhead.com/item=187063) улучшаем их до 3 уровня и после этого переходим к 4 камню.<br>
+2. [Осколок Тел](https://ru.wowhead.com/item=187071)<br>
+3. [Осколок Рев](https://ru.wowhead.com/item=187061)
+
+</span></p>
 
 ## Расходники
 
@@ -903,7 +941,7 @@ DPS = a1 х Crit+a2 х Haste+a3 х Mastery+a4 х Versatility+a5 х Agility + а6
 |Кольцо 2|[Ритуальный перстень командира](https://ru.wowhead.com/item=178781)| - |[Смертельная тризна](https://ru.wowhead.com/the-necrotic-wake)|
 |Аксессуар 1|[Реликвия ледяных пустошей](https://ru.wowhead.com/item=186437)| - |[Кел'Тузад](https://ru.wowhead.com/npc=15990)|
 |Аксессуар 2|[Флакон тлетворной массы](https://ru.wowhead.com/item=178771)| - |[Чумные каскады](https://ru.wowhead.com/plaguefall)|
-|Основная рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)]| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
+|Основная рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
 |Левая рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
 
 

@@ -1,27 +1,26 @@
 ---
 layout: highcharts_page
 title: Ковенанты
-description: Гайд для Охотников на Демонов Месть 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
-author: Airithez и Rodriguezz
-image:
-    path: assets/img/blog/prev/spec_logo_VDH.png
+description: ДХ Месть 9.0.5 PvE гайд Shadowlands
+last_update: 2020-03-22 09:00:00
+game_version: 9.0.5 Shadowlands
+author: Rodriguezz
+toc: true
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/vengeance/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
-<a href="{{ site.url }}/guide/vengeance/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/vengeance/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
-<a href="{{ site.url }}/guide/vengeance/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/vengeance/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ротация</a>
-<a href="{{ site.url }}/guide/vengeance/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
-<a href="{{ site.url }}/guide/vengeance/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
-<a href="{{ site.url }}/guide/vengeance/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Ковенанты</span></a>
-<a href="{{ site.url }}/guide/vengeance/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
-<a href="{{ site.url }}/guide/vengeance/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
-<a href="{{ site.url }}/guide/vengeance/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
-<a href="{{ site.url }}/guide/vengeance/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_0_5/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_0_5/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_0_5/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_0_5/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_0_5/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ротация</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_0_5/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_0_5/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_0_5/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Ковенанты</span></a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_0_5/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_0_5/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_0_5/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_0_5/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
 ## Что такое Ковенанты?
@@ -75,14 +74,12 @@ image:
 * {{ site.data.covenant.Agent_of_Chaos }} - теперь {{ site.data.covenant.Door_of_Shadows }} можно использовать для прерывания опасных заклинаний, очень сильный трейт для мифик+.
 * {{ site.data.covenant.Exacting_Preparation }} - постоянный баф нашей химии, зачарований и еды.
 * {{ site.data.covenant.Dauntless_Duelist }} - сильный трейт дающий нам 3% дополнительного урона по цели которую мы атакуем и уменьшает наносимый этой целью урон на 1.5%, очень сильный трейт для СТ боев. 
-* [Греховное сохранение](https://ru.wowhead.com/spell=352405) - хороший защитный бафф, дает нам щит, когда мы используем зелье / камень здоровья.
-* [Фатальный изъян](https://ru.wowhead.com/spell=352373) - очень сильный бафф, после окончания действия баффа скорости от {{ site.data.covenant.Thrill_Seeker }}, дает нам 20% крита или универсальности на 10 сек. ( смотря каких статов у вас больше).
 
 > Очень сильный медиум на ранних этапах из-за {{ site.data.covenant.Thrill_Seeker }}, в лейт гейме теряет свои преимущества.
 
 Рекомендуемое дерево развития медиума Наджия:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWqpYCBStvACUszQASBS0fACUwPAAiFSrvACUraQA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/ApaqAQUrbwARBS0fACIVKu8AJSr6AA" target="blank">anything</a>
 
 ### Безумный герцог Теотар
 
@@ -90,14 +87,12 @@ image:
 * {{ site.data.covenant.Refined_Palate }} - очень сильный трейт, так как боевые зелья очень сильны в Shadowlands.
 * {{ site.data.covenant.Wasteland_Propriety }} - хороший баф Универсальности для нас и наших союзников, неплохой выбор так как {{ site.data.covenant.Sinful_Brand }} имеет небольшое время восстановления, что обеспечит отличный аптайм баффа.
 * {{ site.data.covenant.Token_of_Appreciation }} - даем щит союзнику когда он взаимодействует с нами.
-* [Всегда есть время пить чай](https://ru.wowhead.com/spell=351747) - хороший бафф на уменьшение урона и исцеление, но для этого вам нужно оставаться на одном месте.
-* [Дух праздника](https://ru.wowhead.com/spell=351750) - довольно приятный бафф вторичных характеристик на 4 часа.
 
 > Вы можете взять трейт {{ site.data.covenant.Wasteland_Propriety }} с кондуитом Универсальности {{ site.data.conduits.Felfire_Haste }}, хоть кондуиты и очень слабы баф трейта перекроет все его недостатки так как даст нам Универсальность.
 
 Рекомендуемое дерево развития медиума Безумный герцог Теотар:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/demon-hunter/AwaW6pYBJStvABIFLR8AJTA8ACMFKu8AFStpACUq-gA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/demon-hunter/ApbvARUrbwARBS0fACIFKvoAFSrvAA" target="blank">anything</a>
 
 ### Генерал Дрейвен
 
@@ -106,14 +101,12 @@ image:
 * {{ site.data.covenant.Hold_Your_Ground }} - хороший защитный трейт при условии, что вы можете стоять на месте.
 * {{ site.data.covenant.Superior_Tactics }} - имеет потенциал в мифик+, в рейде не найдет места для применения.
 * {{ site.data.covenant.Built_for_War }} - сильный баф основной характеристики, предположительно должен иметь высокий аптайм, но к сожалению он скрыт за проводником Точности.
-* [Регенерирующая каменная кожа](https://ru.wowhead.com/spell=352365) - может быть неплохим, так как наше здоровье не слишком стабильно, поэтому получение ХоТа от любого избыточного исцеления довольно неплохо.
-* [Боевая стать](https://ru.wowhead.com/spell=352417) - довольно слабая связь как для последней в дереве.
 
 > Если вы захотите получить максимум защиты с терйтом {{ site.data.covenant.Superior_Tactics }}, третьим кондуитом Выносливости берите {{ site.data.conduits.Fel_Defender }}.
 
 Рекомендуемое дерево развития медиума Генерал Дрейвен:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/demon-hunter/AwaWZZYBJStvABMFLR8AFTA8ACV2DgAiBSrvABUraQA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/demon-hunter/ApbqEgUtHwAVMDwAIwUq7wAVKvoAJStpAA" target="blank">anything</a>
 
 ## Ковенант Кирии
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/kiri_logo.png"> </p>
@@ -124,27 +117,15 @@ image:
 * {{ site.data.covenant.Elysian_Decree }} - Размещает в указанном месте кирийскую печать, которая активируется через 2 sec. Печать наносит сильный АоЕ урон, скорость восстановления печати можно ускорить талантом {{ site.data.talent.Quickened_Sigils }}. После взрыва печати появляются 3 {{ site.data.spell.Soul_Fragment }}, это повышает нашу выживаемость и урон. 
 * {{ site.data.covenant.Summon_Steward }} - Вы зовете распорядителя, и он приносит вам {{ site.data.covenant.Phial_of_Serenity }}, восполняющий 20% здоровья и снимающий проклятия, болезни, яды и эффекты кровотечения. Очень полезная флакон, сильно упрощает жизнь в ключах, снимает даже стаки аффикса {{ site.data.mplus.Necrotic }}.
 
-**Время отката {{ site.data.covenant.Elysian_Decree }}**
-
-|Способность|Уменьшение времени восстановления|Время восстановления {{ site.data.covenant.Elysian_Decree }}|
-|По умолчанию|0сек.|60сек.|
-|[Ускоренные печати](https://ru.wowhead.com/spell=209281)|12 сек.|48 сек.|
-|[Бурный акселератор анимы](https://ru.wowhead.com/spell=353248)|4 сек. за 1 цель, максимум 20 сек.|40-56 сек.|
-|[Осквернение Разелиха](https://ru.wowhead.com/spell=337544)|2 сек. за 1 применение Раскалывание душ|Примерно 40-45 сек.|
-|[Ускоренные печати](https://ru.wowhead.com/spell=209281) и [Бурный акселератор анимы](https://ru.wowhead.com/spell=353248)|12 сек. плюс 4 сек. за 1 цель, максимум 20 сек.|28-44 сек.|
-|[Ускоренные печати](https://ru.wowhead.com/spell=209281) и [Осквернение Разелиха](https://ru.wowhead.com/spell=337544)|12 сек. плюс 2 сек. за 1 применение Раскалывание душ|Примерно 32-36 сек.|
-|[Бурный акселератор анимы](https://ru.wowhead.com/spell=353248) и [Осквернение Разелиха](https://ru.wowhead.com/spell=337544)|2 сек. за 1 применение Раскалывание душ плюс 4 сек. за 1 цель, максимум 20 сек.|Примерно 30-43 сек.|
-|[Ускоренные печати](https://ru.wowhead.com/spell=209281), [Бурный акселератор анимы](https://ru.wowhead.com/spell=353248) и [Осквернение Разелиха](https://ru.wowhead.com/spell=337544)|12 сек. плюс 2 сек. за 1 применение Раскалывание душ плюс 4 сек. за 1 цель, максимум 20 сек.|Примерно 15-43 сек.|
-
 ### Пелагий
 
 * использование {{ site.data.covenant.Elysian_Decree }} активирует способность нашего медиума {{ site.data.covenant.Combat_Meditation }} и дает нам бафф искусности на 10 сек, который можно продлевать собирая сферы "Печальных воспоминаний", тем самым усиливая наши защитные способности и урон.
 * {{ site.data.covenant.Let_Go_of_the_Past }} постоянный баф на снижение магического урона.
-* [Вместе лучше](https://ru.wowhead.com/spell=351146) - хорош для усиления союзников, но не для нас.
-* [Новообретенная стойкость](https://ru.wowhead.com/spell=351149) - вам нужно отслеживать появления ваших копий, чтоб быстро расправится с ними, так как 12% ловкости это довольно сильный бафф.
+
+> Огромный плюс Пелагия в том что он доступен сразу и на ранних этапах дает доступ к кондуиту Сили и Выносливости, что позволить использовать наши сильные кондуиты в начале первого сезона.
 
 Рекомендуемое дерево развития медиума Пелагий:
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwaW5pYTBS0fABUvtwAldg4AIxUq7wAlK2kANSr6AA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/ApbmEgUtHwAVL7cAIhUq7wAlK2kA" target="blank">anything</a>
 
 ### Клея
 
@@ -154,13 +135,12 @@ image:
 * {{ site.data.covenant.Ascendant_Phial }} - очень сильный трейт который усиляет {{ site.data.covenant.Phial_of_Serenity }} после использования флакона мы получаем иммунитет к проклятиям, болезням, ядам и кровотечению 8 сек. Привыборе этого трета мы потеряем слот под кондуит Силы, что уменьшит наш урон.
 * {{ site.data.covenant.Cleansing_Rites }} - Будет не очень полезным в рейде, но в мифик+ контенте принесет много пользы так как повысит нашу выживаемость.
 * {{ site.data.covenant.Pointed_Courage }} - очень мощный баф крита, он отлично сочитается с {{ site.data.covenant.Valiant_Strikes }}.
-* [Освещение пути](https://ru.wowhead.com/spell=351491) - связь с сильной синергией с {{ site.data.covenant.Valiant_Strikes }}.
 
 > Клея на ранних стадия игры слабее Пелагоса, но на белее высокой стадии известности она станет сильней.
 
 Рекомендуемое дерево развития медиума Клея:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/demon-hunter/Awa-ar4CBStvACUszQARJS0fACMFKvoAFSrvACUraQA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/demon-hunter/ApZqAQUrbwYRBS-3ACIVK2kGJSr6AA" target="blank">anything</a>
 
 ### Верховный автоматург Миканикос
 
@@ -170,14 +150,12 @@ image:
 * {{ site.data.covenant.Forgelite_Filter }} - Трейт хорош тем, что он активирует {{ site.data.covenant.Phial_of_Serenity }} даже когда он перезаряжается, при этом не обновляя время восстановления. Если на момент срабатывания трейта {{ site.data.covenant.Phial_of_Serenity }} был доступен к использованию, то это запустит перезарядку.
 * {{ site.data.covenant.Resilient_Plumage }}  можно с помощью {{ site.data.spell.Infernal_Strike }} и двойного прыжка забираться на возвышености чтоб специально получить урон от падения перед запулом пака мобов.
 * {{ site.data.covenant.Hammer_of_Genesis }} - очень сильный трейт практически в любых ситуациях так как может вам дать от 3-15% скорости.
-* [Реактивная модификация](https://ru.wowhead.com/spell=352187) - В сумме дает 24% щита от вашего максимального запаса здоровья каждую минуту.
-* [Бурный акселератор анимы](https://ru.wowhead.com/spell=352186) - сокращает время восстановления {{ site.data.covenant.Elysian_Decree }} на 20 секунд, если поражено 5 или более целей, что можно комбинировать с [Ускорением печатей](https://ru.wowhead.com/spell=209281) и [Осквернение Разелиха](https://ru.wowhead.com/spell=337544) для потенциального восстановления ~ 15-20 секунд!
 
 > Если вы захотите получить максимум защиты с терйтом {{ site.data.covenant.Superior_Tactics }}, третьим кондуитом Выносливости берите {{ site.data.conduits.Fel_Defender }}.
 
 Рекомендуемое дерево развития медиума Верховный автоматург Миканикос:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaW6r4CBStvACUszQASBS0fACUvtwAiFSrvACUraQA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/ApbqAQUrbwYRBS-3BiIVK2kGJSr6Bg" target="blank">anything</a>
 
 ## Ковенант Ночного Народца
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/fae_logo.png"> </p>
@@ -194,14 +172,12 @@ image:
 * {{ site.data.covenant.Run_Without_Tiring }} - может помочь восстановить здоровье между паками в м+ и в те моменты когда вам будет удаваться использовать способность {{ site.data.covenant.Soulshape }} во время кайта. 
 * {{ site.data.covenant.Niyas_Tools_Poison }} - подойдет для мифик+, в рейде не будет использоваться. 
 * {{ site.data.covenant.Niyas_Tools_Herbs }} - неплохой баф скорости, но требует выбирать слот под кондуит Точности, который нам лучше избегать.
-* [Клич выжившего](https://ru.wowhead.com/spell=352502) - очень хорошая защитная связь, но доступ к кондуиту Точности который нам откроется делает эту связь менее востребованной.
-* [Связанные сердца](https://ru.wowhead.com/spell=352503) - небольшой хил и прок искусности.
 
 > Не рекомендую брать Нию для Охотников на Демонов Месть так как ее способности для них не очень полезны.
 
 Рекомендуемое дерево развития медиума Ния:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/AwaWZb4CBStvACUszQASBS0fACVBJgAiFSrvACUraQA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/ApZlAQUrbwASBSzPABUtHwAiFSr6ACUq7wA" target="blank">anything</a>
 
 ### Творец Снов
 
@@ -210,7 +186,6 @@ image:
 * {{ site.data.covenant.Podtender }} - Дает нам читдес, но из-за того что мы после получения смертельного урона получаем стан на 10 сек. является огромным недостатком.
 * {{ site.data.covenant.Social_Butterfly }} - дает нам постоянный баф Универсальности когда мы находимся в группе.
 * {{ site.data.covenant.Field_of_Blossoms }} - 12% баф скорости с очень приличным аптаймом.
-* [Погружение в сны ](https://ru.wowhead.com/spell=352786) - хороший проковый урон который срабатывает от каждого нового врага.
 
 > Творец Снов была бы отличным медиумом для нас если бы не {{ site.data.covenant.Podtender }}, он создает слишком много проблем для танков и избежать их невозможно.
 
@@ -227,14 +202,12 @@ image:
 * {{ site.data.covenant.Face_Your_Foes }} - отличная защитная способность при активном танкиге.
 * {{ site.data.covenant.First_Strike }} - очень мощный бонус к урону который мы получаем в начале боя.
 * {{ site.data.covenant.Hold_the_Line }} - очень сильный защитный трейт, снижает на 15% весь физический урон когда мы не двигаемся. 
-* [Засада воркаев](https://ru.wowhead.com/spell=352800) - хорошая связь для м+.
-* [Стратагема Дикой Охоты](https://ru.wowhead.com/spell=352805) - превращает {{ site.data.covenant.Wild_Hunt_Tactics }} в экзекют. Очень сильная связь.
 
 > Корей лучший из трех медиумов доступных ковененту Ночной Народец, минус только в том что он откроется не сразу.
 
 Рекомендуемое дерево развития медиума Корейн:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwaWb5YCBStvABUszQASBS0fACVBJgAiFSrvADUraQA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/Ar7lAQUrbwARFUEmACIFK2kAFSr6AA" target="blank">anything</a>
 
 ## Ковенант Некролорды
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/necrolord_logo.png"> </p>
@@ -242,7 +215,7 @@ image:
 <span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - предлагают, наверное, самые скучные таланты среди всех ковенантов. {{ site.data.covenant.Fodder_to_the_Flame }} призывает моба которого нужно убить, это отнимает много времени, щит {{ site.data.covenant.Fleshcraft }} нужно кастовать 4 сек. стоя на месте, что для танка в большенсве случаев непозволительная роскошь.
 
 После вступленя в ковенант нам отроются две способности:
-* {{ site.data.covenant.Fodder_to_the_Flame }} - Наносящие урон способности могут призвать демона из Театра Боли на 25 сек. "Бросок боевого клинка" наносит демону смертельный урон, и тот взрывается, нанося урон находящимся рядом противникам и восполняя вам 25% максимального запаса здоровья. Взрыв наносит меньше урона целям после 5-й.
+* {{ site.data.covenant.Fodder_to_the_Flame }} - Вы призываете демона которого можете атаковать только вы, его убийство дает {{ site.data.covenant.Empowered_Demon_Soul }}, хоть демон и убивается очень легко, все эти махинации отнимают много времени прежде чем вы начнете бить свою приоритетную цель, тем самым это будет ломать нашу ротацию и вносить дискомфорт в игру.
 * {{ site.data.covenant.Fleshcraft }} - по описанию звучит как очень хорошая способность, но ее нужно применять 4 сек. чтоб получить щит максимального объема и без специальной связи душ вы не сможете двигаться пока щит "накачивается".
 
 ### Изобретатель чумы Марилет
@@ -251,14 +224,12 @@ image:
 * {{ site.data.covenant.Volatile_Solvent }} - неплохой трейт, дает различные бафы от типа поглощенного врага {{ site.data.covenant.Fleshcraft }}. Мы можем призвать демона {{ site.data.covenant.Fodder_to_the_Flame }}  и получить 5% Выносливости, что очень неплохо. Прелесь этого трейта в том что он лучше способности ковенанта {{ site.data.covenant.Fleshcraft }}, трейт дает то же количество щита при меньшем усилии и на него не нужно тратить ГКД и тем более стоять на месте 4 сек.
 * {{ site.data.covenant.Oozs_Frictionless_Coating }} - дает нам 15% щит каждые 30 сек. так как здоровье часто опускается ниже 50% во время танкования. 
 * {{ site.data.covenant.Ultimate_Form }} - восстанавливает в общей сумме 16% здоровья и дает невосприимчевость к контролю на время использования {{ site.data.covenant.Fleshcraft }} и если вы полностью завершили его каст то дополнительно получите еще 4 сек. иммунитета к контролю.
-* [Обманчивые колыхания](https://ru.wowhead.com/spell=352109) - отлично подходит для сглаживания входящего урона, облегчая исцеление.
-* [Слизнюченыш Кевина](https://ru.wowhead.com/spell=352110) - сильный бафф, пассивно дающий нам 6% бонусного урона и защищающий наших союзников.
 
 > Марилет - хороший медиум на ранних этапах игры так как обеспечивает слот Силы и Выносливости до 15 уровня славы.
 
 Рекомендуемое дерево развития медиума Изобретатель чумы Марилет:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/AwaW5r4BJStvABMFLR8AFTBfACV2DgAiFSrvACUraQA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/ApZmEgUtHwAVMF8AIhUraQAlKvoA" target="blank">anything</a>
 
 ### Эмени
 
@@ -266,14 +237,12 @@ image:
 * {{ site.data.covenant.Emenis_Ambulatory_Flesh }} - Хороший повод для выбора Эмени, позволяет передвигаться во время использования {{ site.data.covenant.Fleshcraft }}.
 * {{ site.data.covenant.Cartilaginous_Legs }} - можно использовать если найти способ получать урон от падения в подземельях, но трейт сомнительный и скорей всего бесполезный.
 * {{ site.data.covenant.Gnashing_Chompers }} - Хороший трейт, в полную силу откроется в мифик+ или рейде на боссах с трешом.
-* [Стойкие швы](https://ru.wowhead.com/spell=351093) - очень хороший защитный бафф, особенно в рейдах, где часто происходит магический урон.
-* [Разрыв гнойника](https://ru.wowhead.com/spell=351094) - наносить довольно приличный урон.
 
 > Эмени еще один хороший медиум на ранних этапах игры, так как имеет с своем арсенале два сильных трейта которые открываются до 15 уровня славы.
 
 Рекомендуемое дерево развития медиума Эмени:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/demon-hunter/AwaWar4CBStvACUszQASBS0fACUwXwAiFSrvACUraQA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/demon-hunter/ApZqAQUrbwARBS0fACIVK2kAJSr6AA" target="blank">anything</a>
 
 ### Костоплав Гейрмир
 
@@ -281,13 +250,12 @@ image:
 * {{ site.data.covenant.Serrated_Spaulders }} - очень мощный трейт наносящий значительный урон, у него есть внутреннее КД 1 сек поэтому он не может срабатывать сразу на нескольких врагов и он может обновлять свое действие на одном и том же враге, поэтому его ценность будет постепенно теряться если он будет срабатывать дважды на одной и той же цели. 
 * {{ site.data.covenant.Heirmirs_Arsenal_Marrowed_Gemstone }} - приличный баф крита с хорошим аптаймом.
 * {{ site.data.covenant.Heirmirs_Arsenal_Ravenous_Pendant }} - Дает очень много исцеления, но требует выбирать слот кондуита Точности, что делает трейт не таким привлекательным.
-* [Мнемоническое снаряжение](https://ru.wowhead.com/spell=350936) - довольно сильная связь.
 
 > Не рекомендую использовать этого медиума, так как он слабей чем Эмени и Изобретатель чумы Марилет
 
 Рекомендуемое дерево развития медиума Костоплав Гейрмир:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/Awa-ar4CBStvACUszQARJS0fACMFKu8AFStpACUq-gA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/Ar5qAQUrbwAjBStpABUq-gAlKu8A" target="blank">anything</a>
 
 ## Симуляция медиумов и связей душ
 
@@ -295,46 +263,20 @@ image:
 
 ## Проводники (Кондуиты)
 
-<img src="/assets/img/guide/havoc/potency.png" width="15" height="100%"> <u>Проводники силы</u>
+<u>Проводники силы</u>
 
 * {{ site.data.conduits.Growing_Inferno }} — приоритетный выбор данного типа проводников. В паре с талантом {{ site.data.talent.Agonizing_Flames }} показывает очень высокие цифры урона
-> Добыча: подземелье [Смертельная тризна](https://ru.wowhead.com/the-necrotic-wake) босс [Хирург Трупошов](https://ru.wowhead.com/npc=166882) и рейд [Святилище Господства](https://ru.wowhead.com/zone=13561) босс [Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828/) 
-
-* [Фрагмент адаптивной брони](https://ru.wowhead.com/spell=357902) При получении исцеления от другого игрока ваша основная характеристика повышается на 2-3,6% на 15 сек. Эффект срабатывает не чаще раза в 30 сек.
-> Добыча: мировой босс [Мор'гет](https://ru.wowhead.com/npc=178958/) и рейд [Святилище Господства](https://ru.wowhead.com/zone=13561) босс [Стражница Предвечных](https://ru.wowhead.com/npc=175731/guardian-of-the-first-ones) 
-
-При наличии второго слота под <u>проводник силы</u>, всегда используем ковенантские проводники
-
 * {{ site.data.conduits.Repeat_Decree }} — наша способность <span style="color:#68ccef;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="22"> Кирии</span> наносит еще больше урона за счет повторной активации. Берем во вторую ячейку силы
-> Добыча: рейд [Замок Нафрия](https://ru.wowhead.com/castle-nathria) босс [Сир Денатрий](https://ru.wowhead.com/npc=167406) и мировые боссы
 
-* {{ site.data.conduits.Increased_Scrutiny }} — небольшое увеличение урона по одиночной цели. Берем <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> Вентирами за неимением лучшего
-> Добыча: рейд [Замок Нафрия](https://ru.wowhead.com/castle-nathria) босс [Сир Денатрий](https://ru.wowhead.com/npc=167406) и мировые боссы
+<u>Проводники выносливости</u>
 
-* {{ site.data.conduits.Brooding_Pool }} — продлевает длительность увеличения урона от души демона. Просто и эффективно
-> Добыча: рейд [Замок Нафрия](https://ru.wowhead.com/castle-nathria) босс [Сир Денатрий](https://ru.wowhead.com/npc=167406) и мировые боссы
+* {{ site.data.conduits.Viscous_Ink }}— дает дополнительное снижение урона от магии нашим {{ site.data.spell.Demonic_WardsVDH }}. Очень сильный проводник, берем когда в бою присутствует магический урон
+* {{ site.data.conduits.Shattered_Restoration }} — наиболее универсальный среди проводников выносливости. Берем в большинстве ситуаций
+* {{ site.data.conduits.Fel_Defender }} — берем вместо {{ site.data.conduits.Viscous_Ink }} в боях без магии и всегда, если играем через клеймобилд
 
-* {{ site.data.conduits.Unnatural_Malice }} — Увеличивает урон ДоТа "Охоты"%.
-> Добыча: рейд [Замок Нафрия](https://ru.wowhead.com/castle-nathria) босс [Сир Денатрий](https://ru.wowhead.com/npc=167406) и мировые боссы
-
-<img src="/assets/img/guide/havoc/endurance.png" width="15" height="100%"> <u>Проводники выносливости</u>
-
-* {{ site.data.conduits.Viscous_Ink }} — дает дополнительное снижение урона от магии нашим {{ site.data.spell.Demonic_WardsVDH }}. Очень сильный проводник, берем когда в бою присутствует магический урон
-> Добыча: подземелье [Тайный рынок Тазавеш](https://ru.wowhead.com/zone=13577/) босс [Со'азми](https://ru.wowhead.com/npc=175806)
-
-* {{ site.data.conduits.Shattered_Restoration }} — наиболее универсальный среди проводников выносливости. Берем в большинстве ситуаций 
-> Добыча: рейд [Святилище Господства](https://ru.wowhead.com/zone=13561/) босс [Раздиратель душ Дормацайн](https://ru.wowhead.com/npc=175727/)
-
-* {{ site.data.conduits.Fel_Defender }} — берем всегда. В боях без магии вместо {{ site.data.conduits.Viscous_Ink }}, в остальных случаях вместо {{ site.data.conduits.Shattered_Restoration }}
-> Добыча: подземелье [Тайный рынок Тазавеш](https://ru.wowhead.com/zone=13577/) босс [Со'лея](https://ru.wowhead.com/npc=180863/)
-
-* [Конденсированная сфера анимы](https://ru.wowhead.com/spell=357888) — При получении любого урона вы восполняете 0.25-0.45% максимального запаса здоровья. Эффект срабатывает не чаще раза в 10 сек.
-> Добыча: мировой босс [Мор'гет](https://ru.wowhead.com/npc=178958/)
-
-<img src="/assets/img/guide/havoc/finesse.png" width="15" height="100%"> <u>Проводники точности</u>
+<u>Проводники точности</u>
 
 * {{ site.data.conduits.Felfire_Haste }} — дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку
-> Добыча: рейд [Святилище Господства](https://ru.wowhead.com/zone=13561/) босс [Сир Денатрий](https://ru.wowhead.com/npc=179390/)
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/gear.html">Назад:<br>Бис лист</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/vengeance/consumables.html">Далее:<br>Расходники</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_0_5/gear.html">Назад:<br>Бис лист</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_0_5/consumables.html">Далее:<br>Расходники</a></div>

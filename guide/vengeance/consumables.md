@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Расходники
-description: ДХ Месть 9.0.5 PvE гайд Shadowlands
-last_update: 2020-03-22 09:00:00
-game_version: 9.0.5 Shadowlands
-toc: true
+description: Гайд для Охотников на Демонов Месть 9.1.0 PvE Shadowlands
+last_update: 2021-06-24 09:00:00
+game_version: 9.1.0 Shadowlands 
+author: Airithez и Rodriguezz
+image:
+    path: assets/img/blog/prev/spec_logo_VDH.png
 ---
 
 <div id="smooth-nav-outer">
