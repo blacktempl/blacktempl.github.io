@@ -5,7 +5,7 @@ description: Обзор аффикса эпохальных+ подземели�
 game_version: 9.1.0 Shadowlands
 last_update: 2021-06-18 00:00:00 
 author: "Rodriguezz. Оригинал: noob-club.ru"
-toc: true
+toc: false
 image:
     path: assets/img/blog/prev/24059.png
 ---
