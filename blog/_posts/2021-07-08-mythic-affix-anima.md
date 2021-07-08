@@ -128,7 +128,7 @@ image:
 
 </div>
 
-<h2 class="title quadrata accent">Орос Бессердечный</h2>
+<h2 class="title quadrata accent">Палач Варрут</h2>
 <div class="flex break-mobile">
 <div class="flex-1 image">
 <picture>
