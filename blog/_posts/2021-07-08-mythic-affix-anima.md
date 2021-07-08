@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Осколки Господства из рейда Святилище Господства в обновлении 9.1
-description: Обзор Осколков Господства из рейда Святилище Господства в обновлении 9.1 Shadowlands
+title: Аффикс 2 сезона эпохальных+ подземелий
+description: Обзор аффикса эпохальных+ подземелий обновлении 9.1 Shadowlands
 game_version: 9.1.0 Shadowlands
 last_update: 2021-06-18 00:00:00 
 author: "Rodriguezz. Оригинал: noob-club.ru"
 toc: true
 image:
-    path: assets/img/blog/prev/matthew-mckeown-9-0-runecarverconcept.jpg
+    path: assets/img/blog/prev/24059.png
 ---
 
 Вместе с началом второго сезона в эпохальных+ подземельях на 10+ уровнях появится новый сезонный модификатор. 
