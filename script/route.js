@@ -10,7 +10,7 @@ const affixes = [
   { name: "Tyrannical-Inspiring-Necrotic", href: "/guide/route/Tyrannical-Inspiring-Necrotic.html" },
   { name: "Fortified-Sanguine-Quaking", href: "/guide/route/Fortified-Sanguine-Quaking.html" },
   { name: "Tyrannical-Raging-Explosive", href: "/guide/route/Tyrannical-Raging-Explosive.html" },
-  { name: "Volcanic-Fortified-Spiteful", href: "/guide/route/Volcanic-Fortified-Spiteful.html" }
+  { name: "Tyrannical-Raging-Volcanic", href: "/guide/route/Tyrannical-Raging-Volcanic.html" }
 ];
 
 const firstAffixStartDate = new Date("2021-04-21");
