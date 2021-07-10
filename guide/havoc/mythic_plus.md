@@ -1,14 +1,18 @@
 ---
 layout: page
 title: "Mythic+ Гайд"
-last_update: 2020-12-11 09:00:00
-game_version: 9.0.2 ShadowLands
+description: Гайд эпохальных+ подземелий и модификатор эпохальных+ подземелий 2 сезона Shadowlands 9.1.0 PvE Shadowlands
+last_update: 2021-07-10 09:00:00
+game_version: 9.1.0 Shadowlands 
 author: Rodriguezz
+toc: true
+image:
+    path: assets/img/blog/prev/mplus2s.jpg
 ---
 
 # Недельные аффиксы
 
-<div class="tabs">
+<div class="tabs" id="tabs-1">
 <div class="tabs__nav">
 <a class="tabs__link tabs__link_active" href="#content-1">Ключи 2+</a>
 <a class="tabs__link" href="#content-2">Ключи 4+</a>
@@ -59,6 +63,405 @@ author: Rodriguezz
 
 </div>
 </div>
+
+</div>
+</div>
+
+
+## Аффикс в 10+ ключе - Истязание
+
+[Истязание](https://ru.wowhead.com/affix=128) модификатор эпохальных+ подземелий, который будет действовать на протяжении 2 сезона Shadowlands на 10 уровне и выше. 
+Этот модификатор напоминает собой "Пробудившийся" времен Battle for Azeroth: игрокам предстоит побеждать дополнительных лейтенантов Тюремщика, 
+забирать их силы анимы, чтобы не позволить им усилить финального босса подземелья.
+
+Суть нового "Истязание" модификатора довольно проста:
+* В подземелье появляются 4 дополнительных могучих противника, которых требуется победить
+* При победе над одним из таких лейтенантов игроки получают на выбор одну из трех сил анимы с тем или иным полезным эффектом
+* Если не победить лейтенантов, то каждый из оставшихся в живых усложнит бой с финальным боссом подземелья неприятным негативным эффектом
+
+### Прислужники Тюремщика
+
+При активном "Истязание" модификаторе в текущем подземелье 10+ уровня возникают 4 дополнительных противника – прислужники Тюремщика. 
+Эти лейтенанты появляются как обычные существа, поэтому в отличие от "Пробудившегося" модификатора не требуется нажимать по каким-то объектам или иным 
+образом их призывать. Каждый из лейтенантов имеет довольно простой набор из двух способностей и негативную ауру, а запас здоровья на 35% выше запаса здоровья 
+обычных боссов, поэтому победа над ним в большинстве не доставляет особых сложностей. Тем не менее, они могут появиться вне желаемого маршрута, поэтому придется 
+потратить лишнее время на их посещение.
+* Запас здоровья лейтенантов не сбрасывается при гибели группы
+* На запас здоровья существ влияет масштабирование эпохальных подземелий
+* Лейтенанты видят сквозь эффекты незаметности и невидимости
+* За победу над лейтенантами не начисляются очки прогресса убийства существ подземелья
+* На лейтенантов не действуют модификаторы 4 уровня, но действуют все модификаторы 7 уровня
+* Местоположение каждого лейтенанта строго задано для каждого подземелья, они стоят по одиночке вдали от других групп существ
+* Местоположение лейтенантов отображается на карте подземелья и миникарте
+* Убийство лейтенантов не требуется для успешного завершения подземелья, но так вы по крайней мере не будете усложнять сражение с финальным боссом.
+
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/24055.jpg"></p>
+
+### Ауры прислужников Тюремщика
+
+Каждый лейтенант обладает уникальной аурой с негативным эффектом, который накладывается на всех участников группы во время сражения с ним. Если лейтенант не будет убит, то его аура станет действовать на игроков во время сражения с финальным боссом подземелья. Вкратце ауры такие:
+* 50% снижение скорости передвижения
+* 50% снижение получаемого исцеления
+* 50% увеличение получаемого физического урона
+* Эффект периодического урона
+Ауры не заменяют друг друга, поэтому, если вы, например, оставите в живых 3 прислужников, то во время сражения с финальным боссом на вас будет действовать сразу 3 уникальных эффекта.
+
+## Какие Анима силы выбирать
+
+<div class="guide-boss-card">
+
+<div>
+<svg preserveAspectRatio="xMidYMax meet" viewBox="0 0 1600 200" class="svg-separator sep4" style="display:block">
+<polygon points="886,86 800,172 714,86 -4,86 -4,204 1604,204 1604,86 " style="fill:#191919;"></polygon>
+<polygon points="800,172 886,86 900,86 800,186 700,86 714,86 " style="opacity:1;fill:#d49a29"></polygon>
+<polygon points="800,162 876,86 888,86 800,174 712,86 724,86 " style="opacity:1;fill:#795a1e"></polygon>
+</svg>
+
+</div>
+
+<div class="title quadrata accent">Соггодон Ломатель</div>
+<div class="flex break-mobile">
+<div class="flex-1 image">
+<picture>
+<img src="/assets/img/blog/mplusguide/98535.webp" loading="lazy"></picture></div>
+<div class="flex-2" markdown="1">
+
+
+* **ДПС:** [Каменный щит](https://ru.wowhead.com/spell=357524)
+* **Танк:** [Каменный щит](https://ru.wowhead.com/spell=357524), [Разбитое зеркало](https://ru.wowhead.com/spell=357778)
+
+</div>
+</div>
+<div class="roate-divider">
+
+<div>
+<svg preserveAspectRatio="xMidYMax meet" viewBox="0 0 1600 200" class="svg-separator sep4" style="display:block">
+<polygon points="886,86 800,172 714,86 -4,86 -4,204 1604,204 1604,86 " style="fill:#191919;"></polygon>
+<polygon points="800,172 886,86 900,86 800,186 700,86 714,86 " style="opacity:1;fill:#d49a29"></polygon>
+<polygon points="800,162 876,86 888,86 800,174 712,86 724,86 " style="opacity:1;fill:#795a1e"></polygon>
+</svg></div></div></div>
+
+<div class="guide-boss-card">
+
+<div>
+<svg preserveAspectRatio="xMidYMax meet" viewBox="0 0 1600 200" class="svg-separator sep4" style="display:block">
+<polygon points="886,86 800,172 714,86 -4,86 -4,204 1604,204 1604,86 " style="fill:#191919;"></polygon>
+<polygon points="800,172 886,86 900,86 800,186 700,86 714,86 " style="opacity:1;fill:#d49a29"></polygon>
+<polygon points="800,162 876,86 888,86 800,174 712,86 724,86 " style="opacity:1;fill:#795a1e"></polygon>
+</svg>
+
+</div>
+
+<div class="title quadrata accent">Испепелитель Арколат</div>
+<div class="flex break-mobile">
+<div class="flex-1 image">
+<picture>
+<img src="/assets/img/blog/mplusguide/100718.webp" loading="lazy"></picture></div>
+<div class="flex-2" markdown="1">
+
+
+* **ДПС:** [Клеймо защитника](https://ru.wowhead.com/spell=357575), [Печатка поддержки](https://ru.wowhead.com/spell=357848)
+* **Танк:** [Разрушающийся бастион](https://ru.wowhead.com/spell=357897), [Пятый череп](https://ru.wowhead.com/spell=357839)
+
+</div>
+</div>
+<div class="roate-divider">
+
+<div>
+<svg preserveAspectRatio="xMidYMax meet" viewBox="0 0 1600 200" class="svg-separator sep4" style="display:block">
+<polygon points="886,86 800,172 714,86 -4,86 -4,204 1604,204 1604,86 " style="fill:#191919;"></polygon>
+<polygon points="800,172 886,86 900,86 800,186 700,86 714,86 " style="opacity:1;fill:#d49a29"></polygon>
+<polygon points="800,162 876,86 888,86 800,174 712,86 724,86 " style="opacity:1;fill:#795a1e"></polygon>
+</svg></div></div></div>
+
+<div class="guide-boss-card">
+
+<div>
+<svg preserveAspectRatio="xMidYMax meet" viewBox="0 0 1600 200" class="svg-separator sep4" style="display:block">
+<polygon points="886,86 800,172 714,86 -4,86 -4,204 1604,204 1604,86 " style="fill:#191919;"></polygon>
+<polygon points="800,172 886,86 900,86 800,186 700,86 714,86 " style="opacity:1;fill:#d49a29"></polygon>
+<polygon points="800,162 876,86 888,86 800,174 712,86 724,86 " style="opacity:1;fill:#795a1e"></polygon>
+</svg>
+
+</div>
+
+<div class="title quadrata accent">Орос Бессердечный</div>
+<div class="flex break-mobile">
+<div class="flex-1 image">
+<picture>
+<img src="/assets/img/blog/mplusguide/97237.webp" loading="lazy"></picture></div>
+<div class="flex-2" markdown="1">
+
+
+* **ДПС:** [Справочник по нехорошим манерам](https://ru.wowhead.com/spell=357834)
+* **Танк:** [Справочник по нехорошим манерам](https://ru.wowhead.com/spell=357834), [Подвеска мученика](https://ru.wowhead.com/spell=357820)
+
+</div>
+</div>
+<div class="roate-divider">
+
+<div>
+<svg preserveAspectRatio="xMidYMax meet" viewBox="0 0 1600 200" class="svg-separator sep4" style="display:block">
+<polygon points="886,86 800,172 714,86 -4,86 -4,204 1604,204 1604,86 " style="fill:#191919;"></polygon>
+<polygon points="800,172 886,86 900,86 800,186 700,86 714,86 " style="opacity:1;fill:#d49a29"></polygon>
+<polygon points="800,162 876,86 888,86 800,174 712,86 724,86 " style="opacity:1;fill:#795a1e"></polygon>
+</svg></div></div></div>
+
+<div class="guide-boss-card">
+
+<div>
+<svg preserveAspectRatio="xMidYMax meet" viewBox="0 0 1600 200" class="svg-separator sep4" style="display:block">
+<polygon points="886,86 800,172 714,86 -4,86 -4,204 1604,204 1604,86 " style="fill:#191919;"></polygon>
+<polygon points="800,172 886,86 900,86 800,186 700,86 714,86 " style="opacity:1;fill:#d49a29"></polygon>
+<polygon points="800,162 876,86 888,86 800,174 712,86 724,86 " style="opacity:1;fill:#795a1e"></polygon>
+</svg>
+
+</div>
+
+<div class="title quadrata accent">Палач Варрут</div>
+<div class="flex break-mobile">
+<div class="flex-1 image">
+<picture>
+<img src="/assets/img/blog/mplusguide/92418.webp" loading="lazy"></picture></div>
+<div class="flex-2" markdown="1">
+
+
+* **ДПС:** [Кинжал некротических язв](https://ru.wowhead.com/spell=357609)(**СТ**), [Вулканический след](hhttps://ru.wowhead.com/spell=357706)(**АоЕ**)
+* **Танк:** [Шипы стигийского короля](https://ru.wowhead.com/spell=357863)
+
+</div>
+</div>
+<div class="roate-divider">
+
+<div>
+<svg preserveAspectRatio="xMidYMax meet" viewBox="0 0 1600 200" class="svg-separator sep4" style="display:block">
+<polygon points="886,86 800,172 714,86 -4,86 -4,204 1604,204 1604,86 " style="fill:#191919;"></polygon>
+<polygon points="800,172 886,86 900,86 800,186 700,86 714,86 " style="opacity:1;fill:#d49a29"></polygon>
+<polygon points="800,162 876,86 888,86 800,174 712,86 724,86 " style="opacity:1;fill:#795a1e"></polygon>
+</svg></div></div></div>
+
+# Билды
+
+<div class="tabs" id="tabs-2">
+<div class="tabs__nav">
+<a class="tabs__link tabs__link_active" href="#content-4">АоЕ М+ билд Медальон </a>
+<a class="tabs__link" href="#content-5">АоЕ М+ Тоска </a>
+</div>
+
+<div class="tabs__content">
+<div class="tabs__pane tabs__pane_show" id="content-4">
+
+<div class="tabs_in" markdown="1">
+
+{% include DarkglareBoon.html %}             
+ 
+<br>
+
+<p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
+На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
+<br>
+<br>
+Используем легендарный предмет: {{ site.data.legendary.Darkglare_Boon }}
+<br>
+<br>
+Рецепт на этот легендарный предмет добывается с подземелья {{ site.data.mplus.De_Other_Side }}
+<br>
+<br>
+**Крафтим в слот Шея.**
+</span></p>
+
+> Если у вас уже скрафчен легендарный предмет в пояс, то вы можете оставить все как есть, вам не нужно переделывать легендарку если вы только не будете охотиться за БоЕ поясом.
+
+В ротации не используется {{ site.data.spell.Blade_Dance }}, а {{ site.data.spell.Death_Sweep }} используем только на 3+ цели
+
+<strong style="font-weight: 800; font-size: 24px;">Ротация М+ Дар созерцателя тьмы</strong>
+
+<div class="guide-boss-card" style="margin: 0;">
+
+<div>
+<svg preserveAspectRatio="xMidYMax meet" viewBox="0 0 1600 200" class="svg-separator sep4" style="display:block">
+<polygon points="886,86 800,172 714,86 -4,86 -4,204 1604,204 1604,86 " style="fill:#191919;"></polygon>
+<polygon points="800,172 886,86 900,86 800,186 700,86 714,86 " style="opacity:1;fill:#d49a29"></polygon>
+<polygon points="800,162 876,86 888,86 800,174 712,86 724,86 " style="opacity:1;fill:#795a1e"></polygon>
+</svg>
+
+</div>
+
+<div class="subtitle quadrata accent">Опенер:</div>
+
+<div class="flex break-mobile">
+
+<div class="flex-2" markdown="1">
+
+
+1. Прекастом {{ site.data.covenant.Elysian_Decree }}
+1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Fel_Rush }} - для нанесения повышенного урона благодаря таланту {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. {{ site.data.spell.Death_Sweep }} - 2+ целей
+1. Если вы Вентир - {{ site.data.spell.Metamorphosis }} для наложения {{ site.data.covenant.Sinful_Brand }} на все цели. Сливаем рагу. {{ site.data.spell.Eye_Beam }}. {{ site.data.covenant.Sinful_Brand }} - в самую жирную/важную цель, но прежде стоит дождаться спадения {{ site.data.covenant.Sinful_Brand }} с цели, или пока (в идеале) не останется 1 сек.
+1. Если вы **НЕ** Вентир {{ site.data.spell.Metamorphosis }}.
+
+<div class="subtitle quadrata accent">Список приоритетов:</div>
+
+1. {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Fel_Rush }} - Если активен баф {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.covenant.Elysian_Decree }} - Если вы играете за Кирий
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
+1. {{ site.data.spell.Death_Sweep }} - 2+ целей.
+1. {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}
+1. {{ site.data.spell.Demons_Bite }}
+
+</div>
+</div>
+
+<div class="roate-divider">
+<div>
+
+<svg preserveAspectRatio="xMidYMax meet" viewBox="0 0 1600 200" class="svg-separator sep4" style="display:block">
+<polygon points="886,86 800,172 714,86 -4,86 -4,204 1604,204 1604,86 " style="fill:#191919;"></polygon>
+<polygon points="800,172 886,86 900,86 800,186 700,86 714,86 " style="opacity:1;fill:#d49a29"></polygon>
+<polygon points="800,162 876,86 888,86 800,174 712,86 724,86 " style="opacity:1;fill:#795a1e"></polygon>
+</svg></div></div></div>
+
+</div>
+</div>
+
+<div class="tabs__pane" id="content-5" >
+   
+<div class="tabs_in" markdown="1">
+
+{% include CollectiveAnguish.html %}  
+
+<br>
+
+<p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
+На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
+<br>
+В последнем тире талантов можно использовать {{ site.data.talent.Demonic }} 
+<br>
+<br>
+Используем легендарный предмет: {{ site.data.legendary.Collective_Anguish }}
+<br>
+<br>
+Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Castle_Nathria }}.
+<br>
+<br>
+**Крафтим в слот наручей.**
+</span></p>
+
+В ротации не используется {{ site.data.spell.Blade_Dance }}, а {{ site.data.spell.Death_Sweep }} используем только на 3+ цели
+
+<strong style="font-weight: 800; font-size: 24px;">АоЕ М+ билд Всеобщая тоска </strong>
+
+<div class="guide-boss-card" style="margin: 0;">
+
+<div>
+<svg preserveAspectRatio="xMidYMax meet" viewBox="0 0 1600 200" class="svg-separator sep4" style="display:block">
+<polygon points="886,86 800,172 714,86 -4,86 -4,204 1604,204 1604,86 " style="fill:#191919;"></polygon>
+<polygon points="800,172 886,86 900,86 800,186 700,86 714,86 " style="opacity:1;fill:#d49a29"></polygon>
+<polygon points="800,162 876,86 888,86 800,174 712,86 724,86 " style="opacity:1;fill:#795a1e"></polygon>
+</svg>
+
+</div>
+
+<div class="subtitle quadrata accent">Опенер с Корейном:</div>
+
+<div class="flex break-mobile">
+
+<div class="flex-2" markdown="1">
+
+1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }} и использования бафа от {{ site.data.talent.Unbound_Chaos }}
+1. {{ site.data.talent.Felblade }} 
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }}
+1. {{ site.data.spell.Vengeful_Retreat }}
+1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }}
+1. {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Eye_Beam }}
+
+<p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">Бафф, который дает Корейн на +25% крита в первые 5 секунд боя (при правильной реализации) играет ВАЖНЕЙШУЮ РОЛЬ в вашем опенере. Главная мысль заключается в том, что под этим баффом вы должны зарядить в босса {{ site.data.spell.Fel_Rush }} с бафом от {{ site.data.talent.Unbound_Chaos }} и {{ site.data.covenant.The_Hunt }} Охотой по самому жирному/важному мобу. Реализация усложняется, если у вас есть тринкет с Визгуньи или Денатрия. Тогда в эти 5 секунд надо еще "внедрить" использование тринкета. 
+</span></p>
+</div>
+</div>
+
+<div class="roate-divider">
+<div>
+
+<svg preserveAspectRatio="xMidYMax meet" viewBox="0 0 1600 200" class="svg-separator sep4" style="display:block">
+<polygon points="886,86 800,172 714,86 -4,86 -4,204 1604,204 1604,86 " style="fill:#191919;"></polygon>
+<polygon points="800,172 886,86 900,86 800,186 700,86 714,86 " style="opacity:1;fill:#d49a29"></polygon>
+<polygon points="800,162 876,86 888,86 800,174 712,86 724,86 " style="opacity:1;fill:#795a1e"></polygon>
+</svg></div></div></div>
+
+<div class="guide-boss-card" style="margin: 0;">
+
+<div>
+<svg preserveAspectRatio="xMidYMax meet" viewBox="0 0 1600 200" class="svg-separator sep4" style="display:block">
+<polygon points="886,86 800,172 714,86 -4,86 -4,204 1604,204 1604,86 " style="fill:#191919;"></polygon>
+<polygon points="800,172 886,86 900,86 800,186 700,86 714,86 " style="opacity:1;fill:#d49a29"></polygon>
+<polygon points="800,162 876,86 888,86 800,174 712,86 724,86 " style="opacity:1;fill:#795a1e"></polygon>
+</svg>
+
+</div>
+
+<div class="subtitle quadrata accent">Опенер:</div>
+
+<div class="flex break-mobile">
+
+<div class="flex-2" markdown="1">
+
+1. Прекастом {{ site.data.covenant.Elysian_Decree }}
+1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }} и использования бафа от {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.talent.Felblade }}
+1. {{ site.data.spell.Vengeful_Retreat }}
+1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }}
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
+1. {{ site.data.spell.Death_Sweep }}
+1. **Если вы играете за Ночной народец** - {{ site.data.spell.Metamorphosis }}
+1. Если вы Вентир -  Играем СТ ротацию до тех пор, пока до спадения клейма с цели не останется 1 сек и только затем отдаем {{ site.data.spell.Metamorphosis }} 
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.spell.Death_Sweep }}
+
+<div class="subtitle quadrata accent">Список приоритетов:</div>
+
+1. {{ site.data.spell.Metamorphosis }}
+1. {{ site.data.spell.Vengeful_Retreat }}
+1. {{ site.data.spell.Fel_Rush }}
+1. {{ site.data.spell.Fel_Rush }} - Если активен баф {{ site.data.talent.Unbound_Chaos }} 
+1. {{ site.data.spell.Death_Sweep }} - 3+ цели
+1. {{ site.data.covenant.Elysian_Decree }} - Если вы играете за Кирий
+1. {{ site.data.spell.Eye_Beam }}
+1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
+1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
+1. {{ site.data.spell.Immolation_Aura }}
+1. {{ site.data.spell.Blade_Dance }} - 4+ целей.
+1. {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}
+1. {{ site.data.spell.Throw_Glaive }}
+
+</div>
+</div>
+
+<div class="roate-divider">
+<div>
+
+<svg preserveAspectRatio="xMidYMax meet" viewBox="0 0 1600 200" class="svg-separator sep4" style="display:block">
+<polygon points="886,86 800,172 714,86 -4,86 -4,204 1604,204 1604,86 " style="fill:#191919;"></polygon>
+<polygon points="800,172 886,86 900,86 800,186 700,86 714,86 " style="opacity:1;fill:#d49a29"></polygon>
+<polygon points="800,162 876,86 888,86 800,174 712,86 724,86 " style="opacity:1;fill:#795a1e"></polygon>
+</svg></div></div></div>
+
+</div>
+</div>
+      
 
 </div>
 </div>
@@ -125,884 +528,32 @@ author: Rodriguezz
 
     };
 
-    var mytabs = $tabs('.tabs');
-    if (localStorage.getItem('mytabs')) {
-      mytabs.showTab(document.querySelector('[href="' + localStorage.getItem('mytabs') + '"]'));
-    }
-
-    document.addEventListener('tab.show', function (e) {
-      localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
-    })
-</script>
-
-## Аффикс в 10+ ключе - Полный гордыни
-
-В 1 сезоне Shadowlands к эпохальным ключам 10 уровня и выше применяется сезонный {{ site.data.mplus.Prideful }} модификатор. По сравнению с другими сезонными модификаторами он оказывает относительно небольшое влияние на сложность подземелья и, судя по всему, каждую неделю его свойства будут одинаковы.
-
-Каждые 20% прогресса зачистки существ подземелья игроки порождают Проявление гордыни неподалеку от себя. Это означает, что всего в подземелье можно создать только 5 таких проявлений. Базово Проявление гордыни имеет около 189 тыс. ед. здоровья (это примерно 30% от среднего запаса здоровья боссов), которые растут вместе с повышением уровня ключа. Если в сражении с проявлением игроки погибают или как-то иначе сбрасывают бой, то оно возвращается на место своего появления, при этом не восстанавливая оставшийся запас здоровья.
-
-Проявление гордыни атакует в ближнем бою цель с наибольшей угрозой и применяет два умения: {{ site.data.mplus.Bursting_With_Pride }} и {{ site.data.mplus.Belligerent_Boast }}.
-В первую очередь будет применено умение {{ site.data.mplus.Bursting_With_Pride }}, которое базово наносит 384 ед. урона (масштабируется в зависимости от уровня подземелья) всем игрокам каждые 2 сек. и накладывает на них эффект "Распирающая гордыня", увеличивающий этот урон на 40% за каждое наложение. Эта способность наносит урон игрокам до самой победы над проявлением, но если бой с существом сбросится, то все эффекты рассеются и в следующий раз начнут накладываться с самого начала.
-
-Каждые 7 сек. во время боя также применяется умение {{ site.data.mplus.Belligerent_Boast }}. Это умение накладывает на одного случайного члена группы (отдавая предпочтение бойцам и лекарям) негативный эффект на 4 сек., по истечению которых от игрока в 4 стороны направляются снаряды "Зловредного хвастовства", что наносят большой урон и оглушают на 2 сек. попавших в них игроков. Пока на первого игрока действует изначальный негативный эффект, вокруг него крестом появляются 4 стрелы, которые указывают направления будущих снарядов (они всегда направлены на север, юг, запад и восток, поэтому поворот персонажа не изменит направление снарядов). Снаряды всегда вылетают из игрока, даже если он перебежит на другое место.
-
-<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/20226.jpg" width="43%" height="43%"> <img src="{{ site.url }}/assets/img/guide/havoc/20227.jpg" width="45%" height="45%"> </p>
-
-После победы над Проявлением гордыни на всех членов группы будет наложен позитивный эффект {{ site.data.mplus.Prideful_buff }}, действующий 1 мин. Этот эффект повышает наносимый урон на 30%, скорость передвижения на 60% и восполняет 5% маны каждую секунду. Чем персонажи, конечно, должны поскорее воспользоваться.
-
-
-# Билды
-
-## АоЕ М+ билд Медальон
-
-<div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
-<div class="talentcalc-wrapper" style="" data-selected="no">
-<div class="talentcalc-main" data-selected="no" data-class="demonhunter">
-<div class="talentcalc-header-class">
-<a class="c12">Таланты Охотника на Демонов</a></div>
-<div class="talentcalc-spec-switcher">Специализация: <span class="q1"><span class="tooltip-inside-icon" style="background-image: url(https://wow.zamimg.com/images/wow/icons/small/ability_demonhunter_specdps.jpg)"></span> Истребление <span class="talentcalc-spec-role" style="background-position: 0px 0"></span></span>
-</div>                             
-<div class="talentcalc-spec-desc" data-spec="3">Мрачный мастер боевых клинков и разрушительной магии Скверны. Оружие: боевые клинки, мечи, топоры, кистевое.</div>  
-  
-<table class="talentcalc-core" data-selected="no">
-	<tbody data-selected="no">
-<tr data-row="0" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-
-<div class="inner">15</div>
-</td>
-
-<td class="outer" data-row="0" data-col="1" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203550" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bosskilrogg_deadeye.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Слепая ярость</td>
-</tr>
-</tbody>
-</table >
-</div>
-</td>
-
-<td class="outer" data-row="0" data-col="0" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206478" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_creature_poison_01_purple.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
-<tr>
-<td>Демонический аппетит</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="0" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=232893" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_felblade.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Клинок Скверны</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="1" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">25</div>
-</td>
-
-<td class="outer" data-row="1" data-col="0" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258876" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_hungerforblood.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Неутолимый голод</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="1" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=320374" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_immolation.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
-<tr>
-<td>Пылающая ненависть</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="1" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203555" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_92.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Демонические клинки</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="2" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">30</div>
-</td>
-
-<td class="outer" data-row="2" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258881" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_bladedance.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Остатки разрушений</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=347461" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/artifactability_vengeancedemonhunter_painbringer.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
-<tr>
-<td>Необузданный хаос</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="2" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=342817" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactazgalor_d_06dual.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Шквал клинков</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="3" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">35</div>
-</td>
-
-<td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=204909" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_soulcleave2.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Раздирание души</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=205411" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_manafeed.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Инстинкт самосохранения</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="3" data-col="2" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=196555" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Путь Пустоты</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="4" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">40</div>
-</td>
-
-<td class="outer" data-row="4" data-col="0" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258887" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_whirlofblood.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Цикл ненависти</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="4" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206416" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_bloodcorruption_death.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
-<tr>
-<td>Первая кровь</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="4" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258860" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_ritualofsacrifice.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Разрыв сущности</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="5" class="talentcalc-row" data-selected="yes" data-available="yes"><td class="outer" data-selected="no">
-<div class="inner">45</div>
-</td>
-
-<td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206477" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_chaosnova.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Освобожденная сила</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203556" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_demonhunter_a_01.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Мастер боевого клинка</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="5" data-col="2" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=211881" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bossfellord_felspike.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Извержение Скверны</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="6" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">50</div>
-</td>
-
-<td class="outer" data-row="6" data-col="0" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=213410" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonform.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
-<tr>
-<td>Демонизм</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="6" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206476" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_foundryraid_demolition.jpg)"></ins><del></del>
-</a><div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Импульс</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="6" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258925" onclick="return false;"></a>
-<div class="iconmedium">
-<ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_felbarrage.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Обстрел Скверны</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-</tbody>
-</table>    
-</div>
-</div>
-</div>                    
- 
-
-<br>
-> На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
-
-> Используем легендарный предмет: {{ site.data.legendary.Darkglare_Boon }}
-
-> **Крафтим в слот пояса.**
-
-Рецепт на этот легендарный предмет добывается с подземелья {{ site.data.mplus.Plaguefall }}
-
-В ротации не используется {{ site.data.spell.Blade_Dance }}, а {{ site.data.spell.Death_Sweep }} используем только на 3+ цели
-
-```Ротация М+ Дар созерцателя тьмы ```
-
-**Опенер:**
-1. Прекастом {{ site.data.covenant.Elysian_Decree }}
-1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
-1. {{ site.data.spell.Fel_Rush }} - для нанесения повышенного урона благодаря таланту {{ site.data.talent.Unbound_Chaos }} 
-1. {{ site.data.spell.Eye_Beam }}
-1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
-1. {{ site.data.spell.Death_Sweep }}
-1. Если вы Вентир - {{ site.data.spell.Metamorphosis }} для наложения {{ site.data.covenant.Sinful_Brand }} на все цели. Сливаем рагу. 1. {{ site.data.spell.Eye_Beam }}. {{ site.data.covenant.Sinful_Brand }} - в самую жирную/важную цель, но прежде стоит дождаться спадения {{ site.data.covenant.Sinful_Brand }} с цели, или пока (в идеале) не останется 1 сек.
-1. Если вы **НЕ** Вентир {{ site.data.spell.Metamorphosis }}.
- 
-**Список приоритетов**
-
-1. {{ site.data.spell.Metamorphosis }}
-1. {{ site.data.spell.Fel_Rush }} - Если активен баф {{ site.data.talent.Unbound_Chaos }} 
-1. {{ site.data.covenant.Elysian_Decree }} - Если вы играете за Кирий
-1. {{ site.data.spell.Eye_Beam }}
-1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
-1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
-1. {{ site.data.spell.Death_Sweep }} - 2+ целей.
-1. {{ site.data.spell.Immolation_Aura }}
-1. {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}
-1. {{ site.data.spell.Demons_Bite }} 
-                 
-<br>
-## АоЕ М+ Тоска
-
-<div class="talentcalc" style="min-height: 470px; display: block;" data-left-sidebar="false" data-right-sidebar="false" data-selected="no">
-<div class="talentcalc-wrapper" style="" data-selected="no">
-<div class="talentcalc-main" data-selected="no" data-class="demonhunter">
-<div class="talentcalc-header-class">
-<a class="c12">Таланты Охотника на Демонов</a></div>
-<div class="talentcalc-spec-switcher">Специализация: <span class="q1"><span class="tooltip-inside-icon" style="background-image: url(https://wow.zamimg.com/images/wow/icons/small/ability_demonhunter_specdps.jpg)"></span> Истребление <span class="talentcalc-spec-role" style="background-position: 0px 0"></span></span>
-</div>                             
-<div class="talentcalc-spec-desc" data-spec="3">Мрачный мастер боевых клинков и разрушительной магии Скверны. Оружие: боевые клинки, мечи, топоры, кистевое.</div>  
-  
-<table class="talentcalc-core" data-selected="no">
-	<tbody data-selected="no">
-<tr data-row="0" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-
-<div class="inner">15</div>
-</td>
-
-<td class="outer" data-row="0" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203550" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bosskilrogg_deadeye.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Слепая ярость</td>
-</tr>
-</tbody>
-</table >
-</div>
-</td>
-
-<td class="outer" data-row="0" data-col="0" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206478" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_creature_poison_01_purple.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
-<tr>
-<td>Демонический аппетит</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="0" data-col="2" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=232893" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_felblade.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Клинок Скверны</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="1" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">25</div>
-</td>
-
-<td class="outer" data-row="1" data-col="0" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258876" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_hungerforblood.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Неутолимый голод</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="1" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=320374" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_immolation.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
-<tr>
-<td>Пылающая ненависть</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="1" data-col="2" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203555" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_92.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Демонические клинки</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="2" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">30</div>
-</td>
-
-<td class="outer" data-row="2" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258881" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_bladedance.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Остатки разрушений</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="2" data-col="0" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=347461" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/artifactability_vengeancedemonhunter_painbringer.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
-<tr>
-<td>Необузданный хаос</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="2" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=342817" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactazgalor_d_06dual.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Шквал клинков</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="3" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">35</div>
-</td>
-
-<td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=204909" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_soulcleave2.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Раздирание души</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="3" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=205411" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_manafeed.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Инстинкт самосохранения</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="3" data-col="2" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=196555" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Путь Пустоты</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="4" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">40</div>
-</td>
-
-<td class="outer" data-row="4" data-col="0" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258887" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_whirlofblood.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Цикл ненависти</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="4" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206416" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_bloodcorruption_death.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
-<tr>
-<td>Первая кровь</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="4" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258860" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_ritualofsacrifice.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Разрыв сущности</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="5" class="talentcalc-row" data-selected="yes" data-available="yes"><td class="outer" data-selected="no">
-<div class="inner">45</div>
-</td>
-
-<td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206477" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_chaosnova.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Освобожденная сила</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="5" data-col="1" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=203556" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_demonhunter_a_01.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Мастер боевого клинка</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="5" data-col="2" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=211881" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_bossfellord_felspike.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Извержение Скверны</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-
-<tr data-row="6" class="talentcalc-row" data-selected="yes" data-available="yes">
-<td class="outer" data-selected="no">
-<div class="inner">50</div>
-</td>
-
-<td class="outer" data-row="6" data-col="0" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=213410" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonform.jpg)"></ins><del></del>
-<div class="state active">✓</div></div>
-<table>
-<tbody>
-<tr>
-<td>Демонизм</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer" data-row="6" data-col="1" cursor="pointer" data-selected="yes">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=206476" onclick="return false;"></a>
-<div class="iconmedium"><ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/ability_foundryraid_demolition.jpg)"></ins><del></del>
-</a><div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Импульс</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-
-<td class="outer last-child" data-row="6" data-col="2" cursor="pointer" data-selected="no">
-<div class="inner">
-<a class="screen" target="_blank" data-whattach="icon" href="https://ru.wowhead.com/spell=258925" onclick="return false;"></a>
-<div class="iconmedium">
-<ins style="background-image: url(https://wow.zamimg.com/images/wow/icons/medium/inv_felbarrage.jpg)"></ins><del></del>
-<div class="state">✗</div></div>
-<table>
-<tbody>
-<tr>
-<td>Обстрел Скверны</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-</tbody>
-</table>    
-</div>
-</div>
-</div> 
-
-<br>
-
-> На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
-> В последнем тире талантов можно использовать {{ site.data.talent.Demonic }} 
-
-> Используем легендарный предмет: {{ site.data.legendary.Collective_Anguish }}
-
-> **Крафтим в слот наручей.**
-
-Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Castle_Nathria }}.
-
-В ротации не используется {{ site.data.spell.Blade_Dance }}, а {{ site.data.spell.Death_Sweep }} используем только на 3+ цели
-
-```АоЕ М+ билд Всеобщая тоска  ```
-
-**Опенер с Корейном:**
-1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
-1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }} и использования бафа от {{ site.data.talent.Unbound_Chaos }}
-1. {{ site.data.talent.Felblade }} 
-1. {{ site.data.spell.Eye_Beam }}
-1. {{ site.data.covenant.The_Hunt }}
-1. {{ site.data.spell.Vengeful_Retreat }}
-1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }}
-1. {{ site.data.spell.Metamorphosis }}
-1. {{ site.data.spell.Eye_Beam }}
-
-> Бафф, который дает Корейн на +25% крита в первые 5 секунд боя (при правильной реализации) играет ВАЖНЕЙШУЮ РОЛЬ в вашем опенере. Главная мысль заключается в том, что под этим баффом вы должны зарядить в босса {{ site.data.spell.Fel_Rush }} с бафом от {{ site.data.talent.Unbound_Chaos }} и {{ site.data.covenant.The_Hunt }} Охотой по самому жирному/важному мобу. Реализация усложняется, если у вас есть тринкет с Визгуньи или Денатрия. Тогда в эти 5 секунд надо еще "внедрить" использование тринкета. 
-
-
-**Опенер:**
-1. Прекастом {{ site.data.covenant.Elysian_Decree }}
-1. За 0.5 сек. до начала боя {{ site.data.spell.Immolation_Aura }}
-1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }} и использования бафа от {{ site.data.talent.Unbound_Chaos }} 
-1. {{ site.data.talent.Felblade }}
-1. {{ site.data.spell.Vengeful_Retreat }}
-1. {{ site.data.spell.Fel_Rush }} - для поддержания баффа {{ site.data.spell.Momentum }}
-1. {{ site.data.spell.Eye_Beam }}
-1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
-1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
-1. {{ site.data.spell.Death_Sweep }}
-1. **Если вы играете за Ночной народец** - {{ site.data.spell.Metamorphosis }}
-1. Если вы Вентир -  Играем СТ ротацию до тех пор, пока до спадения клейма с цели не останется 1 сек и только затем отдаем {{ site.data.spell.Metamorphosis }} 
-1. {{ site.data.spell.Eye_Beam }}
-1. {{ site.data.spell.Death_Sweep }}
-
-**Список приоритетов**
-
-1. {{ site.data.spell.Metamorphosis }}
-1. {{ site.data.spell.Vengeful_Retreat }}
-1. {{ site.data.spell.Fel_Rush }}
-1. {{ site.data.spell.Fel_Rush }} - Если активен баф {{ site.data.talent.Unbound_Chaos }} 
-1. {{ site.data.spell.Death_Sweep }} - 3+ цели
-1. {{ site.data.covenant.Elysian_Decree }} - Если вы играете за Кирий
-1. {{ site.data.spell.Eye_Beam }}
-1. {{ site.data.covenant.The_Hunt }} - Если вы играете за Ночной народец
-1. {{ site.data.covenant.Sinful_Brand }} - Если вы играете за Вентиров
-1. {{ site.data.spell.Immolation_Aura }}
-1. {{ site.data.spell.Blade_Dance }} - 4+ целей.
-1. {{ site.data.spell.Chaos_Strike }} / {{ site.data.spell.Annihilation }}
-1. {{ site.data.spell.Throw_Glaive }} 
+    (function () {
+      var
+        nameKey = 'mytabs2',
+        mytabs = {},
+        mytabsStorage = {},
+        listTabs = document.querySelectorAll('.tabs');
+
+      for (var i = 0, length = listTabs.length; i < length; i++) {
+        if (listTabs[i].id) {
+          mytabs[listTabs[i].id] = $tabs(listTabs[i]);
+        }
+      }
+      if (localStorage.getItem(nameKey)) {
+        mytabsStorage = JSON.parse(localStorage.getItem(nameKey));
+        for (var key in mytabsStorage) {
+          if (mytabs.hasOwnProperty(key)) {
+            mytabs[key].showTab(document.querySelector('[href="' + mytabsStorage[key] + '"]'));
+          }
+        }
+      }
+      document.addEventListener('tab.show', function (e) {
+        mytabsStorage[e.detail.closest('.tabs').getAttribute('id')] = e.detail.querySelector('.tabs__link_active').getAttribute('href');
+        localStorage.setItem(nameKey, JSON.stringify(mytabsStorage));
+      })
+    })();
+</script>	
 <br>
 
 # Легендарные предметы
@@ -1025,14 +576,17 @@ author: Rodriguezz
 # Какой ковенант выбрать
 
 **Лучший выбор для М+**
-1. Ночной народец <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> / Вентиры <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> / Кирии <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24">  
-1. Некролорды <img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24">
+1. Ночной народец <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> / Вентиры <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> / Некролорды <img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24">
+1. Кирии <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24">
 
-> Для М+ на данный момент выбор ковенанта особой роли не играет, т.к. игра в каждом ковенанте имеет свои плюсы и минусы. Если вы проводите львиную долю игры в ключах, а мифик рейды вас не интересуют, а ПвП вам всю жизнь было противно - то можете выбрать любой ковенант. Если вы планируете играть ключи и покорять  "прогулочным шагом" мифик рейды - то стоит выбирать между <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> Вентирами и <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> Ночным народцем . Если вы играете во все аспекты игры (мифик рейды, М+ и пвп) то ваш выбор ограничен (увы) Ночной народец <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> Ночным народцем.
+<p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
 
-# Какого медиума выбрать
+Для М+ на данный момент выбор ковенанта особой роли не играет, т.к. игра в каждом ковенанте имеет свои плюсы и минусы. Если вы проводите львиную долю игры в ключах, а мифик рейды вас не интересуют, а ПвП вам всю жизнь было противно - то можете выбрать любой ковенант. Если вы планируете играть ключи и покорять  "прогулочным шагом" мифик рейды - то стоит выбирать между <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> Вентирами и <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> Ночным народцем . Если вы играете во все аспекты игры (мифик рейды, М+ и пвп) то ваш выбор ограничен (увы) Ночной народец <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> Ночным народцем.
+</span></p>
 
-## Ковенат Ночной народец
+## Какого медиума выбрать
+
+### Ковенат Ночной народец
 
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/fae_logo.png"> </p>
 
@@ -1042,15 +596,19 @@ author: Rodriguezz
 
 Лучшим медиумом для нас будет Ния, дерево прокачки медиума выглядит следующим образом:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/ApZlAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/AwCWZZYBBStvABIFLR8AJSzPACMVKvoAJSrvADV2AAA" target="blank">anything</a>
 
 Начиная с 31 уровня известности для М+ и АоЕ используем медиума **Корейн**, его дерево прокачки выглядит следующим образом:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/ApbqAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwCarr4BJStvABIFLR8AJSzPACMFKvoAFSrvACV2AAA" target="blank">anything</a>
+
+<p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
+Вместо {{ site.data.conduits.Demons_Touch }} рекомендуется использовать кондуит [Неестественная злоба](https://ru.wowhead.com/spell=344358), т.к. это значительно повысит ваш урон в паки.
+</span></p>
 
 > Что касается М+ контента, тут выигрывает Корейн, при "вдумчивой" игре Корейн нам дает неоспоримое преимущество перед Нией и взрывной бурстовый урон.
 
-## Ковенат Вентиров
+### Ковенат Вентиров
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/ventyr_logo.png"></p>
 
 После вступления в ковенант нам откроются две способности:
@@ -1061,13 +619,13 @@ author: Rodriguezz
 
 Лучшим медиумом для нас будет **Наджия**, дерево прокачки медиума выглядит следующим образом:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/ApavAgUrbwAVK5MAEQUtHwAhFSr6AA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwCWr5YDBStvABUrkwAlLM0AEgUtHwAlLM8AIRUq-gA" target="blank">anything</a>
 
 > Билд подходит для М+ и Рейда
 
 > У  Наджии есть возможность немного поднять наш АоЕ урон, для этого нужно заменить {{ site.data.covenant.Dauntless_Duelist }} на {{ site.data.covenant.Exacting_Preparation }}, а также зачаровать оружие 2х {{ site.data.prof.Enchant_Weapon_Lightless_Force }}.
 
-## Ковенат Кирий
+### Ковенат Кирий
 
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/kiri_logo.png"> </p>
 
@@ -1077,15 +635,15 @@ author: Rodriguezz
 
 {{ site.data.covenant.Summon_Steward }} - Вы зовете распорядителя, который приносит вам {{ site.data.covenant.Phial_of_Serenity }}, восполняющий 20% здоровья и снимающий проклятия, болезни, яды и эффекты кровотечения. Очень полезный флакон, сильно упрощает жизнь в ключах, снимает даже стаки аффикса {{ site.data.mplus.Necrotic }}.
 
-Лучшим медиумом для нас будет **Пелагос**, дерево прокачки медиума выглядит следующим образом:
+Лучшим медиумом для нас будет **Пелагий**, дерево прокачки медиума выглядит следующим образом:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/ApbmEgUtHwAVLM8AIhUq-gAlKu8A" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwCW5pYTBS0fABUszwAldg4AIxUq-gAlKu8ANXYAAA" target="blank">anything</a>
 
 > Для М+ и АоЕ заменяем проводник {{ site.data.conduits.Demons_Touch }} на {{ site.data.conduits.Repeat_Decree }} Начиная с 31 уровня известности для М+ и АоЕ используем медиума **Верховный автоматург Миканикос**, его дерево прокачки выглядит следующим образом:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/ApbqAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwCW6pYBBStvABIFLR8AJSzPACMVKvoAJSrvADV2AAA" target="blank">anything</a>
 
-## Ковенант Некролорды
+### Ковенант Некролорды
 
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/necrolord_logo.png"> </p>
 
@@ -1095,7 +653,7 @@ author: Rodriguezz
 
 Лучшим медиумом для нас будет **Костоплав Гейрмир**, дерево прокачки медиума выглядит следующим образом:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/ApbqAQUrbwARBS0fACIVKvoAJSrvAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/AwCWZr4BJStvABMFLR8AFSzPACV2DgAiFSr6ACUq7wA" target="blank">anything</a>
 
 # Утилити способности Охотника на Демонов
 
