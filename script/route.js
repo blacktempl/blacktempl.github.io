@@ -1,5 +1,5 @@
 const affixes = [
-  { name: "Tyrannical-Bolstering-Necrotic", href: "/guide/route/Tyrannical-Bolstering-Necrotic.html" },
+  { name: "Fortified-Inspiring-Necrotic", href: "/guide/route/Fortified-Inspiring-Necrotic.html" },
   { name: "Fortified-Inspiring-Storming", href: "/guide/route/Fortified-Inspiring-Storming.html" },
   { name: "Tyrannical-Bursting-Explosive", href: "/guide/route/Tyrannical-Bursting-Explosive.html" },
   { name: "Fortified-Sanguine-Grievous", href: "/guide/route/Fortified-Sanguine-Grievous.html" },
