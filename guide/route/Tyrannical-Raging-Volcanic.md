@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Тиранический, Разъяренный, Вулканический
-description: Маршруты для недели Тиранический, Разъяренный, Вулканический и Полный гордыни Mythic Dungeon Tools 9.1 Shadowlands
+description: Маршруты для недели Тиранический, Разъяренный, Вулканический и Истязание Mythic Dungeon Tools 9.1 Shadowlands
 last_update: 10-07-2021 09:00:00
 game_version: 9.1 Shadowlands
 author: Rodriguezz
