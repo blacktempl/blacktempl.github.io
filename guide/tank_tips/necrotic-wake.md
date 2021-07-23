@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Заметки для танков 
-description: ДХ Месть 9.1 PvE заметки для танков Shadowlands
+title: Заметки для танков Смертельная тризна
+description: ДХ Месть 9.1 PvE заметки для танков для подземелья Смертельная тризна Shadowlands 
 last_update: 2020-06-14 09:00:00
 game_version: 9.1 Shadowlands
 author: Rodriguezz
