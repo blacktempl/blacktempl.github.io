@@ -626,7 +626,7 @@ image:
 
 Начиная с 31 уровня известности для М+ и АоЕ используем медиума **Корейн**, его дерево прокачки выглядит следующим образом:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwCarr4BJStvABIFLR8AJSzPACMFKvoAFSrvACV2AAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwCaqpYBBStvABIFLR8AJSzPACMVKu8AJSr6ADV2AAA" target="blank">anything</a>
 
 <p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
 Вместо {{ site.data.conduits.Demons_Touch }} рекомендуется использовать кондуит [Неестественная злоба](https://ru.wowhead.com/spell=344358), т.к. это значительно повысит ваш урон в паки.

@@ -154,7 +154,7 @@ image:
 
 Рекомендуемое дерево развития медиума Корейн:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwCW6pYBBStvABIFLR8AJUEmACMVKvoAJSrvADV2AAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwCaqpYBBStvABIFLR8AJSzPACMVKu8AJSr6ADV2AAA" target="blank">anything</a>
 
 ## Ковенант Некролорды
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/necrolord_logo.png"> </p>

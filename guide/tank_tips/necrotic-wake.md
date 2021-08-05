@@ -4,7 +4,7 @@ title: Заметки для танков Смертельная тризна
 description: ДХ Месть 9.1 PvE заметки для танков для подземелья Смертельная тризна Shadowlands 
 last_update: 2020-06-14 09:00:00
 game_version: 9.1 Shadowlands
-author: Rodriguezz
+author: "Rodriguezz. Оригинал: tanknotes.com"
 toc: false
 image:
     path: assets/img/blog/prev/nw.jpg
@@ -517,6 +517,5 @@ image:
           </div>
         </div>
 <a href="https://www.patreon.com/BlackTemple" target="blank">Patreon</a>
-
 
 
