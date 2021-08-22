@@ -10,6 +10,7 @@ image:
     path: assets/img/blog/prev/post1.png
 ---
 
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/prev/post1.png" style="outline: 2px solid #000;"> </p>
 В обновлении 9.1 Shadowlands Chains of Domination у Охотников на Демонов появятся новые легендарные предметы. 
 Новые легендарные предметы будут усиливать наши способности ковенанта.
 
