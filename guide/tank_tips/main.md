@@ -6,6 +6,8 @@ last_update: 2020-06-14 09:00:00
 game_version: 9.0.5 Shadowlands
 author: Rodriguezz
 toc: false
+image:
+    path: assets/img/blog/prev/vdhmplus.png
 ---
 
 <div class="gridtn boss-overview">
@@ -33,28 +35,6 @@ toc: false
            Чертоги Покаяния
 </h2></div> <div class="bordertn"></div></div></a>
 
-<a href="/guide/tank_tips/necrotic-wake" class="">
-<div class="cardtn boss-card" style="background-image: url(&quot;https://tanknotes.com/storage/uploads/2020/11/15/5fb179735d52fDoS.webp&quot;);background-size: cover;background-position: center center;">
-<div><div class="boss-background" style="filter: hue-rotate(73deg);"></div> <!----> <h2 class="quadrata text-shadow">
-           Та Сторона
-</h2></div> <div class="bordertn"></div></div></a>
 
-<a href="/guide/tank_tips/necrotic-wake" class="">
-<div class="cardtn boss-card" style="background-image: url(&quot;https://tanknotes.com/storage/uploads/2020/11/15/5fb178fa67918PF.webp&quot;);background-size: cover;background-position: center center;">
-<div><div class="boss-background" style="filter: hue-rotate(73deg);"></div> <!----> <h2 class="quadrata text-shadow">
-            Чумные каскады
-</h2></div> <div class="bordertn"></div></div></a>
-
-<a href="/guide/tank_tips/necrotic-wake" class="">
-<div class="cardtn boss-card" style="background-image: url(&quot;https://tanknotes.com/storage/uploads/2020/11/15/5fb179268f9eaSD.webp&quot;);background-size: cover;background-position: center center;">
-<div><div class="boss-background" style="filter: hue-rotate(73deg);"></div> <!----> <h2 class="quadrata text-shadow">
-            Кровавые катакомбы
-</h2></div> <div class="bordertn"></div></div></a>
-
-<a href="/guide/tank_tips/necrotic-wake" class="">
-<div class="cardtn boss-card" style="background-image: url(&quot;https://tanknotes.com/storage/uploads/2020/11/15/5fb17ae355262ToP.webp&quot;);background-size: cover;background-position: center center;">
-<div><div class="boss-background" style="filter: hue-rotate(73deg);"></div> <!----> <h2 class="quadrata text-shadow">
-            Смертельная тризна
-</h2></div> <div class="bordertn"></div></div></a>
 
 </div>
