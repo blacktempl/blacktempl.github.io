@@ -3,7 +3,7 @@ layout: page
 title: Заметки для танков 
 description: ДХ Месть 9.0.5 PvE заметки для танков Shadowlands
 last_update: 2020-06-14 09:00:00
-game_version: 9.0.5 Shadowlands
+game_version: 9.1 Shadowlands
 author: Rodriguezz
 toc: false
 image:
