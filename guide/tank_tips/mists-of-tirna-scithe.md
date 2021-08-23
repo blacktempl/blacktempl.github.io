@@ -239,7 +239,7 @@ image:
 <div class="flex break-mobile">
 <div class="flex-1 image">
 <picture>
-<img src="/assets/img/guide/tank_tips/5f8e5cbc4eb61Ingra-Maloch-Boss.png" loading="lazy"></picture></div>
+<img src="/assets/img/guide/tank_tips/5fa450ec9a598Mistcaller.png" loading="lazy"></picture></div>
 <div class="flex-2">
 <ul>
 <li><b>Выбивной</b> - выходите из стрелок</li>
