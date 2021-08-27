@@ -7,7 +7,7 @@ game_version: 9.1 Shadowlands
 author: "Rodriguezz. Оригинал: tanknotes.com"
 toc: false
 image:
-    path: assets/img/blog/prev/mots.jpg
+    path: assets/img/blog/prev/10334.jpg
 ---
 
 ## Изменения в патче 9.1
