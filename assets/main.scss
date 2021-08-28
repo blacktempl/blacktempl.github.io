@@ -387,8 +387,14 @@ hr {
 .roate-divider {
     margin-top: -1.1rem;
 }
-	
 
+.gridtn {
+    grid-template-columns: 1fr;
+}
+
+.guide-boss-card {
+    margin: 0 0rem;
+}
 }
 
 .rio-news-element--container .rio-news-element--byline, .rio-news-element--container .rio-news-element--tags {
