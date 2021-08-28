@@ -22,16 +22,17 @@
 
       <div class="footer-col footer-col-1">
         
-		<a href="https://discord.gg/434y7Nh" target="blank"><img src="{{ '/assets/img/logos/discord.png' | relative_url }}"  style="vertical-align: text-top;"/></a>
+		<a href="https://discord.gg/434y7Nh" target="blank"><img src="{{ '/assets/img/logos/discord.png' | relative_url }}"  style="vertical-align: text-top; padding-right: 0.7rem;"/></a>
+		<a href="https://discord.gg/434y7Nh" target="blank"><img src="{{ '/assets/img/logos/youtube.png' | relative_url }}"  style="vertical-align: text-top;"/></a>
       </div>
 
       <div class="footer-col footer-col-2">
-        {%- if site.patreon_name -%}<p style="text-align: right; margin-right: -12px;"><a href="https://www.patreon.com/{{ site.patreon_name }}" target="blank"><img src="{{ '/assets/img/logos/become_a_patron_button.png' | relative_url }}" alt="Patreon button logo" height="36" style="vertical-align: text-top;"/></a></p>{%- endif -%}
-        <p style="text-align:right; margin-right: -12px; margin-left: 50px; padding-left:30px;"><a href="/patreon/thanks.html">Авторы и благодарности</a>.</p>
-		 <p style="text-align: right; margin-right: -12px;">{{- site.description | escape -}}</p>
+        {%- if site.patreon_name -%}<p style="text-align: right; margin-right: -12px;"><a href="https://www.patreon.com/{{ site.patreon_name }}" target="blank"><img src="{{ '/assets/img/logos/patreon.png' | relative_url }}" alt="Patreon button logo" style="vertical-align: text-top;"/></a></p>{%- endif -%}
+      
       </div>
     </div>
-
+  <p style="text-align:right; margin-right: -12px; margin-left: 50px; padding-left:30px;"><a href="/patreon/thanks.html">Авторы и благодарности</a>.</p>
+		 <p style="text-align: right; margin-right: -12px;">{{- site.description | escape -}}</p>
   </div>
   
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
