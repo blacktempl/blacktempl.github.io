@@ -211,6 +211,28 @@
     border-left: .3rem solid #d32f2f;
 }
 
+h3>span[class^=season-]:before, h3>span[class^=t1-]:before, h3>span[class^=t2-]:before, h3>span[class^=t3-]:before {
+    background-image: var(--bg-image);
+}
+
+div.markdown-body[data-spec=all] h3>span[class^=spec-]:before, h3>span[class^=season-]:before, h3>span[class^=t1-]:before, h3>span[class^=t2-]:before, h3>span[class^=t3-]:before {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    content: "";
+    background-size: 30px;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    margin-top: -7px;
+    margin-right: 10px;
+    background-color: #000;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px 1px rgba(255,191,0,.4);
+    border: 1px solid #d49a29;
+}
+
+
 // Tank notes
 
 
@@ -233,6 +255,31 @@
 
 #patron img:hover {
     opacity: 0.6;
+}
+
+.parteons {
+	height: 15rem;
+    position: relative;
+    background-color: #222222;
+	border-radius: 5px;
+  }
+
+.parteons>div>p {
+	font-size: 1rem;
+	margin-top: .6rem;
+  }
+  
+.quadrata {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 2rem;
+    width: 80%;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
 }
 
 // patreon кнопка
@@ -1079,6 +1126,10 @@ padding:0}
 float:none;
 width:732px}
 
+.parteons{
+font-size: 1.7rem;
+height: 20rem;
+}
  }
 
  @media screen and (max-width:474px){
@@ -1419,6 +1470,19 @@ a.dropdown-item:visited {
   right: 5%;
   border-left: 3px solid $grey-color;
 }
+
+@media screen and (max-width: 800px){
+.wrapper-content {
+    flex: 1;
+    background-color: #1f1e1e;
+    padding: 1px 5px;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 1),
+                -23px 0 20px -23px rgba(0, 0, 0, .8),
+                23px 0 20px -23px rgba(0, 0, 0, .8),
+                0 0 5px rgba(0, 0, 0, .1) inset;
+	}
+}
+
 @media only screen and (max-width: 1150px) {
   .side-menu { // hide side menu if we have to assume it would probably overlap the content
     display: none;
