@@ -426,6 +426,8 @@ image:
 
 ## БиС лист
 
+<div class="table-box" markdown="1">
+
 |Слот|Название|Камень господства|Добывается|
 |Голова|[Колпак извивающегося зла](https://ru.wowhead.com/item=186292/)|[Осколок Диз](https://ru.wowhead.com/item=187073)|[Душа Нер'зула](https://ru.wowhead.com/npc=175729)|
 |Шея|[Межпланарный краеугольный камень](https://ru.wowhead.com/item=186379)| - |[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
@@ -440,10 +442,11 @@ image:
 |Кольцо 1|[Потускневший знак Кель'Таласа](https://ru.wowhead.com/item=186377)| - |[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
 |Кольцо 2|[Миниатюрное колесо для казни](https://ru.wowhead.com/item=186375)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
 |Аксессуар 1|[Забрызганная кровью чешуйка](https://ru.wowhead.com/item=179331)| - |[Та Сторона](https://ru.wowhead.com/de-other-side)|
-|Аксессуар 2|[Осколок эгиды Аннгильды](https://ru.wowhead.com/item=186424)| - |[Скайя](https://ru.wowhead.com/npc=175726)|
+|Аксессуар 2|[Осколок эгиды Аннгильды](https://ru.wowhead.com/item=1864241)| - |[Скайя](https://ru.wowhead.com/npc=175726)|
 |Основная рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
 |Левая рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
 
+</div>
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/overview.html">Далее:<br>Обзор</a></div>
 
 

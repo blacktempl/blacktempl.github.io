@@ -924,7 +924,9 @@ DPS = a1 х Crit+a2 х Haste+a3 х Mastery+a4 х Versatility+a5 х Agility + а6
 Именно по этому **Лучшее решение, которые вы можете принять в вопросе выбора лучшего предмета экипировки это забыть напрочь о "приоритете статов" и использовать Top Gear.**
 
 
+
 ## БиС лист
+<div class="table-box" markdown="1">
 
 |Слот|Название|Камень господства|Добывается|
 |Голова|[Клобук навязчивого предвидения](https://ru.wowhead.com/item=186330/)|[Осколок Зед](https://ru.wowhead.com/item=187079)|[Писарь судьбы Ро-Кало](https://ru.wowhead.com/npc=179390)|
@@ -944,5 +946,6 @@ DPS = a1 х Crit+a2 х Haste+a3 х Mastery+a4 х Versatility+a5 х Agility + а6
 |Основная рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
 |Левая рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
 
+</div>
 
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/overview.html">Далее:<br>Обзор</a></div>
