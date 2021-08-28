@@ -395,6 +395,14 @@ hr {
 .guide-boss-card {
     margin: 0 0rem;
 }
+
+// Скрол таблици по горизонтали
+
+.table-box {
+	overflow-x: scroll;
+}
+// Скрол таблици по горизонтали
+
 }
 
 .rio-news-element--container .rio-news-element--byline, .rio-news-element--container .rio-news-element--tags {
