@@ -10,7 +10,7 @@ image:
     path: assets/img/blog/prev/patch915.jpg
 ---
 
-<p align="center" width="100%"> <img src="{{ site.url }}assets/img/blog/prev/patch915.jpg"> </p>
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/prev/patch915.jpg"> </p>
 
 В обновлении 9.1.5 авторы игры снимут ограничение на кап целей для АоЕ для большинства умений, но сделают так, чтобы дополнительные цели получали меньше урона, чем основные, для решения изначальной проблемы.
 
