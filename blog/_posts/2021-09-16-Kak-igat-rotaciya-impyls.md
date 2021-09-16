@@ -3,7 +3,7 @@ layout: page
 title: Как играть, Ротация: Импульс и Жгучая рана для Охотников на Демонов Истребления 9.1.0 Shadowlands
 description: Как играть, Ротация: Импульс и Жгучая рана для Охотников на Демонов Истребления 9.1.0 Shadowlands
 game_version: 9.1.0 Shadowlands
-last_update: 2021-06-18 00:00:00 
+last_update: 2021-09-16 00:00:00 
 author: "Rodriguezz"
 toc: false
 image:
@@ -11,7 +11,6 @@ image:
 ---
 
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/prev/rotaciyaimpyls.jpg" style="outline: 2px solid #000;"> </p>
-
 В этом видео вы сможете узнать как правильно начинать бой и использовать список приоритетов. А также как правильно использовать Импульс.
 
 <div class="frame_blc">
