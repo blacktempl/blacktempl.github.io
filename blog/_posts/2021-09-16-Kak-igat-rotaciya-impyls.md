@@ -25,7 +25,7 @@ image:
 
 ### Список приорритетов
 
-<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/rotaciya/rotaciya.jpg" style="outline: 2px solid #000;"> </p>
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/rotaciya/rotaciya.png" style="outline: 2px solid #000;"> </p>
 
 ### Шпаргалка по боссам Святилища Господства
 
