@@ -41,6 +41,10 @@ image:
            Та Сторона
 </h2></div> <div class="bordertn"></div></div></a>
 
-
+<a href="/guide/tank_tips/plaguefall" class="">
+<div class="cardtn boss-card" style="background-image: url(&quot;https://tanknotes.com/storage/uploads/2020/11/15/5fb178fa67918PF.webp&quot;);background-size: cover;background-position: center center;">
+<div><div class="boss-background" style="filter: hue-rotate(73deg);"></div> <!----> <h2 class="quadrata text-shadow">
+            Чумные каскады
+</h2></div> <div class="bordertn"></div></div></a>
 
 </div>
