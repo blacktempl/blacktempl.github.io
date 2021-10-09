@@ -95,7 +95,7 @@ image:
 * Местоположение лейтенантов отображается на карте подземелья и миникарте
 * Убийство лейтенантов не требуется для успешного завершения подземелья, но так вы по крайней мере не будете усложнять сражение с финальным боссом.
 
-<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/24055.jpg"></p>
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_0/24055.jpg"></p>
 
 ### Ауры прислужников Тюремщика
 
@@ -576,12 +576,12 @@ image:
 # Какой ковенант выбрать
 
 **Лучший выбор для М+**
-1. Ночной народец <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> / Вентиры <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> / Некролорды <img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24">
-1. Кирии <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24">
+1. Ночной народец <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_0/nightfae.png" width="22" height="22"> / Вентиры <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_0/venthyr.png" width="16" height="24"> / Некролорды <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_0/nekrolords.png" width="16" height="24">
+1. Кирии <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_0/kyrian.png" width="16" height="24">
 
 <p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
 
-Для М+ на данный момент выбор ковенанта особой роли не играет, т.к. игра в каждом ковенанте имеет свои плюсы и минусы. Если вы проводите львиную долю игры в ключах, а мифик рейды вас не интересуют, а ПвП вам всю жизнь было противно - то можете выбрать любой ковенант. Если вы планируете играть ключи и покорять  "прогулочным шагом" мифик рейды - то стоит выбирать между <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> Вентирами и <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> Ночным народцем . Если вы играете во все аспекты игры (мифик рейды, М+ и пвп) то ваш выбор ограничен (увы) Ночной народец <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> Ночным народцем.
+Для М+ на данный момент выбор ковенанта особой роли не играет, т.к. игра в каждом ковенанте имеет свои плюсы и минусы. Если вы проводите львиную долю игры в ключах, а мифик рейды вас не интересуют, а ПвП вам всю жизнь было противно - то можете выбрать любой ковенант. Если вы планируете играть ключи и покорять  "прогулочным шагом" мифик рейды - то стоит выбирать между <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_0/venthyr.png" width="16" height="24"> Вентирами и <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_0/nightfae.png" width="22" height="22"> Ночным народцем . Если вы играете во все аспекты игры (мифик рейды, М+ и пвп) то ваш выбор ограничен (увы) Ночной народец <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_0/nightfae.png" width="22" height="22"> Ночным народцем.
 </span></p>
 
 ## Какого медиума выбрать

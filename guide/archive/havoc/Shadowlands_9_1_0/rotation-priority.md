@@ -11,18 +11,18 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
-<a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
-<a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Ротация</span></a>
-<a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
-<a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
-<a href="{{ site.url }}/guide/havoc/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ковенанты</a>
-<a href="{{ site.url }}/guide/havoc/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
-<a href="{{ site.url }}/guide/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
-<a href="{{ site.url }}/guide/havoc/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
-<a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Ротация</span></a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ковенанты</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
 ## Базовые способности
@@ -383,7 +383,7 @@ image:
 <li>Для {{ site.data.spell.Vengeful_Retreat }} с этой способностью все немного проще, так как вы будете использовать ее в паре с {{ site.data.spell.Fel_Rush }}. После использования {{ site.data.spell.Vengeful_Retreat }} используйте {{ site.data.spell.Fel_Rush }}, чтобы вернутся обратно к цели.</li>
 </ul>
 
-<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/optimal_momentym_pathing.png"> </p>
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_0/optimal_momentym_pathing.png"> </p>
 
 ### Помните об опасности
 
@@ -396,5 +396,5 @@ image:
 <li> Планируйте и минимизируйте неудачные использования {{ site.data.spell.Fel_Rush }}. Использование {{ site.data.spell.Fel_Rush }} из стороны в сторону часто будет лучшим вариантом, но имейте в виду, что вместо этого легко случайно можете улететь вперед. Всегда стойте так, чтобы нападающий не убил вас, если это возможно. Используйте {{ site.data.spell.Fel_Rush }} лишь убедившись, что ваш персонаж смотрит в том направлении, в котором вы собрались использовать {{ site.data.spell.Fel_Rush }}, это значительно снизит вероятность того, что вы попадете в неожиданное место.</li>
 </ul>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Назад:<br>Таланты и Билды</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/stats.html">Далее:<br>Характеристики</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/talent-builds.html">Назад:<br>Таланты и Билды</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/stats.html">Далее:<br>Характеристики</a></div>

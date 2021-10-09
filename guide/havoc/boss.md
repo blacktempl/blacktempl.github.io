@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: guide
 title: Кратко и Быстро
 description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
 last_update: 2021-06-24 09:00:00

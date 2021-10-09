@@ -11,18 +11,18 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
-<a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
-<a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ротация</a>
-<a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
-<a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
-<a href="{{ site.url }}/guide/havoc/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ковенанты</a>
-<a href="{{ site.url }}/guide/havoc/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
-<a href="{{ site.url }}/guide/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
-<a href="{{ site.url }}/guide/havoc/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"><span style="color: white;"> WeakAuras</span></a>
-<a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ротация</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ковенанты</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"><span style="color: white;"> WeakAuras</span></a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
 ## Что такое WeakAuras?
@@ -41,12 +41,12 @@ image:
  
 **Ipse's WA's - Demon Hunter:** <a href="https://wago.io/4kTH1dUFb" target="blank">https://wago.io/4kTH1dUFb</a>
 <p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WA_ipses_havoc.gif">
+<img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_0/WA_ipses_havoc.gif">
 </p>
 
 **Afenar WA's - Demon Hunter:** <a href="https://wago.io/Afenar_DH" target="blank">https://wago.io/Afenar_DH</a>
 <p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WA_afenar_Havoc.webp">
+<img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_0/WA_afenar_Havoc.webp">
 </p>
 
 ## Полезные ауры
@@ -56,7 +56,7 @@ image:
 
 **Полоса гнева с прогнозами:** <a href="https://wago.io/kib-dh-power-bar" target="blank">https://wago.io/kib-dh-power-bar</a>
 <p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WA_Kibo_Power_bar.gif">
+<img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_0/WA_Kibo_Power_bar.gif">
 </p>
 
 ## Создание собственных 
@@ -70,12 +70,12 @@ image:
  чтобы открыть окно экспорта. Далее просто нажмите «Копировать», чтобы использовать ауру по умолчанию, или **Настроить**, чтобы легко изменить ее настройки!
  
  <p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WA_crate_havoc.jpg">
+<img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_0/WA_crate_havoc.jpg">
 </p>
 
  <p align="left" width="100%">
-<img src="{{ site.url }}/assets/img/guide/havoc/WeakAuras_preferens.png">
+<img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_0/WeakAuras_preferens.png">
 </p>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/macros-addons.html">Назад:<br>Макросы и Аддоны</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/common-terms.html">Далее:<br>Сокращени</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/macros-addons.html">Назад:<br>Макросы и Аддоны</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_0/common-terms.html">Далее:<br>Сокращени</a></div>
