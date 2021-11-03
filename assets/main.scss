@@ -235,7 +235,139 @@ div.markdown-body[data-spec=all] h3>span[class^=spec-]:before, h3>span[class^=se
 
 // Tank notes
 
+// Ротация
+.talents-table {
+  line-height: 0.75em;
+  z-index: 2;
 
+  td {
+      width: 31%;
+      height: 60px;
+      text-align: left;
+      vertical-align: middle;
+      padding: 0;
+      background-color: #222222;
+      border: 1px solid #141414;
+  }
+
+  td.talent-active {
+      background-color: #2C394B !important;
+      border: 1px double $brand-color;
+  }
+
+  td:not(.talent-active) {
+      a {
+          -webkit-filter: grayscale(100%);
+          filter: grayscale(100%);
+          color: gray;
+      }
+      a:hover {
+          -webkit-filter: unset;
+          filter: unset;
+          color: $brand-color;
+      }
+  }
+
+  th {
+      max-width: 10px;
+      background-color: #222222;
+      border: 1px solid #141414;
+      vertical-align: middle;
+      color: #d1cdab;
+  }
+
+  a {
+      font-size: 0.9em;
+      color: #78c50a;
+      display: block;
+  }
+
+  a:hover {
+      text-decoration: none;
+  }
+
+  span.iconmedium {
+      margin-left: 10px;
+      margin-right: 10px;
+      position: relative;
+      display: inline-block;
+  }
+
+  span:not([class]) {
+      display: inline-block;
+      vertical-align: middle;
+      max-width: 150px;
+  }
+
+  .iconmedium del {
+      background-image: none !important;
+  }
+}
+
+@media (max-width: 800px) {
+  .talents-table {
+      th {
+          display: none;
+      }
+
+      td {
+          text-align: center;
+          vertical-align: top;
+          height: 65px;
+      }
+
+      span:not([class]) {
+          display: block;
+          max-width: 100%;
+      }
+  }
+}
+
+td.rotation_switch {
+  cursor: pointer;
+}
+
+td.rotation_switch label {
+  margin: 0;
+  cursor: pointer;
+  display: block;
+}
+
+td.covenants {
+  width: 25%;
+  text-align: center;
+  vertical-align: top;
+  padding: 5px;
+}
+
+td.covenants span:not([class]) {
+  display: block;
+  max-width: 100%;
+}
+
+.bordered {
+  border: 1px solid $text-color;
+  padding: 10px;
+  p {
+      margin: 0px;
+  }
+}
+
+.fcol-l {
+  padding-right: 2.2rem!important;
+}
+
+.fcol-r {
+  padding-left: 2.2rem!important;
+  margin-left: auto;
+}
+
+@media (max-width: 600px) {
+  .fcol-l {
+      padding-right: 1.0rem!important;
+  }
+}
+// Ротация
 
 
 // patreon кнопка
@@ -463,45 +595,45 @@ hr {
       margin-right: auto;
     }
 
-    .tabs {
-//      border: 1px solid lightgray;
-    }
-
     .tabs__nav {
       display: flex;
       flex-wrap: wrap;
       list-style-type: none;
-//      background: #f8f8f8;
       margin: 0;
-//      border-bottom: 1px solid lightgray;
-//	  max-width: 50%
+
     }
 
     .tabs__link {
       padding: 0.5rem 0.75rem;
-      text-decoration: none;
+      text-decoration: none !important;
       color: #aaa!important;
       text-align: center;
       flex-shrink: 0;
-	  background-color: #1c1c1c;
-//     flex-grow: 1;
+	    background-color: #333;
+      border-radius: 3px 3px 0 0;
+      margin-left: 0.5rem;
+      border: 1px solid #000;
+      border-bottom: 0;
+      line-height: 1rem;
     }
 
     .tabs__link_active {
-	  background-color: #333;
-	  color: #fff!important;
-//      background: lightgray;
+	    background-color: #1c1c1c;
+	    color: #fff!important;
       cursor: default;
+      border: 1px solid #000;
+      margin-bottom: -1px;
+      border-bottom: 0;
     }
 
     .tabs__link:not(.tabs__link_active):hover,
     .tabs__link:not(.tabs__link_active):focus {
-      background-color: #efefef;
+      background-color: #1c1c1c;
     }
 
     .tabs__content {
-	  border: 2px solid #333;
-	  background: #202020;
+	  border: 1px solid #000;
+	  background: #1c1c1c;
 	  border-radius: 0 3px 3px 3px;
     }
 
@@ -1211,7 +1343,7 @@ font-size:14px}
 }
 
 #cta-but a {
-	text-decoration: none;.
+	text-decoration: none;
 	color: #78c50a!important;
 }
 
@@ -1351,6 +1483,220 @@ font-size:14px}
     display: block;
 }
 
+////цвет Ковенантов
+
+.covenant-kyrian {
+    color: #68ccef !important;
+}
+
+.covenant-necrolord {
+    color: #40bf40 !important;
+}
+
+.covenant-night-fae {
+    color: #a330c9 !important;
+}
+
+.covenant-venthyr {
+    color: #ff4040 !important;
+}
+
+////цвет Ковенантов
+
+.q5, .q5 a, .color-q5, .q5 a {
+    color: #ff8000 !important;
+	font-size: 1.2rem;
+}
+
+/// Цвета для кнопок-сылок
+
+.q4, .q4 a, .color-q4, .q4 a {
+    color: #ff8000 !important;
+}
+
+.c6, .c6 a {
+    color: #c41e3b !important;
+}
+
+.c7, .c7 a {
+    color: #2359ff !important;
+}
+
+.r3 {
+    color: #40bf40 !important;
+}
+
+/// Цвета для кнопок-сылок
+
+details {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: .5em .5em 0;
+}
+
+summary {
+  font-weight: bold;
+  margin: -.5em -.5em 0;
+  padding: .5em;
+}
+
+details[open] {
+  padding: .5em;
+}
+
+details[open] summary {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: .5em;
+}
+
+////цветные кнпки для перехода к гайдам по ковенантам 
+
+.cta-button[data-icon="true"] {
+  line-height: 20px;
+  min-height: 20px;
+  padding-left: 40px;
+}
+
+.cta-button[data-icon="true"] .cta-button-icon {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 99px;
+    height: 24px;
+    left: 8px;
+    position: absolute;
+    top: 8px;
+    vertical-align: middle;
+    width: 24px;
+}
+
+#smooth-nav-сovencolum {
+	display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    padding-top: 10px;
+}
+
+#smooth-nav-сovencolum img {
+	content: "";
+    display: inline-block;
+    position: relative;
+    background-color: #080808;
+    background-size: contain;
+    border-radius: 100%;
+    float: left;
+    height: 24px;
+    left: -2px;
+    margin-right: 6px;
+    top: 3px;
+    width: 24px;
+}
+
+#smooth-nav-сovencolum a {
+	border: 1px solid #3b3b3b;
+    border-radius: 4px;
+    background-clip: padding-box;
+    /* height: 30px; */
+    flex-grow: 1;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 30px;
+    overflow: hidden;
+    padding: 5px 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+	color: #a94ac8;
+	white-space: nowrap;
+	text-decoration: none;
+}
+
+#smooth-nav-сovencolum a :active {
+	color: #0CF;
+}
+
+#smooth-nav-сovencolum a:hover {
+    box-shadow: none;
+    color: #fff!important;
+	background-color: #8226a0;
+    border-color: #8226a0;
+}
+
+#smooth-nav-coven {
+	display: grid;
+    grid-gap: 10px;
+    padding-top: 10px;
+}
+
+#smooth-nav-coven img {
+	content: "";
+    display: inline-block;
+    position: relative;
+    background-color: #080808;
+    background-size: contain;
+    border-radius: 100%;
+    float: left;
+    height: 24px;
+    left: -2px;
+    margin-right: 6px;
+    top: 3px;
+    width: 24px;
+}
+
+#smooth-nav-coven a {
+	border: 1px solid #3b3b3b;
+    border-radius: 4px;
+    background-clip: padding-box;
+    /* height: 30px; */
+    flex-grow: 1;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 30px;
+    overflow: hidden;
+    padding: 5px 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+	color: #a94ac8;
+	white-space: nowrap;
+	text-decoration: none;
+}
+
+#smooth-nav-coven a :active {
+	color: #0CF;
+}
+
+.cta-button.c8:hover, .cta-button.c8.focus-visible {
+    box-shadow: none;
+    background: #498fa7;
+    border-color: #498fa7;
+    color: #fff !important;
+}
+
+.cta-button.c12:hover, .cta-button.c12.focus-visible {
+    box-shadow: none;
+    background: #7a2497;
+    border-color: #7a2497;
+    color: #fff !important;
+}
+
+.cta-button.q10:hover, .cta-button.q10.focus-visible {
+    box-shadow: none;
+    background: #bf3030;
+    border-color: #bf3030;
+    color: #fff !important;
+}
+
+.cta-button.r3:hover, .cta-button.r3.focus-visible {
+    box-shadow: none;
+    background: #308f30;
+    border-color: #308f30;
+    color: #fff !important;
+}
+
+.cta-button[data-border="strong"] {
+    border-color: #ffd100;
+}
+
+////цветные кнпки для перехода к гайдам по ковенантам 
 
 #smooth-nav-outer {
 	display: grid;
