@@ -3,7 +3,7 @@ layout: page
 title: Изменения Охотников на Демонов Патч 9.1.5 Shadowlands 
 description: Изменения в патче 9.1.5 для Охотников на Демонов 9.1.5 Shadowlands Месть и Истребление
 game_version: 9.1.5 Shadowlands
-last_update: 2021-06-18 00:00:00 
+last_update: 2021-11-07 00:00:00 
 author: "Rodriguezz"
 toc: false
 image:
