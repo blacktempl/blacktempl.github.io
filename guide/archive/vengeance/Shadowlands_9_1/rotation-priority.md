@@ -1,5 +1,5 @@
 ---
-layout: guide
+layout: page
 title: Ротация
 description: Гайд для Охотников на Демонов Месть 9.1.0 PvE Shadowlands
 last_update: 2021-06-24 09:00:00
@@ -10,24 +10,18 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/vengeance/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
-<a href="{{ site.url }}/guide/vengeance/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/vengeance/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
-<a href="{{ site.url }}/guide/vengeance/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
-<a href="{{ site.url }}/guide/vengeance/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/vengeance/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/vengeance/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
-<a href="{{ site.url }}/guide/vengeance/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/vengeance/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/vengeance/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/vengeance/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/vengeance/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
-<a href="{{ site.url }}/guide/vengeance/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Ротация</span></a>
-<a href="{{ site.url }}/guide/vengeance/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
-<a href="{{ site.url }}/guide/vengeance/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
-<a href="{{ site.url }}/guide/vengeance/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
-<a href="{{ site.url }}/guide/vengeance/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
-<a href="{{ site.url }}/guide/vengeance/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_1/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_1/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_1/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_1/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_1/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Ротация</span></a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_1/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_1/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_1/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ковенанты</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_1/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_1/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_1/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
+<a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_1/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
 ## Базовые способности
@@ -241,8 +235,8 @@ image:
 {{ site.data.spell.Fiery_Brand }} находится на ГКД и наносит большой урон вашей цели, а также снижает урон на 40%. Использование этой способности зависит от механики сражения. Если по механике боя у цели есть фазы высокого урона, ее следует использовать в это время. Если в сражении нет таких механик то способность следует использовать по кулдауну при активном танковании босса, не желательно совмещать {{ site.data.spell.Demon_Spikes }} или {{ site.data.spell.MetamorphosisVDH }}, чтобы максимально увеличить окно баффа. Если вы чувствуете себя комфортно в бою и вам не нужно дополнительное снижение урона, можете использовать способность по кулдауну независимо от того кто танкует босса.
 
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/talent-builds.html">Назад:<br>Таланты и Билды</a></div>
- <div class="minibox"><a href="{{ site.url }}/guide/vengeance/stats.html">Далее:<br>Характеристики</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_1/talent-builds.html">Назад:<br>Таланты и Билды</a></div>
+ <div class="minibox"><a href="{{ site.url }}/guide/archive/vengeance/Shadowlands_9_1/stats.html">Далее:<br>Характеристики</a></div>
 
 
 
