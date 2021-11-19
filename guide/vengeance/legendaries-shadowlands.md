@@ -69,7 +69,7 @@ image:
 <div class="tabs_in" markdown="1">	
 
 1. Улучшайте [Пылающая душа](https://ru.wowhead.com/spell=337547/) до 6 ранга.
-1. Улучшайте [Осквернение Разелиха](https://ru.wowhead.com/spell=337544) или [Слепая вера](https://ru.wowhead.com/spell=355893) для урона, либо [Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534) если вы не <span class="covenant-kyrian">Кирия</span>
+1. Улучшайте [Осквернение Разелиха](https://ru.wowhead.com/spell=337544) или [Слепая вера](https://ru.wowhead.com/spell=337544) для урона, либо [Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534) если вы не <span class="covenant-kyrian">Кирия</span>
 
 </div>      
 </div>

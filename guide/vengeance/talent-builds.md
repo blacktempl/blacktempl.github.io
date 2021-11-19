@@ -91,7 +91,7 @@ image:
 <div class="tabs_in"  markdown="1">
 
 ДПС вариант через {{ site.data.talent.Spirit_Bomb }}. Выживаемость в этом варианте на порядок ниже.
-При игре с ковенантом <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> Кирий используем легендарный предмет {{ site.data.legendary.Razelikhs_Defilement }}, с остальными ковенантами - {{ site.data.legendary.Sephuzs_Proclamation }} либо {{ site.data.legendary.Darkglare_Boon }}.
+При игре с ковенантом <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> Кирий используем легендарный предмет {{ site.data.legendary.Razelikhs_Defilement }}, с остальными ковенантами - {{ site.data.legendary.Collective_Anguish }} либо {{ site.data.legendary.Darkglare_Boon }}.
 
 {% include RazelikhsDefilement.html %}
 <br>

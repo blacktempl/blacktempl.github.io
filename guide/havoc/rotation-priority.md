@@ -354,14 +354,14 @@ image:
          <li class="boon-apl dem-apl" style="display: none;"> Если прокнула лега.</li> 
          <li class="boon-apl dem-apl" style="display: none;"> I. Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li> 
          <li class="boon-apl dem-apl" style="display: none;"> II. Используйте {{ site.data.rotation.EyeBeam }}</li>
-         <li class="boon-apl dem-apl" style="display: none;"> В случат повторного прока повторяем I и II пунк до тех пор пока {{ site.data.rotation.EyeBeam }} не уйдет на КД, после чего продолжайте выполнять Опенер</li>
+         <li class="boon-apl dem-apl" style="display: none;"> В случат повторного прока повторяем I и II пункт до тех пор пока {{ site.data.rotation.EyeBeam }} не уйдет на КД, после чего продолжайте выполнять Опенер</li>
         </ul> 
       <li class="bf-apl" style="display: none;"> Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li> 
-      <li class="ih-apl fb-apl" style="display: none;"> Используйте {{ site.data.rotation.DemonsBite }} если меньше 30 едениц гнева.</li>
+      <li class="ih-apl fb-apl" style="display: none;"> Используйте {{ site.data.rotation.DemonsBite }} если меньше 30 единиц гнева.</li>
       <li class="gt-apl" style="display: none;"> Используйте {{ site.data.rotation.GlaiveTempest }}</li>
       <li class="fbald-apl" style="display: none;"> Используйте {{ site.data.rotation.DeathSweep }}</li>
       <li class="mom-apl" style="display: none;"> Используйте {{ site.data.rotation.VengefulRetreat }}</li>
-      <li class="boon-apl dem-apl" style="display: none;"> Если длительность бафа меты составляеет менее 9 секунд используйте {{ site.data.rotation.Metamorphosis }}</li>
+      <li class="boon-apl dem-apl" style="display: none;"> Если длительность бафа меты составляет менее 9 секунд используйте {{ site.data.rotation.Metamorphosis }}</li>
       <li class="boon-apl mom-apl" style="display: none;"> Используйте {{ site.data.rotation.Metamorphosis }}</li>
       <li> Используйте {{ site.data.rotation.Metamorphosis }}</li>
         <ul>
@@ -400,9 +400,9 @@ image:
       <li class="uh-apl" style="display: none;"> {{ site.data.rotation.ImmolationAura }}</li>
       <li class="fbald-apl" style="display: none;"> {{ site.data.rotation.DeathSweep }}</li> 
       <li class="gt-apl" style="display: none;"> {{ site.data.rotation.GlaiveTempest }}</li>
-      <li class="bf-apl" style="display: none;"> {{ site.data.rotation.Annihilation }} если больше 70 едениц гнева</li>
+      <li class="bf-apl" style="display: none;"> {{ site.data.rotation.Annihilation }} если больше 70 единиц гнева</li>
       <li class="fbald-apl" style="display: none;"> {{ site.data.rotation.BladeDance }}</li>
-      <li class="fb-apl" style="display: none;"> {{ site.data.rotation.Felblade }} если у вас меньше 80 едениц гнева</li>
+      <li class="fb-apl" style="display: none;"> {{ site.data.rotation.Felblade }} если у вас меньше 80 единиц гнева</li>
       <li> {{ site.data.rotation.Annihilation }} / {{ site.data.rotation.ChaosStrike }} </li>
       <li class="ih-apl" style="display: none;"> {{ site.data.rotation.DemonsBite }}</li>
       <li class="bh-apl" style="display: none;"> {{ site.data.rotation.DemonsBite }}</li>
@@ -421,14 +421,14 @@ image:
       <li class="be-apl" style="display: none;"> У Эльфов крови есть уникальная возможность начинать бой с гневом которого будет достаточно для применения {{ site.data.rotation.EyeBeam }}. не стоит игнорировать расовую способность {{ site.data.rotation.ArcaneTorrent }} как в опенере так и в дальнейшем бою</li>
 <!-- /ВМ Терзающий взгляд Вентиры  -->      
       <li class="ag-apl vt-apl" style="display: none;"> Не задерживайте нажатие {{ site.data.rotation.EyeBeam }} если до отката {{ site.data.rotation.SinfulBrand }} больше 8 сек.</li>
-      <li class="ag-apl vt-apl" style="display: none;"> Если {{ site.data.rotation.EyeBeam }} или {{ site.data.rotation.SinfulBrand }} востановяться в течении 5 сек., стоит дождаться востановления. </li>
+      <li class="ag-apl vt-apl" style="display: none;"> Если {{ site.data.rotation.EyeBeam }} или {{ site.data.rotation.SinfulBrand }} восстановятся в течении 5 сек., стоит дождаться восстановления. </li>
       <li class="ag-apl vt-apl" style="display: none;"> Никогда не используйте повторно {{ site.data.rotation.SinfulBrand }} если она уже есть на цели и ее таймер больше 8 сек.</li>
 <!-- /ВМ Терзающий взгляд Вентиры -->      
       <li class="fbald-apl" style="display: none;"> Если вы решили играть с талантом {{ site.data.rotation.FirstBlood }}, вам стоит взят проводник силы {{ site.data.rotation.DancingwithFate }}</li>
-      <li class="uh-apl mom-apl" style="display: none;"> Не спешите использовать усиленый  {{ site.data.rotation.FelRush }} талантом {{ site.data.rotation.UnboundChaos }}, используйте его в комбинации с {{ site.data.rotation.Felblade }} или после окончания действия {{ site.data.rotation.ImmolationAura }}</li>
+      <li class="uh-apl mom-apl" style="display: none;"> Не спешите использовать усиленный  {{ site.data.rotation.FelRush }} талантом {{ site.data.rotation.UnboundChaos }}, используйте его в комбинации с {{ site.data.rotation.Felblade }} или после окончания действия {{ site.data.rotation.ImmolationAura }}</li>
       <li class="nf-apl dem-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
 <!-- /Медальон -->  
-      <li class="boon-apl dem-apl" style="display: none;"> Всегда отслеживайте оставшееся время баффа {{ site.data.rotation.Metamorphosis }}, потому длительность баффа будет перезаписана, то если у вас осталось 20 сек. баффа и вы нажмете {{ site.data.rotation.Metamorphosis }} вы получшите 38 сек. баффа. Потому нудно всегда ее сдавать когда у баффа остаеться меньше 8 сек.</li>
+      <li class="boon-apl dem-apl" style="display: none;"> Всегда отслеживайте оставшееся время баффа {{ site.data.rotation.Metamorphosis }}, потому длительность баффа будет перезаписана, то если у вас осталось 20 сек. баффа и вы нажмете {{ site.data.rotation.Metamorphosis }} вы получите 38 сек. баффа. Потому нудно всегда ее сдавать когда у баффа остается меньше 8 сек.</li>
 <!-- /Медальон -->        
     </ol>
 </div>
