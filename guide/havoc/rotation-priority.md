@@ -349,7 +349,7 @@ image:
       <li class="bf-apl ih-apl mom-apl nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
       <li class="bf-apl ih-apl dem-apl nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
       <li class="fb-apl tor-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }}</li>
-      <li class="fb-apl gt-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }}</li>
+      <li class="fb-apl gt-apl be-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }}</li>
         <ul>
          <li class="boon-apl dem-apl" style="display: none;"> Если прокнула лега.</li> 
          <li class="boon-apl dem-apl" style="display: none;"> I. Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li> 
@@ -400,7 +400,6 @@ image:
       <li class="uh-apl" style="display: none;"> {{ site.data.rotation.ImmolationAura }}</li>
       <li class="fbald-apl" style="display: none;"> {{ site.data.rotation.DeathSweep }}</li> 
       <li class="gt-apl" style="display: none;"> {{ site.data.rotation.GlaiveTempest }}</li>
-      <li class="bf-apl" style="display: none;"> {{ site.data.rotation.Annihilation }} если больше 70 единиц гнева</li>
       <li class="fbald-apl" style="display: none;"> {{ site.data.rotation.BladeDance }}</li>
       <li class="fb-apl" style="display: none;"> {{ site.data.rotation.Felblade }} если у вас меньше 80 единиц гнева</li>
       <li> {{ site.data.rotation.Annihilation }} / {{ site.data.rotation.ChaosStrike }} </li>
