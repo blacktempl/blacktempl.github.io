@@ -79,7 +79,14 @@ image:
 <div class="tabs_in" markdown="1">
 {% include ChaosTheory.html %}
 <p class="tanknotes-section-success" markdown="1">
-<span style="font-weight: 400;">На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
+<span style="font-weight: 400;">На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.<br>
+<br>
+**Используйте кондуит**<br>
+<br>
+[**Танец с судьбой**](https://ru.wowhead.com/spell=339228) - с этим кондуитом и талантом [Первая кровь](https://ru.wowhead.com/spell=206416/) используйте способность {{ site.data.rotation.DeathSweep }} / {{ site.data.rotation.BladeDance }} по КД даже в 1 цель. <br>
+<br>
+Используйте сет камней господства <br>
+[**Зимние ветра**](https://ru.wowhead.com/spell=355735/)
 </span></p>
 <p class="tanknotes-section-error" markdown="1">
 <span style="font-weight: 400;">Если вы выбрали данный билд, в рейде используйте с ним следующие легендарные предметы:<br>
@@ -116,7 +123,7 @@ image:
 <div class="tabs" id="tabs-1">
 <div class="tabs__nav">
 <a class="tabs__link tabs__link_active" href="#content-1">ФБ + Демонизм</a>
-<a class="tabs__link " href="#content-2">Демонизмн</a>
+<a class="tabs__link " href="#content-2">Демонизм</a>
 <a class="tabs__link" href="#content-3">Импульс</a>
 </div>
 <div class="tabs__content">
