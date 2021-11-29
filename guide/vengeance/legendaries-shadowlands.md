@@ -114,7 +114,7 @@ image:
 
 **Оценка:** Дает неплохой прирост урона, а так же дополнительную защиту благодаря универсальности. 
 
-<span class="q5"><strong>[Осквернение Разелиха](https://ru.wowhead.com/spell=33754)</strong></span>
+<span class="q5"><strong>[Осквернение Разелиха](https://ru.wowhead.com/spell=337544)</strong></span>
 
 * Слот для крафта: **Ноги, Запястья**.
 * Рецепт на этот легендарный предмет добывается с босса {{ site.data.mplus.Xav_the_Unfallen }} подземелья {{ site.data.mplus.Theater_of_Pain }}.
