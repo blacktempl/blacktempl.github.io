@@ -70,7 +70,7 @@ image:
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-33">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/AwaW5ZYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/AwaZZr4BJStvCBMFLR8IFS0cCCUszwgiBSrvCCUq-gg" target="blank">anything</a>
       </div>
       <div class="tabs__pane" id="content-44">
         <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
@@ -114,7 +114,7 @@ image:
 
 Рекомендуемое дерево развития медиума Творец Снов:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/AwaZZr4BJStvCBMFLR8IFS0cCCUszwgiBSrvCCUq-gg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/Awaarr4BJStvCBIFLR8IJSzPCCMFKu8IFSr6CCV2AAg" target="blank">anything</a>
 </div>     
 	 </div>
 	  <div class="tabs__pane" id="content-3">

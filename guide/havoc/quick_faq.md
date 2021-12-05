@@ -261,9 +261,9 @@ image:
 {{ site.data.covenant.The_Hunt }} - Совершает рывок к цели, нанося урон от сил природы и обездвиживая ее на 1.5 сек., накладывая ДоТ на до 5 врагов на пути между вами и вашей целью. Преследование укрепляет вашу душу, в результате чего вы в течение 30 sec. восполняете здоровье в объеме 50% урона, который наносите цели "Охоты". Кондуит {{ site.data.conduits.Unnatural_Malice }} значительно увеличивает урон наносимый {{ site.data.covenant.The_Hunt }} по цели в вашем таргете, что делает этот ковенат хорошим выбором для СТ.
 {{ site.data.covenant.Soulshape }} - дополнительное увеличение мобильности, которая поможет уворачиваться от механик.
 
-Лучшим медиумом для нас будет Ния, дерево прокачки медиума выглядит следующим образом:
+Лучшим медиумом для нас будет Творец Снов, дерево прокачки медиума выглядит следующим образом:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/AwaW5ZYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/AwaZZr4BJStvCBMFLR8IFS0cCCUszwgiBSrvCCUq-gg" target="blank">anything</a>
 
 Начиная с 31 уровня известности для М+ и АоЕ используем медиума **Корейн**, его дерево прокачки выглядит следующим образом:
 

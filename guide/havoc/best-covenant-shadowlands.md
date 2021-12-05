@@ -66,7 +66,7 @@ image:
 <tr>
 <td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
 <td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/night-fae/niya/demon-hunter/AwaW5ZYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg">Ния (СТ)</a> / 
+<td><a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/AwaZZr4BJStvCBMFLR8IFS0cCCUszwgiBSrvCCUq-gg">Творец Снов (СТ)</a> / 
 <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн (АоЕ)</a></td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ image:
 
 В Святилище Господства есть бой как с одиночной целью (СТ), так и AoE бои. <span class="c12">Ночной Народец</span> и <span class="c6">Вентиры</span> будут лучшим выбором для рейдового контента, поскольку они оба имеют превосходный урон в СТ боях. 
 В целом, у всех четырех ковенантов есть свои плюсы и минусы, но для рейдового контента лучшие два ковенанта <span class="c12">Ночной Народец</span> для Клив боя, а 
-<span class="c6">Вентиры</span> очень сыльны в СТ бою.
+<span class="c6">Вентиры</span> очень сильные в СТ бою.
 
 ## Лучший Ковенант для М+
 
@@ -178,7 +178,7 @@ image:
 
 Медиум Ния будет чрезвычайно сильна в СТ боях благодаря [Инструменты Нии: колючая лоза](https://ru.wowhead.com/spell=320659). 
 Творец Снов - лучший выбор на раннем этапе игры, поскольку он дает нам доступ к двум проводникам Силы раньше других. 
-Творец Снов также обладает мощными связями душ, [Украшение компании](https://ru.wowhead.com/spell=319210), дающая универсальность почти на 100% временем работы, и [https://ru.wowhead.com/spell=319191](https://ru.wowhead.com/spell=319191), дающее много скорости. 
+Творец Снов также обладает мощными связями душ, [Украшение компании](https://ru.wowhead.com/spell=319210), дающая универсальность почти на 100% временем работы, и [Цветочное поле](https://ru.wowhead.com/spell=319191), дающее много скорости. 
 Благодаря связи душ медиума Корейн [Первый удар](https://ru.wowhead.com/spell=325069/) очень сильно увеличивает АоЕ урон.
 
 <h3 id="venthyr" class="heading-size-3"><span class="c6">Вентиры</span></h3>
