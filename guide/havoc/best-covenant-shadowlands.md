@@ -66,7 +66,7 @@ image:
 <tr>
 <td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
 <td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/AwaZZr4BJStvCBMFLR8IFS0cCCUszwgiBSrvCCUq-gg">Творец Снов (СТ)</a> / 
+<td><a href="https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/demon-hunter/AwaZZr4BJStvCBMFLR8IFS0cCCUszwgiBSrvCCUq-gg">Творец Снов (СТ)</a> / 
 <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн (АоЕ)</a></td>
 </tr>
 <tr>
