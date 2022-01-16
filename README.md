@@ -4,7 +4,7 @@
 [back to web-page](https://blacktempl.github.io/)
 
 ### Support us
-[Patreon](https://www.patreon.com/stormearthlava)
+[Patreon](https://www.patreon.com/blacktemple)
 
 ### Error reporting
 [Issue system](https://github.com/blacktempl/blacktempl.github.io/issues).
