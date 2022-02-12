@@ -11,6 +11,7 @@ image:
 ---
 
 <div id="smooth-nav-outer">
+
 <a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
@@ -397,6 +398,7 @@ image:
       <li class="mom-apl" style="display: none;"> {{ site.data.rotation.VengefulRetreat }}</li>
       <li class="mom-apl" style="display: none;"> {{ site.data.rotation.FelRush }} </li>
       <li class="felb-apl" style="display: none;"> {{ site.data.rotation.FelBarrage }} </li>
+      <li class="dem-apl" style="display: none;"> {{ site.data.rotation.ImmolationAura }}</li>
       <li class="uh-apl" style="display: none;"> {{ site.data.rotation.ImmolationAura }}</li>
       <li class="fbald-apl" style="display: none;"> {{ site.data.rotation.DeathSweep }}</li> 
       <li class="gt-apl" style="display: none;"> {{ site.data.rotation.GlaiveTempest }}</li>
