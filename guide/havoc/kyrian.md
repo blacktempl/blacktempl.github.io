@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Ковенант Кирии
-description: Гайд Ковенант Кирии для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
-last_update: 2021-10-30 09:00:00
-game_version: 9.1.5 Shadowlands 
+description: Гайд Ковенант Кирии для Охотников на Демонов Истребление 9.2 PvE Shadowlands
+last_update: 2022-03-02 09:00:00
+game_version: 9.2 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -11,13 +11,13 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
 <a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
@@ -35,12 +35,25 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Новинки патча 9.1.5
+## Новинки патча 9.2
 
-* [Слепая вера](https://ru.wowhead.com/spell=355893) - теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева.
+* [Слепая вера](https://ru.wowhead.com/spell=355893)- Элизийский декрет откалывает еще 2 малых фрагмента души и дает вам эффект "Слепая вера" на 20 сек. За каждый малый фрагмент души, поглощенный во время действия "Слепой веры", вы получаете 10 ед. гнева, а ваша универсальность повышается на 1% вплоть до 20% (Было не ограничено).
 
 <details>
  <summary><i>История изменений</i></summary>
+ <details open>
+     <summary><i>Патч 9.1.5</i></summary>
+      <ul>
+        <li>Легендарный предмет ковенанта <span class="covenant-kyrian">Кирии</span> <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a>: теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева. 
+        </li> 
+      </ul>
+    </details>
+    <details>
+     <summary><i>Патч 9.1</i></summary>
+      <ul>
+        <li>Легендарный предмет ковенанта <span class="covenant-kyrian">Кирии</span> <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a>: <a href="https://ru.wowhead.com/spell=306830">Элизийский декрет</a> откалывает еще 2 малый фрагмент души и дает вам эффект <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a> на 20 секунд. За каждый малый фрагмент души, поглощенный во время действия <a href="https://ru.wowhead.com/spell=355893">Слепой веры</a>, вы получаете 10 ед. гнева, а ваша искусность повышается на 1%.</li> 
+      </ul>
+    </details>
     <details open>
      <summary><i>Патч 9.1</i></summary>
       <ul>
@@ -53,8 +66,8 @@ image:
 ## Ковенант Кирий
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/kiri_logo.png"> </p>
 
-<span style="color:#68ccef;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> <b>Кирии</b></span> сильный ковенант для Мифик+ 
-контента из-за {{ site.data.covenant.Elysian_Decree }} который дает высокий АоЕ бурст и сильными защитными свойствами {{ site.data.covenant.Phial_of_Serenity }}, 
+<span style="color:#68ccef;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> <b>Кирии</b></span> не лучший ковенат для Истребления,
+ {{ site.data.covenant.Elysian_Decree }} дает высокий АоЕ бурст, но в СТ урон очень слаю, {{ site.data.covenant.Phial_of_Serenity }} обладает сильными защитными свойствами, 
 который не только может восстановить ваше здоровье но и развеять вредоносные эффекты, особенно будет полезен когда группе нет персонажа способного сдиспелить определенный тип вредоносного эффекта.
 
 После вступления в ковенант нам откроются две способности:
@@ -67,16 +80,13 @@ image:
 
 <div class="tabs" id="tabs-2">
     <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-33">СТ</a>
-      <a class="tabs__link" href="#content-44">АоЕ</a>
+      <a class="tabs__link tabs__link_active" href="#content-33">СТ/АоЕ</a>
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-33">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fCBUszwgldg4IIxUq-gglKu8INXYACA" target="blank">anything</a>
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvChIFLR8KJS0cCiMVKvoKJSrvCjV2AAo" target="blank">anything</a>
       </div>
-      <div class="tabs__pane" id="content-44">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvCBIFLR8IJS-3CCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
-      </div>
+      ы
     </div>
   </div>
 <br>
@@ -98,7 +108,7 @@ image:
 * [Новообретенная стойкость](https://ru.wowhead.com/spell=351149) - вам нужно отслеживать появления ваших копий, чтоб быстро расправится с ними, так как 12% ловкости это довольно сильный бафф.
 
 Рекомендуемое дерево развития медиума Пелагий:
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fCBUszwgldg4IIxUq-gglKu8INXYACA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fChUszwolLRwKIxUq-golKu8KNXYACg" target="blank">anything</a>
 </div>      
 	  </div>
       <div class="tabs__pane" id="content-1">
@@ -113,7 +123,7 @@ image:
 
 Рекомендуемое дерево развития медиума Клея:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/demon-hunter/AwaWapYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/demon-hunter/AwaWapYBBStvChIFLR8KJS0cCiMVKvoKJSrvCjV2AAo" target="blank">anything</a>
 </div>     
 	 </div>
 	  <div class="tabs__pane" id="content-3">
@@ -127,7 +137,7 @@ image:
 
 Рекомендуемое дерево развития медиума Верховный автоматург Миканикос:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvCBIFLR8IJS-3CCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvChIFLR8KJS0cCiMVKvoKJSrvCjV2AAo" target="blank">anything</a>
 </div>      
 	  </div>
     </div>

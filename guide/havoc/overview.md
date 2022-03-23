@@ -1,23 +1,23 @@
 ---
 layout: guide
 title: Обзор
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-10-30 09:00:00
-game_version: 9.1.5 Shadowlands
-author: "Rodriguezz. Оригинал: Wowhead."
+description: Гайд для Охотников на Демонов Истребление 9.2 PvE Shadowlands
+last_update: 2022-03-03 09:00:00
+game_version: 9.2 Shadowlands
+author: Rodriguezz
 toc: true
 image:
     path: assets/img/blog/prev/spec_logo.png
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"><span style="color: white;"> Обзор</span></a>
 <a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
 <a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
@@ -34,38 +34,6 @@ image:
 <br>
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
-## Изменения Охотников на Демонов в патче 9.1.5
-
-У следующих АоЕ способностей, убрано ограничение на количество целей. Вместо этого они наносят уменьшенный урон всем целям после 5-й:
-* [Танец клинков](https://ru.wowhead.com/spell=188499)  
-* [Буря клинков](https://ru.wowhead.com/spell=342817)<br>
-
-У следующей АоЕ способности, убрано ограничение на количество целей. Вместо этого она наносит уменьшенный урон всем целям после 8-й.
-* [Обстрел Скверны ](https://ru.wowhead.com/spell=258925)
-
-* [Клеймо греха](https://ru.wowhead.com/spell=317009) сокращено время восстановления способности с 1 минуты до 45 секунд.
-* [Танец с судьбой](https://ru.wowhead.com/spell=339228/) - урон от проводника повышен на 300%.
-* [Слепая вера](https://ru.wowhead.com/spell=355893) - теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева.
-
-
-<details>
- <summary><i>История изменений</i></summary>
-    <details open>
-     <summary><i>Патч 9.1</i></summary>
-      <ul>
-        <li><a href="https://ru.wowhead.com/spell=344862"> Удар Хаоса</a> - Урон увеличен на 15%</li>
-        <li><a href="https://ru.wowhead.com/spell=201427"> Аннигиляция</a> - Урон увеличен на 15%</li>
-        <li><a href="https://ru.wowhead.com/spell=162243"> Укус демона</a> - Урон увеличен на 15%</li>
-        <li><a href="https://ru.wowhead.com/spell=203555"> Демонические клинки</a> - Урон увеличен на 15%</li>
-        <li><a href="https://ru.wowhead.com/spell=347461"> Необузданный хаос</a> - Увеличивает урон <a href="https://ru.wowhead.com/spell=195072"> Рывка скверны</a> на 500% ( было на 600%)</li>
-        <li><a href="https://ru.wowhead.com/spell=217996"> Раздирание души</a> - теперь увеличивает самоисцеление на 10% (было 5%) и еще на 20% (было 25%), когда активна <a href="https://ru.wowhead.com/spell=320421"> Метаморфоза</a></li>
-        <li><a href="https://ru.wowhead.com/spell=205411"> Инстинкт самосохранения</a> - Затуманивание теперь срабатывает с уменьшением продолжительности на 50% и сокращением времени восстановления на 50%, когда ваше здоровье падает ниже 35%.</li>
-        <li><a href="https://ru.wowhead.com/spell=196555"> Путь Пустоты</a> - Продолжительность увеличена до 6 секунд (было 5 секунд).</li>
-        <li><a href="https://ru.wowhead.com/item=183463"> Неестественная злоба</a> - Теперь усиливает урон от ДоТа Охоты.</li>
-      </ul>
-    </details>
-</details>
 
 ## Основная информация
 	   
@@ -147,7 +115,9 @@ image:
 <li> {{ site.data.talent.Glaive_Tempest }} - это новый талант вдохновленный {{ site.data.spell.Fury_of_the_Illidari }}, нашей старой способностью «Артефактного оружия».</li>
 <li> {{ site.data.talent.Nemesis }} удален из игры.</li>
 </ul>
+
 ## Изменения Охотниками на Демонов Истребление в Shadowlands
+
 <ul>
 <li> Гнев стал общим ресурсом для класса.</li>
 <li> {{ site.data.spell.Blade_Dance }} / {{ site.data.spell.Death_Sweep }} – больше не увеличивает ваш шанс увернуться на 100% на 1 сек.</li>
@@ -164,6 +134,7 @@ image:
 <li> {{ site.data.talent.Fel_Barrage }} - стал талантом последнего тира, бьет одновременно 8 целей.</li>
 <li> Добавлена пассивная способность {{ site.data.spell.Furious_Gaze }} дающая 15% скорости на 12 сек. после применения {{ site.data.spell.Eye_Beam }}</li>
 </ul>
+
 ## Новые возможности трансмогрификации артефакта для Охотников на Демонов Истребление
 
 В Shadowlands появится новая возможность трансмогрификации <a href="https://www.wowhead.com/news=317669/artifact-transmog-in-shadowlands-new-creative-weapon-combinations"> артефакта</a>, позволяя игрокам преобразовывать свое оружие в любой вид артефакта.
@@ -175,7 +146,7 @@ image:
 
 <hr>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/quick_faq.html">Назад:<br>Кратко и Быстро</a></div> 
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/changes-patch.html">Назад:<br>Изменения в патче 9.2</a></div> 
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html">Далее:<br>Лучший ковенант</a></div>
 
 <br>

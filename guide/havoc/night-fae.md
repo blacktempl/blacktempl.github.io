@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Ковенант Ночного Народца
-description: Гайд Ковенант Ночного Народца для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-10-30 09:00:00
-game_version: 9.1.5 Shadowlands 
+description: Гайд Ковенант Ночного Народца для Охотников на Демонов Истребление 9.2 PvE Shadowlands
+last_update: 2022-03-03 09:00:00
+game_version: 9.2 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -11,13 +11,13 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
 <a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"><span style="color: white;"> Ночной Народец</span></a>
 <a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
@@ -49,7 +49,7 @@ image:
 ## Ковенант Ночного Народца
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/fae_logo.png"> </p>
 
-<span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="24" height="24"> <b>Ночной народец</b></span> - {{ site.data.covenant.The_Hunt }} с является сильной способностью, которая наносит огромный прямой урон в одну цель и оставляет на ней ДоТ на 6 сек., что делает этот ковенант прекрасным выбором для ПвП и хорошим выбором для рейдов. Природа данной способности позволяет ей хорошо скейлится от крита и от скорости, однако АоЕ урон с данным ковенантом оставляет желать лучшего, т.к. способность имеет кап в 5 целей. Более того, попадание по пяти целям не является тривиальной задачей (в отличие от ковенанта Вентиров и Кирий), т.к. придется отойти от основной цели и просчитать траекторию полета таким образом, чтобы попасть по всем (пяти) мобам. Учитывайте, что в контексте м+ это действие может усложниться тем, что танк может в это время кайтить мобов.
+<span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="24" height="24"> <b>Ночной народец</b></span> - {{ site.data.covenant.The_Hunt }} является сильной способностью, которая наносит огромный прямой урон в одну цель и оставляет на ней ДоТ на 6 сек., что делает этот ковенант хорошим выбором для ПвП и ПвЕ контента. Природа данной способности позволяет ей хорошо скейлится от крита и от скорости, однако АоЕ урон с данным ковенантом оставляет желать лучшего, т.к. способность имеет кап в 5 целей. Более того, попадание по пяти целям не является тривиальной задачей (в отличие от ковенанта Вентиров и Кирий), т.к. придется отойти от основной цели и просчитать траекторию полета таким образом, чтобы попасть по всем (пяти) мобам. Учитывайте, что в контексте м+ это действие может усложниться тем, что танк может в это время кайтить мобов.
 
 После вступления в ковенант нам откроются две способности:
 * {{ site.data.covenant.The_Hunt }} - После 1 секундного применения вы устремляетесь к цели, накладывая ДоТ максимум на 5 целей на пути между вами и вашей целью, 
@@ -70,10 +70,10 @@ image:
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-33">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/AwaZZr4BJStvCBMFLR8IFS0cCCUszwgiBSrvCCUq-gg" target="blank">anything</a>
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/AwaZbpYBJStvChMFLR8KFS0cCiUszwojBSr6CiUq7wo1dgAK" target="blank">anything</a>
       </div>
       <div class="tabs__pane" id="content-44">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJS0cCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJS0cCiMVKvoKJSrvCjV2AAo" target="blank">anything</a>
       </div>
     </div>
   </div>
@@ -99,7 +99,7 @@ image:
 
 Рекомендуемое дерево развития медиума Ния:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/AwaW5ZYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/AwaWZZYBBStvChIFLR8KJS0cCiMVKvoKJSrvCjV2AAo" target="blank">anything</a>
 </div>      
 	  </div>
       <div class="tabs__pane" id="content-1">
@@ -114,7 +114,7 @@ image:
 
 Рекомендуемое дерево развития медиума Творец Снов:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/AwaZZr4BJStvCBMFLR8IFS0cCCUszwgiBSrvCCUq-gg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/AwaZbpYBJStvChMFLR8KFS0cCiUszwojBSr6CiUq7wo1dgAK" target="blank">anything</a>
 </div>     
 	 </div>
 	  <div class="tabs__pane" id="content-3">
@@ -128,7 +128,7 @@ image:
 
 Рекомендуемое дерево развития медиума Корейн:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJS0cCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJS0cCiMVKvoKJSrvCjV2AAo" target="blank">anything</a>
 </div>      
 	  </div>
     </div>

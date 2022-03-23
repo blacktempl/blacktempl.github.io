@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Ковенант Некролордов
-description: Гайд Ковенант Некролордов для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
-last_update: 2021-10-30 09:00:00
-game_version: 9.1.5 Shadowlands 
+description: Гайд Ковенант Некролордов для Охотников на Демонов Истребление 9.2 PvE Shadowlands
+last_update: 2022-03-03 09:00:00
+game_version: 9.2 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -11,13 +11,13 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
 <a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"><span style="color: white;"> Некролорды</span></a>
@@ -37,7 +37,13 @@ image:
 
 <details>
  <summary><i>История изменений</i></summary>
-    <details open>
+ <details open>
+     <summary><i>Патч 9.1.5</i></summary>
+      <ul>
+        <li>Легендарный предмет ковенанта <span class="covenant-necrolord">Некролордов</span> <a href="https://ru.wowhead.com/spell=355996">Демоническая клятва</a>: Когда демон, призванный <a href="https://ru.wowhead.com/spell=329554">Подпиткой для пламени</a>, взрывается, к 5 находящемуся рядом противнику применяется <a href="https://ru.wowhead.com/spell=178940">Огненное клеймо</a>. Время действия – 5 секунд. Кроме того, время действия <a href="https://ru.wowhead.com/spell=178940">Огненное клеймо</a> увеличивается на 8 секунд.</li> 
+      </ul>
+    </details>
+    <details>
      <summary><i>Патч 9.1</i></summary>
       <ul>
         <li>Легендарный предмет ковенанта <span class="covenant-necrolord">Некролордов</span> <a href="https://ru.wowhead.com/spell=355996">Демоническая клятва</a>: Когда демон, призванный <a href="https://ru.wowhead.com/spell=329554">Подпиткой для пламени</a>, взрывается, к 5 находящемуся рядом противнику применяется <a href="https://ru.wowhead.com/spell=178940">Огненное клеймо</a>. Время действия – 5 секунд. Кроме того, время действия <a href="https://ru.wowhead.com/spell=178940">Огненное клеймо</a> увеличивается на 8 секунд.</li> 
@@ -67,16 +73,13 @@ image:
 
 <div class="tabs" id="tabs-2">
     <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-33">СТ</a>
-      <a class="tabs__link" href="#content-44">АоЕ</a>
+      <a class="tabs__link tabs__link_active" href="#content-33">СТ/АоЕ</a>
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-33">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvCBMFLR8IFTBfCCUszwgiFSr6CCUq7wg" target="blank">anything</a>
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvChMFLR8KFTBfCiUszwoiFSr6CiUq7wo" target="blank">anything</a>
       </div>
-      <div class="tabs__pane" id="content-44">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/AwaW6pYBBStvCBIFLR8IJTBfCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
-      </div>
+   
     </div>
   </div>
 <br>
@@ -102,7 +105,7 @@ image:
 
 Рекомендуемое дерево развития медиума Изобретатель чумы Марилет:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvCBMFLR8IFTBfCCUszwgiFSr6CCUq7wg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvChMFLR8KFTBfCiUszwoiFSr6CiUq7wo" target="blank">anything</a>
 </div>      
 	  </div>
       <div class="tabs__pane" id="content-1">
@@ -115,7 +118,7 @@ image:
 
 Рекомендуемое дерево развития медиума Эмени:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/demon-hunter/AwaWar4CBStvCCUrkwgSBS0fCCUwXwgiFSr6CCUq7wg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/demon-hunter/AwaWar4CBStvCiUrkwoSBS0fCiUwXwoiFSr6CiUq7wo" target="blank">anything</a>
 </div>     
 	 </div>
 	  <div class="tabs__pane" id="content-3">
@@ -127,7 +130,7 @@ image:
 
 Рекомендуемое дерево развития медиума Костоплав Гейрмир:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/AwaW6pYBBStvCBIFLR8IJTBfCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/AwaW6pYBBStvChIFLR8KJTBfCiMVKvoKJSrvCjV2AAo" target="blank">anything</a>
 </div>      
 	  </div>
     </div>

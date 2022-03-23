@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: Новичкам
-description: Гайд для Новичков Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
-last_update: 2021-10-30 09:00:00
-game_version: 9.1.5 Shadowlands 
+description: Гайд для Новичков Охотников на Демонов Истребление 9.2 PvE Shadowlands
+last_update: 2022-03-03 09:00:00
+game_version: 9.2 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -11,13 +11,13 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
 <a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
@@ -70,7 +70,7 @@ image:
 <tr>
 <td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
 <td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/night-fae/niya/demon-hunter/AwaW5ZYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg">Ния (СТ)</a> / 
+<td><a href="https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/demon-hunter/AwaZbpYBJStvChMFLR8KFS0cCiUszwojBSr6CiUq7wo1dgAK">Творец Снов СТ</a> / 
 <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн (АоЕ)</a></td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 ## Лучший легендарный предмет 
 
 Легендарные предметы у Охотников на Демонов делятся на два типа, в зависимости от типа предпочтенного контента. [Жгучая рана](https://ru.wowhead.com/spell=346279) в основном используется в бою с одной целью, 
-в то время как [Всеобщая тоска](https://ru.wowhead.com/spell=337504) предпочтительней для Клива и АоЕ, например в подземелья эпохального+ уровня. Если вы можете сделать только одину или 
+в то время как [Всеобщая тоска](https://ru.wowhead.com/spell=337504) предпочтительней для Клива и АоЕ, например в подземелья эпохального+ уровня. Если вы можете сделать только одну или 
 также планируете играть в Истреблении, сначала создайте [Жгучую рану](https://ru.wowhead.com/spell=346279).
 
 [Жгучая рана](https://ru.wowhead.com/spell=346279) - для рейдов.
@@ -203,12 +203,6 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 веса характеристик и графики масштабирования в Руководстве <a href="{{ site.url }}/guide/havoc/stats.html">Характеристики</a>, или вы можете посмотреть обзор снаряжения, 
 на которое стоит обратить внимание в подземельях и рейдах, в Руководстве <a href="{{ site.url }}/guide/havoc/gear.html"> Бис лист</a>.  
 
-- Приоритет характеристик:
-	1. **Уровень предмета**
-	1. **Скорость**
-    1. **Универсальность**
-    1. **Критический урон**
-    1. **Искусность**
 	
 <div style="text-align: -webkit-center; text-align: -moz-center;"><a class="c12 cta-button" href="{{ site.url }}/guide/havoc/stats.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
@@ -219,7 +213,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 ### Зачарование
 
 <ul>
-<li>Оружие: 2х{{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li>
+<li>Оружие: 1х {{ site.data.prof.Celestial_Guidance }} и 1х {{ site.data.prof.Sinful_Revelation }}</li>
 <li>Кольца: 2х{{ site.data.prof.Enchant_Ring_Tenet_of_Versatility }}</li>
 <li>Сапоги: {{ site.data.prof.Enchant_Boots_Eternal_Agility }}</li>
 <li>Нагрудник: {{ site.data.prof.Enchant_Chest_Eternal_Stats }}</li>
@@ -231,7 +225,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 <li>Настой: {{ site.data.prof.Eternal_Flask }}</li>
 <li>Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }} СТ</li>
 <li>Зелья: {{ site.data.prof.Potion_of_Empowered_Exorcisms }} АОЕ</li>
-<li>Исцеление: {{ site.data.prof.Spiritual_Healing_Potion }} </li>
+<li>Исцеление: [Зелье космического исцеления](https://ptr.wowhead.com/spell=359870) </li>
 </ul>
 
 ### Камни
