@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Бис Лист
-description: Лучшая экиперовка для Охотников на Демонов Истребление 9.2.7 PvE Shadowlands
-last_update: 2022-08-02 09:00:00
-game_version: 9.2.7 Shadowlands 
+description: Лучшая экиперовка для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
+last_update: 2022-03-03 09:00:00
+game_version: 9.2 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -33,37 +33,7 @@ image:
 </div>
 <br>
 
-
-## Лучшее снаряжение которое можно купить за динары
-
-В течение 4-го сезона вы сможете получить в общей сложности три [Странных динара картеля](https://ru.wowhead.com/item=192466/). Этот предмет можно обменять на рейдовый предмет у торговцев возле Великого Хранилища в Орибосе. Эти продавцы продают оружие, аксессуары и специальные предметы из всех трех рейдов Shadowlands, что позволяет вам легко приобретать ключевые предметы.
-
-Поскольку динары позволяют вам выбрать конкретный предмет из добычи рейдов 4 сезона, мы будете покупать самые мощные предметы, которые труднее всего получить.
-
-1. [Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)
-1. [Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388) - Нам нужно два вспарывателя, Наивысший приоритет 
-1. [Тайник с присвоенными сокровищами](https://ru.wowhead.com/item=188265/)
-1. [Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432/)
-
-Перечисленные здесь предметы представляют собой смесь самых мощных слотов и предметов, которые будут наиболее востребованными или труднодоступными. Охотникам на Демонов Истребления приоритетом должен быть [Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388), из-за его ограниченного выпадания только несколькими классами с низким шансом, после чего вы должны обратить свое внимание на аксессуары, которые сложно будет получить. В частности,[Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432/) будет востребован многими ДПС специализациями, и его будет трудно получить.
-
-## Приоритет улучшения предметов в 4 сезоне
-
-4-й сезон Shadowlands меняет то, как устроены рейды в WoW. Впервые все три рейда Shadowlands, Замок Нафрия, Святилище Господства и Гробница Предвечных, будут доступны как рейд с наивысшей сложностью в игре.
-
-аждую неделю один из рейдов будет предопределенным (Fated) и иметь повышенный уровень предметов. У таких рейдов фиксированная ротация – каждую неделю доступен один предопределенный рейд.
-
-За динары можно купить любой эпический предмет из любого рейда Shadowlands. Они даются в награду за квест на убийство боссов - на первый динар нужно убить 30 боссов, на второй 20, а на третий - 10. Каждого босса нужно убить всего один раз на любой сложности, повторные убийства на одной неделе не засчитываются. Всего за сезон можно получить три динара.
-
-1. [Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)
-1. [Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388) - Левая рука
-1. [Тайник с присвоенными сокровищами](https://ru.wowhead.com/item=188265/)
-1. [Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432/)
-1. [Зловещая маска садиста](https://ru.wowhead.com/item=182980) - превращаем в тир кусок
-1. [Наплечники изменчивого карателя](https://ru.wowhead.com/item=188896)
-1. [Жакет изменчивого карателя](https://ru.wowhead.com/item=188894)
-1. [Брюки элитного аранакка](https://ru.wowhead.com/item=186331)
-1. [Перевязь Ветрокрылой](https://ru.wowhead.com/item=186332/)
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ## Рекомендуемое снаряжение
 
@@ -78,22 +48,22 @@ image:
 <div class="table-box" markdown="1">
 
 |Слот|Название|Добывается|
-|Голова|[Капюшон изменчивого карателя](https://ru.wowhead.com/item=188892/) крафт из [Зловещая маска садиста](https://ru.wowhead.com/item=182980/)|[Сир Денатрий](https://ru.wowhead.com/npc=168938/)|
-|Шея|[Межпланарный краеугольный камень](https://ru.wowhead.com/item=186379/)|[Кел'Тузад](https://ru.wowhead.com/npc=175559/)|
-|Плечо|[Наплечники изменчивого карателя](https://ru.wowhead.com/item=188896/)|[Властители Ужаса](https://ru.wowhead.com/npc=181398/)|
-|Плащ|[Гордый плащ каменного генерала](https://ru.wowhead.com/item=183032/)|[Генералы Каменного легиона](https://ru.wowhead.com/npc=165318)|
+|Голова|[Капюшон изменчивого карателя](https://ru.wowhead.com/item=188892/)|[Андуин Ринн](https://ru.wowhead.com/npc=181954/)|
+|Шея|[Знак принадлежности к картелю Зи](https://ru.wowhead.com/item=189827/)|[Изобретатель Зи'мокс](https://ru.wowhead.com/npc=183501/)|
+|Плечо|[Наплечники изменчивого карателя](https://ru.wowhead.com/item=188896/)|[Мал'Ганис](https://ru.wowhead.com/npc=181398/)|
+|Плащ|[Покров избранных Владыки](https://ru.wowhead.com/item=189847/)|[Мал'Ганис](https://ru.wowhead.com/npc=181398)|
 |Грудь|[Жакет изменчивого карателя](https://ru.wowhead.com/item=188894/)|[Ригелон](https://ru.wowhead.com/npc=182777/)|
 |Запястье|[Затертые песком наручи пожирателя](https://ru.wowhead.com/item=189812/)|[Сколекс](https://ru.wowhead.com/npc=183937/)|
-|Руки|[Захваты похищенной судьбы](https://ru.wowhead.com/item=189843/)|[Властители Ужаса](https://ru.wowhead.com/npc=181398)|
-|Пояс|[Перевязь Ветрокрылой](https://ru.wowhead.com/item=186332/)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=175732/)|
-|Ноги|[Штаны изменчивого карателя](https://ru.wowhead.com/item=188893/) крафт из [Брюки элитного аранакка](https://ru.wowhead.com/item=186331/)|[Кел'Тузад](https://ru.wowhead.com/npc=175559/)|
-|Сапоги|[Сапоги изменчивого карателя](https://ru.wowhead.com/item=188899/) крафт из [Ботфорты неуемного любопытства](https://ru.wowhead.com/item=189848/)|[Ригелон](https://ru.wowhead.com/npc=182777)|
-|Кольцо 1|[Бинарное кольцо разгона](https://ru.wowhead.com/item=169159/)|[Главный машинист Искроточец](https://ru.wowhead.com/npc=144248/)|
-|Кольцо 2|[Кольцо логического цикла разделения](https://ru.wowhead.com/item=169157/)|[Воздушный подавитель ОУ-8](https://ru.wowhead.com/npc=155157/)|
-|Аксессуар 1|[Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432/)|[Стражница Предвечных](https://ru.wowhead.com/npc=175731/)|
-|Аксессуар 2|[Тайник с присвоенными сокровищами](https://ru.wowhead.com/item=188265/)|[Изобретатель Зи'мокс](https://ru.wowhead.com/npc=183501/)|
-|Основная рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)|[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523/)|
-|Левая рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)|[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523/)|
+|Руки|[Захваты похищенной судьбы](https://ru.wowhead.com/item=189843/)|[Мал'Ганис](https://ru.wowhead.com/npc=181398)|
+|Пояс|[Искаженный оберег Резчика Рун](https://ru.wowhead.com/item=189856/)|[Тюремщик](https://ru.wowhead.com/npc=185421/)|
+|Ноги|[Штаны изменчивого карателя](https://ru.wowhead.com/item=188893/)|[Галондрий](https://ru.wowhead.com/npc=184915/)|
+|Сапоги|[Мокасины ужасного отпущения](https://ru.wowhead.com/item=189798/)|[Прототип Войны](https://ru.wowhead.com/npc=181549/)|
+|Кольцо 1|[Перидот говорливого хранителя](https://ru.wowhead.com/item=189802/)|[Лихувим](https://ru.wowhead.com/npc=182169/)|
+|Кольцо 2|[Улучшенная защитная матрица](https://ru.wowhead.com/item=189772/)|[Бдительный Страж](https://ru.wowhead.com/npc=180773/)|
+|Аксессуар 1|[Первая печать](https://ru.wowhead.com/item=188271/)|[Прототип Войны](https://ru.wowhead.com/npc=181549/)|
+|Аксессуар 2|[Элегия Вечных](https://ru.wowhead.com/item=188270/)|[Прототип Войны](https://ru.wowhead.com/npc=181549/)|
+|Основная рука|[Парные клинки страданий Аландиен](https://ru.wowhead.com/item=189846/)|[Мал'Ганис](https://ru.wowhead.com/npc=181398/)|
+|Левая рука|[Парные клинки страданий Аландиен](https://ru.wowhead.com/item=189846/)|[Мал'Ганис](https://ru.wowhead.com/npc=181398/)|
 
 </div>
 <br>
@@ -125,12 +95,42 @@ image:
 
 <p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
 
+## Рекомендуемое снаряжение с Мифик+
+
+<div class="table-box" markdown="1">
+
+|Слот|Название|Добывается|
+|Голова|[Боевая маска жестокого импульса](https://ru.wowhead.com/item=180106)|[Шпили Перерождения](https://ru.wowhead.com/spires-of-ascension)|
+|Шея|[Колье лазурного яда](https://ru.wowhead.com/item=180115)|[Шпили Перерождения](https://ru.wowhead.com/spires-of-ascension)|
+|Плечо|[Наплечники дальних странствий](https://ru.wowhead.com/item=179344)|[Та Сторона](https://ru.wowhead.com/de-other-side)|
+|Плащ|[Плащ чумной маркграфини](https://ru.wowhead.com/item=178755)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
+|Грудь|[Хауберк радужной тени](https://ru.wowhead.com/item=178698)|[Туманы Тирна Скитта](https://ru.wowhead.com/mists-of-tirna-scithe)|
+|Запястье|[Манжеты восставшего чудовища](https://ru.wowhead.com/item=178741)|[Смертельная тризна](https://ru.wowhead.com/the-necrotic-wake)|
+|Руки|[Перчатки пугающего сосредоточения](https://ru.wowhead.com/item=178832)|[Чертоги Покаяния](https://ru.wowhead.com/halls-of-atonement)|
+|Пояс|[Пояс поглотителя живицы](https://ru.wowhead.com/item=178699)|[Туманы Тирна Скитта](https://ru.wowhead.com/mists-of-tirna-scithe)|
+|Ноги|[Штаны глубинной дисгармонии](https://ru.wowhead.com/item=180108)|[Шпили Перерождения](https://ru.wowhead.com/spires-of-ascension)|
+|Сапоги|[Башмаки поверженного узурпатора](https://ru.wowhead.com/item=178797)|[Театр Боли](https://ru.wowhead.com/theater-of-pain)|
+|Кольцо 1|[Потерянная печатка Трупошва](https://ru.wowhead.com/item=178736)|[Смертельная тризна](https://ru.wowhead.com/the-necrotic-wake)|
+|Кольцо 2|[Печатка клятвы на крови](https://ru.wowhead.com/item=178871)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
+|Аксессуар 1|[Тотем хватки смерти](https://ru.wowhead.com/item=179356)|[Та Сторона](https://ru.wowhead.com/de-other-side)|
+|Аксессуар 2|[Флакон тлетворной массы](https://ru.wowhead.com/item=178771)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
+|Основная рука|[Моровая Буря, меч эпидемии](https://ru.wowhead.com/item=178754)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
+|Левая рука|[Моровая Буря, меч эпидемии](https://ru.wowhead.com/item=178754)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
+
+</div>
+
 
 ## Аксессуар
 
-* [Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432) - наносит много урона и имеет небольшое КД.
+* {{ site.data.item.Phial_of_Putrefaction }} - Наносит высокий урон и показывает высокий оверолл, аксессуар обязателен к получению.
+* [Тотем хватки смерти](https://ru.wowhead.com/item=179356) - очень хороший аксессуар, отлично себя показывает в СТ боях.
+    * Перезарядка может быть уменьшена как минимум  6 раз (90 секунд). 
+    * Уменьшение времени восстановления не срабатывает для обычных мобов, таких как миньоны, второстепенные мобы или мобы значительно более низкого уровня.
+    * Уменьшение времени восстановления  не всегда срабатывает даже на обычных мобах, даже когда сам тотем атакует дважды и наносит последний удар.
+    * Урон от тотема может быть критическим.
+    * Зона поражения составляет примерно 50 ярдов _ от тотема, _ не от вашего персонажа.
 * [Тайник с присвоенными сокровищами](https://ru.wowhead.com/item=188265/) - если на боссе нет мест где нужно придерживать использование трыни то она будет отличным выбором вместо тотема, очень сильная для м+.
-
+* [Бесконечно разделяющаяся слизь](https://ru.wowhead.com/item=178769/) - примерный оверол 2.5-3%
 
 ### Patchwerk
 <div id="bloodmallet_patchwerk" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-language="ru" data-entries="10">Loading...</div>
@@ -138,6 +138,115 @@ image:
 ### Hectic Add Cleave
 <div id="bloodmallet_hecticaddcleave" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-fight-style="hecticaddcleave" data-font-color="#eee" data-background-color="#222" data-language="ru">Loading...</div>
 
+## Уровни предметов в 3 сезоне эпохальных+ подземелий Shadowlands
+
+<table class="grid" style="max-width:750px">
+<tbody>
+<tr>
+<td style="text-align: center;"><b>Уровень ключа</b></td>
+<td style="text-align: center;"><b>В конце подземелья</b></td>
+<td style="text-align: center;"><b>В недельном сундуке</b></td>
+</tr>
+<tr><td>Эпохальный 2</td>
+<td style="text-align: center;">236</td>
+<td style="text-align: center;">252</td>
+</tr>
+<tr><td>Эпохальный 3</td>
+<td style="text-align: center;">239</td>
+<td style="text-align: center;">252</td>
+</tr>
+<tr>
+<td>Эпохальный 4</td>
+<td style="text-align: center;">242</td>
+<td style="text-align: center;">252</td>
+</tr>
+<tr><td>Эпохальный 5</td>
+<td style="text-align: center;">246</td>
+<td style="text-align: center;">255</td>
+</tr>
+<tr>
+<td>Эпохальный 6</td>
+<td style="text-align: center;">249</td>
+<td style="text-align: center;">255</td>
+</tr>
+<tr>
+<td>Эпохальный 7</td>
+<td style="text-align: center;">249</td>
+<td style="text-align: center;">259</td>
+</tr>
+<tr>
+<td>Эпохальный 8</td>
+<td style="text-align: center;">252</td>
+<td style="text-align: center;">262</td>
+</tr>
+<tr>
+<td>Эпохальный 9</td>
+<td style="text-align: center;">252</td>
+<td style="text-align: center;">262</td>
+</tr>
+<tr>
+<td>Эпохальный 10</td>
+<td style="text-align: center;">245</td>
+<td style="text-align: center;">265</td>
+</tr>
+<tr>
+<td>Эпохальный 11</td>
+<td style="text-align: center;">255</td>
+<td style="text-align: center;">268</td>
+</tr>
+<tr>
+<td>Эпохальный 12</td>
+<td style="text-align: center;">259</td>
+<td style="text-align: center;">272</td>
+</tr>
+<tr>
+<td>Эпохальный 13</td>
+<td style="text-align: center;">259</td>
+<td style="text-align: center;">272</td>
+</tr>
+<tr>
+<td>Эпохальный 14</td>
+<td style="text-align: center;">262</td>
+<td style="text-align: center;">275</td>
+</tr>
+<tr>
+<td>Эпохальный 15+</td>
+<td style="text-align: center;">262</td>
+<td style="text-align: center;">278</td>
+</tr>
+</tbody>
+</table>
+
+## Уровни предметов в рейде Гробница предвечных
+
+<table class="grid" style="max-width:750px">
+<tbody>
+<tr>
+<td style="text-align: center;"><b>Сложность</b></td>
+<td style="text-align: center;"><b>Первые 8 боссов</b></td>
+<td style="text-align: center;"><b>Последние 3 босса</b></td>
+</tr>
+<tr><td>ЛФР</td>
+<td style="text-align: center;">239</td>
+<td style="text-align: center;">246</td>
+</tr>
+<tr><td>Обычная</td>
+<td style="text-align: center;">252</td>
+<td style="text-align: center;">259</td>
+</tr>
+<tr>
+<td>Героическая</td>
+<td style="text-align: center;">265</td>
+<td style="text-align: center;">272</td>
+</tr>
+<tr><td>Эпохальный</td>
+<td style="text-align: center;">278</td>
+<td style="text-align: center;">285</td>
+</tr>
+</tbody>
+</table>
+
+<hr>
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html">Назад:<br>Лучший ковенант</a></div> 
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Далее:<br>Таланты и Билды</a></div>
