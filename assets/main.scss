@@ -1188,6 +1188,18 @@ background-image: url(/assets/img/pngegg.png);
 background-position-x: -95px;
 }
 
+@media only screen and (min-width: 1950px) { // +50px to ensure no overlap
+  .wrapper-guide { // adjust position to be closer to content
+    background-position-x: 230px;
+  }
+}
+@media only screen and (min-width: 2700px) { // +50px to ensure no overlap
+  .wrapper-guide { // adjust position to be closer to content
+    background-position-x: 864px;
+  }
+}
+
+
 .wrapper-content {
   flex: 1;
   background-color: #1f1e1e;
