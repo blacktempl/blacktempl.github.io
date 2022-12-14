@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: Макросы и Аддоны
-description: Гайд Макросы и Аддоны для Охотников на Демонов Истребление 9.2 PvE Shadowlands
-last_update: 2022-03-03 09:00:00
-game_version: 9.2 Shadowlands 
+description: Гайд Макросы и Аддоны для Охотников на Демонов Истребление 10.0 PvE Dragonflight
+last_update: 2022-11-23 09:00:00
+game_version: 10.0 Dragonflight
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -11,18 +11,11 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
 <a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
-<a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/havoc/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/havoc/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
 <a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
 <a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
 <a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
@@ -65,24 +58,7 @@ image:
 
 >Просто замените [SPELLNAME] желаемой способностью из вашей книги заклинаний. Этот макрос не позволяет вам отменить применение Пронзающиего взгляда и Обстрела Скверны.
 
-## Макросы для автоматической замены талантов
-
-Эти макросы позволят вам иметь одну кнопку, которая будет работать с любым выбранным вами талантом или заклинанием. Во многих случаях это не особо полезно, но бывает полезен при частой смене талантов.
-
-### Клинок Скверны / Укус демона
-
-Мы в большинстве случаев используем {{ site.data.talent.Felblade }} в паре с {{ site.data.talent.Demon_Blades }}, то мы можем добавить в один макрос {{ site.data.talent.Felblade }} и {{ site.data.spell.Demons_Bite }}.
-
-<pre>
-<code class="language-less">
-#showtooltip 
-/stopmacro [channeling:Пронзающий взгляд]
-/stopmacro [channeling:Обстрел Скверны]
-/cast [talent:1/3]Клинок Скверны; Укус демона
-</code>
-</pre>
-
-### Макрос для Метаморфозы
+## Макрос для Метаморфозы
 
 Вот два популярных макроса для {{ site.data.spell.Metamorphosis }}.
 >Применяет {{ site.data.spell.Metamorphosis }} в место, где находится курсор.
@@ -107,7 +83,55 @@ image:
 </code>
 </pre>
 
-### Универсальные макросы
+## Макросы для Бросока боевого клинка
+
+> Бросок боевого клинка по наведению курсора
+
+<pre>
+<code class="language-less">
+#showtooltip 
+/cast [@mouseover, harm][@target, harm] Бросок боевого клинка
+</code>
+</pre>
+
+> Бросает глефу в демона если он появляется, если демона нет то глефа бросается в вашу текущую цель с использованием Фокуса
+
+<pre>
+<code class="language-less">
+/focus [exists] target
+/targetenemy 169421
+/targetenemy 169425
+/targetenemy 168932
+/targetenemy 169426
+/targetenemy 169429
+/targetenemy 169428
+/targetenemy 169430
+/cast Бросок боевого клинка
+/cleartarget
+/target [@focus]
+/clearfocus
+</code>
+</pre>
+
+> Бросает глефу в демона если он появляется, если демона нет то глефа бросается в вашу текущую цель без использования Фокуса
+
+<pre>
+<code class="language-less">
+#showtooltip
+/targetenemy 169421
+/targetenemy 169425
+/targetenemy 168932
+/targetenemy 169426
+/targetenemy 169429
+/targetenemy 169428
+/targetenemy 169430
+/targetenemy 89
+/cast Бросок боевого клинка
+/targetlasttarget
+</code>
+</pre>
+
+## Универсальные макросы
 
 Полезные макросы, которые полезно иметь...
 
@@ -136,7 +160,7 @@ image:
 
 >Вы можете скачать приложение <a href="https://wowup.io/" target="_blank">WoWup</a>, чтобы всегда поддерживать ваши дополнения в актуальном состоянии.
 
-### Рекомендуется
+## Рекомендуется
 
 <li> <a href="https://www.tukui.org/download.php?ui=elvui" target="_blank">ElvUI</a> - Очень популярный аддон для полной настройки пользовательского интерфейса.</li>
 <li> <a href="https://www.curseforge.com/WoW/addons/bartender4" target="_blank">Bartender4</a> - Настраиваемые панели действий, которые можно перемещать и организовывать так, как вам нравится.</li>
@@ -155,7 +179,7 @@ image:
 </li>
 <li> <a href="https://www.curseforge.com/wow/addons/world-quests-list" target="_blank">World Quest List </a> - Показывает список активных локальных заданий, отфильтрованных по зонам на вашей карте.</li>
 
-### Информация в бою
+## Информация в бою
 
 <li> <a href="https://www.wowhead.com/bigwigs-boss-mods-addon-guide" target="_blank">BigWigs Bossmods</a> - Легкий аддон для рейдов с открытым исходным кодом.</li> 
 <li> <a href="https://www.wowhead.com/deadly-boss-mods-addon-guide" target="_blank">Deadly Boss Mods</a> - Более надежный аддон для подземелий, рейдов, PvP и многого другого.</li> 

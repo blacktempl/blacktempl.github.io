@@ -1,27 +1,20 @@
 ---
 layout: guide
 title: Ротация
-description: Гайд для Охотников на Демонов Месть 9.2 PvE Shadowlands
-last_update: 2022-06-20 09:00:00
-game_version: 9.2 Shadowlands 
+description: Гайд для Охотников на Демонов Месть 10.0 PvE Dragonflight
+last_update: 2022-11-24 09:00:00
+game_version: 10.0 PvE Dragonflight
 author: Rodriguezz
 image:
     path: assets/img/blog/prev/spec_logo_VDH.png
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/vengeance/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
+<a href="{{ site.url }}/guide/vengeance/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче</a>
 <a href="{{ site.url }}/guide/vengeance/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/vengeance/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/vengeance/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/vengeance/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/vengeance/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
 <a href="{{ site.url }}/guide/vengeance/Set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сетовый набор</a>
-<a href="{{ site.url }}/guide/vengeance/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/vengeance/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/vengeance/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/vengeance/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/vengeance/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
 <a href="{{ site.url }}/guide/vengeance/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Ротация</span></a>
 <a href="{{ site.url }}/guide/vengeance/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
 <a href="{{ site.url }}/guide/vengeance/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
@@ -73,8 +66,6 @@ image:
 * {{ site.data.talent.Spirit_Bomb }}: Способность наносит урон AoE в качестве ресурса использует {{ site.data.spell.Soul_Fragment }}.
 * {{ site.data.talent.Sigil_of_Chains }}: Притягивает врагов к центру печати через 2 секунды после ее размещения, прерывая большинство заклинаний и замедляя врагов. Очень сильная способность, особенно в эпохальных подземельях.
 * {{ site.data.talent.Felblade }}: Генератор гнева и дает дополнительную мобильность.
-* {{ site.data.talent.Soul_Barrier }}: Способность создает щит зависящий от количества поглощенных душ. В настоящее время в большинстве случаев это не самый лучший выбор, но его можно использовать в качестве дополнительной защиты.
-
 
 ## Активная защита
 
@@ -84,143 +75,49 @@ image:
 
 ## Ротация
 
-**Опенер**
+**Ротация СТ**
 
-1. Прекаст {{ site.data.spell.Sigil_of_Flame }}  
-1. {{ site.data.spell.Torment }} вместе с {{ site.data.spell.Fiery_Brand }}
-1. {{ site.data.spell.Infernal_Strike }} вместе с {{ site.data.spell.Immolation_Aura }}
-1. {{ site.data.covenant.Elysian_Decree }} / {{ site.data.covenant.The_Hunt }} / {{ site.data.covenant.Sinful_Brand }}
-1. {{ site.data.talent.Fracture }}  
-1. {{ site.data.spell.Soul_Cleave }} - если у вас есть души
-1. {{ site.data.spell.Fel_Devastation }} - если у вас есть Гнев
+1. [Бросок боевого клинка](https://www.wowhead.com/ru/spell=204157/) - если появился демон [Подпитка для пламени](https://www.wowhead.com/ru/spell=391429/) и **ТОЛЬКО КОГДА** нужен срочный бурст урон.
+1. [Инфернальный удар](https://www.wowhead.com/ru/spell=189110/) - если 2 заряда
+1. [Огненное клеймо](https://www.wowhead.com/ru/spell=204021/) - если 100 и больше гнева.
+1. [Взрывная душа](https://www.wowhead.com/ru/spell=247454/) - когда 5 душ
+1. [Раскалывание душ](https://www.wowhead.com/ru/spell=228477/) - чтоб потратить лишний гнев
+1. [Обжигающий жар](https://www.wowhead.com/ru/spell=258920/)
+1. Используйте [Охоту](https://www.wowhead.com/ru/spell=370965/) на 3 стаках [Хрупкости](https://www.wowhead.com/ru/spell=389958/)
+1. [Разрубатель душ](https://www.wowhead.com/ru/spell=207407/) - на 6 стаках [Хрупкости](https://www.wowhead.com/ru/spell=389958/)
+1. [Опустошение Скверной](https://www.wowhead.com/ru/spell=212084/) - если у вас 50 и больше гнева
+1. [Печать огня](https://www.wowhead.com/ru/spell=204596/) - когда гнева меньше 70
+1. [Разлом](https://www.wowhead.com/ru/spell=263642/) - если вы не получите овекап гнева и душ (<4 души и < 75 гнева без демон формы, 3 души и 55 гнева под [Метаморфозой](https://www.wowhead.com/ru/spell=187827/))
+1. [Бросок боевого клинка](https://www.wowhead.com/ru/spell=204157/) - филер во время кайта.
 
-**Ротация**
+**Ротация АоЕ**
 
-1. {{ site.data.spell.Infernal_Strike }} если у вас 2 заряда
-1. {{ site.data.spell.Fiery_Brand }} - по готовности
-1. {{ site.data.spell.Fel_Devastation }} - если у вас есть 50 Ярости
-1. {{ site.data.spell.Soul_Cleave }} - если у вас есть души
-1. {{ site.data.covenant.Elysian_Decree }} / {{ site.data.covenant.The_Hunt }} / {{ site.data.covenant.Sinful_Brand }} - по готовности
-1. {{ site.data.spell.Immolation_Aura }} - по готовности
-1. {{ site.data.talent.Fracture }} - если у вас нет капа душ и/или Гнева
-1. {{ site.data.spell.Sigil_of_Flame }} - по готовности
-1. {{ site.data.spell.Throw_GlaiveVDH }} - когда все способности восстанавливаются
+1. [Бросок боевого клинка](https://www.wowhead.com/ru/spell=204157/) - если появился демон [Подпитка для пламени](https://www.wowhead.com/ru/spell=391429/) и **ТОЛЬКО КОГДА** нужен срочный бурст урон.
+1. [Инфернальный удар](https://www.wowhead.com/ru/spell=189110/) - если 2 заряда
+1. [Огненное клеймо](https://www.wowhead.com/ru/spell=204021/) - если 100 и больше гнева.
+1. [Взрывная душа](https://www.wowhead.com/ru/spell=247454/) - когда 4+ душ, 3+ под [Метаморфозой](https://www.wowhead.com/ru/spell=187827/)
+1. [Раскалывание душ](https://www.wowhead.com/ru/spell=228477/) - чтоб потратить лишний гнев
+1. [Обжигающий жар](https://www.wowhead.com/ru/spell=258920/)
+1. Используйте [Охоту](https://www.wowhead.com/ru/spell=370965/) на 3 стаках [Хрупкости](https://www.wowhead.com/ru/spell=389958/)
+1. [Разрубатель душ](https://www.wowhead.com/ru/spell=207407/) - на 6 стаках [Хрупкости](https://www.wowhead.com/ru/spell=389958/)
+1. [Опустошение Скверной](https://www.wowhead.com/ru/spell=212084/) - если у вас 50 и больше гнева
+1. [Печать огня](https://www.wowhead.com/ru/spell=204596/) - когда гнева меньше 70
+1. [Разлом](https://www.wowhead.com/ru/spell=263642/) - если вы не получите овекап гнева и душ (<4 души и < 75 гнева без демон формы, 3 души и 55 гнева под [Метаморфозой](https://www.wowhead.com/ru/spell=187827/))
+1. [Бросок боевого клинка](https://www.wowhead.com/ru/spell=204157/) - филер во время кайта.
 
-
-### Взрывная душа и Разлом
-
-<div class="tabs">
-    <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-1">СТ</a>
-      <a class="tabs__link" href="#content-2">АоЕ</a>
-    </div>
-    <div class="tabs__content">
-      <div class="tabs__pane tabs__pane_show" id="content-1">
- <div class="tabs_in">
- 1. {{ site.data.spell.Infernal_Strike }} если у вас 2 заряда<br>
- 2. {{ site.data.spell.Fiery_Brand }} по кулдауну<br>
- 3. {{ site.data.talent.Spirit_Bomb }} если доступно 4+ душ<br>
- 4. {{ site.data.spell.Fel_Devastation }} если у вас 50+ гнева<br>
- 5. {{ site.data.talent.Fracture }} если у вас меньше 3 душ<br>
- 6. {{ site.data.spell.Immolation_Aura }} если нет капа душ<br>
- 7. {{ site.data.spell.Soul_Cleave }} чтоб потратить лишний гнев<br>
- 8. {{ site.data.spell.Sigil_of_Flame }} по кулдауну<br>
- 9. {{ site.data.spell.Throw_Glaive }} если вы кайтите или нужно заполнить простои в ротации<br>
- </div>
-      </div>
-      
-	  <div class="tabs__pane" id="content-2">
- <div class="tabs_in">
- 1. {{ site.data.spell.Infernal_Strike }} если у вас 2 заряда<br>
- 2. {{ site.data.spell.Fiery_Brand }} в самого опросного противника в начале боя<br>
- 3. {{ site.data.talent.Spirit_Bomb }} если доступно 4+ душ<br>
- 4. {{ site.data.spell.Fel_Devastation }} если у вас 50+ гнева<br>
- 5. {{ site.data.talent.Fracture }} если у вас меньше 3 душ<br>
- 6. {{ site.data.spell.Immolation_Aura }} если нет капа душ<br>
- 7. {{ site.data.spell.Soul_Cleave }} чтоб потратить лишний гнев<br>
- 8. {{ site.data.spell.Sigil_of_Flame }} по кулдауну<br>
- 9. {{ site.data.spell.Throw_Glaive }} если вы кайтите или нужно заполнить простои в ротации<br>
-      </div></div>
-	  
-    </div>
-  </div>
-
-  <script>
-    var $tabs = function (target) {
-      var
-        _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
-        _eventTabsShow,
-        _showTab = function (tabsLinkTarget) {
-          var tabsPaneTarget, tabsLinkActive, tabsPaneShow;
-          tabsPaneTarget = document.querySelector(tabsLinkTarget.getAttribute('href'));
-          tabsLinkActive = tabsLinkTarget.parentElement.querySelector('.tabs__link_active');
-          tabsPaneShow = tabsPaneTarget.parentElement.querySelector('.tabs__pane_show');
-          // если следующая вкладка равна активной, то завершаем работу
-          if (tabsLinkTarget === tabsLinkActive) {
-            return;
-          }
-          // удаляем классы у текущих активных элементов
-          if (tabsLinkActive !== null) {
-            tabsLinkActive.classList.remove('tabs__link_active');
-          }
-          if (tabsPaneShow !== null) {
-            tabsPaneShow.classList.remove('tabs__pane_show');
-          }
-          // добавляем классы к элементам (в завимости от выбранной вкладки)
-          tabsLinkTarget.classList.add('tabs__link_active');
-          tabsPaneTarget.classList.add('tabs__pane_show');
-          document.dispatchEvent(_eventTabsShow);
-        },
-        _switchTabTo = function (tabsLinkIndex) {
-          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
-          if (tabsLinks.length > 0) {
-            if (tabsLinkIndex > tabsLinks.length) {
-              tabsLinkIndex = tabsLinks.length;
-            } else if (tabsLinkIndex < 1) {
-              tabsLinkIndex = 1;
-            }
-            _showTab(tabsLinks[tabsLinkIndex - 1]);
-          }
-        };
-
-      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
-
-      _elemTabs.addEventListener('click', function (e) {
-        var tabsLinkTarget = e.target;
-        // завершаем выполнение функции, если кликнули не по ссылке
-        if (!tabsLinkTarget.classList.contains('tabs__link')) {
-          return;
-        }
-        // отменяем стандартное действие
-        e.preventDefault();
-        _showTab(tabsLinkTarget);
-      });
-
-      return {
-        showTab: function (target) {
-          _showTab(target);
-        },
-        switchTabTo: function (index) {
-          _switchTabTo(index);
-        }
-      }
-
-    };
-
-    var mytabs = $tabs('.tabs');
-    if (localStorage.getItem('mytabs')) {
-      mytabs.showTab(document.querySelector('[href="' + localStorage.getItem('mytabs') + '"]'));
-    }
-
-    document.addEventListener('tab.show', function (e) {
-      localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
-    })
-  </script>
-<br>
 ## Оптимизация защитных способностей
 
 Этот раздел предназначен для ситуаций, когда вам нужно получить максимальное исцеление. По мере того, как вы переходите к более сложному контенту, в котором вы чувствуете себя недостаточно живучим, вы вносите некоторые изменения в свой билд и стиль игры.
 
+* [Демонические шипы](https://www.wowhead.com/ru/spell=203720) - ваша активная защитная способность. Они уменьшают получаемый физический урон во время их действия, а также увеличивают шанс парирования. В идеале вы должны стремиться иметь держать минимум 30% времени постоянной работы этой способности в рейде, при условии, что у вас нет скорости и вы не берете никаких дополнительных талантов. На них влияет как искусность, так и ловкость, так как дают нам броню в зависимости от вашей ловкости, а искусность суммируется с базовым баффом от [Демонических шипов](https://www.wowhead.com/ru/spell=203720).
+
+Примечание: вы всегда должны использовать хотя бы один заряд этого умения, чтобы поддерживать время восстановления при активном танковании. Не используйте сразу два заряда, если только вы не активно танкуете или у вас не активна [Метаморфоза](https://www.wowhead.com/ru/spell=187827/). С талантом [Кормление демона](https://www.wowhead.com/ru/spell=218612/) время постоянной работы [Демонических шипов](https://www.wowhead.com/ru/spell=203720) может быть 90-100%.
+
+* [Метаморфоза](https://www.wowhead.com/ru/spell=187827/) - используйте в моменты когда у вас образуются дыры в защите, если вы контролируете входящий урон [Метаморфозу](https://www.wowhead.com/ru/spell=187827/) можно использовать на КД, главное не используйте ее в тот момент когда на вас уже действует эффект [Демонизма](https://www.wowhead.com/ru/spell=213410/)
+
+* [Опустошение Скверной](https://www.wowhead.com/ru/spell=212084/) - как правило используем по КД, старайтесь использовать когда на цели минимум 2 стака [Хрупкости](https://www.wowhead.com/ru/spell=389958/).
+
+* [Огненное клеймо](https://www.wowhead.com/ru/spell=204021/) - по КД, если вы находитесь в бою с сильным противником то используйте его в приоритете на нем, либо если вы знаете, что в скором времени цель нанесет вам большой урон то можете придержать на 10 сек. использование способности.
 
 ## Заметки по способностям
 

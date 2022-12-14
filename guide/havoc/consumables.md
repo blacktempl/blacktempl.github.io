@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: Расходники
-description: Гайд Расходники для Охотников на Демонов Истребление 9.2 PvE Shadowlands
-last_update: 2022-03-03 09:00:00
-game_version: 9.2 Shadowlands 
+description: Гайд Расходники для Охотников на Демонов Истребление 10.0 PvE Dragonflight
+last_update: 2022-10-15 09:00:00
+game_version: 10.0 Dragonflight 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -11,18 +11,11 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
 <a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
-<a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/havoc/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/havoc/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
 <a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
 <a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
 <a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
@@ -35,62 +28,75 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Лучшие зачарования на предметы для Охотника на Демонов Истребление
+## Лучшие зачарование на предметы для Охотника на Демонов Истребление
 
-* Кольца: 2х{{ site.data.prof.Enchant_Ring_Tenet_of_Versatility }}
-* Сапоги: {{ site.data.prof.Enchant_Boots_Eternal_Agility }}
-* Нагрудник: {{ site.data.prof.Enchant_Chest_Eternal_Stats }}
-* Плащ: {{ site.data.prof.Enchant_Cloak_Fortified_Leech }}
+* Кольца: [Посвящение критического удара](https://www.wowhead.com/ru/spell=389292) - повышает шанс критического удара
+* Сапоги: [Глина дозорного](https://www.wowhead.com/ru/spell=389484) - повышает выносливость
+* Нагрудник: [Пробужденные характеристики](https://www.wowhead.com/ru/spell=389410/) - повышает основную характеристику
+* Плащ: [Завет избежания](https://www.wowhead.com/ru/spell=389397/) - повышает избегание
+* Наручи: [Посвящение избегания](https://www.wowhead.com/ru/spell=389301) - повышает избегание
 
 **Оружие:**
-**Рейд СТ**
 
-* 1х {{ site.data.prof.Celestial_Guidance }}
-* 1х {{ site.data.prof.Sinful_Revelation }}
+СТ:
+2х [Посвящение титанов](https://www.wowhead.com/ru/spell=389550) - повышает основную характеристику
 
-**M+ АоЕ**
-
-*  2х {{ site.data.prof.Enchant_Weapon_Lightless_Force }}
+АоЕ:
+2х [Ледяное посвящение](https://www.wowhead.com/ru/spell=389551) - наносит урон магии льда.
 
 Для максимально точного подбора зачарований на кольца лучше воспользоваться рейдботсом.
 
-## Настой и Зелья
+## Настой, Зелья и Руны
 
-* Настой: {{ site.data.prof.Eternal_Flask }}
-* Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }} СТ
-* Зелья: [Зелье призрачной ловкости](https://ru.wowhead.com/item=171270/) АОЕ
-* Исцеление: [Зелье космического исцеления](https://ptr.wowhead.com/spell=359870)
+* Настой: 
+    * [Флакон ледового неистовства](https://www.wowhead.com/ru/item=191335) -  При нанесении урона вы можете вызвать взрыв, наносящий урон и распределяется между целью и ближайшими к ней противниками.
+    * [Флакон стихийного хаоса](https://www.wowhead.com/ru/item=191357) -  Вы переполняетесь изначальной силой, которая раз в 60 сек. дает случайное благословение стихий. Каждое благословение повышает второстепенную характеристику на 411 и дает дополнительный эффект.
+    * [Замерзший флакон оскверняющей ярости](https://www.wowhead.com/ru/item=191327) -  Вы получаете эффект "Оскверняющая ярость", повышающий вероятность критического удара на 948. Когда вы получаете урон в объеме 100% здоровья, эффект снимается и вас охватывает "Переполняющая ярость", наносящая урон от сил природы в объеме 25% вашего максимального запаса здоровья за 15 сек. После этого цикл начинается сначала.
+
+* Зелья: [Зелье великой мощи стихий](https://www.wowhead.com/ru/item=191383) - Повышает основную характеристику на 886 на 30 сек. 
+* Исцеление: [Освежающее лечебное зелье](https://www.wowhead.com/ru/item=191380/) - Восполняет здоровье.
+* Зелье невидимости [Зелье утихшего ветра](https://www.wowhead.com/ru/item=191395) - Дает невидимость на 18 сек.
+
+Руны
+* [Драконья руна усиления](https://www.wowhead.com/ru/item=201325) - Повышает ловкость, интеллект и силу на 87 на 1 час. Усиливающая руна.
 
 ## Лучшие Камни
 
-* {{ site.data.prof.Quick_Jewel_Cluster }} — +16 к скорости
-* {{ site.data.prof.Versatile_Jewel_Cluster }} — +16 к универсальности
+* [Покрытый письменами бесконечный алмаз](https://www.wowhead.com/ru/item=192982) - +75 к основной характеристике и +66 к вероятности критического удара.
+* [Коварный алекстразит](https://www.wowhead.com/ru/item=192919/) - +70 к вероятности критического удара и +33 к скорости.
+* [Коварный изерилл](https://www.wowhead.com/ru/item=192945/) - +70 к скорости и +33 к вероятности критического удара.
+* [Алекстразит сенсея](https://www.wowhead.com/ru/item=192922) - +70 к вероятности критического удара и +33 к искусности.
+
+Так же можно рассмотреть другие камни чтоб подогнать характеристики:
+* [Смертоносный алекстразит](https://www.wowhead.com/ru/item=192928/) - +88 к вероятности критического удара.
+* [Растрескавшийся нелтарит](https://www.wowhead.com/ru/item=192967) - +88 к искусности.
+* [Нелтарит сенсея](https://www.wowhead.com/ru/item=192958) - +70 к искусности и +33 к вероятности критического удара.
+
+Воспользуйтесь рейдботсом чтоб узнать какая характеристика вам дает максимальную прибавку урона
+
+Дырокол для шеи: [Аркан стихий](https://www.wowhead.com/ru/item=193001)
+*  [Сложная оправа для медальона](https://www.wowhead.com/ru/item=192994/) - **второго тира** и одна [Сложная оправа для медальона](https://www.wowhead.com/ru/item=192994/) **третьего тира**. Сначала используйте оправу **второго тира**, чтобы поднять количество гнезд с 1 до 2, и затем оправу **третьего тира**, чтобы поднять количество гнезд с 2 до 3.
 
 Воспользуйтесь рейдботсом чтоб узнать какая характеристика вам дает максимальную прибавку урона
 
 ## Лучшая Еда
 
-В рейдах всегда используйте пиры
-* {{ site.data.prof.Feast_of_Gluttonous_Hedonism }} —  повышает ловкость на 20.
+Пиры:
+* [Большой калуакский банкет](https://www.wowhead.com/ru/item=197794) —   повышает основную характеристика на 75 на 60 мин.
 
-Если пиры не доступны используйте еду которая повышает вторичные характеристики 
-* {{ site.data.prof.Tenebrous_Crown_Roast_Aspic }} — повышает скорость на 30.
-* {{ site.data.prof.Steak_a_la_Mode }} — повышает  универсальность на 30. 
+Персональная еда:
 
+* [Печенье с судьбоносным предсказанием](https://www.wowhead.com/ru/spell=381412) -  ловкость повышается на 76 на 60 мин.
+* [Филе с клыками](https://www.wowhead.com/ru/item=197779) - повышает вероятность критического удара на 105 на 60 мин.
+* [Запеченный в соли рыбный пирог](https://www.wowhead.com/ru/item=197781) - повышает искусность на 105 на 60 мин.
 
-## Масло и Заточки для оружия
+## Заточки для оружия
 
-**Рейд СТ**
-• На одно оружие используйте {{ site.data.prof.Shadowcore_Oil }}, а на второе {{ site.data.prof.Shaded_Sharpening_Stone }}.
-• На оба оружия используйте {{ site.data.prof.Shadowcore_Oil }}.
-> Первый вариант даст более стабильный урон, второй вариант зависит от проков но даст выше урон
+* [Жужжащая руна](https://www.wowhead.com/ru/item=194823/) - повышает вероятность критического удара на 330 на 120 мин.
 
-**М+ АоЕ**
-На оба оружия используйте {{ site.data.prof.Shaded_Sharpening_Stone}}
+## Накладки
 
-## Накладки 
-
-* {{ site.data.prof.Heavy_Desolate_Armor_Kit }} — Укрепляет нагрудник, повышая прибавку к выносливости на 32 на 2 часа.
+* [Лютые накладки для брони](https://www.wowhead.com/ru/item=193565) -  повышает выносливость на 105, а силу и ловкость – на 177.
 
 <hr>
 

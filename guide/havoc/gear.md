@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Бис Лист
-description: Лучшая экиперовка для Охотников на Демонов Истребление 9.2.7 PvE Shadowlands
-last_update: 2022-08-02 09:00:00
-game_version: 9.2.7 Shadowlands 
+description: Лучшая экиперовка для Охотников на Демонов Истребление 10.0 PvE Dragonflight
+last_update: 2022-10-15 09:00:00
+game_version: 10.0 Dragonflight 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -11,18 +11,11 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"><span style="color: white;"> Бис лист</span></a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
 <a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
-<a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/havoc/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/havoc/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
 <a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
 <a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
 <a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
@@ -32,38 +25,6 @@ image:
 <a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
-
-
-## Лучшее снаряжение которое можно купить за динары
-
-В течение 4-го сезона вы сможете получить в общей сложности три [Странных динара картеля](https://ru.wowhead.com/item=192466/). Этот предмет можно обменять на рейдовый предмет у торговцев возле Великого Хранилища в Орибосе. Эти продавцы продают оружие, аксессуары и специальные предметы из всех трех рейдов Shadowlands, что позволяет вам легко приобретать ключевые предметы.
-
-Поскольку динары позволяют вам выбрать конкретный предмет из добычи рейдов 4 сезона, мы будете покупать самые мощные предметы, которые труднее всего получить.
-
-1. [Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)
-1. [Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388) - Нам нужно два вспарывателя, Наивысший приоритет 
-1. [Тайник с присвоенными сокровищами](https://ru.wowhead.com/item=188265/)
-1. [Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432/)
-
-Перечисленные здесь предметы представляют собой смесь самых мощных слотов и предметов, которые будут наиболее востребованными или труднодоступными. Охотникам на Демонов Истребления приоритетом должен быть [Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388), из-за его ограниченного выпадания только несколькими классами с низким шансом, после чего вы должны обратить свое внимание на аксессуары, которые сложно будет получить. В частности,[Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432/) будет востребован многими ДПС специализациями, и его будет трудно получить.
-
-## Приоритет улучшения предметов в 4 сезоне
-
-4-й сезон Shadowlands меняет то, как устроены рейды в WoW. Впервые все три рейда Shadowlands, Замок Нафрия, Святилище Господства и Гробница Предвечных, будут доступны как рейд с наивысшей сложностью в игре.
-
-аждую неделю один из рейдов будет предопределенным (Fated) и иметь повышенный уровень предметов. У таких рейдов фиксированная ротация – каждую неделю доступен один предопределенный рейд.
-
-За динары можно купить любой эпический предмет из любого рейда Shadowlands. Они даются в награду за квест на убийство боссов - на первый динар нужно убить 30 боссов, на второй 20, а на третий - 10. Каждого босса нужно убить всего один раз на любой сложности, повторные убийства на одной неделе не засчитываются. Всего за сезон можно получить три динара.
-
-1. [Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)
-1. [Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388) - Левая рука
-1. [Тайник с присвоенными сокровищами](https://ru.wowhead.com/item=188265/)
-1. [Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432/)
-1. [Зловещая маска садиста](https://ru.wowhead.com/item=182980) - превращаем в тир кусок
-1. [Наплечники изменчивого карателя](https://ru.wowhead.com/item=188896)
-1. [Жакет изменчивого карателя](https://ru.wowhead.com/item=188894)
-1. [Брюки элитного аранакка](https://ru.wowhead.com/item=186331)
-1. [Перевязь Ветрокрылой](https://ru.wowhead.com/item=186332/)
 
 ## Рекомендуемое снаряжение
 
@@ -78,43 +39,41 @@ image:
 <div class="table-box" markdown="1">
 
 |Слот|Название|Добывается|
-|Голова|[Капюшон изменчивого карателя](https://ru.wowhead.com/item=188892/) крафт из [Зловещая маска садиста](https://ru.wowhead.com/item=182980/)|[Сир Денатрий](https://ru.wowhead.com/npc=168938/)|
-|Шея|[Межпланарный краеугольный камень](https://ru.wowhead.com/item=186379/)|[Кел'Тузад](https://ru.wowhead.com/npc=175559/)|
-|Плечо|[Наплечники изменчивого карателя](https://ru.wowhead.com/item=188896/)|[Властители Ужаса](https://ru.wowhead.com/npc=181398/)|
-|Плащ|[Гордый плащ каменного генерала](https://ru.wowhead.com/item=183032/)|[Генералы Каменного легиона](https://ru.wowhead.com/npc=165318)|
-|Грудь|[Жакет изменчивого карателя](https://ru.wowhead.com/item=188894/)|[Ригелон](https://ru.wowhead.com/npc=182777/)|
-|Запястье|[Затертые песком наручи пожирателя](https://ru.wowhead.com/item=189812/)|[Сколекс](https://ru.wowhead.com/npc=183937/)|
-|Руки|[Захваты похищенной судьбы](https://ru.wowhead.com/item=189843/)|[Властители Ужаса](https://ru.wowhead.com/npc=181398)|
-|Пояс|[Перевязь Ветрокрылой](https://ru.wowhead.com/item=186332/)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=175732/)|
-|Ноги|[Штаны изменчивого карателя](https://ru.wowhead.com/item=188893/) крафт из [Брюки элитного аранакка](https://ru.wowhead.com/item=186331/)|[Кел'Тузад](https://ru.wowhead.com/npc=175559/)|
-|Сапоги|[Сапоги изменчивого карателя](https://ru.wowhead.com/item=188899/) крафт из [Ботфорты неуемного любопытства](https://ru.wowhead.com/item=189848/)|[Ригелон](https://ru.wowhead.com/npc=182777)|
-|Кольцо 1|[Бинарное кольцо разгона](https://ru.wowhead.com/item=169159/)|[Главный машинист Искроточец](https://ru.wowhead.com/npc=144248/)|
-|Кольцо 2|[Кольцо логического цикла разделения](https://ru.wowhead.com/item=169157/)|[Воздушный подавитель ОУ-8](https://ru.wowhead.com/npc=155157/)|
-|Аксессуар 1|[Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432/)|[Стражница Предвечных](https://ru.wowhead.com/npc=175731/)|
-|Аксессуар 2|[Тайник с присвоенными сокровищами](https://ru.wowhead.com/item=188265/)|[Изобретатель Зи'мокс](https://ru.wowhead.com/npc=183501/)|
-|Основная рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)|[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523/)|
-|Левая рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)|[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523/)|
+|Голова|[Шлем небесного мстителя](https://www.wowhead.com/ru/item=200345)|[]()|
+|Шея|[Аркан стихий](https://www.wowhead.com/ru/item=193001)|Ювелирное дело|
+|Плечо|[Элероны небесного мстителя](https://www.wowhead.com/ru/item=200347/)|[]()|
+|Плащ|[Плащ угасшей верности](https://www.wowhead.com/ru/item=193629)|[Azureblade](https://www.wowhead.com/ru/npc=186739)|
+|Грудь|[Портупея небесного мстителя](https://www.wowhead.com/ru/item=200342)|[]()|
+|Запястье|[Наручи преданного мастера огня](https://www.wowhead.com/ru/item=195525)|[Broodkeeper Diurna](https://www.wowhead.com/ru/npc=190245)|
+|Руки|[Обмотки коварного тотема](https://www.wowhead.com/ru/item=195514)|[Kurog Grimtotem](https://www.wowhead.com/ru/npc=184986/)|
+|Пояс|[Зачарованный жизнью пояс](https://www.wowhead.com/ru/item=193407/?bonus=8836:8840:8902:8801:8932:8960:8790&class=12&crafted-stats=49:32&ilvl=418&spec=577)|Кожевничество|
+|Ноги|[Набедренники небесного мстителя](https://www.wowhead.com/ru/item=200346)|[]()|
+|Сапоги|[Мокасины из медвежьей кожи](https://www.wowhead.com/ru/item=134193/?bonus=1826:1472&class=12&ilvl=415&spec=577)|[Король-бог Сковальд](https://www.wowhead.com/ru/npc=95675)|
+|Кольцо 1|[Печать сыновнего долга](https://www.wowhead.com/ru/item=195526/)|[Broodkeeper Diurna](https://www.wowhead.com/ru/npc=190245/)|
+|Кольцо 2|[Украшенная самоцветами печатка Меландра](https://www.wowhead.com/ru/item=134542/?bonus=6652:7936:7979:1472:8767&ilvl=415&spec=577)|[Советник Меландр](https://www.wowhead.com/ru/npc=101831)|
+|Аксессуар 1|[Одержимый светоч горя](https://www.wowhead.com/ru/item=194308)|[Broodkeeper Diurna](https://ru.wowhead.com/npc=190245/)|
+|Аксессуар 2|[Знак воплощения шепота](https://www.wowhead.com/ru/item=194301)|[Kadros Icewrath](https://www.wowhead.com/ru/npc=187771)|
+|Основная рука|[Кулак великого призывателя](https://www.wowhead.com/ru/item=195512)|[Kurog Grimtotem](https://www.wowhead.com/ru/npc=184986)|
+|Левая рука|[Насыщенные глефы бури](https://www.wowhead.com/ru/item=195491)|[Dathea, Ascended](https://www.wowhead.com/ru/npc=189813)|
 
 </div>
 <br>
 
-## Сетовые бонусыы
+**На данный момент рэйдботс очень странно "себя ведет" с предметами получаемыми из профессий, по этому данный бис лист скорее всего изменится, т.к. ботинки, наручи и пояс сложно правильно оценить.**
 
-* 2 предмета: [Смертельный танец](https://ru.wowhead.com/spell=364438) - Увеличивает урон [Смертоносного взмаха](https://ru.wowhead.com/spell=210152) / [Танца клинков](https://ru.wowhead.com/spell=188499) и [Аннигиляции](https://ru.wowhead.com/spell=201427) / [Удара Хаоса](https://ru.wowhead.com/spell=162794) на 20%.
-* 4 предмета: [Смертельный танец](https://ru.wowhead.com/spell=363736) - Время действия [Метаморфозы](https://ru.wowhead.com/spell=191427) увеличено на 6 сек. Каждые 60 ед. израсходованного Гнева сокращают время восстановления [Метаморфозы](https://ru.wowhead.com/spell=191427) на 1 сек.
+## Сетовые бонусы
+
+* 2 предмета: шанс критического удара [Удар Хаоса](https://ru.wowhead.com/spell=162794/)/[Аннигиляция](https://ru.wowhead.com/spell=201427) и [Танец клинков](https://ru.wowhead.com/spell=188499)/[Смертоносный взмах](https://www.wowhead.com/spell=210152) увеличен на 5%, а их критический урон увеличен на 10%.
+* 4 предмета: [Удар Хаоса](https://ru.wowhead.com/spell=162794/)/[Аннигиляция](https://ru.wowhead.com/spell=201427) и [Танец клинков](https://ru.wowhead.com/spell=188499)/[Смертоносный взмах](https://www.wowhead.com/spell=210152) с вероятностью 20% увеличивают наносимый вами урон на 8% на 6 секунд. Ваши критические удары увеличивают этот шанс.
 
 
 Сетовый набор состоит из пяти предметов снаряжения:
 
-* <span class="q4">[Капюшон изменчивого карателя](https://ru.wowhead.com/item=188892/)</span> (**Голова** [**Андуин Ринн**](https://ru.wowhead.com/npc=181954/))
-* <span class="q4">[Наплечники изменчивого карателя](https://ru.wowhead.com/item=188896/)</span> (**Плечи** [**Мал'Ганис**](https://ru.wowhead.com/npc=181398/))
-* <span class="q4">[Жакет изменчивого карателя ](https://ru.wowhead.com/item=188894/)</span> (**Грудь** [**Ригелон**](https://ru.wowhead.com/npc=182777/))
-* <span class="q4">[Захваты изменчивого карателя](https://ru.wowhead.com/item=188898/)</span> (**Перчатки** [**Лихувим**](https://ru.wowhead.com/npc=182169/))
-* <span class="q4">[Штаны изменчивого карателя](https://ru.wowhead.com/item=188893/)</span> (**Ноги** [**Галондрий**](https://ru.wowhead.com/npc=184915/))
-
-Чтобы разблокировать бонусы сета, Охотнику на Демонов Истребления рекомендуется экипировать голову, плечи, грудь и ноги. Однако вы можете использовать любые 4 комбинации из пяти предметов, стремясь достичь наивысшего уровня предметов.
-
-Не самый креативный бонус из тех, которые мы когда-либо видели у Охотника на Демонов Истребления, новый сет [Облачение боли изменчивого карателя](https://ru.wowhead.com/item-set=1501/) не так уж и плох. Сет увеличивает наш урон примерно на 5% в одну цель. Бонус от 4 предметов — если он позволит сократить время восстановления [Метаморфозы](https://ru.wowhead.com/spell=162264/) настолько, что вы сможете эффективно ее использовать на протяжении всего времени действия, бонус будет довольно мощным в СТ бою, однако во многих случаях он будет просто потрачен впустую из-за короткого времени боя с боссом.
+* <span class="q4">[Шлем небесного мстителя](https://www.wowhead.com/ru/item=200345)</span> (**Голова** [**Colossal Stormfiend**](https://www.wowhead.com/ru/npc=197145/))
+* <span class="q4">[Элероны небесного мстителя](https://www.wowhead.com/ru/item=200347)</span> (**Плечи** [**Broodkeeper Diurna**](https://www.wowhead.com/ru/npc=190245))
+* <span class="q4">[Портупея небесного мстителя](https://www.wowhead.com/ru/item=200342)</span> (**Грудь** [**Kurog Grimtotem**](https://www.wowhead.com/ru/npc=184986/))
+* <span class="q4">[Захваты небесного мстителя](https://www.wowhead.com/ru/item=200344)</span> (**Перчатки** [**Dathea, Ascended**](https://www.wowhead.com/ru/npc=189813))
+* <span class="q4">[Набедренники небесного мстителя](https://www.wowhead.com/ru/item=200346/)</span> (**Ноги** [**Caustic Spiderling**](https://www.wowhead.com/ru/npc=189233/))
 
 Для получения дополнительной информации о сет бонусах для Охотников на Демонов Истребления можете  перейти по ссылке ниже: 
 
@@ -125,12 +84,43 @@ image:
 
 <p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
 
-
 ## Аксессуар
 
-* [Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432) - наносит много урона и имеет небольшое КД.
-* [Тайник с присвоенными сокровищами](https://ru.wowhead.com/item=188265/) - если на боссе нет мест где нужно придерживать использование трыни то она будет отличным выбором вместо тотема, очень сильная для м+.
+* [Одержимый светоч горя](https://www.wowhead.com/ru/item=194308) - наносит много урона и имеет небольшое КД.
+* [Знак воплощения шепота](https://www.wowhead.com/ru/item=194301)
+* [Благословение Пожирательницы Бурь](https://www.wowhead.com/ru/item=194302/)
+* [Алгет'арская шкатулка с секретом](https://www.wowhead.com/ru/item=193701)
+* [Голод стаи](https://www.wowhead.com/ru/item=136975)
+* [Рог доблести](https://www.wowhead.com/ru/item=133642)
 
+## Уровни предметов эпохальных+ подземелий и рейда в 1 сезоне Dragonflight
+
+|Уровень предмета|Уровень ключа в конце подземелья|Уровень ключа Великого хранилища|Ранг Доблести(требуемый рейтинг)|Режим рейда (боссы)|
+|376|2-3|–|1 (0)|СПР (начальные)|
+|379|4-5|–|2 (0)|–|
+|382|6|2|3 (0)|СПР (средние)|
+|385|7-8|3-4|4 (0)|СПР (последние)|
+|389|9|5-6|5 (0)|Обычный (начальные)|
+|392|10-13|7|6 (0)|–|
+|395|14|8-9|7 (600)|	Обычный (средние)|
+|398|15-16|10|	8 (1000)|Обычный (последние)|
+|402|17-18|11|9 (1000)|	Героический (начальные)|
+|405|19-20|12|10 (1400)|–|
+|408|–|13-14|11 (1700)|Героический (средние)|
+|411|–|15|12 (2000)|Героический (последние)|
+|415|–|16-17|13 (2400)|	Эпохальный (начальные)|
+|418|–|18-19|–|–|
+|421|–|20|–|Эпохальный (средние)|
+|424|–|–|–|Эпохальный (последние)|
+
+А вот несколько важных деталей, которые из этой таблицы можно вынести:
+* Посещение эпохальных+ подземелий 15+ уровня теперь награждает:
+* В Великом хранилище – добычей уровня последних боссов героического режима рейда (в Shadowlands это была эпохальная добыча рейдов)
+* В ларе в конце забега – добычей уровня последних боссов обычного режима рейда (в Shadowlands это была добыча чуть ниже героических рейдов)
+* Поскольку теперь качество добычи эпохальных+ подземелий растет до 20 уровня, то посещение таких подземелий наградит:
+* В Великом хранилище – добычей уровня средних боссов эпохального режима рейда
+* В ларе в конце забега – добычей уровня чуть ниже средних боссов героического режима рейда
+* Улучшение предметов за очки Доблести получило дополнительный 13 ранг, что находится на уровне начальных боссов эпохального режима рейда (в Shadowlands максимальным рангом был 12, что находился на уровне боссов героического режима рейдов)
 
 ### Patchwerk
 <div id="bloodmallet_patchwerk" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-language="ru" data-entries="10">Loading...</div>
@@ -139,7 +129,7 @@ image:
 <div id="bloodmallet_hecticaddcleave" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-fight-style="hecticaddcleave" data-font-color="#eee" data-background-color="#222" data-language="ru">Loading...</div>
 
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html">Назад:<br>Лучший ковенант</a></div> 
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/overview.html">Назад:<br>Обзор</a></div> 
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Далее:<br>Таланты и Билды</a></div>
 
 <br>
