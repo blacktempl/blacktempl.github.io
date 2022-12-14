@@ -41,7 +41,7 @@ image:
 1. Полностью переделанное дерево талантов, которое добавляет гибкости для билдов и геймплея. 
 > подробнее <a href="{{ site.url }}/guide/havoc/talent-builds.html"><b>Таланты и Билды</b></a>
 1. Добавлено классовое дерево талантов
-1. [Разрыв сущности](https://www.wowhead.com/ru/spell=258860/) теперь имеет КД в 40 сек, наносит много урона (вплоть до 8 целей) и увеличивает урон от Удара Хаоса](https://wowhead.com/ru/spell=162794/)/[Аннигиляции](https://wowhead.com/ru/spell=201427) и [Танеца клинков](https://wowhead.com/ru/spell=188499)/[Смертоносного взмаха](https://www.wowhead.com/ru/spell=210152) на 80% на 4 сек.
+1. [Разрыв сущности](https://www.wowhead.com/ru/spell=258860/) теперь имеет КД в 40 сек, наносит много урона (вплоть до 8 целей) и увеличивает урон от [Удара Хаоса](https://wowhead.com/ru/spell=162794/)/[Аннигиляции](https://wowhead.com/ru/spell=201427) и [Танеца клинков](https://wowhead.com/ru/spell=188499)/[Смертоносного взмаха](https://www.wowhead.com/ru/spell=210152) на 80% на 4 сек.
 1. [Яростный взор](https://www.wowhead.com/ru/spell=273231): Теперь дает 10% скорости на 10 сек. 
 1. [Цикл ненависти](https://www.wowhead.com/ru/spell=258887) теперь гарантированно уменьшает КД [Пронзающего взгляда](https://wowhead.com/ru/spell=198013) от [Удара Хаоса](https://wowhead.com/ru/spell=162794/)/[Аннигиляции](https://wowhead.com/ru/spell=201427) и [Танеца клинков](https://wowhead.com/ru/spell=188499)/[Смертоносного взмаха](https://www.wowhead.com/ru/spell=210152).
 1. Добавлены таланты, которые напрямую дают нам скейлинг от критического удара [Врага нужно знать в лицо](https://www.wowhead.com/ru/spell=388118) и искусности [Любыми средствами](https://www.wowhead.com/ru/spell=388114).
