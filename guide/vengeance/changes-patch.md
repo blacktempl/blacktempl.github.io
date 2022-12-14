@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Изменения в патче 9.2
+title: Изменения в патче 10.0
 description: Обзор изменений Охотников на Демонов Месть 10.0 PvE Dragonflight
 last_update: 2022-10-30 09:00:00
 game_version: 10.0 Dragonflight
