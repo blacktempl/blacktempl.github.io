@@ -39,22 +39,22 @@ image:
 <div class="table-box" markdown="1">
 
 |Слот|Название|Добывается|
-|Голова|[Шлем небесного мстителя](https://www.wowhead.com/ru/item=200345)|[]()|
+|Голова|[Шлем небесного мстителя](https://www.wowhead.com/ru/item=200345)|[Рашагет](https://www.wowhead.com/ru/npc=199031)|
 |Шея|[Аркан стихий](https://www.wowhead.com/ru/item=193001)|Ювелирное дело|
-|Плечо|[Элероны небесного мстителя](https://www.wowhead.com/ru/item=200347/)|[]()|
-|Плащ|[Плащ угасшей верности](https://www.wowhead.com/ru/item=193629)|[Azureblade](https://www.wowhead.com/ru/npc=186739)|
-|Грудь|[Портупея небесного мстителя](https://www.wowhead.com/ru/item=200342)|[]()|
-|Запястье|[Наручи преданного мастера огня](https://www.wowhead.com/ru/item=195525)|[Broodkeeper Diurna](https://www.wowhead.com/ru/npc=190245)|
-|Руки|[Обмотки коварного тотема](https://www.wowhead.com/ru/item=195514)|[Kurog Grimtotem](https://www.wowhead.com/ru/npc=184986/)|
+|Плечо|[Элероны небесного мстителя](https://www.wowhead.com/ru/item=200347/)|[Хранительница стаи Денна](https://www.wowhead.com/ru/npc=190245)|
+|Плащ|[Накидка Сумеречной стражи](https://www.wowhead.com/ru/item=137483/?bonus=9130:7977:42:8822:8819:9144:3300:8767&class=12&ilvl=421&spec=577)|[Квартал Звезд](https://www.wowhead.com/ru/zone=8079/)|
+|Грудь|[Портупея небесного мстителя](https://www.wowhead.com/ru/item=200342)|[Курог Зловещий Тотем](https://www.wowhead.com/ru/npc=181378)|
+|Запястье|[Наручи преданного мастера огня](https://www.wowhead.com/ru/item=195525/?bonus=6652:8783:8784:7936:7937:4800:4786:1498&class=12&ilvl=424&spec=577)|[Хранительница стаи Денна](https://www.wowhead.com/ru/npc=190245)|
+|Руки|[Захваты жестоких пороков](https://www.wowhead.com/ru/item=133617/?bonus=6652:8811:8812:6808:4786:3300&class=12&crafted-stats=32:36&ilvl=421&spec=577)|[Чертоги Доблести](https://www.wowhead.com/ru/zone=7672)|
 |Пояс|[Зачарованный жизнью пояс](https://www.wowhead.com/ru/item=193407/?bonus=8836:8840:8902:8801:8932:8960:8790&class=12&crafted-stats=49:32&ilvl=418&spec=577)|Кожевничество|
-|Ноги|[Набедренники небесного мстителя](https://www.wowhead.com/ru/item=200346)|[]()|
-|Сапоги|[Мокасины из медвежьей кожи](https://www.wowhead.com/ru/item=134193/?bonus=1826:1472&class=12&ilvl=415&spec=577)|[Король-бог Сковальд](https://www.wowhead.com/ru/npc=95675)|
-|Кольцо 1|[Печать сыновнего долга](https://www.wowhead.com/ru/item=195526/)|[Broodkeeper Diurna](https://www.wowhead.com/ru/npc=190245/)|
-|Кольцо 2|[Украшенная самоцветами печатка Меландра](https://www.wowhead.com/ru/item=134542/?bonus=6652:7936:7979:1472:8767&ilvl=415&spec=577)|[Советник Меландр](https://www.wowhead.com/ru/npc=101831)|
-|Аксессуар 1|[Одержимый светоч горя](https://www.wowhead.com/ru/item=194308)|[Broodkeeper Diurna](https://ru.wowhead.com/npc=190245/)|
-|Аксессуар 2|[Знак воплощения шепота](https://www.wowhead.com/ru/item=194301)|[Kadros Icewrath](https://www.wowhead.com/ru/npc=187771)|
-|Основная рука|[Кулак великого призывателя](https://www.wowhead.com/ru/item=195512)|[Kurog Grimtotem](https://www.wowhead.com/ru/npc=184986)|
-|Левая рука|[Насыщенные глефы бури](https://www.wowhead.com/ru/item=195491)|[Dathea, Ascended](https://www.wowhead.com/ru/npc=189813)|
+|Ноги|[Набедренники небесного мстителя](https://www.wowhead.com/ru/item=200346)|[Рашагет](https://www.wowhead.com/ru/npc=199031)|
+|Сапоги|[Сапоги стремительной балестры](https://www.wowhead.com/ru/item=137497/?bonus=6652:8811:8812:6808:4786:3300&class=12&crafted-stats=32:36&ilvl=421&spec=577)|[Квартал Звезд](https://www.wowhead.com/ru/zone=8079)|
+|Кольцо 1|[Печать сыновнего долга](https://www.wowhead.com/ru/item=195526/)|[Эраног](https://www.wowhead.com/ru/npc=184972/)|
+|Кольцо 2|[Украшенная самоцветами печатка Меландра](https://www.wowhead.com/ru/item=134542/?bonus=6652:7936:7979:1472:8767&ilvl=415&spec=577)|[Квартал Звезд](https://www.wowhead.com/ru/zone=8079)|
+|Аксессуар 1|[Одержимый светоч горя](https://www.wowhead.com/ru/item=194308)|[Хранительница стаи Денна](https://ru.wowhead.com/npc=190245/)|
+|Аксессуар 2|[Знак воплощения шепота](https://www.wowhead.com/ru/item=194301)|[Воин из совета стихий](https://www.wowhead.com/ru/npc=187771)|
+|Основная рука|[Шторморез](https://www.wowhead.com/ru/item=193688/)|[Наступление клана Нокхуд](https://www.wowhead.com/ru/zone=13982/)|
+|Левая рука|[Шторморез](https://www.wowhead.com/ru/item=193688/)|[Наступление клана Нокхуд](https://www.wowhead.com/ru/zone=13982/)|
 
 </div>
 <br>

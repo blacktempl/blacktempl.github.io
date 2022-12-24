@@ -39,22 +39,22 @@ image:
 <div class="table-box" markdown="1">
 
 |Слот|Название|Добывается|
-|Голова|[Шлем небесного мстителя](https://www.wowhead.com/ru/item=200345)|[Colossal Stormfiend](https://www.wowhead.com/ru/npc=197145/)|
+|Голова|[Корона ревущих бурь](https://www.wowhead.com/ru/item=193751)|[Рубиновые Омуты Жизни](https://www.wowhead.com/ru/zone=14063)|
 |Шея|[Аркан стихий](https://www.wowhead.com/ru/item=193001)|Крафт|
-|Плечо|[Элероны небесного мстителя](https://www.wowhead.com/ru/item=200347)|[Broodkeeper Diurna](https://ru.wowhead.com/npc=190245)|
-|Плащ|[]()|[]()|
-|Грудь|[Портупея небесного мстителя](https://www.wowhead.com/ru/item=200342)|[Kurog Grimtotem](https://ru.wowhead.com/npc=184986)|
-|Запястье|[]()|[]()|
-|Руки|[Захваты небесного мстителя](https://www.wowhead.com/ru/item=200344)|[Dathea, Ascended](https://ru.wowhead.com/npc=189813)|
-|Пояс|[]()|[]()|
-|Ноги|[Набедренники небесного мстителя](https://www.wowhead.com/ru/item=200346/)|[Caustic Spiderling](https://ru.wowhead.com/npc=189233)|
-|Сапоги|[]()|[]()|
-|Кольцо 1|[]()|[]()|
-|Кольцо 2|[]()|[]()|
-|Аксессуар 1|[Прочная чешуйка Гранита](https://www.wowhead.com/ru/item=193689/)|[]()|
-|Аксессуар 2|[Украшение пламени](https://www.wowhead.com/ru/item=194299/)|[]()|
-|Основная рука|[Шторморез](https://www.wowhead.com/ru/item=193688)|[Balakar Khan](https://www.wowhead.com/ru/npc=186151)|
-|Левая рука|[Шторморез](https://www.wowhead.com/ru/item=193688)|[Balakar Khan](https://www.wowhead.com/ru/npc=186151)|
+|Плечо|[Элероны небесного мстителя](https://www.wowhead.com/ru/item=200347)|[Кадрос Ледяной Гнев](https://www.wowhead.com/ru/npc=187771)|
+|Плащ|[Угольный плащ орденоносного командира](https://www.wowhead.com/ru/item=195482/)|[Эраног ](https://www.wowhead.com/ru/npc=184972/)|
+|Грудь|[Портупея небесного мстителя](https://www.wowhead.com/ru/item=200342)|[Курог Зловещий Тотем](https://ru.wowhead.com/npc=184986)|
+|Запястье|[Украшенные наручи стража](https://www.wowhead.com/ru/item=133621)|[Чертоги Доблести](https://www.wowhead.com/ru/zone=7672/)|
+|Руки|[Захваты небесного мстителя](https://www.wowhead.com/ru/item=200344)|[Дафия Перерожденная](https://ru.wowhead.com/npc=189813)|
+|Пояс|[Боевой пояс из сросшегося сланца](https://www.wowhead.com/ru/item=195501)|[Террос](https://www.wowhead.com/ru/npc=190496)|
+|Ноги|[Набедренники небесного мстителя](https://www.wowhead.com/ru/item=200346/)|[Сеннарт](https://www.wowhead.com/ru/npc=187967)|
+|Сапоги|[Сапоги ледоступа](https://www.wowhead.com/ru/item=195509)|[Сеннарт](https://www.wowhead.com/ru/npc=187967)|
+|Кольцо 1|[Печать избранного Денны](https://www.wowhead.com/ru/item=195480/)|[Эраног](https://www.wowhead.com/ru/npc=184972/)|
+|Кольцо 2|[Печать сыновнего долга](https://www.wowhead.com/ru/item=195526/)|[Хранительница стаи Денна](https://www.wowhead.com/ru/npc=190245/)|
+|Аксессуар 1|[Прочная чешуйка Гранита](https://www.wowhead.com/ru/item=193689/)|[Наступление клана Нокхуд](https://www.wowhead.com/ru/zone=13982/)|
+|Аксессуар 2|[Украшение пламени](https://www.wowhead.com/ru/item=194299/)|[Эраног](https://www.wowhead.com/ru/npc=184972)|
+|Основная рука|[Шторморез](https://www.wowhead.com/ru/item=193688/)|[Наступление клана Нокхуд](https://www.wowhead.com/ru/zone=13982/)|
+|Левая рука|[Шторморез](https://www.wowhead.com/ru/item=193688/)|[Наступление клана Нокхуд](https://www.wowhead.com/ru/zone=13982/)|
 
 </div>
 

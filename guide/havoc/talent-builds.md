@@ -111,6 +111,8 @@ BEkAAAAAAAAAAAAAAAAAAAAAAgkkkkIlg0SSEJUaRAAAAAAAUSSQkCJRJIJplEIBSA
 
 Так же вы можете поменять способ использования [Печать страдания](https://www.wowhead.com/ru/spell=207684) - с талантом [Средоточие печатей](https://www.wowhead.com/ru/spell=207666) печать будет применяться под вашим персонажем, а [Точными печатями](https://www.wowhead.com/ru/spell=389799) печать будет применяться под целью которая находится в вашем таргете. Так же вы можете обойти эти таланты через [Затерянные во тьме](https://www.wowhead.com/ru/spell=389849/) если хотите свободно применять [Печать страдания](https://www.wowhead.com/ru/spell=207684).
 
+Для дополнительно генерации гнева можно взять талант [Печать огня](https://www.wowhead.com/ru/spell=204596/) вместо [Освобожденная сила](https://www.wowhead.com/ru/spell=206477).
+
 Билд с высоким АоЕ уроном и сильным бурстом, благодаря коротким КД у нас есть возможность наносить много урона в каждом запуле.
 
 <div style="text-align: -webkit-center; text-align: -moz-center;"><a class="c12 cta-button" href="{{ site.url }}/guide/havoc/rotation-priority.html#%D0%B0%D0%BE%D0%B5-%D1%80%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F" data-border="strong" data-markup-content-target="1" data-icon="true">
